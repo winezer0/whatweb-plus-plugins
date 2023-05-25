@@ -2,6 +2,8 @@
 
 whatweb-plus-plus 是whatweb plus 的插件存储库 
 
+**由于插件数量过多或代码错误, 目前无法快速正常运行,尽情拥抱其他开源指纹识别工具吧.**
+
 主体程序:
 https://github.com/winezer0/whatweb-plus
 
