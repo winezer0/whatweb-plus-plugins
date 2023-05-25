@@ -1,5 +1,5 @@
 Plugin.define do
-name "OSClass"
+name "occlass"
 authors ["winezer0"]
 version "0.1"
 description "osclass是一个开源项目，允许您在没有任何技术知识的情况下轻松创建分类网站。"

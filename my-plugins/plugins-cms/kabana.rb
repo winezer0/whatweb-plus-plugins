@@ -1,5 +1,5 @@
 Plugin.define do
-name "Kibana"
+name "kabana"
 authors ["winezer0"]
 version "0.1"
 description "Kibana is an open source data visualization platform that allows you to interact with your data - Homepage: https://www.elastic.co/products/kibana"

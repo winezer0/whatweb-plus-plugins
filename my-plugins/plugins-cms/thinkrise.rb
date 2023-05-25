@@ -1,5 +1,5 @@
 Plugin.define do
-name "TinyRise"
+name "thinkrise"
 authors ["winezer0"]
 version "0.1"
 description "TinyRise是一款B2C独立网店系统,适合企业及个人快速构建个性化网上商店。"

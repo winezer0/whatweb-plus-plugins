@@ -1,5 +1,5 @@
 Plugin.define do
-name "fastjosn"
+name "fastjson"
 authors [
 "winezero", 
 ]

@@ -1,5 +1,5 @@
 Plugin.define do
-name "MonstraCMS"
+name "monstra"
 authors ["winezer0"]
 version "0.1"
 description "Monstra is a content management system (CMS) written for server environments where a database is just too much to handle and/or is inaccessible."

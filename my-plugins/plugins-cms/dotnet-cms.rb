@@ -1,5 +1,5 @@
 Plugin.define do
-name "DotNetCMS"
+name "dotnet-cms"
 authors ["winezer0"]
 version "0.1.1"
 description "DotNetCMS [Chinese] - Homepage: http://www.foosun.cn/"

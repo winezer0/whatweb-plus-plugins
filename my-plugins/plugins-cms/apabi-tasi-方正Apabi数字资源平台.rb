@@ -1,5 +1,5 @@
 Plugin.define do
-name "apabi-tasi"
+name "apabi-tasi-方正Apabi数字资源平台"
 authors [
 "winezero",
 ]

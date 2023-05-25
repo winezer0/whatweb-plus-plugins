@@ -1,5 +1,5 @@
 Plugin.define do
-name "XXXXX"
+name "极限OA系统"
 authors ["极限OA系统"]
 version "0.1"
 description "极限OA系统是一套持续6年更新的PHP开源团购程序。"

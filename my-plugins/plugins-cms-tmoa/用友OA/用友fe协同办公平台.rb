@@ -1,5 +1,5 @@
 Plugin.define do
-name "用友-fe协同办公平台"
+name "用友fe协同办公平台"
 authors [
 "winezero",
 
