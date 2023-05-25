@@ -5,7 +5,7 @@ authors [
 ]
 version "0.1"
 matches [
-{:search=>"all", :text=>'qzdatasoft},
+{:search=>"all", :text=>'qzdatasoft'},
 {:url=>'/hlp/IMAGES/top.gif', :md5=>'f2e99b0a37de44f8e8a1ce7a3af53c85'},
 {:url=>'/hlp/Images/node.gif', :md5=>'70ee6179b7e3a5424b5ca22d9ea7d200'},
 {:url=>'/hlp/Images/vertline.gif', :md5=>'7ccf3630fd1411ebf613569db4fff783'},

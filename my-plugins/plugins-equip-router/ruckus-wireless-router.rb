@@ -2,13 +2,10 @@ Plugin.define do
 name "ruckus-wireless-router"
 authors [
 "Brendan Coles <bcoles@gmail.com>", 
-
 ]
 version "0.1"
 description "Ruckus Wireless Router web interface"
 website "http://www.ruckuswireless.com/"
-dorks [
-'intitle:"Ruckus Wireless Admin" "Ruckus Wireless Admin" "Username" "Password"'
 matches [
 {:search=>"all", :text=>'Ruckus Wireless Router'},
 {:string=>/<td><h2>Air Quality:<\/h2><\/td>[\s]+<td><img src="images\/[^\/^\.]+\.gif" width="24" height="20" \/>\s*<span id="ssid">([^<^\s]+)<\/span><\/td>/},
@@ -17,4 +14,5 @@ matches [
 {:text=>'Ruckus Wireless Admin'},
 {:text=>'mon.  Tell me your username'},
 {:url=>"/favicon.ico", :allhash=>"ed8cf53ef6836184587ee3a987be074a"},
+]
 end
