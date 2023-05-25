@@ -1,0 +1,11 @@
+Plugin.define do
+name "急速cms" 
+authors [
+"winezero",
+
+]
+version "0.1"
+matches [
+{:search=>"all", :text=>'急速CMS'},
+]
+end
