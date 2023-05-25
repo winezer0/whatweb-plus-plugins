@@ -1,8 +1,7 @@
 Plugin.define do
-name "thinkcmf" 
+name "thinkcmf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

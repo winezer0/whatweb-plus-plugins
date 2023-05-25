@@ -1,8 +1,7 @@
 Plugin.define do
 name "Constructr-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ConstructrCMS is a new and fresh Content Management System build with the Power of PHP and MySQL. The Backend is mostly controlled by Ajax for a unique User Experience."

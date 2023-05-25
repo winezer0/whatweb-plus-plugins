@@ -1,8 +1,7 @@
 Plugin.define do
-name "moengage" 
+name "moengage"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

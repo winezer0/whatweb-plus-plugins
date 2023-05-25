@@ -1,8 +1,7 @@
 Plugin.define do
-name "易思espcms" 
+name "易思espcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

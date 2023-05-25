@@ -1,8 +1,7 @@
 Plugin.define do
-name "ns-asg" 
+name "ns-asg"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

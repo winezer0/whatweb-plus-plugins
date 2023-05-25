@@ -1,8 +1,7 @@
 Plugin.define do
-name "gambio" 
+name "gambio"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

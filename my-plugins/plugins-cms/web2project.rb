@@ -1,8 +1,7 @@
 Plugin.define do
 name "web2Project"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "web2Project is a Free Open Source business-oriented Project Management System (PMS)"

@@ -1,10 +1,8 @@
 Plugin.define do
 name "Shopify"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Shopify CMS and ecommerce platform."

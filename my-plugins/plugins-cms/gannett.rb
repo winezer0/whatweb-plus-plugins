@@ -2,7 +2,6 @@ Plugin.define do
 name "Gannett"
 authors [
 "Eugene Amirov",
-
 ]
 version "0.1"
 description "Gannett websites"

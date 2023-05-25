@@ -2,16 +2,13 @@ Plugin.define do
 name "Magento"
 authors [
 "Andrew Horton",
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.2"
 description "Opensource ecommerce platform written in PHP"
 website "http://www.magentocommerce.com"
 dorks [
 "Magento is a trademark of Magento Inc. Copyright" "admin",
-
 'intitle:"Magento Downloader" "Report All Bugs"'
 ]
 matches [

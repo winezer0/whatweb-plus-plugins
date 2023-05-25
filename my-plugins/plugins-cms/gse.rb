@@ -1,8 +1,7 @@
 Plugin.define do
-name "gse" 
+name "gse"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

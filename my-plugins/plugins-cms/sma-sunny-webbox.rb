@@ -1,8 +1,7 @@
 Plugin.define do
 name "SMA-Sunny-WebBox"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Sunny WebBox is a high-performance communication hub for medium to large-scale solar power plants. It features system monitoring, remote diagnosis, data storage and visualization."

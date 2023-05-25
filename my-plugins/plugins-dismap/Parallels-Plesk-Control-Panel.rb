@@ -1,7 +1,7 @@
 Plugin.define do
-name "Parallels-Plesk-Control-Panel" 
+name "Parallels-Plesk-Control-Panel"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

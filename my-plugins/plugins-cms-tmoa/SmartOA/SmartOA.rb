@@ -1,8 +1,7 @@
 Plugin.define do
-name "SmartOA" 
+name "SmartOA"
 authors [
 "winezero",
-
 ]
 version "0.2"
 matches [

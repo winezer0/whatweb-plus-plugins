@@ -1,8 +1,7 @@
 Plugin.define do
-name "easethink" 
+name "easethink"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

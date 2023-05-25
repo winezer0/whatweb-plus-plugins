@@ -1,8 +1,7 @@
 Plugin.define do
-name "techbridge" 
+name "techbridge"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

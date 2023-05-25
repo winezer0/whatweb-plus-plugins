@@ -1,8 +1,7 @@
 Plugin.define do
-name "php云" 
+name "php云"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "varnish-cachewall-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Car-Portal"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Car Portal is a powerful, professional looking and easy customizable php script for running auto classieds websites."

@@ -2,7 +2,6 @@ Plugin.define do
 name "embedthis"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Web server for embedded devices"

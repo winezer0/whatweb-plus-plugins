@@ -1,8 +1,7 @@
 Plugin.define do
-name "d盾" 
+name "d盾"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

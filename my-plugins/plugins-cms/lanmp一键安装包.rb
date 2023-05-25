@@ -1,8 +1,7 @@
 Plugin.define do
-name "lanmp一键安装包" 
+name "lanmp一键安装包"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

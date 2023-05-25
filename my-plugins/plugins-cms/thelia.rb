@@ -1,8 +1,7 @@
 Plugin.define do
-name "thelia" 
+name "thelia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

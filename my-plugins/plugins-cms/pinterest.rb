@@ -1,8 +1,7 @@
 Plugin.define do
-name "pinterest" 
+name "pinterest"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

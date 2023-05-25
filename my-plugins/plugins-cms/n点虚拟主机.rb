@@ -1,8 +1,7 @@
 Plugin.define do
-name "n点虚拟主机" 
+name "n点虚拟主机"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

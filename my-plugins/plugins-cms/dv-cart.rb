@@ -1,8 +1,7 @@
 Plugin.define do
 name "DV-Cart"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DV Cart - fully featured Shopping Cart software - Requires: PHP and MySQL"

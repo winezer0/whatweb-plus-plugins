@@ -1,10 +1,8 @@
 Plugin.define do
 name "Lussumo-Vanilla"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "A free, open-source, standards-compliant discussion forum for the web. "

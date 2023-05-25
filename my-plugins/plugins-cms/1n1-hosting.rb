@@ -1,10 +1,8 @@
 Plugin.define do
 name "1n1-hosting"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "1&1 Hosting, Domains, Website Services & Servers"

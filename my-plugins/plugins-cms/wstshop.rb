@@ -1,8 +1,7 @@
 Plugin.define do
-name "wstshop" 
+name "wstshop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

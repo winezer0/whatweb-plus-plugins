@@ -1,8 +1,7 @@
 Plugin.define do
-name "cyberwisdom" 
+name "cyberwisdom"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

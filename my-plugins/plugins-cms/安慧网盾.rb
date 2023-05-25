@@ -1,8 +1,7 @@
 Plugin.define do
-name "安慧网盾" 
+name "安慧网盾"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

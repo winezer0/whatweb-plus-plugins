@@ -1,8 +1,7 @@
 Plugin.define do
 name "Etano"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Etano - Dating and social networking script"

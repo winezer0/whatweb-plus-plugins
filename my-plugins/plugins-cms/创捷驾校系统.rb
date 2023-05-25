@@ -1,8 +1,7 @@
 Plugin.define do
-name "创捷驾校系统" 
+name "创捷驾校系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

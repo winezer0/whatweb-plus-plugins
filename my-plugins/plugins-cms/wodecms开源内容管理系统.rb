@@ -1,8 +1,7 @@
 Plugin.define do
-name "wodecms开源内容管理系统" 
+name "wodecms开源内容管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

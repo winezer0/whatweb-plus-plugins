@@ -1,8 +1,7 @@
 Plugin.define do
-name "fortimail" 
+name "fortimail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

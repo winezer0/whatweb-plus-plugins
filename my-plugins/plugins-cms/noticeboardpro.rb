@@ -1,8 +1,7 @@
 Plugin.define do
 name "NoticeBoardPro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "NoticeBoardPro is an online, web-based, notice board system"

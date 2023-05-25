@@ -1,8 +1,7 @@
 Plugin.define do
-name "华为（HUAWEI）USG" 
+name "华为（HUAWEI）USG"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

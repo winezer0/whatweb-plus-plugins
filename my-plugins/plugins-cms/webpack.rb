@@ -1,8 +1,7 @@
 Plugin.define do
-name "webpack" 
+name "webpack"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

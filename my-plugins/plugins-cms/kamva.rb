@@ -1,8 +1,7 @@
 Plugin.define do
-name "kamva" 
+name "kamva"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

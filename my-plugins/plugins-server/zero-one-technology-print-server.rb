@@ -1,10 +1,8 @@
 Plugin.define do
 name "zero-one-technology-print-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Zero One Technology Print Server - Print servers connect printers directly to the network so that multiple PCs can share them."

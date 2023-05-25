@@ -1,10 +1,8 @@
 Plugin.define do
 name "TiVo"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "TiVo is a digital video recorder developed and marketed by TiVo, Inc."

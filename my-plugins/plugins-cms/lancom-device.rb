@@ -1,10 +1,8 @@
 Plugin.define do
 name "LANCOM-Device"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "LANCOM Systems is a provider of innovative and reliable communications solutions, Secure Access, VPN and Wireless LAN with high technological capabilities, easy configuration and unified control of all products."

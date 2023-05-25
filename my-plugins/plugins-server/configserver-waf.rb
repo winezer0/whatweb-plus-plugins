@@ -2,7 +2,6 @@ Plugin.define do
 name "configserver-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

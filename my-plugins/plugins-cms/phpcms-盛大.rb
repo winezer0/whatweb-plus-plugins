@@ -2,7 +2,6 @@ Plugin.define do
 name "phpcms-盛大"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "astaro-command-center"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Astaro Command Center is a central management solution which provides direct access for application configuration, enables real-time system status surveillance and maintains device software and pattern updates."

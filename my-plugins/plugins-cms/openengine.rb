@@ -1,8 +1,7 @@
 Plugin.define do
 name "openEngine"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "openEngine - Content Management System (CMS)"

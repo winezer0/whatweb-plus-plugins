@@ -2,7 +2,6 @@ Plugin.define do
 name "apto"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

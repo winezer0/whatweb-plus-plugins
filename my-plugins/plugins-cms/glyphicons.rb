@@ -1,8 +1,7 @@
 Plugin.define do
-name "glyphicons" 
+name "glyphicons"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

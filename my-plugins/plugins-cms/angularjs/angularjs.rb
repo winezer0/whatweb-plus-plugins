@@ -1,8 +1,7 @@
 Plugin.define do
-name "angularjs" 
+name "angularjs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,11 +1,13 @@
 Plugin.define do
-name "xycms" 
+name "xycms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>'#xycmskf'},
+{:text=>'<input name="xycms_keys" type="text" class="s_txt" id="search-keyword"'},
+{:text=>'<meta name="Author" content="xycms">'},
 {:url=>'/admin/images/admin_logo.png', :md5=>'237be78cfb03c14d70303342c0877959'},
 {:url=>'/admin/images/admin_logo.png', :md5=>'d9b358ccd806f873e4cce8b263d69656'},
 {:url=>'/admin/images/login_08.gif', :md5=>'e558e52766698fe1ef84ed339edbf7fc'},

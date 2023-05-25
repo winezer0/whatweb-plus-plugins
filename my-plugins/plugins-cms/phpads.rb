@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpads" 
+name "phpads"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

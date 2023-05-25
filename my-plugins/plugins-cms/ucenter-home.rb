@@ -1,10 +1,8 @@
 Plugin.define do
 name "UCenter-Home"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Social networking platform developed by Comsenz. Uses PHP and MySQL. Wikipedia page: https://zh.wikipedia.org/wiki/UCenter_Home"

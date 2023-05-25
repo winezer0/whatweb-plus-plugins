@@ -1,7 +1,7 @@
 Plugin.define do
-name "Nessus-4.x-Scanner-Web-Client" 
+name "Nessus-4.x-Scanner-Web-Client"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

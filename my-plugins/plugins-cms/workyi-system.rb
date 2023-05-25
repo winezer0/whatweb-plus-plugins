@@ -2,7 +2,6 @@ Plugin.define do
 name "workyi-system"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

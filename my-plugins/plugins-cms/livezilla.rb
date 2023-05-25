@@ -1,8 +1,7 @@
 Plugin.define do
 name "LiveZilla"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "LiveZilla, the Next Generation Live Help and Live Support System connects you to your website visitors. Use LiveZilla to provide Live Chats and monitor your website visitors in real-time."

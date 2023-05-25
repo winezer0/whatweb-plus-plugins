@@ -1,8 +1,7 @@
 Plugin.define do
-name "spotx" 
+name "spotx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

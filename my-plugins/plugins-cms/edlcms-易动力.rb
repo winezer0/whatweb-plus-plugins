@@ -2,7 +2,6 @@ Plugin.define do
 name "edlcms-易动力"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

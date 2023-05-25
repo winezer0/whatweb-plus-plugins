@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cyberoam-Appliance"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Cyberoam UTM appliances integrate multiple security features like Firewall, VPN, Intrusion Prevention System, Anti-Virus & Anti-Spyware, Anti-Spam, Web Filtering, Layer 7 Visibility & Control, Bandwidth Management, Multiple Link Management, and more on a single platform."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "secureiis-firewall" 
+name "secureiis-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

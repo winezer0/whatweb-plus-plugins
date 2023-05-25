@@ -2,7 +2,6 @@ Plugin.define do
 name "alog-xun-简体-utf-8"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

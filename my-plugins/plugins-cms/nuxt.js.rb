@@ -1,8 +1,7 @@
 Plugin.define do
-name "nuxt.js" 
+name "nuxt.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

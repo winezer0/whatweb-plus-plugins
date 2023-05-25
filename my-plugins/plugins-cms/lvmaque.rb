@@ -1,8 +1,7 @@
 Plugin.define do
-name "lvmaque" 
+name "lvmaque"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

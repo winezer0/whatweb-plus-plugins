@@ -1,8 +1,7 @@
 Plugin.define do
 name "Web-Publishing-Wizard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "If your Internet service provider (ISP) provides space for publishing personal Web pages, you can use Web Publishing Wizard (WPW) to post your personal Web pages. Normally, you must first manually configure WPW before posting your pages. To prevent you from having to manually configure WPW, ISPs can place a file named Postinfo.html in the root folder of Web servers. This file contains all the server-specific information that you would normally have to enter. The file makes posting Web pages faster and easier. - More Info: http://support.microsoft.com/kb/163838"
@@ -36,4 +35,13 @@ end
 end
 m
 end
+matches [
+{:name=>"default form html",
+:text=>'<form name="WebForm1" method="post" action="Default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="WebForm1">'},
+{:name=>"default title",
+:text=>'<title>Web Data Administrator - Login</title>'},
+{:name=>'GHDB: intitle:"Web Data Administrator - Login" +"Please enter your SQL Server credentials"',
+:certainty=>75,
+:ghdb=>'intitle:"Web Data Administrator - Login" +"Please enter your SQL Server credentials"'},
+]
 end

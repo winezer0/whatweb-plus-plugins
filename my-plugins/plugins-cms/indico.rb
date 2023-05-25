@@ -1,8 +1,7 @@
 Plugin.define do
 name "Indico"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Indico - Integrated Digital Conference - allows you to manage complex conferences, workshops and meetings."

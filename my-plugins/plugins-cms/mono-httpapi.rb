@@ -1,8 +1,7 @@
 Plugin.define do
-name "mono-httpapi" 
+name "mono-httpapi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "yaws" 
+name "yaws"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

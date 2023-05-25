@@ -1,7 +1,7 @@
 Plugin.define do
-name "Rapid7-NeXpose" 
+name "Rapid7-NeXpose"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "imgcms" 
+name "imgcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "凹丫丫asp免费新闻发布系统" 
+name "凹丫丫asp免费新闻发布系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

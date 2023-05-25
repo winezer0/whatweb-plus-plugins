@@ -2,9 +2,7 @@ Plugin.define do
 name "hopftimeserver"
 authors [
 "Aung Khant, http://yehg.net",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Detect Hopf Time Server CGI application (http://www.hopf.com/)"
@@ -20,7 +18,6 @@ matches [
 passive do
 m=[]
 m << { :name=>"NCD_COOKIE Cookie" } if @headers["set-cookie"] =~ /NCD_COOKIE=language=0#username=#logintime=#lastaction=;/
-
 m
 end
 end

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Zeus-Cart"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Control every facet of your store, from merchandising to promotions and more. There are no limits to creativity with ZeusCart."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "jumbotcms" 
+name "jumbotcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

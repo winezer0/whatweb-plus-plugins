@@ -1,8 +1,7 @@
 Plugin.define do
 name "Squirrelcart"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Squirrelcart PHP Shopping Cart software - Requires PHP and MySQL"

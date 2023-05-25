@@ -1,8 +1,7 @@
 Plugin.define do
-name "uniflows" 
+name "uniflows"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

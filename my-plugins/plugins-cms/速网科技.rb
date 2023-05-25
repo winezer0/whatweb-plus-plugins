@@ -1,8 +1,7 @@
 Plugin.define do
-name "速网科技" 
+name "速网科技"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

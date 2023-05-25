@@ -1,10 +1,8 @@
 Plugin.define do
 name "TheHostingTool"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Free Open-Source hosting tool similar to cPanel"

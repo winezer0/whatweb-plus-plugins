@@ -1,8 +1,7 @@
 Plugin.define do
-name "netlify" 
+name "netlify"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

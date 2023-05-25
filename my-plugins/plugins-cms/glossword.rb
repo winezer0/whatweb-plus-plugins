@@ -1,8 +1,7 @@
 Plugin.define do
 name "Glossword"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Glossword helps you to create and publish online multilingual dictionary, glossary, or reference."

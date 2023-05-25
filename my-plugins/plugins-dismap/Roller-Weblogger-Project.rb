@@ -1,7 +1,7 @@
 Plugin.define do
-name "Roller-Weblogger-Project" 
+name "Roller-Weblogger-Project"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

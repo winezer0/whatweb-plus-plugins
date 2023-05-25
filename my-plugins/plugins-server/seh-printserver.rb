@@ -2,7 +2,6 @@ Plugin.define do
 name "seh-printserver"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "A complete print server provided as an interface card for attaching KYOCERA printers and multifunctional peripherals (MFP) to the network"

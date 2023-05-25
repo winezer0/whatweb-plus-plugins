@@ -1,8 +1,7 @@
 Plugin.define do
 name "php-ping"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "php-ping - PHP powered ping web interface."

@@ -2,7 +2,6 @@ Plugin.define do
 name "microsoft-clarity"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

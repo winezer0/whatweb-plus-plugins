@@ -1,8 +1,7 @@
 Plugin.define do
-name "setmore" 
+name "setmore"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

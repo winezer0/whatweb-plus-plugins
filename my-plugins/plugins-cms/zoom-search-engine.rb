@@ -1,8 +1,7 @@
 Plugin.define do
 name "Zoom-Search-Engine"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Zoom is a software package that creates a search engine for your website, intranet, CD, or DVD"

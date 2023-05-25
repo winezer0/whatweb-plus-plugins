@@ -1,8 +1,7 @@
 Plugin.define do
-name "迅博ng系列vpn-firewall" 
+name "迅博ng系列vpn-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

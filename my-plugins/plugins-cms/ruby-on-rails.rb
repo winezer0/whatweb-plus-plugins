@@ -2,9 +2,7 @@ Plugin.define do
 name "ruby-on-rails"
 authors [
 "Andrew Horton",
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.2"
 description "Ruby on rails is an MVC web application framework written in the ruby language. Doesn't detect all RoR sites"

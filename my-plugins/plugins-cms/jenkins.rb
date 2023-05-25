@@ -1,8 +1,7 @@
 Plugin.define do
 name "Jenkins"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Jenkins is an application that monitors executions of repeated jobs, such as building a software project or jobs run by cron."

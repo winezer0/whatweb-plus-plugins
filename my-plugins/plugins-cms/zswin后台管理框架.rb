@@ -1,8 +1,7 @@
 Plugin.define do
-name "zswin后台管理框架" 
+name "zswin后台管理框架"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

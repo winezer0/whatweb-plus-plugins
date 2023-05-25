@@ -2,7 +2,6 @@ Plugin.define do
 name "hdwiki-中文维基"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "ale.js" 
+name "ale.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

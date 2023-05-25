@@ -1,8 +1,7 @@
 Plugin.define do
-name "adverticum" 
+name "adverticum"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

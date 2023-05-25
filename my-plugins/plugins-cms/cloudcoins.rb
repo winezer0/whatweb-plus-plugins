@@ -1,8 +1,7 @@
 Plugin.define do
-name "cloudcoins" 
+name "cloudcoins"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

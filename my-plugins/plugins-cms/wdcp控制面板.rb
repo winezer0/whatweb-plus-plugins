@@ -1,8 +1,7 @@
 Plugin.define do
-name "wdcp控制面板" 
+name "wdcp控制面板"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

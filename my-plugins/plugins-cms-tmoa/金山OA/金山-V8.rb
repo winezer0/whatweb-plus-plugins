@@ -2,7 +2,6 @@ Plugin.define do
 name "金山-V8"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "京伦-oa系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

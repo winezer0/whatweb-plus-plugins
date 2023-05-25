@@ -1,10 +1,8 @@
 Plugin.define do
 name "WSN-Links"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "WSN Links is a links directory with google pageranks, link checking, reciprocal linking facilities and much more. Multilingual and highly extensible, it offers more than you could imagine in a links directory."

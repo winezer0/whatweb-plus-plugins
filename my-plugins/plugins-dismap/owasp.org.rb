@@ -1,7 +1,7 @@
 Plugin.define do
-name "owasp.org" 
+name "owasp.org"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

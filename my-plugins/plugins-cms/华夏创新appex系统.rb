@@ -1,8 +1,7 @@
 Plugin.define do
-name "华夏创新appex系统" 
+name "华夏创新appex系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

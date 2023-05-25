@@ -1,8 +1,7 @@
 Plugin.define do
 name "ibm-websphere-datapower"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "IBM WebSphere DataPower SOA Appliances are purpose-built, easy-to-deploy network devices that simplify, help secure, and accelerate XML and Web service deployments"

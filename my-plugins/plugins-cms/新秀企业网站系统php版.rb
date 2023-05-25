@@ -1,8 +1,7 @@
 Plugin.define do
-name "新秀企业网站系统php版" 
+name "新秀企业网站系统php版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

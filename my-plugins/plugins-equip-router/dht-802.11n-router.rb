@@ -2,7 +2,6 @@ Plugin.define do
 name "dht-802.11n-router"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "云锁" 
+name "云锁"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

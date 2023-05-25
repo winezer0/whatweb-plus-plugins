@@ -1,10 +1,8 @@
 Plugin.define do
 name "world-now"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "WorldNow CMS. Bought and rebranded by Frankly in 2015."

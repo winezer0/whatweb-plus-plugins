@@ -1,8 +1,7 @@
 Plugin.define do
-name "next.js" 
+name "next.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

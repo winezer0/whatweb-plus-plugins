@@ -1,8 +1,7 @@
 Plugin.define do
-name "cabloy-cms" 
+name "cabloy-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

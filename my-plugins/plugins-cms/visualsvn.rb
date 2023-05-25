@@ -1,8 +1,7 @@
 Plugin.define do
-name "visualsvn" 
+name "visualsvn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

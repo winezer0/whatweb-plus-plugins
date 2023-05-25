@@ -1,8 +1,7 @@
 Plugin.define do
-name "crownpeak" 
+name "crownpeak"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

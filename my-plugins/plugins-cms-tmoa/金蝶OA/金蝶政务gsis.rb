@@ -1,8 +1,7 @@
 Plugin.define do
-name "金蝶政务gsis" 
+name "金蝶政务gsis"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

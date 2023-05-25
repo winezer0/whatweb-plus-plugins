@@ -1,8 +1,7 @@
 Plugin.define do
-name "livewire" 
+name "livewire"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

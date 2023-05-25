@@ -1,8 +1,7 @@
 Plugin.define do
-name "金龙卡金融化一卡通网站查询子系统" 
+name "金龙卡金融化一卡通网站查询子系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

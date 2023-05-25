@@ -1,8 +1,7 @@
 Plugin.define do
-name "movcms" 
+name "movcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

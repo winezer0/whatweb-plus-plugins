@@ -1,8 +1,7 @@
 Plugin.define do
-name "checkfront" 
+name "checkfront"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

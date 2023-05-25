@@ -1,8 +1,7 @@
 Plugin.define do
 name "LISTSERV"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "LISTSERV launched the email list management industry in 1986 and remains the industry standard. It provides the power, reliability and enterprise-level performance you need to manage all your opt-in email lists, including email newsletters, announcement lists, discussion groups and email communities."

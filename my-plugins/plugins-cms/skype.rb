@@ -1,8 +1,7 @@
 Plugin.define do
-name "skype" 
+name "skype"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

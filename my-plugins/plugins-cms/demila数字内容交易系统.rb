@@ -1,8 +1,7 @@
 Plugin.define do
-name "demila数字内容交易系统" 
+name "demila数字内容交易系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

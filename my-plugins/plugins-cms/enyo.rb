@@ -1,8 +1,7 @@
 Plugin.define do
-name "enyo" 
+name "enyo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

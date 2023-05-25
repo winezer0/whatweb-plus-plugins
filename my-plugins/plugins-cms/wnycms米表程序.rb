@@ -1,8 +1,7 @@
 Plugin.define do
-name "wnycms米表程序" 
+name "wnycms米表程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

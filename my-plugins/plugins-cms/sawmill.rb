@@ -1,8 +1,7 @@
 Plugin.define do
 name "Sawmill"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Sawmill is a universal log analysis/reporting tool for almost any log including web, media, email, security, network and application logs."

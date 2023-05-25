@@ -1,8 +1,7 @@
 Plugin.define do
-name "mobify" 
+name "mobify"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

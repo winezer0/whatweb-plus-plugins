@@ -1,8 +1,7 @@
 Plugin.define do
-name "九思协同办公系统" 
+name "九思协同办公系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

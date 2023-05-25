@@ -1,8 +1,7 @@
 Plugin.define do
-name "vizury" 
+name "vizury"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

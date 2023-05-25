@@ -1,8 +1,7 @@
 Plugin.define do
-name "optimise" 
+name "optimise"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

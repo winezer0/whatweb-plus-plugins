@@ -1,10 +1,8 @@
 Plugin.define do
 name "php-mes-films"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Film database powered by PHP. Website used to be http://phpmesfilms.dyndns.org/"

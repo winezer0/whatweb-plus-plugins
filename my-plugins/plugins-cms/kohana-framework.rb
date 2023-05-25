@@ -1,8 +1,7 @@
 Plugin.define do
-name "kohana-framework" 
+name "kohana-framework"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

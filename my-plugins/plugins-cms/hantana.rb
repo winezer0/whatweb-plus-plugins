@@ -1,8 +1,7 @@
 Plugin.define do
-name "hantana" 
+name "hantana"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

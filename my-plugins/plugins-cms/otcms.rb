@@ -1,11 +1,12 @@
 Plugin.define do
-name "otcms" 
+name "otcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>'class="site_{otcms:$webTypeName}'},
+{:text=>'src="cache/js/OTca.js'},
 {:url=>'/admin/images/login/login_submit.gif', :md5=>'326e3c92c2a6de7f3f1722e9eedf4ad4'},
 {:url=>'/favicon.ico', :md5=>'aee5467a4a6dbcc6a2cd3b080b08bbb8'},
 {:url=>'/favicon.ico', :md5=>'e86ea7f20a0aecaec8920f3e98db92f7'},

@@ -1,8 +1,7 @@
 Plugin.define do
 name "EMS-ENTRY-COM"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "EMS-ENTRY-COM is database software that gathers data from Beckmann Zent5 main control panels and payment systems and makes them available as an SQL database. The retrieved data are analysed, reviewed and subsequently transformed into a relational database."

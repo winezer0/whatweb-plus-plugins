@@ -1,10 +1,8 @@
 Plugin.define do
 name "via"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "This plugin extracts the proxy server details from the Via param of the HTTP header."

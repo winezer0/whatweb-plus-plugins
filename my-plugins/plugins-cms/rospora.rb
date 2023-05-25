@@ -1,8 +1,7 @@
 Plugin.define do
 name "rospora"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Spora The Burning Crusade Edition Means RoSpora - web script build for MaNGOS Free MMORPG Server. Revolution of Simple Page Of Registration of Accounts"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "crossbox" 
+name "crossbox"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

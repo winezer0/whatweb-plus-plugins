@@ -1,8 +1,7 @@
 Plugin.define do
-name "disqus" 
+name "disqus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "ninja-web-server"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

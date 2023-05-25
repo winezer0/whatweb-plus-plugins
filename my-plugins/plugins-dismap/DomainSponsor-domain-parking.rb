@@ -1,7 +1,7 @@
 Plugin.define do
-name "DomainSponsor-domain-parking" 
+name "DomainSponsor-domain-parking"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

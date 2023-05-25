@@ -1,8 +1,7 @@
 Plugin.define do
-name "金蝶云星空" 
+name "金蝶云星空"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

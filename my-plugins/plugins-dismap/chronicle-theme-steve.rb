@@ -1,7 +1,7 @@
 Plugin.define do
-name "chronicle-theme-steve" 
+name "chronicle-theme-steve"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

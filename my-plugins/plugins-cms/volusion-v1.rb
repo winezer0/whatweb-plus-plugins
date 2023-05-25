@@ -2,7 +2,6 @@ Plugin.define do
 name "volusion-v1"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

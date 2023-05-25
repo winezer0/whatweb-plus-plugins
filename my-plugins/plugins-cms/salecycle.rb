@@ -1,8 +1,7 @@
 Plugin.define do
-name "salecycle" 
+name "salecycle"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "oscss" 
+name "oscss"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

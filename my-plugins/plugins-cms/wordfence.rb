@@ -1,8 +1,7 @@
 Plugin.define do
 name "WordFence"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.1"
 description "WordFence Wordpress Security Plugin"

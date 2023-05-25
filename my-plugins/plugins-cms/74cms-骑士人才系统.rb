@@ -2,11 +2,12 @@ Plugin.define do
 name "74cms-骑士人才系统"
 authors [
 "winezero",
-
 ]
 version "0.2"
 matches [
+{:text=>"Powered by <a href=\"http://www.74cms.com\">74cms</a>"},
 {:text=>'74cms.com'},
+{:text=>'<meta name="copyright" content="74cms.com">'},
 {:text=>'Powered by <a href="http://www.74cms.com/'},
 {:text=>'selectjobscategory")'},
 {:text=>'骑士CMS'},

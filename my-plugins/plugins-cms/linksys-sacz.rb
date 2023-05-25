@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-sacz" 
+name "linksys-sacz"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

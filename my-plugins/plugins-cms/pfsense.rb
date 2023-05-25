@@ -1,8 +1,7 @@
 Plugin.define do
-name "pfsense" 
+name "pfsense"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

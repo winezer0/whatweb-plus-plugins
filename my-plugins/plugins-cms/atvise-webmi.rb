@@ -1,8 +1,7 @@
 Plugin.define do
 name "Atvise-webMI"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Web-based HMI server - atvise webMI compliant web servers can be extremely slim and work on the smallest hardware."

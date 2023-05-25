@@ -1,8 +1,7 @@
 Plugin.define do
-name "suse" 
+name "suse"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

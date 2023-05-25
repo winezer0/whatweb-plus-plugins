@@ -1,8 +1,7 @@
 Plugin.define do
-name "trs身份认证系统" 
+name "trs身份认证系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

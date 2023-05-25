@@ -1,7 +1,7 @@
 Plugin.define do
-name "iHOUSE-real-estate-web-hosting" 
+name "iHOUSE-real-estate-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

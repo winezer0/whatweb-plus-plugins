@@ -1,8 +1,7 @@
 Plugin.define do
-name "seamlesscms" 
+name "seamlesscms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

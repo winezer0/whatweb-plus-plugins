@@ -1,8 +1,7 @@
 Plugin.define do
-name "yourphp企业网站管理系统" 
+name "yourphp企业网站管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

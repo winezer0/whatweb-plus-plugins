@@ -1,8 +1,7 @@
 Plugin.define do
-name "帮管客crm客户管理系统" 
+name "帮管客crm客户管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

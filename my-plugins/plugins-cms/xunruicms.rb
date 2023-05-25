@@ -1,8 +1,7 @@
 Plugin.define do
-name "xunruicms" 
+name "xunruicms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

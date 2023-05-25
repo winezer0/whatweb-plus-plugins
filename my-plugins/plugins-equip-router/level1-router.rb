@@ -1,8 +1,7 @@
 Plugin.define do
 name "level1-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Level1 Router"

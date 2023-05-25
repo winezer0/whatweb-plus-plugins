@@ -1,8 +1,7 @@
 Plugin.define do
-name "storyblok" 
+name "storyblok"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "zone.js" 
+name "zone.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

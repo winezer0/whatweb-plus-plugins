@@ -1,8 +1,7 @@
 Plugin.define do
-name "未知查询系统" 
+name "未知查询系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

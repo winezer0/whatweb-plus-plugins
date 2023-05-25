@@ -1,8 +1,7 @@
 Plugin.define do
-name "urp教务系统" 
+name "urp教务系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

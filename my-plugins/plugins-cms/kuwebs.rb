@@ -1,8 +1,7 @@
 Plugin.define do
-name "kuwebs" 
+name "kuwebs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

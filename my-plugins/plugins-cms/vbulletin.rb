@@ -2,11 +2,8 @@ Plugin.define do
 name "VBulletin"
 authors [
 "Andrew Horton",
-
-"@csalazar", 
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"@csalazar",
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.5"
 description "VBulletin is a PHP forum."

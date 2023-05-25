@@ -1,8 +1,7 @@
 Plugin.define do
 name "Webduino"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Simple and extensible web server library for the Arduino using the Wiznet-based Ethernet shields."

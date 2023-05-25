@@ -1,8 +1,7 @@
 Plugin.define do
 name "Apache-Flink"
 authors [
-"Juanan Pereira", 
-
+"Juanan Pereira",
 ]
 version "0.1"
 description "Apache Flink is an open-source, unified stream-processing and batch-processing framework developed by the Apache Software Foundation"

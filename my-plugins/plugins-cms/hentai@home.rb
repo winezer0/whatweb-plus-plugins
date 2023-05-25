@@ -1,8 +1,7 @@
 Plugin.define do
-name "hentai@home" 
+name "hentai@home"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

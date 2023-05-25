@@ -1,8 +1,7 @@
 Plugin.define do
-name "huanet" 
+name "huanet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

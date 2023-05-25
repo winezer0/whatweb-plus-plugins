@@ -1,8 +1,7 @@
 Plugin.define do
 name "Ushahidi"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Ushahidi Platform is a platform for information collection, visualization and interactive mapping."

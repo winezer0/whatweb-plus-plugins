@@ -1,8 +1,7 @@
 Plugin.define do
 name "ASProxy"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ASProxy is a free and open-source web proxy which allows the user to surf the net anonymously."

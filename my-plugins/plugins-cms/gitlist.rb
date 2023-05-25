@@ -1,8 +1,7 @@
 Plugin.define do
-name "gitlist" 
+name "gitlist"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

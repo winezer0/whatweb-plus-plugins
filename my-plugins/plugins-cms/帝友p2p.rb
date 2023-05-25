@@ -1,8 +1,7 @@
 Plugin.define do
-name "帝友p2p" 
+name "帝友p2p"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

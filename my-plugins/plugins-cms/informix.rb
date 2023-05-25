@@ -1,8 +1,7 @@
 Plugin.define do
-name "informix" 
+name "informix"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "anchorcms" 
+name "anchorcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

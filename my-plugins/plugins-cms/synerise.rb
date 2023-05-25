@@ -1,8 +1,7 @@
 Plugin.define do
-name "synerise" 
+name "synerise"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

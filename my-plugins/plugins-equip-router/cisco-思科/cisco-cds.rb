@@ -1,8 +1,7 @@
 Plugin.define do
-name "cisco-cds" 
+name "cisco-cds"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

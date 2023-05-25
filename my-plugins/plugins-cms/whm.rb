@@ -1,8 +1,7 @@
 Plugin.define do
-name "whm" 
+name "whm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

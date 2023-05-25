@@ -1,8 +1,7 @@
 Plugin.define do
 name "All-in-one-SEO-Pack"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "The all in one SEO pack automatically optimizes your WordPress blog for Search Engines (Search Engine Optimization)."

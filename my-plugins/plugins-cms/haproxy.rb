@@ -1,8 +1,7 @@
 Plugin.define do
 name "HAProxy"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Reliable, High Performance TCP/HTTP Load Balancer"

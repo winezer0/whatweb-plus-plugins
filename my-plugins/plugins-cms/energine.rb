@@ -1,8 +1,7 @@
 Plugin.define do
 name "Energine"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Energine Content Management Framework - XML based PHP5 content management framework"

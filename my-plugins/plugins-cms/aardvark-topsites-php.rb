@@ -1,8 +1,7 @@
 Plugin.define do
 name "Aardvark-Topsites-PHP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Aardvark Topsites PHP is a free topsites script built on PHP and MySQL."

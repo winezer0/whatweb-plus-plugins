@@ -1,8 +1,7 @@
 Plugin.define do
-name "xepan" 
+name "xepan"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

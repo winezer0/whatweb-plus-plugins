@@ -1,12 +1,12 @@
 Plugin.define do
-name "jeecms" 
+name "jeecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
 {:text=>'Powered by JEECMS'},
+{:text=>'Powered by JeeCms'},
 {:text=>'http://www.jeecms.com'},
 {:url=>'/common_res/js/pony.js', :md5=>'e35895263a04757cf1b5d8a711ffdc9a'},
 {:url=>'/front_res/front.css', :md5=>'f5898f194537e821483f117253762291'},

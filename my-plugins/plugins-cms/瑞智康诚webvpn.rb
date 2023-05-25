@@ -1,8 +1,7 @@
 Plugin.define do
-name "瑞智康诚webvpn" 
+name "瑞智康诚webvpn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

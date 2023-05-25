@@ -1,8 +1,7 @@
 Plugin.define do
-name "通用web管理后台" 
+name "通用web管理后台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

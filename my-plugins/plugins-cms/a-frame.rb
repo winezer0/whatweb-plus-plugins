@@ -1,8 +1,7 @@
 Plugin.define do
-name "a-frame" 
+name "a-frame"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

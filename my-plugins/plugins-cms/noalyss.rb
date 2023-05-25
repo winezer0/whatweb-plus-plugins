@@ -1,8 +1,7 @@
 Plugin.define do
-name "noalyss" 
+name "noalyss"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

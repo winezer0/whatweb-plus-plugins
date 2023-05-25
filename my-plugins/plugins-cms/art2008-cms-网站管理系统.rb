@@ -2,7 +2,6 @@ Plugin.define do
 name "art2008-cms-网站管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

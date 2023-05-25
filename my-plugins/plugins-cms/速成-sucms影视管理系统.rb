@@ -2,7 +2,6 @@ Plugin.define do
 name "速成-sucms影视管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

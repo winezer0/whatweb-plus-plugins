@@ -1,8 +1,7 @@
 Plugin.define do
 name "Snare"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Snare - Snare Server Remote Control web interface"

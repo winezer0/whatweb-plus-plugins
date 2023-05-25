@@ -1,8 +1,7 @@
 Plugin.define do
-name "深信服数据中心" 
+name "深信服数据中心"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

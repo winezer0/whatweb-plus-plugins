@@ -1,8 +1,7 @@
 Plugin.define do
-name "迅雷离线影视资源搜索引擎" 
+name "迅雷离线影视资源搜索引擎"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

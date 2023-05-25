@@ -1,8 +1,7 @@
 Plugin.define do
 name "Oracle-Siebel-CRM"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The world's most complete customer relationship management (CRM) solution, Oracle's Siebel CRM helps organizations differentiate their businesses to achieve maximum top-and bottom-line growth. It delivers a combination of transactional, analytical, and engagement features to manage all customer-facing operations."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "webtrekk" 
+name "webtrekk"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "zenedge-firewall" 
+name "zenedge-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "huaweihomegateway" 
+name "huaweihomegateway"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

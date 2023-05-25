@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpbazar"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PHP3/PHP4/mySql Classified AD and/or Matchmaking"

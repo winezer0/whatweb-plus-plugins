@@ -1,8 +1,7 @@
 Plugin.define do
 name "meta-refresh"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "
@@ -18,4 +17,7 @@ else
 []
 end
 end
+matches [
+{:string=>/<meta[^>]+name=["']powered[\- ]?by["'][^>]+content=["']([^"]+)["']/i },
+]
 end

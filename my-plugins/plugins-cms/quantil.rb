@@ -1,8 +1,7 @@
 Plugin.define do
-name "quantil" 
+name "quantil"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

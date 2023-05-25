@@ -1,7 +1,7 @@
 Plugin.define do
-name "Apache-RocketMQ" 
+name "Apache-RocketMQ"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

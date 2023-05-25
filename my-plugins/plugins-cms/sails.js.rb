@@ -1,8 +1,7 @@
 Plugin.define do
-name "sails.js" 
+name "sails.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

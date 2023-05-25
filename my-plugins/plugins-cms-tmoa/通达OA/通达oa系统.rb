@@ -1,8 +1,7 @@
 Plugin.define do
-name "通达oa系统" 
+name "通达oa系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-wireless-mr3220"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "泛普建筑工程施工oa" 
+name "泛普建筑工程施工oa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

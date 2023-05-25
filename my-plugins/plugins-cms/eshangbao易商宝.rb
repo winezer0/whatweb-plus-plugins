@@ -1,8 +1,7 @@
 Plugin.define do
-name "eshangbao易商宝" 
+name "eshangbao易商宝"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "v2视频会议系统" 
+name "v2视频会议系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "isp-config"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "ISPConfig is a free, opensource hosting control panel"

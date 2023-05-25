@@ -1,8 +1,7 @@
 Plugin.define do
-name "eucookie.eu" 
+name "eucookie.eu"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

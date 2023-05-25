@@ -1,8 +1,7 @@
 Plugin.define do
-name "supesite" 
+name "supesite"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

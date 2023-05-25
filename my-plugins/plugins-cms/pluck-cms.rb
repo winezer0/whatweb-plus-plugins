@@ -1,8 +1,7 @@
 Plugin.define do
 name "Pluck-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Pluck is a small and simple content management system. - Requires: PHP"

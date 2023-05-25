@@ -1,8 +1,7 @@
 Plugin.define do
 name "WWW-File-Share-Pro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WWW File Share Pro - Share all kinds of files on the internet or on your intranet with this handy software."

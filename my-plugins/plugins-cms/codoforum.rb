@@ -1,8 +1,7 @@
 Plugin.define do
-name "codoforum" 
+name "codoforum"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Avocent-DSView"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Avocent DSView 3 management software provides data centers with secure, out-of-band, centralized management for all connected IT and network devices."

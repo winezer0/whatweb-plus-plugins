@@ -1,8 +1,7 @@
 Plugin.define do
-name "未知oem安防监控系统" 
+name "未知oem安防监控系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

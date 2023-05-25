@@ -2,7 +2,6 @@ Plugin.define do
 name "wordpress-supercache"
 authors [
 "Patrik Wallstrom",
-
 ]
 version "0.3"
 description "Cache functionality for Wordpress - http://wordpress.org/extend/plugins/wp-super-cache/"

@@ -1,11 +1,12 @@
 Plugin.define do
-name "damall" 
+name "damall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>"static.damall.cn"},
+{:text=>"www.damall.cn"},
 {:url=>'/template/default/images/h_4.jpg', :md5=>'86a9a88301dec0ff2518afce43adec27'},
 ]
 end

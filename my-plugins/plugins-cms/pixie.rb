@@ -1,8 +1,7 @@
 Plugin.define do
 name "Pixie"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "pixie is a free, open source web application that will help you quickly create your own website"

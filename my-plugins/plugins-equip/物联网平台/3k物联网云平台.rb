@@ -1,8 +1,7 @@
 Plugin.define do
-name "3k物联网云平台" 
+name "3k物联网云平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "mozartframework" 
+name "mozartframework"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

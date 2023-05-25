@@ -2,7 +2,6 @@ Plugin.define do
 name "snom-phone"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "VoIP phones and teleconferencing systems"

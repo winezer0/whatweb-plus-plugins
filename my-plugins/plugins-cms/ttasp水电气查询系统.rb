@@ -1,8 +1,7 @@
 Plugin.define do
-name "ttasp水电气查询系统" 
+name "ttasp水电气查询系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

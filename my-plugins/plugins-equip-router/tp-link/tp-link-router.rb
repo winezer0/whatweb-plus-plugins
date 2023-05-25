@@ -2,9 +2,7 @@ Plugin.define do
 name "tp-link-router"
 authors [
 "Aung Khant, http://yehg.net",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Detect TP-Link Router"

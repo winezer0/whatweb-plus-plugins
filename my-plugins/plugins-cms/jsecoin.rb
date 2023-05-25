@@ -1,8 +1,7 @@
 Plugin.define do
-name "jsecoin" 
+name "jsecoin"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

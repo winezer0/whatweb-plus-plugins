@@ -1,10 +1,17 @@
 Plugin.define do
+
 name "wilmaroa系统" 
+
 authors [
+
 "winezero",
 
+
+
 ]
+
 version "0.1"
+
 matches [
 {:search=>"all", :text=>'WilmarOA系统'},
 {:url=>'/favicon.ico', :md5=>'96748229f5782e127a18a81fad22e6e1'},
@@ -13,4 +20,5 @@ matches [
 {:url=>'/vskin/global/css/zh.css', :md5=>'17c33bf0d3e9b62b0e2d6d4412517c2a'},
 {:url=>'/vskin/global/css/zh.css', :md5=>'e9282c85ddff033a7a8338a61962dfaa'},
 ]
+
 end

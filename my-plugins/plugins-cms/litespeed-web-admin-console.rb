@@ -2,7 +2,6 @@ Plugin.define do
 name "litespeed-web-admin-console"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

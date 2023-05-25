@@ -1,8 +1,7 @@
 Plugin.define do
-name "sveil开源商城" 
+name "sveil开源商城"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

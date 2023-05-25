@@ -1,8 +1,7 @@
 Plugin.define do
 name "Subrion-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Subrion CMS unites the functionality of articles script, auto classifieds script, realty classifieds script, and web directory script all in one package."

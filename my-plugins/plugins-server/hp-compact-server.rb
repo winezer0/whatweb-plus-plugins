@@ -2,7 +2,6 @@ Plugin.define do
 name "hp-compact-server"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

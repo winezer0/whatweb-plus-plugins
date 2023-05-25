@@ -1,8 +1,7 @@
 Plugin.define do
-name "sevenrooms" 
+name "sevenrooms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

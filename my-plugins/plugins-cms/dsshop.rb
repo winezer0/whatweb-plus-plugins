@@ -1,8 +1,7 @@
 Plugin.define do
-name "dsshop" 
+name "dsshop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

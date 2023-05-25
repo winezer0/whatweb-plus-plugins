@@ -1,8 +1,7 @@
 Plugin.define do
-name "fireeye" 
+name "fireeye"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

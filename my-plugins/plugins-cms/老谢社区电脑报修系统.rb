@@ -1,8 +1,7 @@
 Plugin.define do
-name "老谢社区电脑报修系统" 
+name "老谢社区电脑报修系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

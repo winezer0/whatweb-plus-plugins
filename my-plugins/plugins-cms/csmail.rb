@@ -1,8 +1,7 @@
 Plugin.define do
-name "csmail" 
+name "csmail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

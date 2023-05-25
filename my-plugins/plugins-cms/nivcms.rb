@@ -1,8 +1,7 @@
 Plugin.define do
-name "nivcms" 
+name "nivcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

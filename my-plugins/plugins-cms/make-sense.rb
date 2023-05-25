@@ -1,8 +1,7 @@
 Plugin.define do
-name "make-sense" 
+name "make-sense"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

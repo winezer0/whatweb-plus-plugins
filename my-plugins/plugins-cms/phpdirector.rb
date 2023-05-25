@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpdirector"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "PHPDirector is a content management system that allows users to create there own video sharing websites."

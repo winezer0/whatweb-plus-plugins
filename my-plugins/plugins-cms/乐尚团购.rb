@@ -1,8 +1,7 @@
 Plugin.define do
-name "乐尚团购" 
+name "乐尚团购"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "启动力企业建站系统" 
+name "启动力企业建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

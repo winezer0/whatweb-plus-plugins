@@ -2,7 +2,6 @@ Plugin.define do
 name "oracle-web-cache"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

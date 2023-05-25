@@ -1,8 +1,7 @@
 Plugin.define do
 name "Toshiba-Network-Camera"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Toshiba network camera web interface"

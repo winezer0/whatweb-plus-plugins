@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-wag200gb"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

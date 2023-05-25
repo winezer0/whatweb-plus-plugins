@@ -1,8 +1,7 @@
 Plugin.define do
 name "DSpace"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "An Open Archive Initiative (OAI) - compliant open-source software released by MIT for archiving eprints and other kinds of academic content."

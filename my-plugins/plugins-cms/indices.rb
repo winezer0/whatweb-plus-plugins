@@ -1,8 +1,7 @@
 Plugin.define do
 name "Indices"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Indices is a set of hacks that makes Apache's default directory index pages pretty and more usable."

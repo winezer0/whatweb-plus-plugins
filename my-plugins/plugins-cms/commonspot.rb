@@ -2,9 +2,7 @@ Plugin.define do
 name "CommonSpot"
 authors [
 "Tonmoy Saikia",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "The CommonSpot Web content management solution (Web CMS) increases the value of content by creating engaging Web experiences that generate high impact results."

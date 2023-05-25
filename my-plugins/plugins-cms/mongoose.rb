@@ -1,8 +1,7 @@
 Plugin.define do
-name "mongoose" 
+name "mongoose"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

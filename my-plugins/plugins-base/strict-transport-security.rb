@@ -1,8 +1,7 @@
 Plugin.define do
 name "Strict-Transport-Security"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.1"
 description "

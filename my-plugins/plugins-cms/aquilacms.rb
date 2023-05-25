@@ -1,8 +1,7 @@
 Plugin.define do
-name "aquilacms" 
+name "aquilacms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

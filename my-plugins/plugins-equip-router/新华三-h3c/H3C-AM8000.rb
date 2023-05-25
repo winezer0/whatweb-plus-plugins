@@ -1,8 +1,7 @@
 Plugin.define do
-name "H3C-AM8000" 
+name "H3C-AM8000"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

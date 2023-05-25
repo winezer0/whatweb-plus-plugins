@@ -1,8 +1,7 @@
 Plugin.define do
 name "infinet-wireless-wanflex-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Infinet Wireless WANFleX Router"

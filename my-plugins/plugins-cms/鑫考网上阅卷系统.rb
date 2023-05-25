@@ -1,8 +1,7 @@
 Plugin.define do
-name "鑫考网上阅卷系统" 
+name "鑫考网上阅卷系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

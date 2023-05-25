@@ -1,8 +1,7 @@
 Plugin.define do
-name "wqcms" 
+name "wqcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

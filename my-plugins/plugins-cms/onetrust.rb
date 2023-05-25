@@ -1,8 +1,7 @@
 Plugin.define do
-name "onetrust" 
+name "onetrust"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

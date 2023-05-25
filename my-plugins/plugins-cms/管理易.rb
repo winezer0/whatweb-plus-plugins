@@ -1,8 +1,7 @@
 Plugin.define do
-name "管理易" 
+name "管理易"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

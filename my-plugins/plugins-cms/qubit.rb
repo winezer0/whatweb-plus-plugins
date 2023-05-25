@@ -1,8 +1,7 @@
 Plugin.define do
-name "qubit" 
+name "qubit"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "AXESS-TMC-X1-or-X2-Terminal" 
+name "AXESS-TMC-X1-or-X2-Terminal"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

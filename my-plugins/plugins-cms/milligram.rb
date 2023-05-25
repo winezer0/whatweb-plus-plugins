@@ -1,8 +1,7 @@
 Plugin.define do
-name "milligram" 
+name "milligram"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

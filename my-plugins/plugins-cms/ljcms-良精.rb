@@ -2,7 +2,6 @@ Plugin.define do
 name "ljcms-良精"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

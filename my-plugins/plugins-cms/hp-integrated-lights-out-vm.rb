@@ -2,7 +2,6 @@ Plugin.define do
 name "hp-integrated-lights-out-vm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cachelogic-Expired-Domains-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Expired Domains Script runs daily and updates the database with the latest expiring domains. Requires: Unix Host, PHP5, MYSQL5, CURL Enabled, Cron, Support for the zip extension in PHP."

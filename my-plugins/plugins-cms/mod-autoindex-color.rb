@@ -2,7 +2,6 @@ Plugin.define do
 name "mod-autoindex-color"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

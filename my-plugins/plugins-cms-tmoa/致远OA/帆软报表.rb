@@ -1,8 +1,7 @@
 Plugin.define do
-name "帆软报表" 
+name "帆软报表"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "apigee" 
+name "apigee"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

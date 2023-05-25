@@ -2,9 +2,7 @@ Plugin.define do
 name "expression-engine"
 authors [
 "Andrew Horton",
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.2"
 description "ExpressionEngine is CMS written in PHP. Free and commercial versions."

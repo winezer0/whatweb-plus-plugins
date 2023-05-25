@@ -1,8 +1,7 @@
 Plugin.define do
 name "StarDot-NetCam"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Stardot network camera web interface"

@@ -1,10 +1,8 @@
 Plugin.define do
 name "binarysec-firewall"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
-"Andrew Horton", 
-
+"Aung Khant <http://yehg.net/>",
+"Andrew Horton",
 ]
 version "0.3"
 description "BinarySec Web Application Firewall - http://www.binarysec.com"

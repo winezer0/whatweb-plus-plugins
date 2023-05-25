@@ -1,8 +1,7 @@
 Plugin.define do
 name "tine-2.0"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Tine 2.0 is an open source project which combines groupware and CRM in one consistent interface. Tine 2.0 is web-based and optimises collaboration and organisation of groups in a lasting manner."

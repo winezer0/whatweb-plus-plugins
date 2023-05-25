@@ -1,8 +1,7 @@
 Plugin.define do
 name "PmWiki"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PmWiki is a wiki-based system for collaborative creation and maintenance of websites."

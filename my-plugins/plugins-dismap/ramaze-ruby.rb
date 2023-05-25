@@ -1,7 +1,7 @@
 Plugin.define do
-name "ramaze-ruby" 
+name "ramaze-ruby"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

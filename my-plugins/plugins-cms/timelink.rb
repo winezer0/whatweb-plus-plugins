@@ -1,8 +1,7 @@
 Plugin.define do
 name "TimeLink"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Full-featured web-based Time and Attendance, Workforce Scheduling, Leave Management and Labor Activity software"

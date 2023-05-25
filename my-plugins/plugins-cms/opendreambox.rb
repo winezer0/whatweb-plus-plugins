@@ -1,8 +1,7 @@
 Plugin.define do
-name "opendreambox" 
+name "opendreambox"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

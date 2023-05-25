@@ -1,8 +1,7 @@
 Plugin.define do
-name "51fax传真系统" 
+name "51fax传真系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

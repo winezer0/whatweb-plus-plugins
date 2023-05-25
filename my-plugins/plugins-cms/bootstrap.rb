@@ -1,8 +1,7 @@
 Plugin.define do
 name "bootstrap"
 authors [
-"Janosch Maier @Phylu", 
-
+"Janosch Maier @Phylu",
 ]
 version "0.3"
 description "Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. "

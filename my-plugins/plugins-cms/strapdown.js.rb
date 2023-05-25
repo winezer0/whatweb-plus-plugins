@@ -1,8 +1,7 @@
 Plugin.define do
-name "strapdown.js" 
+name "strapdown.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

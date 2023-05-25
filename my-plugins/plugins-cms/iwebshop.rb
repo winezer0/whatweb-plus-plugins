@@ -1,8 +1,7 @@
 Plugin.define do
-name "iwebshop" 
+name "iwebshop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

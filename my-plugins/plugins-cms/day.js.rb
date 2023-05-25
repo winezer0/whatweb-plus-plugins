@@ -1,8 +1,7 @@
 Plugin.define do
-name "day.js" 
+name "day.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Enigma2"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Enigma2 is a framebuffer-based zapping application (GUI) for linux."

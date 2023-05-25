@@ -1,8 +1,7 @@
 Plugin.define do
-name "fwp" 
+name "fwp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "webtema.id" 
+name "webtema.id"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

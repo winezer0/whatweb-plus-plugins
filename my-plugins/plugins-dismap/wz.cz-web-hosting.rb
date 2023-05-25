@@ -1,7 +1,7 @@
 Plugin.define do
-name "wz.cz-web-hosting" 
+name "wz.cz-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

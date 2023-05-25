@@ -1,8 +1,7 @@
 Plugin.define do
-name "mailchimp" 
+name "mailchimp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

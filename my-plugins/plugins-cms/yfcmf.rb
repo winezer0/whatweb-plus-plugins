@@ -1,8 +1,7 @@
 Plugin.define do
-name "yfcmf" 
+name "yfcmf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Sendio-ESP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Sendio's E-mail Security Platform, (formerly known as I.C.E. Box) is an appliance solution which eliminates spam and viruses."

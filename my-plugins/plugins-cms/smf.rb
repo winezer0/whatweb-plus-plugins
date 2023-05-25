@@ -2,11 +2,8 @@ Plugin.define do
 name "SMF"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles at gmail dot com>", 
-
-"@csalazar", 
-
+"Brendan Coles <bcoles at gmail dot com>",
+"@csalazar",
 ]
 version "0.6"
 description "SMF (Simple Machines Forum) is an opensource forum written in PHP"
@@ -45,9 +42,9 @@ files=[
 to_download = files.map {|x| x[:path]}.sort.uniq
 downloads={}
 to_download.each do |d|
-target = URI.join(@base_uri.to_s,d).to_s	
+target = URI.join(@base_uri.to_s,d).to_s
 _status,_url,_ip,body,_headers = open_target(target)
-downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}	
+downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}
 end
 version=nil
 files.each do |thisfile|

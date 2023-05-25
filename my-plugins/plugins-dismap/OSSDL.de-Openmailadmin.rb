@@ -1,7 +1,7 @@
 Plugin.define do
-name "OSSDL.de-Openmailadmin" 
+name "OSSDL.de-Openmailadmin"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

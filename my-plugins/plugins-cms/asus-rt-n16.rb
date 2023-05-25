@@ -1,8 +1,7 @@
 Plugin.define do
-name "asus-rt-n16" 
+name "asus-rt-n16"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

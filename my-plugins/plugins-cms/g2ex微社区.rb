@@ -1,8 +1,7 @@
 Plugin.define do
-name "g2ex微社区" 
+name "g2ex微社区"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

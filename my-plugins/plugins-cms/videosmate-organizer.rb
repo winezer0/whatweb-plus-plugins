@@ -1,8 +1,7 @@
 Plugin.define do
 name "videosmate-organizer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Videosmate Organizer - Organize your favorite YouTube & Vimeo Videos on your own site in minutes. The script contains an API that can pull videos automatically from YouTube to your site based on the channel name or keywords that you enter. "

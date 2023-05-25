@@ -2,7 +2,6 @@ Plugin.define do
 name "dayincms-3d模型管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

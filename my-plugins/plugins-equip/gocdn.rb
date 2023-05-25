@@ -1,8 +1,7 @@
 Plugin.define do
-name "gocdn" 
+name "gocdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

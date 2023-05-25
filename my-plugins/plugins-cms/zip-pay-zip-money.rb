@@ -2,7 +2,6 @@ Plugin.define do
 name "zip-pay-zip-money"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

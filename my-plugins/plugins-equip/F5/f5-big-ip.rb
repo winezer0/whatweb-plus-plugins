@@ -1,10 +1,8 @@
 Plugin.define do
 name "f5-big-ip"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "F5 BIG IP provides application delivery networking (ADN) technology for the delivery of web applications and the security, performance, availability of servers, data storage devices, and other network and cloud resources."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "segment" 
+name "segment"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

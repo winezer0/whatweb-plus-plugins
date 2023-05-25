@@ -1,10 +1,8 @@
 Plugin.define do
 name "TMSoft-MyAuth-Gateway"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "MyAuth Gateway 3 is a software for the administration of users to providers of advanced networks, enabling full management of customers, access users, groups, bandwidth control, with administrative access level and access logs of actions of technical support for complete control and ticket, statistics and central billing system via bank transfer of the major national banks. [Translated from Portuguese]"

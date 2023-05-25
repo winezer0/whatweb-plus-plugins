@@ -1,8 +1,7 @@
 Plugin.define do
-name "新视窗cms企业管理程序" 
+name "新视窗cms企业管理程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

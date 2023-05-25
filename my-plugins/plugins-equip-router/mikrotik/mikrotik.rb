@@ -1,8 +1,7 @@
 Plugin.define do
-name "mikrotik" 
+name "mikrotik"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

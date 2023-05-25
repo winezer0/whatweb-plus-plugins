@@ -1,10 +1,8 @@
 Plugin.define do
 name "LuCI"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "LuCI was founded in March 2008 as 'FFLuCI' as part of the efforts to create a port of the Freifunk-Firmware from OpenWrt Whiterussian to Kamikaze"
@@ -14,7 +12,9 @@ dorks [
 ]
 matches [
 {:firmware=>/<div id="header">[\r\n]*<h1>OpenWrt Firmware<\/h1>[\r\n]*<p>[\r\n]*([^<]+)<br \/>[\r\n]*Load: [^<]{10,15}<br \/>[\r\n]*Hostname: ([^\r\n<]+)[\s]*<\/p>[\r\n]*<\/div>/, :offset=>0},
+{:firmware=>/<div id="header">[\r\n]*<h1>OpenWrt Firmware<\/h1>[\r\n]*<p>[\r\n]*([^<]+)<br \/>[\r\n]*Load: [^<]{10,15}<br \/>[\r\n]*Hostname: ([^\r^\n^<]+)[\s\r\n]*<\/p>[\r\n]*<\/div>/, :offset=>0},
 {:string=>/<div id="header">[\r\n]*<h1>OpenWrt Firmware<\/h1>[\r\n]*<p>[\r\n]*([^<]+)<br \/>[\r\n]*Load: [^<]{10,15}<br \/>[\r\n]*Hostname: ([^\r\n<]+)[\s]*<\/p>[\r\n]*<\/div>/, :offset=>1},
+{:string=>/<div id="header">[\r\n]*<h1>OpenWrt Firmware<\/h1>[\r\n]*<p>[\r\n]*([^<]+)<br \/>[\r\n]*Load: [^<]{10,15}<br \/>[\r\n]*Hostname: ([^\r^\n^<]+)[\s\r\n]*<\/p>[\r\n]*<\/div>/, :offset=>1},
 {:text=>'<a style="color: white; text-decoration: none" href="/cgi-bin/luci">LuCI - Lua Configuration Interface</a>'},
 {:text=>'<li><a href="/cgi-bin/luci/admin/">Administration</a></li>'},
 {:text=>'<link rel="stylesheet" type="text/css" media="screen" href="/luci-static/openwrt.org/cascade.css" />'},

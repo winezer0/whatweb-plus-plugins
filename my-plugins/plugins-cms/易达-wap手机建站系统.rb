@@ -2,7 +2,6 @@ Plugin.define do
 name "易达-wap手机建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

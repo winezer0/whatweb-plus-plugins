@@ -1,8 +1,7 @@
 Plugin.define do
-name "afterbuy" 
+name "afterbuy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

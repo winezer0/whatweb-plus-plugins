@@ -1,8 +1,7 @@
 Plugin.define do
 name "PHPOpenChat"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PHPOpenChat is a high performance php-based chat server software for a live chat-room"

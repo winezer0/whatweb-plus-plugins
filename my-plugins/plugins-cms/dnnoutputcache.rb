@@ -1,8 +1,7 @@
 Plugin.define do
-name "dnnoutputcache" 
+name "dnnoutputcache"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

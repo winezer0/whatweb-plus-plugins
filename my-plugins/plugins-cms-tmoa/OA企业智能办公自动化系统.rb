@@ -1,8 +1,7 @@
 Plugin.define do
-name "oa企业智能办公自动化系统" 
+name "oa企业智能办公自动化系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

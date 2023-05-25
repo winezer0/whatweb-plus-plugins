@@ -1,8 +1,7 @@
 Plugin.define do
 name "webbased-pear-package-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Webbased PEAR Package Manager - The most accessible way to manage your pear-compatible packages."

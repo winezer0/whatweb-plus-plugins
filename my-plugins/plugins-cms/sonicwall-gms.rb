@@ -1,8 +1,7 @@
 Plugin.define do
 name "SonicWALL-GMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The SonicWALL Global Management System (GMS) provides organizations of any size, distributed enterprises and service providers with a flexible, powerful and intuitive solution to centrally manage and rapidly deploy SonicWALL appliances and security policy configurations. SonicWALL GMS also provides centralized real-time monitoring, and comprehensive policy and compliance reporting."

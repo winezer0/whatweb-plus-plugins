@@ -1,8 +1,7 @@
 Plugin.define do
-name "trustarc" 
+name "trustarc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

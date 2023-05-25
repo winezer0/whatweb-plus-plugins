@@ -1,8 +1,7 @@
 Plugin.define do
-name "splitit" 
+name "splitit"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

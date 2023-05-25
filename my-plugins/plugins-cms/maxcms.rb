@@ -1,8 +1,7 @@
 Plugin.define do
-name "maxcms" 
+name "maxcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

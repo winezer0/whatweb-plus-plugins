@@ -1,8 +1,7 @@
 Plugin.define do
-name "personaclick" 
+name "personaclick"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

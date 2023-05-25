@@ -1,8 +1,7 @@
 Plugin.define do
 name "Auto-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "With Auto CMS you can have a website in 1 minute!, upload the package by FTP to your Hosting, and do click on simbol (*) in the footer, and enjoy of your own website, with the minimal requeriments for your presence on Internet."

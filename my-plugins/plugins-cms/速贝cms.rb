@@ -1,8 +1,7 @@
 Plugin.define do
-name "速贝cms" 
+name "速贝cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

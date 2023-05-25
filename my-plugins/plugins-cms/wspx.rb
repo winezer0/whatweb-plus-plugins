@@ -1,8 +1,7 @@
 Plugin.define do
-name "wspx" 
+name "wspx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

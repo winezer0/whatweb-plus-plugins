@@ -2,7 +2,6 @@ Plugin.define do
 name "wuzhicms-五指cms网站管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

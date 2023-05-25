@@ -1,8 +1,7 @@
 Plugin.define do
 name "rips"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "RIPS - A static source code analyser for vulnerabilities in PHP scripts"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "WebspotBlogging"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Old blog"
@@ -15,4 +14,10 @@ m << {:version=>version}
 end
 m
 end
+matches [
+{:certainty=>75, :search=>"headers[set-cookie]", :regexp=>/ws_session=[a-z\d]+;/},
+{:text=>'<meta name="generator" content="webSPELL" />'},
+{:version=>/Diese Seite benutzt das <a href="http:\/\/www.webspell.org" target="[^"]+">webSPELL Script \(Version: ([^\)]+)\)[\s]*<\/a>/},
+{:version=>/This site is using the <a href="http:\/\/www.webspell.org" target="[^"]+">webSPELL (Free Content Management System|script) \(version: ([^\)]+)\)[\s]*<\/a>/, :offset=>1},
+]
 end

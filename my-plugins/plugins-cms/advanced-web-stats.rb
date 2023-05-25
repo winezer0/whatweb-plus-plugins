@@ -2,7 +2,6 @@ Plugin.define do
 name "advanced-web-stats"
 authors [
 "winezero",
-
 ]
 version "0.2"
 matches [

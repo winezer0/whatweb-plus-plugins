@@ -1,8 +1,7 @@
 Plugin.define do
 name "FreePBX"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "FreePBX is an easy to use web based GUI (graphical user interface) that controls and manages Asterisk"

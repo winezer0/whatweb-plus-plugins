@@ -1,8 +1,7 @@
 Plugin.define do
 name "OpenConf"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "OpenConf is an abstract and peer-review management system that greatly facilitates the submission and review processes for conferences, workshops, and symposia."

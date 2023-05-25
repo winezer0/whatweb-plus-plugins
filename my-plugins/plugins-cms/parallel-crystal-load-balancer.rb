@@ -1,10 +1,8 @@
 Plugin.define do
 name "parallel-crystal-load-balancer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Parallel Crystal load balancing server"

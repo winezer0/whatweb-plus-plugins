@@ -2,7 +2,6 @@ Plugin.define do
 name "shop-pay"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

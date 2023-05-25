@@ -1,8 +1,7 @@
 Plugin.define do
-name "开普互联网站群" 
+name "开普互联网站群"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

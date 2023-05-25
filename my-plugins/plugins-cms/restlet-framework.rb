@@ -1,8 +1,7 @@
 Plugin.define do
 name "restlet-framework"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Restlet is a lightweight, comprehensive, open source REST framework for the Java platform."

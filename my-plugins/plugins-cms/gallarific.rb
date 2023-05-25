@@ -1,8 +1,7 @@
 Plugin.define do
 name "Gallarific"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Gallarific is a fully customizable PHP photo gallery script that lets you collect, organize and share your images, photos and multimedia files with visitors directly from your Web site. It's compatible with 97% of Web site hosts."

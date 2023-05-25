@@ -2,7 +2,6 @@ Plugin.define do
 name "我爱考勤-云平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

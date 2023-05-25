@@ -2,7 +2,6 @@ Plugin.define do
 name "创宇盾-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

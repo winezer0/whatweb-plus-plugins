@@ -1,8 +1,7 @@
 Plugin.define do
-name "渭南信息地方门户" 
+name "渭南信息地方门户"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

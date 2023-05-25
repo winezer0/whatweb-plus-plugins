@@ -1,8 +1,7 @@
 Plugin.define do
 name "Semaphore"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Bridging the gap between layman's terms and official language to provide users with more accurate search results."

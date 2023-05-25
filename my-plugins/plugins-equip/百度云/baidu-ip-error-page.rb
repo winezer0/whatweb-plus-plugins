@@ -2,7 +2,6 @@ Plugin.define do
 name "baidu-ip-error-page"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

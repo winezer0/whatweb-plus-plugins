@@ -1,10 +1,8 @@
 Plugin.define do
 name "PHPFM"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "PHP-Fusion is a lightweight open source content management system (CMS). It uses PHP and MySQL."

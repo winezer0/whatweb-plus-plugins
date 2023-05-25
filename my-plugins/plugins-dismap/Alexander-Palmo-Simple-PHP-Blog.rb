@@ -1,7 +1,7 @@
 Plugin.define do
-name "Alexander-Palmo-Simple-PHP-Blog" 
+name "Alexander-Palmo-Simple-PHP-Blog"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

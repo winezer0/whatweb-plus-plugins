@@ -1,8 +1,7 @@
 Plugin.define do
-name "goodtextphp" 
+name "goodtextphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "easy7视频监控平台" 
+name "easy7视频监控平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

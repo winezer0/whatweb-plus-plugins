@@ -1,8 +1,7 @@
 Plugin.define do
-name "cltphp" 
+name "cltphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

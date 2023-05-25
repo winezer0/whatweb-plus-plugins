@@ -1,8 +1,7 @@
 Plugin.define do
-name "whatsns" 
+name "whatsns"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

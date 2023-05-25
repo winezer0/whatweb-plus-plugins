@@ -1,10 +1,8 @@
 Plugin.define do
 name "WatchGuard-Firewall"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Aung Khant <http://yehg.net/>",
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "WatchGuard Firewall - http://www.watchguard.com/products/edge-e/overview.asp"

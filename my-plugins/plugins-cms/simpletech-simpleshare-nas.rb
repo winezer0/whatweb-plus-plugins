@@ -1,8 +1,7 @@
 Plugin.define do
 name "SimpleTech-SimpleShare-NAS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Whether it's photos and music, or business presentations and financial data, your files are valuable and must be kept safe, accessible and easily shared with others. SimpleShare Network Attached Storage enables you to do it all."
@@ -14,4 +13,10 @@ m << { :status=>401, :name=>"SimpleShare WWW-Authenticate Realm" } if @headers["
 end
 m
 end
+matches [
+{:certainty=>75, :text=>'<!-- Grey header bar below -->'},
+{:regexp=>/<h1><a style="text-decoration: none; color: white" href="[^"]+">simpleSAMLphp installation page<\/a><\/h1>/},
+{:text=>'<a href="http://rnd.feide.no/simplesamlphp">SimpleSAMLPhp </a>'},
+{:text=>'<title>simpleSAMLphp installation page</title>'},
+]
 end

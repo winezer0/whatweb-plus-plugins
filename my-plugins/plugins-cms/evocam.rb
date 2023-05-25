@@ -1,8 +1,7 @@
 Plugin.define do
 name "evocam"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "EvoCam is the ultimate webcam software for Mac OS X"
@@ -12,9 +11,12 @@ dorks [
 ]
 matches [
 {:regexp=>/<TITLE>EvoCam( Java| JavaScript)? Example Page<\/TITLE>/},
+{:regexp=>/<TITLE>EvoCam[\ Java|\ JavaScript]* Example Page<\/TITLE>/},
 {:regexp=>/<applet archive="evocam.jar" code="com.evological.evocam.class"/},
+{:regexp=>/<applet archive="evocam.jar" code="com.evological.evocam.class"[\ align="middle"]* [height|width]*="[\d]+" [height|width]*="[\d]+">/i},
 {:regexp=>/<param name="archive" value="evocam.jar">/i},
 {:regexp=>/<title>EvoCam( \d)*<\/title>/},
+{:regexp=>/<title>EvoCam[\ \d]*<\/title>/},
 {:text=>'Powered by <A HREF="http://www.evological.com/evocam.html">EvoCam</A>'},
 ]
 end

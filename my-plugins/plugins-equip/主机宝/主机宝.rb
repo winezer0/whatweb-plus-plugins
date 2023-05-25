@@ -1,8 +1,7 @@
 Plugin.define do
-name "主机宝" 
+name "主机宝"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

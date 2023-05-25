@@ -2,7 +2,6 @@ Plugin.define do
 name "google-tag-manager"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

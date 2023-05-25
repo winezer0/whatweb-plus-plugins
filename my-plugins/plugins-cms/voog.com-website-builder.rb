@@ -2,7 +2,6 @@ Plugin.define do
 name "voog.com-website-builder"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

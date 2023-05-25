@@ -2,7 +2,6 @@ Plugin.define do
 name "athena-search"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

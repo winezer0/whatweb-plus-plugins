@@ -1,8 +1,7 @@
 Plugin.define do
 name "Prediction-Football"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Prediction Football is a PHP and MySQL based application that allows you to run a Prediction League on your own website."

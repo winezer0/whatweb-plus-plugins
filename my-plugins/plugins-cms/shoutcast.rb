@@ -1,8 +1,7 @@
 Plugin.define do
-name "shoutcast" 
+name "shoutcast"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

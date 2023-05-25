@@ -1,8 +1,7 @@
 Plugin.define do
-name "八克小说搜索引擎" 
+name "八克小说搜索引擎"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

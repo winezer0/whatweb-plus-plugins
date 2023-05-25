@@ -1,8 +1,7 @@
 Plugin.define do
-name "stackla" 
+name "stackla"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

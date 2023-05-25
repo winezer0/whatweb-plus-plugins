@@ -1,8 +1,7 @@
 Plugin.define do
 name "sqlitemanager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SQLiteManager - Web-based SQLite administration"

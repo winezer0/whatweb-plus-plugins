@@ -1,8 +1,7 @@
 Plugin.define do
-name "hikeorders" 
+name "hikeorders"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "postgresql" 
+name "postgresql"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "昆石网络-vos3000"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

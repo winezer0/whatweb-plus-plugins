@@ -1,8 +1,7 @@
 Plugin.define do
-name "kameleoon" 
+name "kameleoon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

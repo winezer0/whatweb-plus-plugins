@@ -2,7 +2,6 @@ Plugin.define do
 name "cscms-程氏cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

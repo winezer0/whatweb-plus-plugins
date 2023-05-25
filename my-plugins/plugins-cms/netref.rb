@@ -1,10 +1,8 @@
 Plugin.define do
 name "Netref"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Website used to be http://www.netref.net/"

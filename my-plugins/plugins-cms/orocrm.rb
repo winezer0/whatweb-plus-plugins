@@ -1,8 +1,7 @@
 Plugin.define do
-name "orocrm" 
+name "orocrm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

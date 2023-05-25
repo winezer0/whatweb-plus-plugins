@@ -1,8 +1,7 @@
 Plugin.define do
-name "sophos" 
+name "sophos"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

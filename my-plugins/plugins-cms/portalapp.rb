@@ -1,8 +1,7 @@
 Plugin.define do
 name "PortalApp"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PortalApp is a fast, flexible, configurable CMS and portal system that can be used to create everything from Blogs to Web sites."

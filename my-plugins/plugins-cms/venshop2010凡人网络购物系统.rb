@@ -1,8 +1,7 @@
 Plugin.define do
-name "venshop2010凡人网络购物系统" 
+name "venshop2010凡人网络购物系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

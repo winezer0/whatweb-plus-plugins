@@ -1,8 +1,7 @@
 Plugin.define do
 name "novell-sentinel-log-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Novell Sentinel Log Manager - log management solution"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "tawk.to" 
+name "tawk.to"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

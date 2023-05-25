@@ -2,7 +2,6 @@ Plugin.define do
 name "web-smile-india"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

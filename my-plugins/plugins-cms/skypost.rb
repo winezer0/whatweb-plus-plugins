@@ -1,8 +1,7 @@
 Plugin.define do
-name "skypost" 
+name "skypost"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "iptime-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ipTIME Rrouter [Korean] - developed by EFM Networks"

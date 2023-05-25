@@ -1,8 +1,7 @@
 Plugin.define do
-name "遥志dbmail邮件" 
+name "遥志dbmail邮件"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

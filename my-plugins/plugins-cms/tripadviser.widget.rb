@@ -1,8 +1,7 @@
 Plugin.define do
-name "tripadviser.widget" 
+name "tripadviser.widget"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

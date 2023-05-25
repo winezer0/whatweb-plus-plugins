@@ -2,7 +2,6 @@ Plugin.define do
 name "visual-webgui"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

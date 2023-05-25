@@ -2,7 +2,6 @@ Plugin.define do
 name "tencent-waterproof-wall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

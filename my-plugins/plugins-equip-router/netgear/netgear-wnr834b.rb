@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-wnr834b"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

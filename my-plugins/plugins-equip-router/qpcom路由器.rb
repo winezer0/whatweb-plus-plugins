@@ -1,8 +1,7 @@
 Plugin.define do
-name "qpcom路由器" 
+name "qpcom路由器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

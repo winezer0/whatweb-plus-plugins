@@ -1,8 +1,7 @@
 Plugin.define do
-name "heeroa" 
+name "heeroa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

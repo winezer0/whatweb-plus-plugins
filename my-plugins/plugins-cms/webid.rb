@@ -1,8 +1,7 @@
 Plugin.define do
 name "WeBid"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Open source php/mysql fully featured auction script."

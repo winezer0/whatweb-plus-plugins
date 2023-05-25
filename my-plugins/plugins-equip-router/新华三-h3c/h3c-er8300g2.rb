@@ -2,7 +2,6 @@ Plugin.define do
 name "h3c-er8300g2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "mmm中国社区直销理财平台" 
+name "mmm中国社区直销理财平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

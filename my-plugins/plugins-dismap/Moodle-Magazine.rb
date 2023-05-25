@@ -1,7 +1,7 @@
 Plugin.define do
-name "Moodle-Magazine" 
+name "Moodle-Magazine"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

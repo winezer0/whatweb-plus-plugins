@@ -1,8 +1,7 @@
 Plugin.define do
-name "jspxcms" 
+name "jspxcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

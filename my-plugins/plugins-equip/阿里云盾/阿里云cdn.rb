@@ -1,8 +1,7 @@
 Plugin.define do
-name "阿里云cdn" 
+name "阿里云cdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

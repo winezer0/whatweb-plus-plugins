@@ -1,10 +1,8 @@
 Plugin.define do
 name "xerver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Xerver is an advanced free GNU GPL Web and FTP server."

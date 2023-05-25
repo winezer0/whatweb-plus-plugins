@@ -1,8 +1,7 @@
 Plugin.define do
-name "gocdkey" 
+name "gocdkey"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

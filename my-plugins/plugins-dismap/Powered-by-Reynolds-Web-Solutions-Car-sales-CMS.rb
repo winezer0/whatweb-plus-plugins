@@ -1,7 +1,7 @@
 Plugin.define do
-name "Powered-by-Reynolds-Web-Solutions-Car-sales-CMS" 
+name "Powered-by-Reynolds-Web-Solutions-Car-sales-CMS"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "pimcore" 
+name "pimcore"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

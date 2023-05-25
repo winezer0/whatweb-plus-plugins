@@ -1,8 +1,7 @@
 Plugin.define do
 name "gitstat"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "gitstat is a web-based statistics and monitoring system for git"

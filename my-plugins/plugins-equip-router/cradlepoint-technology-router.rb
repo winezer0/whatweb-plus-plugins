@@ -2,7 +2,6 @@ Plugin.define do
 name "cradlepoint-technology-router"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

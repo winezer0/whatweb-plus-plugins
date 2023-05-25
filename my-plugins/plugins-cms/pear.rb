@@ -1,8 +1,7 @@
 Plugin.define do
 name "pear"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PEAR - PHP Extension and Application Repository - PEAR is a framework and distribution system for reusable PHP components."

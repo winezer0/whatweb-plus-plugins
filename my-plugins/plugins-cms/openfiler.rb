@@ -1,8 +1,7 @@
 Plugin.define do
 name "openfiler"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Openfiler is an Open Source Network Attached Storage and Storage Area Network Solution."

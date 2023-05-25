@@ -1,8 +1,7 @@
 Plugin.define do
 name "Java"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Java allows you to play online games, chat with people around the world, calculate your mortgage interest, and view images in 3D, just to name a few. It's also integral to the intranet applications and other e-business solutions that are the foundation of corporate computing."
@@ -23,4 +22,7 @@ m << { :os=>@headers['servlet-engine'].scan(/\((.*?); (.*?); Java (.*?); (.*?); 
 end
 m
 end
+matches [
+{:regexp=>/[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]+ [DEBUG|INFO]/},
+]
 end

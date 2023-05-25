@@ -1,7 +1,7 @@
 Plugin.define do
-name "Atlassian-Confluence-or-Crowd" 
+name "Atlassian-Confluence-or-Crowd"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

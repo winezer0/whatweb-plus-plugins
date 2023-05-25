@@ -1,8 +1,7 @@
 Plugin.define do
-name "本地宝团购导航网站" 
+name "本地宝团购导航网站"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Star-Network"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "hompage: http://www.starltd.net/"

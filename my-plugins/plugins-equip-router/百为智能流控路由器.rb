@@ -1,8 +1,7 @@
 Plugin.define do
-name "百为智能流控路由器" 
+name "百为智能流控路由器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

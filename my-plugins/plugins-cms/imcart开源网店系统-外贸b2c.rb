@@ -2,7 +2,6 @@ Plugin.define do
 name "imcart开源网店系统-外贸b2c"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

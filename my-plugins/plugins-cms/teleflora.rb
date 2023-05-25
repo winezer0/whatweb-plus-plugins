@@ -1,8 +1,7 @@
 Plugin.define do
 name "Teleflora"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.1"
 description "Teleflora is a flower delivery service."

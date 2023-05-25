@@ -1,8 +1,7 @@
 Plugin.define do
-name "amh主机面板" 
+name "amh主机面板"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

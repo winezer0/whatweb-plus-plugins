@@ -2,7 +2,6 @@ Plugin.define do
 name "水星mw300r"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

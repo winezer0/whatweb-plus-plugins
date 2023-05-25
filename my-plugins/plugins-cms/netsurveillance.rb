@@ -1,8 +1,7 @@
 Plugin.define do
-name "netsurveillance" 
+name "netsurveillance"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "mtceo文库系统" 
+name "mtceo文库系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

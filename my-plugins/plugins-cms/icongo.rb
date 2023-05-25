@@ -1,8 +1,7 @@
 Plugin.define do
-name "icongo" 
+name "icongo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "manageengine-applications-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ManageEngine Applications Manager - monitoring software - includes server monitoring, application server monitoring, database monitoring, web services monitoring, virtualization monitoring, cloud monitoring"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "aiohttp" 
+name "aiohttp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

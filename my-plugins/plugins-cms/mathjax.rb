@@ -1,8 +1,7 @@
 Plugin.define do
-name "mathjax" 
+name "mathjax"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

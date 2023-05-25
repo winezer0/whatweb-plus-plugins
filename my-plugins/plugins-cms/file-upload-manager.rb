@@ -1,10 +1,8 @@
 Plugin.define do
 name "file-upload-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Web based file upload manager written in PHP."

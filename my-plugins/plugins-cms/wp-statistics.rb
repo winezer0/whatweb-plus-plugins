@@ -1,8 +1,7 @@
 Plugin.define do
-name "wp-statistics" 
+name "wp-statistics"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

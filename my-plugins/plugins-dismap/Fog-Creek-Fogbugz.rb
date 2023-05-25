@@ -1,7 +1,7 @@
 Plugin.define do
-name "Fog-Creek-Fogbugz" 
+name "Fog-Creek-Fogbugz"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

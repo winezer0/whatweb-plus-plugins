@@ -1,8 +1,7 @@
 Plugin.define do
 name "simsweb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SIMSWeb (Service Information Management System) is a web server which gives your dealers and/or customers access to their accounts, history and other account details via a standard web browser."

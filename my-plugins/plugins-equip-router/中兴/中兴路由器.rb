@@ -1,8 +1,7 @@
 Plugin.define do
-name "中兴路由器" 
+name "中兴路由器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "digi-connect-em"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Site4"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Site4 is a danish CMS system for webshops and homepages."

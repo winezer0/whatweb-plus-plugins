@@ -1,8 +1,7 @@
 Plugin.define do
-name "macos" 
+name "macos"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "phpgroupware" 
+name "phpgroupware"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "爱摆导航" 
+name "爱摆导航"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

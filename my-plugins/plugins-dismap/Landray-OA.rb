@@ -1,7 +1,7 @@
 Plugin.define do
-name "Landray-OA" 
+name "Landray-OA"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "slick" 
+name "slick"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

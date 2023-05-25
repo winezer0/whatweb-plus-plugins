@@ -1,7 +1,7 @@
 Plugin.define do
-name "libswarmcache-java" 
+name "libswarmcache-java"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

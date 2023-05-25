@@ -2,7 +2,6 @@ Plugin.define do
 name "solo博客-b3log"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

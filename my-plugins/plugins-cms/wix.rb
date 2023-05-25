@@ -1,10 +1,8 @@
 Plugin.define do
 name "Wix"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Wix is a cloud based website builder."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "VPON"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Video Picture on Net (VPON) is a remote video web server"

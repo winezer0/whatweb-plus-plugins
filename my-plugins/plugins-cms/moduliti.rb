@@ -1,8 +1,7 @@
 Plugin.define do
-name "moduliti" 
+name "moduliti"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

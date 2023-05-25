@@ -1,8 +1,7 @@
 Plugin.define do
-name "wts工作跟进系统" 
+name "wts工作跟进系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

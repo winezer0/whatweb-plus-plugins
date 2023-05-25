@@ -1,8 +1,7 @@
 Plugin.define do
 name "camera-life"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.1"
 description "Camera Life is an open source software package you install and run on your own server running PHP and MySQL."

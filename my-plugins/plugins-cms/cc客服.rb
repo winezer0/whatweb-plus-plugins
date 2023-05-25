@@ -1,8 +1,7 @@
 Plugin.define do
-name "cc客服" 
+name "cc客服"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

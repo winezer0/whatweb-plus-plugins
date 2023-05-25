@@ -2,7 +2,6 @@ Plugin.define do
 name "mod-security-owasp-csr-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "appdynamics" 
+name "appdynamics"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

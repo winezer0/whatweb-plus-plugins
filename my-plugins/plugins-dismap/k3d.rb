@@ -1,7 +1,7 @@
 Plugin.define do
-name "k3d" 
+name "k3d"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

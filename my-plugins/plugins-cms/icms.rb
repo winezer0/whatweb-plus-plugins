@@ -1,8 +1,7 @@
 Plugin.define do
-name "icms" 
+name "icms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

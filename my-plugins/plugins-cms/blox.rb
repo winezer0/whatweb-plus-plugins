@@ -2,11 +2,8 @@ Plugin.define do
 name "blox"
 authors [
 "Shuai Lin",
-
-"Bhavin Senjaliya", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya",
+"Andrew Horton",
 ]
 version "0.2"
 description "BLOX is a cloud based CMS"

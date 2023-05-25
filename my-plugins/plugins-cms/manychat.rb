@@ -1,8 +1,7 @@
 Plugin.define do
-name "manychat" 
+name "manychat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

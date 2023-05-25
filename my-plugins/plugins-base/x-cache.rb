@@ -1,8 +1,7 @@
 Plugin.define do
 name "X-Cache"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin identifies the X-Cache HTTP header and extracts the value."
@@ -16,4 +15,7 @@ m << { :string=>@headers["x-cache-lookup"].scan(/ from ([^\r^\n]{1,128})/).flatt
 end
 m
 end
+matches [
+{:search=>"headers[Strict-Transport-Security]", :string=>/^(.*)$/},
+]
 end

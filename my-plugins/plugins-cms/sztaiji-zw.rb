@@ -2,7 +2,6 @@ Plugin.define do
 name "sztaiji-zw"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "yieldify" 
+name "yieldify"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

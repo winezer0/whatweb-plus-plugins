@@ -2,7 +2,6 @@ Plugin.define do
 name "360-an-yu-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

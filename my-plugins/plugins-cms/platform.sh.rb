@@ -1,8 +1,7 @@
 Plugin.define do
-name "platform.sh" 
+name "platform.sh"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

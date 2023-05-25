@@ -1,8 +1,7 @@
 Plugin.define do
 name "eTicket"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "eTicket is a PHP-based electronic support ticket system that can receive tickets via email (pop3/pipe) or a web form."

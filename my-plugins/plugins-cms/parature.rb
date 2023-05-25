@@ -1,8 +1,7 @@
 Plugin.define do
 name "Parature"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Parature - web-based customer service software combine"

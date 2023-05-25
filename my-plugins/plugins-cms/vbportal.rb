@@ -2,7 +2,6 @@ Plugin.define do
 name "vbPortal"
 authors [
 "Brendan Coles <bcoles@gmail.com>",
-
 ]
 version "0.2"
 description "Portal and CMS for vBulletin"

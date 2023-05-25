@@ -1,10 +1,10 @@
 Plugin.define do
 name "asp.net"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-"Andrew Horton", 
-"Bhavin Senjaliya", 
-"Andrew Horton", 
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
+"Bhavin Senjaliya",
+"Andrew Horton",
 ]
 version "0.9"
 description "ASP.NET is a free web framework that enables great Web applications. Used by millions of developers, it runs some of the biggest sites in the world."
@@ -33,6 +33,7 @@ matches [
 {:string=>/connectionString="([^\"]+)/},
 {:string=>/connectionstring=DRIVER=([^\n]+)/},
 {:string=>/connectionstring=Provider=([^\n]+)/},
+{:text=>'vti_title:SR|Web Settings for Active Server Pages'},
 ]
 passive do
 m=[]

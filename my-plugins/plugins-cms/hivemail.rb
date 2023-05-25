@@ -1,8 +1,7 @@
 Plugin.define do
 name "HiveMail"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "HiveMail - PHP Webmail Portal Script - Hompage: http://www.hivemail.com/"

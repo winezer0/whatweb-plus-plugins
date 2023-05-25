@@ -1,8 +1,7 @@
 Plugin.define do
-name "旅游报名系统" 
+name "旅游报名系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

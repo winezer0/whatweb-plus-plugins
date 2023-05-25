@@ -1,8 +1,7 @@
 Plugin.define do
-name "cdnvideo" 
+name "cdnvideo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

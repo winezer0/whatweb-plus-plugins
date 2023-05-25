@@ -1,8 +1,7 @@
 Plugin.define do
-name "君子兰图霸" 
+name "君子兰图霸"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

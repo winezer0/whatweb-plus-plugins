@@ -1,8 +1,7 @@
 Plugin.define do
-name "webzi" 
+name "webzi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "netvanta" 
+name "netvanta"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

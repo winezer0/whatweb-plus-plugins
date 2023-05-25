@@ -1,8 +1,7 @@
 Plugin.define do
 name "ntop"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does."

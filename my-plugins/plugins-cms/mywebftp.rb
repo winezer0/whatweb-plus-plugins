@@ -1,8 +1,7 @@
 Plugin.define do
 name "MyWebFTP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "MyWebFTP web FTP client. MyWebFTP is designed for a professional web developer to do all your daily online file management tasks from one place. Install MyWebFTP on one of your websites, and it will allow you to quickly and efficiently manage files of all your websites via FTP."

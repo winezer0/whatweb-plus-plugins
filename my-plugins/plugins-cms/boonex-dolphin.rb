@@ -1,8 +1,7 @@
 Plugin.define do
 name "boonex-dolphin"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "BoonEx Dolphin - open-source, downloadable, scalable, customizable, full-featured, independent and free software package for building social networks, dating sites and niche communities."

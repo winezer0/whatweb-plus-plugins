@@ -1,8 +1,7 @@
 Plugin.define do
-name "uremediate" 
+name "uremediate"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

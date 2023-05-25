@@ -2,9 +2,7 @@ Plugin.define do
 name "http-server"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "HTTP server header string. This plugin also attempts to identify the operating system from the server header."
@@ -52,4 +50,8 @@ m << {:name=>"server string",:string=>@headers['server'].to_s}
 end
 m
 end
+matches [
+{:regexp=>/<!DOCTYPE html>/i},
+{:string=>"applicationCache", :regexp=>/<html[^>]* manifest=/},
+]
 end

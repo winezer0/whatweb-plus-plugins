@@ -1,7 +1,7 @@
 Plugin.define do
-name "Lotus-Domino-Server" 
+name "Lotus-Domino-Server"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

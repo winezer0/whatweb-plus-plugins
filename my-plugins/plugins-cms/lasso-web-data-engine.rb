@@ -1,8 +1,7 @@
 Plugin.define do
 name "Lasso-Web-Data-Engine"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Lasso Web Data Engine is a cross-platform Web Application Server"

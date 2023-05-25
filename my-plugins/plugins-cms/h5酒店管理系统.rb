@@ -1,8 +1,7 @@
 Plugin.define do
-name "h5酒店管理系统" 
+name "h5酒店管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

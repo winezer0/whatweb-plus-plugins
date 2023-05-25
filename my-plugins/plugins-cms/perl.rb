@@ -1,8 +1,7 @@
 Plugin.define do
 name "Perl"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Perl is a highly capable, feature-rich programming language with over 22 years of development."

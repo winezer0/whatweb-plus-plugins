@@ -1,8 +1,7 @@
 Plugin.define do
-name "nvd3" 
+name "nvd3"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

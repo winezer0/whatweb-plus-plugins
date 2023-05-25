@@ -1,8 +1,7 @@
 Plugin.define do
 name "cyn.in"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Cyn.in is a collaboration software that inter-connects your people with each other and their collective knowledge, seamlessly."

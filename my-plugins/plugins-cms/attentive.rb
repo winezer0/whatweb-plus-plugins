@@ -1,8 +1,7 @@
 Plugin.define do
-name "attentive" 
+name "attentive"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

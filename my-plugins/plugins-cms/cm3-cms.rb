@@ -1,8 +1,7 @@
 Plugin.define do
 name "cm3-cms"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
+"Aung Khant <http://yehg.net/>",
 ]
 version "0.1"
 description "CM3/CM2 CMS - http://www.cm3cms.com/ , CM2 was based on ASP, CM3 was based on ASP.NET."
@@ -20,20 +19,20 @@ matches [
 ]
 aggressive do
 m=[]
-target = URI.join(@base_uri.to_s,'admin/').to_s	
-status,url,ip,body,headers=open_target(target)	
+target = URI.join(@base_uri.to_s,'admin/').to_s
+status,url,ip,body,headers=open_target(target)
 if status == 200
 if body =~ /(name="cm2_top" id="cm2_top"|name="cm25_main")/
 m << {:name => "HTML Body (CM2)"}
 end
 end
-target = URI.join(@base_uri.to_s,'AcoraCMS/Admin/').to_s	
-status,url,ip,body,headers=open_target(target)	
+target = URI.join(@base_uri.to_s,'AcoraCMS/Admin/').to_s
+status,url,ip,body,headers=open_target(target)
 if status == 200
 if headers["set-cookie"] =~ /cm3session/
 m << {:name => "HTTP Cookie (CM3)"}
 end
-end	
+end
 m
 end
 end

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Synology-DSM" 
+name "Synology-DSM"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

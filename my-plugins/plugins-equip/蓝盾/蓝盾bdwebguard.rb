@@ -1,8 +1,7 @@
 Plugin.define do
-name "蓝盾bdwebguard" 
+name "蓝盾bdwebguard"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

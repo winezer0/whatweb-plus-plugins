@@ -2,7 +2,6 @@ Plugin.define do
 name "able-g2s"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

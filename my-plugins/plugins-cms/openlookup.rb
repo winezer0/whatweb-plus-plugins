@@ -1,8 +1,7 @@
 Plugin.define do
 name "OpenLookup"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "OpenLookup is a public, administratively decentralized key-value datastore. It offers an XML-RPC interface compatible with OpenDHT, but it is not a DHT. Instead, it fully replicates the datastore among service providers."

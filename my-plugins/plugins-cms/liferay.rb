@@ -1,8 +1,7 @@
 Plugin.define do
 name "Liferay"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "Liferay Portal is an enterprise web platform for building business solutions that deliver immediate results and long-term value."

@@ -1,10 +1,8 @@
 Plugin.define do
 name "PageUp-People"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "PageUpPeople is a commercial SaaS platform to recruit, onboard, train, develop, manage and retain employees."

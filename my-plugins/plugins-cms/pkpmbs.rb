@@ -1,8 +1,7 @@
 Plugin.define do
-name "pkpmbs" 
+name "pkpmbs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

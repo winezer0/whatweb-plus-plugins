@@ -1,8 +1,7 @@
 Plugin.define do
-name "启明星辰天清汉马usg防火墙" 
+name "启明星辰天清汉马usg防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

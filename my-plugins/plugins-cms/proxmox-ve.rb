@@ -1,8 +1,7 @@
 Plugin.define do
 name "Proxmox-VE"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Proxmox Virtual Environment is an easy to use Open Source virtualization platform for running Virtual Appliances and Virtual Machines."

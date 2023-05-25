@@ -1,8 +1,7 @@
 Plugin.define do
-name "huahaisoft考试系统" 
+name "huahaisoft考试系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

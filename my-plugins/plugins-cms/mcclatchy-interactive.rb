@@ -2,7 +2,6 @@ Plugin.define do
 name "McClatchy-Interactive"
 authors [
 "Shuai Lin",
-
 ]
 version "0.1"
 description "McClatchy-Interactive is a news website engine."

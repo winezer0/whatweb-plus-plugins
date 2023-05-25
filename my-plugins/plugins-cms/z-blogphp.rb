@@ -1,8 +1,7 @@
 Plugin.define do
-name "z-blogphp" 
+name "z-blogphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

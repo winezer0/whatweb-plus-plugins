@@ -1,12 +1,9 @@
 Plugin.define do
 name "Incapsula-WAF"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
-"Bhavin Senjaliya", 
-
-"Andrew Horton", 
-
+"Aung Khant <http://yehg.net/>",
+"Bhavin Senjaliya",
+"Andrew Horton",
 ]
 version "0.4"
 description "Incapsula-WAF"

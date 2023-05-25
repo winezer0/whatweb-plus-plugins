@@ -1,8 +1,7 @@
 Plugin.define do
-name "wizbank" 
+name "wizbank"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

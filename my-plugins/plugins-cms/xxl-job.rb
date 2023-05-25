@@ -2,7 +2,6 @@ Plugin.define do
 name "xxl-job"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

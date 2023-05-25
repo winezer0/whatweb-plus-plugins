@@ -1,10 +1,8 @@
 Plugin.define do
 name "AMR-WinControl"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "This plugin identifies AMR-WinControl server"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "highlight.js" 
+name "highlight.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

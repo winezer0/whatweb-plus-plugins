@@ -2,11 +2,8 @@ Plugin.define do
 name "mapserver"
 authors [
 "Aung Khant, http://yehg.net",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Detect MapServer CGI application (http://www.mapserver.org/)"

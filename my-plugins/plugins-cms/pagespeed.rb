@@ -1,8 +1,7 @@
 Plugin.define do
-name "pagespeed" 
+name "pagespeed"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

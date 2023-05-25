@@ -1,8 +1,7 @@
 Plugin.define do
-name "prism" 
+name "prism"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

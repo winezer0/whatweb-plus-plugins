@@ -1,8 +1,7 @@
 Plugin.define do
 name "FEX"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "F*EX (Frams's Fast File EXchange) is a service that can be used to allow users anywhere on the Internet to exchange files of ANY size quickly and conveniently."

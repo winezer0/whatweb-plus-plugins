@@ -1,8 +1,7 @@
 Plugin.define do
-name "mbbcms" 
+name "mbbcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

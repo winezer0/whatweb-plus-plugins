@@ -1,8 +1,7 @@
 Plugin.define do
-name "jqtouch" 
+name "jqtouch"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

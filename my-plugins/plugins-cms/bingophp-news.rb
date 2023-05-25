@@ -1,8 +1,7 @@
 Plugin.define do
 name "bingophp-news"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "News administration web app"

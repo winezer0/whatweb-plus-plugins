@@ -2,7 +2,6 @@ Plugin.define do
 name "palo-alto-networks"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

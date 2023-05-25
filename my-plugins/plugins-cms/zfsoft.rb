@@ -1,8 +1,7 @@
 Plugin.define do
-name "zfsoft" 
+name "zfsoft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

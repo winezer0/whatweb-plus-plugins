@@ -1,7 +1,7 @@
 Plugin.define do
-name "Atlassian-Bamboo" 
+name "Atlassian-Bamboo"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

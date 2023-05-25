@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-r480t+"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

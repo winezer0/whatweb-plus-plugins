@@ -1,8 +1,7 @@
 Plugin.define do
-name "d-link上网行为审计网关" 
+name "d-link上网行为审计网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

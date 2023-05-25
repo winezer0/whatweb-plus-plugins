@@ -1,8 +1,7 @@
 Plugin.define do
-name "搜一次cms电影程序php版" 
+name "搜一次cms电影程序php版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

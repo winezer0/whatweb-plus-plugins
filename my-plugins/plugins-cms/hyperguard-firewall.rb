@@ -1,8 +1,7 @@
 Plugin.define do
-name "hyperguard-firewall" 
+name "hyperguard-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "Nexus" 
+name "Nexus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

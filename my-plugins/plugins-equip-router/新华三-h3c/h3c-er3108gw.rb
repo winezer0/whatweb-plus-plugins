@@ -2,7 +2,6 @@ Plugin.define do
 name "h3c-er3108gw"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

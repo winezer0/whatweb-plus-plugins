@@ -1,8 +1,7 @@
 Plugin.define do
 name "Microsoft-Office-XML"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "This module detects instances of Microsoft Office documents saved as HTML and attempts to extract the user name, company name and office version."
@@ -65,4 +64,11 @@ end
 end
 m
 end
+matches [
+{:regexp=>/Microsoft-HTTPAPI/, :search=>"headers[server]"},
+{:search=>"all", :text=>'Microsoft HTTPAPI'},
+{:search=>"headers", :text=>'Microsoft-HTTPAPI'},
+{:search=>'headers[server]',:offset=>1, :regexp=>/Microsoft-HTTPAPI(?:.([\d.]+))?/},
+{:version=>/Microsoft-HTTPAPI\/(.+)$/, :search=>"headers[server]"},
+]
 end

@@ -1,7 +1,7 @@
 Plugin.define do
-name "bmpx" 
+name "bmpx"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

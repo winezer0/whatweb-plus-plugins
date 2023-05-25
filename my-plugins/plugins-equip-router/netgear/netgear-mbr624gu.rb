@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-mbr624gu"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "Weebly"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Weebly is a hosted CMS for ecommerce and blogs"

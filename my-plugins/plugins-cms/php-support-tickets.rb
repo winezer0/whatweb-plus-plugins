@@ -1,8 +1,7 @@
 Plugin.define do
 name "PHP-Support-Tickets"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PHP Support Tickets - PHP5 / MySQL helpdesk system."

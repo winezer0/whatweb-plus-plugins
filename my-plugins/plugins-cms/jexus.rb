@@ -1,8 +1,7 @@
 Plugin.define do
-name "jexus" 
+name "jexus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

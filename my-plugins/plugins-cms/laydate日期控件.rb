@@ -1,8 +1,7 @@
 Plugin.define do
-name "laydate日期控件" 
+name "laydate日期控件"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

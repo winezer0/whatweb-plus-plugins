@@ -1,8 +1,7 @@
 Plugin.define do
-name "aa-iot" 
+name "aa-iot"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

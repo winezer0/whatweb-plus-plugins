@@ -1,10 +1,8 @@
 Plugin.define do
 name "traffic-inspector"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "An integrated gateway solution for controlling access to the Internet and for providing data transmission services."

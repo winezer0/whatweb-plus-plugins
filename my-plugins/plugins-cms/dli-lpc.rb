@@ -1,8 +1,7 @@
 Plugin.define do
 name "DLI-LPC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Digital Loggers Inc remote switch with built-in web server for remote reboot and power control"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "unknown-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "This plugin identifies routers for which the vendor is unknown or where fingerprinting is exceptionally difficult."

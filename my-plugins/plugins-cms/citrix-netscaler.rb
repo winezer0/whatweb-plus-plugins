@@ -1,12 +1,9 @@
 Plugin.define do
 name "citrix-netscaler"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
-"Andrew Horton", 
-
-"Bhavin Senjaliya", 
-
+"Aung Khant <http://yehg.net/>",
+"Andrew Horton",
+"Bhavin Senjaliya",
 ]
 version "0.3"
 description "Citrix NetScaler  - http://www.citrix.com/netscaler"

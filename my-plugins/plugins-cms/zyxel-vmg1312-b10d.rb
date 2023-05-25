@@ -2,7 +2,6 @@ Plugin.define do
 name "zyxel-vmg1312-b10d"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

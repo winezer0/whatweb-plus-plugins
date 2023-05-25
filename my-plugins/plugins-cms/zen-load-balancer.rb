@@ -1,8 +1,7 @@
 Plugin.define do
 name "zen-load-balancer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Zen Load Balancer is a complete solution for load balancing to provide a high availability for TCP and UDP services and data line communications."

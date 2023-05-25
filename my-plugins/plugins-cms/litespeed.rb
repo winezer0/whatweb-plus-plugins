@@ -1,7 +1,7 @@
 Plugin.define do
 name "LiteSpeed"
 authors [
-"Sagar Prakash Junnarkar  <sagarjunnu@gmail.com>", # 2012-11-09" 
+"Sagar Prakash Junnarkar  <sagarjunnu@gmail.com>", # 2012-11-09"
 ]
 version "1.0"
 description "LiteSpeed web server, which is able to read Apache configuration directly and used together with web hosting control panels by replacing Apache"

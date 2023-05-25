@@ -1,8 +1,7 @@
 Plugin.define do
-name "inveon" 
+name "inveon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

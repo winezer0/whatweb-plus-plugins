@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpsqlitecms" 
+name "phpsqlitecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

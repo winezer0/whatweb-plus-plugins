@@ -1,8 +1,7 @@
 Plugin.define do
-name "moon" 
+name "moon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "唯品会cdn" 
+name "唯品会cdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "sellix" 
+name "sellix"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

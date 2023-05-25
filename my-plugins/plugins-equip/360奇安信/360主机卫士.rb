@@ -1,8 +1,7 @@
 Plugin.define do
-name "360主机卫士" 
+name "360主机卫士"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

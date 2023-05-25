@@ -1,8 +1,7 @@
 Plugin.define do
-name "lum服务器管理" 
+name "lum服务器管理"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

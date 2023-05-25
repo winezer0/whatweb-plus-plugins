@@ -1,8 +1,7 @@
 Plugin.define do
 name "Shadowed-Portal"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Shadowed Portal CMS- Homepage [offline] : http://www.shad0wed.com/"

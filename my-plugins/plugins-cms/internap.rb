@@ -1,8 +1,7 @@
 Plugin.define do
-name "internap" 
+name "internap"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "iotcms" 
+name "iotcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

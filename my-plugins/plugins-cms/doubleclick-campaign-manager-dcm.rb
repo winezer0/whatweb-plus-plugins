@@ -2,7 +2,6 @@ Plugin.define do
 name "doubleclick-campaign-manager-dcm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "janusec-application-gateway-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

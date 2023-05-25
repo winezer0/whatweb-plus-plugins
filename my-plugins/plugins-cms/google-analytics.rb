@@ -2,7 +2,6 @@ Plugin.define do
 name "Google-Analytics"
 authors [
 "Peter van der Laan",
-
 ]
 version "0.1"
 description "This plugin identifies the Google Analytics account."

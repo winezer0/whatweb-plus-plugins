@@ -1,8 +1,7 @@
 Plugin.define do
 name "Fpoll"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Fpoll is a simple and easily customizable open source web poll script - Requires: PHP and MySQL"

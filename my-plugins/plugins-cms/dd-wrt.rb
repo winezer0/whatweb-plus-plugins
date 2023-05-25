@@ -1,8 +1,7 @@
 Plugin.define do
 name "DD-WRT"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems."

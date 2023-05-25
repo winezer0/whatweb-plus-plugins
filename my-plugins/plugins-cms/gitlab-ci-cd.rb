@@ -2,7 +2,6 @@ Plugin.define do
 name "gitlab-ci-cd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

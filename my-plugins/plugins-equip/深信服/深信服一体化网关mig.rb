@@ -1,8 +1,7 @@
 Plugin.define do
-name "深信服一体化网关mig" 
+name "深信服一体化网关mig"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

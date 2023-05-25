@@ -1,8 +1,7 @@
 Plugin.define do
-name "flexcmp" 
+name "flexcmp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

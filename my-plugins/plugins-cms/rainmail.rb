@@ -1,8 +1,7 @@
 Plugin.define do
 name "rainmail"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Rainmail Intranet Server is integrated software for providing complete Intranet and Network Infrastructure to enterprises."

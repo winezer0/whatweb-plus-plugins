@@ -1,8 +1,7 @@
 Plugin.define do
-name "staragent" 
+name "staragent"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

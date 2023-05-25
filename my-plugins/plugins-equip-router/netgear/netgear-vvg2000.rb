@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-vvg2000"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

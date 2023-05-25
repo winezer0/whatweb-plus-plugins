@@ -1,7 +1,7 @@
 Plugin.define do
-name "Apache-OFBiz" 
+name "Apache-OFBiz"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

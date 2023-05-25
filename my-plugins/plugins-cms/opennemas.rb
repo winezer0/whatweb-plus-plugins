@@ -1,8 +1,7 @@
 Plugin.define do
-name "opennemas" 
+name "opennemas"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

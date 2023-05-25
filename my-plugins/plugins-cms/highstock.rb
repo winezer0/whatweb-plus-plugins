@@ -1,8 +1,7 @@
 Plugin.define do
-name "highstock" 
+name "highstock"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

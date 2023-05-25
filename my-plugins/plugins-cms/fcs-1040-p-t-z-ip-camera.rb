@@ -2,7 +2,6 @@ Plugin.define do
 name "fcs-1040-p-t-z-ip-camera"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

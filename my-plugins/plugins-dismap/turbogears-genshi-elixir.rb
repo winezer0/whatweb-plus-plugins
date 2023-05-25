@@ -1,7 +1,7 @@
 Plugin.define do
-name "turbogears-genshi-elixir" 
+name "turbogears-genshi-elixir"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

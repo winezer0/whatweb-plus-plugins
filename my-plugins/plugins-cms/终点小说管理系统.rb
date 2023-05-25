@@ -1,8 +1,7 @@
 Plugin.define do
-name "终点小说管理系统" 
+name "终点小说管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

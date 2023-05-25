@@ -1,8 +1,7 @@
 Plugin.define do
-name "票友erp" 
+name "票友erp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

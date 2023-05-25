@@ -1,8 +1,7 @@
 Plugin.define do
-name "semcms英文外贸网站" 
+name "semcms英文外贸网站"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

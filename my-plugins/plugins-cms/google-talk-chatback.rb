@@ -1,8 +1,7 @@
 Plugin.define do
 name "Google-Talk-Chatback"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Google 'chatback badge' allows your site's visitors to chat with you, provided you're logged in to Google Talk at the time."

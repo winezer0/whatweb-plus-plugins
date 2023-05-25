@@ -1,8 +1,7 @@
 Plugin.define do
-name "久安世纪生物识别web组件" 
+name "久安世纪生物识别web组件"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "dvrdvs-webs" 
+name "dvrdvs-webs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

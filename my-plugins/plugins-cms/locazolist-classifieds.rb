@@ -1,8 +1,7 @@
 Plugin.define do
 name "LocazoList-Classifieds"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Locazolist v2.02b is a text based classifieds ad system based on ASP and Microsoft SQL Server 2005. Locazolist v2 is known as the first and still only ASP based 'craigslist clone script' in the web since its development beginning in late 2005."

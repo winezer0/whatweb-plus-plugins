@@ -1,8 +1,7 @@
 Plugin.define do
-name "oracle-tns" 
+name "oracle-tns"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

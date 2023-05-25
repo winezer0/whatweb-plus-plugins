@@ -1,8 +1,7 @@
 Plugin.define do
-name "欧途智能通关云平台" 
+name "欧途智能通关云平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

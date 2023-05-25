@@ -2,7 +2,6 @@ Plugin.define do
 name "wdcp-cloud-host-management-system"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

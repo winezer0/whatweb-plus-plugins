@@ -2,7 +2,6 @@ Plugin.define do
 name "TVersity"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "The TVersity Media Server lets you manage your Internet and home media"

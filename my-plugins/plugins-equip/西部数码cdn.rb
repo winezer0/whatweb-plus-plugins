@@ -1,8 +1,7 @@
 Plugin.define do
-name "西部数码cdn" 
+name "西部数码cdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

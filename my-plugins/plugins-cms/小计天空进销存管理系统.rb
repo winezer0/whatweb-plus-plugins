@@ -1,8 +1,7 @@
 Plugin.define do
-name "小计天空进销存管理系统" 
+name "小计天空进销存管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "MSGS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Mercury Satellite Ground Station is a software system for commanding and controlling a satellite ground station. It's goal is to help enable ubiquitous access to satellite resources via the Internet."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "battle-blog"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Battle Blog is a Fun Debate and Resolution Tool"

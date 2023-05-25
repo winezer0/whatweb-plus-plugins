@@ -1,11 +1,10 @@
 Plugin.define do
 name "dell-printer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
-description "Dell printer web frontend - http://www.dell.com/" 
+description "Dell printer web frontend - http://www.dell.com/"
 dorks [
 '"Online Help" "Order Supplies" intitle:"Laser Printer" intitle:dell'
 ]

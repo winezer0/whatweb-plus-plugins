@@ -2,7 +2,6 @@ Plugin.define do
 name "Coppermine"
 authors [
 "Andrew Horton",
-
 ]
 version "0.4"
 description "Open-source Photo Gallery powered by PHP & MySQL"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "SARG"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Squid Analysis Report Generator (SARG) is a tool that allow you to view where your users are going to on the Internet."

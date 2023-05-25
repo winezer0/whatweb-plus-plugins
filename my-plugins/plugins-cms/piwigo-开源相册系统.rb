@@ -2,7 +2,6 @@ Plugin.define do
 name "piwigo-开源相册系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

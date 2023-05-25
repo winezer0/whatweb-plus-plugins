@@ -2,11 +2,8 @@ Plugin.define do
 name "Adobe-Flash"
 authors [
 "Caleb Anderson",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "This plugin identifies instances of embedded adobe flash files."

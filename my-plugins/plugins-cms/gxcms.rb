@@ -1,8 +1,7 @@
 Plugin.define do
-name "gxcms" 
+name "gxcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

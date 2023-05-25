@@ -1,8 +1,7 @@
 Plugin.define do
-name "青果学生系统" 
+name "青果学生系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "hostmonster-web-hosting"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

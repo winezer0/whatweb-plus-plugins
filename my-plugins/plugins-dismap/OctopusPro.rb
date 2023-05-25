@@ -1,7 +1,7 @@
 Plugin.define do
-name "OctopusPro" 
+name "OctopusPro"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

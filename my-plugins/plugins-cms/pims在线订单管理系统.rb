@@ -1,8 +1,7 @@
 Plugin.define do
-name "pims在线订单管理系统" 
+name "pims在线订单管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

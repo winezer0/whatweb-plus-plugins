@@ -1,8 +1,7 @@
 Plugin.define do
 name "Sophos-Email-Appliance"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Sophos Email Appliances provide simple, powerful protection against spam, malware and data loss."

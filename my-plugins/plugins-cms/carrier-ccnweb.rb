@@ -1,8 +1,7 @@
 Plugin.define do
 name "carrier-ccnweb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description 'Carrier CCNWeb - a web-based HVAC front-end for a Carrier CCN Controls system. Comes out of the box with the ability to "Self-Learn" the building controls and then automatically display them."

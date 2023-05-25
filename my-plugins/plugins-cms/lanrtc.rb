@@ -1,10 +1,8 @@
 Plugin.define do
 name "LanRTC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "LanRTC Device"
@@ -14,6 +12,7 @@ matches [
 {:model=>/<tr><td><h2>LanRTC([\d]{4})<br>System information<\/h2><\/td>/},
 {:regexp=>/<p><font size=-1><strong><a href="javascript:window.history.back()">Back<\/a>|<a href="Index.htm">System Info<\/a>|<a href="TmStatus.htm?TM=1">TM Status<\/a>|<a href="LanStat.htm">LAN Akt.<\/a>|<a href="de\/Buchen.htm">Booking<\/a><\/strong><\/font><\/p><\/body><\/html>/},
 {:regexp=>/^LanRTC/, :search=>"headers[server]"},
+{:text=>'<p><font size=-1><strong><a href="javascript:window.history.back()">Back</a> | <a href="Index.htm">System Info</a> | <a href="TmStatus.htm?TM=1">TM Status</a> | <a href="LanStat.htm">LAN Akt.</a> | <a href="de/Buchen.htm">Booking</a></strong></font></p></body></html>'},
 {:text=>'<td align=right><h2><img src="Logo.gif" width="120" height="59" alt="MBB Gelma"></h2>'},
 {:url=>"/Logo.gif", :md5=>"2fe5a40924a7b13c61fcc66a7dacec94"},
 {:version=>/^LanRTC\/([\d\.]{1,5})$/, :search=>"headers[server]"},

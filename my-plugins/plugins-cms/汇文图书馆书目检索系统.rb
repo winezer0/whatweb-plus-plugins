@@ -1,8 +1,7 @@
 Plugin.define do
-name "汇文图书馆书目检索系统" 
+name "汇文图书馆书目检索系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

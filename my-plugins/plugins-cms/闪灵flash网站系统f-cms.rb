@@ -1,8 +1,7 @@
 Plugin.define do
-name "闪灵flash网站系统f-cms" 
+name "闪灵flash网站系统f-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

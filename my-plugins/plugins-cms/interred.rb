@@ -1,8 +1,7 @@
 Plugin.define do
 name "InterRed"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "InterRed GmbH is a leading technology provider of content management systems (CMS), Knowledge Retrieval (KM), personalization of web sites, live reporting (website statistics) to use analysis of websites and offers print solutions for catalogs, magazines, newspapers Web-to-print, publishing houses."

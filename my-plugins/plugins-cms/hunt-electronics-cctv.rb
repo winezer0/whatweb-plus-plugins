@@ -1,8 +1,7 @@
 Plugin.define do
 name "Hunt-Electronics-CCTV"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Hunt Electronics is staffed with highly trained, experienced, and creative individuals specializing in the development and manufacturing of high performance CCTV solutions."

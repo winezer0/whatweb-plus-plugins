@@ -2,7 +2,6 @@ Plugin.define do
 name "outlook-web-application"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Wacintaki-Poteto-BBS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Wacintaki Poteto BBS is a CSS conversion of Oekaki Poteto 5.x."

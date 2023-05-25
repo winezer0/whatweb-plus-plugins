@@ -1,8 +1,7 @@
 Plugin.define do
-name "fiberhome" 
+name "fiberhome"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

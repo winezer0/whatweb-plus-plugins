@@ -1,8 +1,7 @@
 Plugin.define do
-name "paddle" 
+name "paddle"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

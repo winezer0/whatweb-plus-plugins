@@ -1,8 +1,7 @@
 Plugin.define do
 name "poMMo"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "poMMo is versatile mass mailing software - Requires PHP"

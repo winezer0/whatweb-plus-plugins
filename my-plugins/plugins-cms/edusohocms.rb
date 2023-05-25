@@ -1,8 +1,7 @@
 Plugin.define do
-name "edusohocms" 
+name "edusohocms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "pclinuxos" 
+name "pclinuxos"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

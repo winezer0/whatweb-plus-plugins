@@ -1,8 +1,7 @@
 Plugin.define do
 name "ManageEngine-DeviceExpert"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DeviceExpert is a web.based, multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices."

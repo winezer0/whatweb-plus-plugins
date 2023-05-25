@@ -2,7 +2,6 @@ Plugin.define do
 name "xuezi-ceping"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

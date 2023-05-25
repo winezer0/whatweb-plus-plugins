@@ -2,7 +2,6 @@ Plugin.define do
 name "yongyou-icc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

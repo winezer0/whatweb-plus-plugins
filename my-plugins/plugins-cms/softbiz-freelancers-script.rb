@@ -1,8 +1,7 @@
 Plugin.define do
 name "Softbiz-Freelancers-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Softbiz Freelancers Script is an Extensive and Powerful script written in PHP to launch your own Freelancers website."

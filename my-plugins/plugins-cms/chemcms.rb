@@ -1,8 +1,7 @@
 Plugin.define do
-name "chemcms" 
+name "chemcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

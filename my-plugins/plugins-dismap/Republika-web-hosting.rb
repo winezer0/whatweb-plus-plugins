@@ -1,7 +1,7 @@
 Plugin.define do
-name "Republika-web-hosting" 
+name "Republika-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

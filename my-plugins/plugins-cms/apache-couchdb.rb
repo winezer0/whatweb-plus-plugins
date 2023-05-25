@@ -1,8 +1,7 @@
 Plugin.define do
 name "apache-couchdb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Apache CouchDB is a document-oriented database written in Erlang that can be queried and indexed in a MapReduce fashion using JavaScript. CouchDB provides a RESTful JSON API than can be accessed from any environment that allows HTTP requests."
@@ -15,4 +14,9 @@ m << { :string=>"#{$2}" }
 end
 m
 end
+matches [
+{:search=>"all", :text=>'Apache Cocoon'},
+{:search=>"headers", :text=>'x-cocoon-version'},
+{:version=>/^(.*)$/ ,:search=>"headers[x-cocoon-version]"},
+]
 end

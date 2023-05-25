@@ -1,8 +1,7 @@
 Plugin.define do
 name "Simple-Directory-Listing"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A php application that provides a web-based graphical interface similar to apache directory listing. Functions:copy, move, delete, rename files, etc."

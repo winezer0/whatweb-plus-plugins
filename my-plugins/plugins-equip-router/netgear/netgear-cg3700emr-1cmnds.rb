@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-cg3700emr-1cmnds"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

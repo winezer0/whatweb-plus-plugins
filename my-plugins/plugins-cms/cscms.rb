@@ -1,11 +1,13 @@
 Plugin.define do
-name "cscms" 
+name "cscms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>"var cscms_path="},
+{:url=>"/cscms/cscms/pay/wxpay/log.php"},
+{:url=>"/cscms/robots.txt", :text=>"CSCMS"},
 {:url=>'/csdj/admin/js/admin.js', :text=>'Cscms'},
 {:url=>'/csdj/images/tip-top.png', :md5=>'8953e4f362adadc2fd1bb573e8998a10'},
 {:url=>'/csdj/js/plajax.js', :text=>'cscms'},

@@ -1,8 +1,7 @@
 Plugin.define do
-name "致远OA" 
+name "致远OA"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

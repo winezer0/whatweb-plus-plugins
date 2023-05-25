@@ -2,7 +2,6 @@ Plugin.define do
 name "comersus"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "ComersusCart is an open-source shopping cart using ASP. Comersus is an active server pages software for running a professional store, seamlessly integrated with the rest of your web site. Comersus Cart is free and it can be used for commercial purposes. Full source code included and compatible with Windows and Linux Servers."

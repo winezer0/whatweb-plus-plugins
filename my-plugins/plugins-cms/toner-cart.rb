@@ -1,8 +1,7 @@
 Plugin.define do
 name "Toner-Cart"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Toner cart has all features needed for a toner business to go online. You can separate all the differentiate different types of toners from ribbons to inkjets to laser toners all can be added separately in the system."

@@ -1,10 +1,8 @@
 Plugin.define do
 name "SquareSpace"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Bhavin Senjaliya", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Bhavin Senjaliya",
 ]
 version "0.2"
 description "A fully hosted, completely managed environment for creating and maintaining a website, blog or portfolio."
@@ -19,5 +17,6 @@ matches [
 {:search=>'headers[x-servedby]', :regexp=>/squarespace/},
 {:text=>'new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();'},
 {:url=>"/favicon.ico", :md5=>"89cc5689b952ee12d13a68e98119183f"},
+{:url=>"favicon.ico", :md5=>"89cc5689b952ee12d13a68e98119183f"},
 ]
 end

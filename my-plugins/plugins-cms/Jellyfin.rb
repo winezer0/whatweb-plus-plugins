@@ -1,8 +1,7 @@
 Plugin.define do
-name "Jellyfin" 
+name "Jellyfin"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

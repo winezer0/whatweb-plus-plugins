@@ -1,7 +1,7 @@
 Plugin.define do
-name "前沿风雷电子文档安全管理系统" 
+name "前沿风雷电子文档安全管理系统"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

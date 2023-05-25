@@ -1,10 +1,8 @@
 Plugin.define do
 name "Kayako-SupportSuite"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "We offer all of our helpdesk solutions as licensed products (install and host it yourself) or as help desk hosting services."

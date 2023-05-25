@@ -1,10 +1,8 @@
 Plugin.define do
 name "phpMyTourney"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "phpMyTourney is a PHP and MySQL script provide tournament hosting. Websites used to be http://phpmytourney.sourceforge.net/ and http://phpmytourney.servegame.com/"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "asciidoc" 
+name "asciidoc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

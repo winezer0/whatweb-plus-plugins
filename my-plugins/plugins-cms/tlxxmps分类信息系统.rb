@@ -1,8 +1,7 @@
 Plugin.define do
-name "tlxxmps分类信息系统" 
+name "tlxxmps分类信息系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

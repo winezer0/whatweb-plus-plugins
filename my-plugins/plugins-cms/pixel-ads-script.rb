@@ -1,8 +1,7 @@
 Plugin.define do
 name "Pixel-Ads-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Pixel Ads Script"

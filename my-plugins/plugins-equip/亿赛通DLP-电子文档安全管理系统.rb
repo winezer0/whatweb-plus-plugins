@@ -1,5 +1,5 @@
 Plugin.define do
-name "亿赛通DLP-电子文档安全管理系统" 
+name "亿赛通DLP-电子文档安全管理系统"
 authors [
 "winezero",
 ]

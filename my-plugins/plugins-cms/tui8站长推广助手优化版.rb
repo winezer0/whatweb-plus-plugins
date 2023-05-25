@@ -1,8 +1,7 @@
 Plugin.define do
-name "tui8站长推广助手优化版" 
+name "tui8站长推广助手优化版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

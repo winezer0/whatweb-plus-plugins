@@ -1,8 +1,7 @@
 Plugin.define do
-name "expertrec" 
+name "expertrec"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

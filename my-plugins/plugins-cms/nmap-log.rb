@@ -1,8 +1,7 @@
 Plugin.define do
 name "Nmap-Log"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "This plugin identifies nmap plain-text logs and extracts the hostname, OS, active ports and nmap version. It does not work for logs in the XML file format."
@@ -20,4 +19,13 @@ end
 end
 m
 end
+matches [
+{:search=>"all", :text=>'niubicms'},
+{:text=>'<br>Powered By <a href="http://www.niubicms.com/" target="_blank">niubicms</a> V1.8'},
+{:url=>'/admin/template/images/mainbg.png', :md5=>'fb9a717733de201cf420b258529eb787'},
+{:url=>'/statics/ui-jquery/main-nav.png', :md5=>'d814e8687091d87762b4a3dffd9139ce'},
+{:url=>'/template/cn/red/hr/article_job.html', :text=>'niubiCMS'},
+{:url=>'/template/cn/red/tuan/show.html', :text=>'niubiCMS'},
+{:version=>/<meta name="generator" content="niubicms (V.+)">/},
+]
 end

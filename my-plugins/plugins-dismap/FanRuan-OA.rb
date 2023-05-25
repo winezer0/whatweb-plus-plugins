@@ -1,7 +1,7 @@
 Plugin.define do
-name "FanRuan-OA" 
+name "FanRuan-OA"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

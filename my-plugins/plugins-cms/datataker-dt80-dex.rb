@@ -2,7 +2,6 @@ Plugin.define do
 name "datataker-dt80-dex"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

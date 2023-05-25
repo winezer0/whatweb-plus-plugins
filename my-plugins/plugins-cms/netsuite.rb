@@ -1,10 +1,8 @@
 Plugin.define do
 name "NetSuite"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "NetSuite has a range of products. I don't know what this detects."

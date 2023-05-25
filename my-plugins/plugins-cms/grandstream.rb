@@ -1,8 +1,7 @@
 Plugin.define do
-name "grandstream" 
+name "grandstream"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

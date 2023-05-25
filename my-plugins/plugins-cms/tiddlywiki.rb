@@ -1,8 +1,7 @@
 Plugin.define do
-name "tiddlywiki" 
+name "tiddlywiki"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

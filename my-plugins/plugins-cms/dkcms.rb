@@ -1,8 +1,7 @@
 Plugin.define do
-name "dkcms" 
+name "dkcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

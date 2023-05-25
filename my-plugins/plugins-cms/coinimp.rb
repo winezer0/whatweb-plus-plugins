@@ -1,8 +1,7 @@
 Plugin.define do
-name "coinimp" 
+name "coinimp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

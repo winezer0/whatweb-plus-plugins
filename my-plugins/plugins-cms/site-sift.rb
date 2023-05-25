@@ -1,8 +1,7 @@
 Plugin.define do
 name "Site-Sift"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Site Sift Listings is a FREE directory script with many features that webmasters want including creation of static pages. Site Sift Listings can be customized to create the look and feel you want from a directory. Requirements: PHP."

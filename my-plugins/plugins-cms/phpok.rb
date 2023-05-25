@@ -1,11 +1,13 @@
 Plugin.define do
-name "phpok" 
+name "phpok"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:regexp=>/Powered By phpok.com\s*\S*, All right reserved./},
+{:text=>"$.phpok.json(api_url('task'),function(rs){return true;});"},
+{:text=>'<li><i class="am-icon-at am-icon-fw"></i> admin@phpok.com</li>'},
 {:text=>'Powered By phpok.com'},
 {:text=>'content="phpok'},
 {:text=>'phpok'},

@@ -1,8 +1,7 @@
 Plugin.define do
-name "linuxmint" 
+name "linuxmint"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

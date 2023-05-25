@@ -1,8 +1,7 @@
 Plugin.define do
 name "Winamp-Web-Interface"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "web interface for winamp mp3 player"

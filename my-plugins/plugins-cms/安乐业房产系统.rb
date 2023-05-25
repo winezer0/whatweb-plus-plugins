@@ -1,8 +1,7 @@
 Plugin.define do
-name "安乐业房产系统" 
+name "安乐业房产系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

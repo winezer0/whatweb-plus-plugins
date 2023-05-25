@@ -1,8 +1,7 @@
 Plugin.define do
-name "sonicwall" 
+name "sonicwall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

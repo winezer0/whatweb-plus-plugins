@@ -1,10 +1,8 @@
 Plugin.define do
 name "Free-Simple-Software"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Free Simple Software - Full list of homepages: http://www.freesimpleshop.com/ http://www.freesimplecms.com/ http://www.freesimpleblog.com/ http://www.freesimplehost.com/"

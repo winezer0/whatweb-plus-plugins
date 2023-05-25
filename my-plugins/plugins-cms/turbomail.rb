@@ -1,8 +1,7 @@
 Plugin.define do
-name "turbomail" 
+name "turbomail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "machform" 
+name "machform"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

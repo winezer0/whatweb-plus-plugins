@@ -1,8 +1,7 @@
 Plugin.define do
-name "商奇主机评测系统商业版" 
+name "商奇主机评测系统商业版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "i-Gallery"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "i-Gallery is a complete online photo gallery. Easy to navigate thumbnails with paging. Enlarged views offer print & email buttons."

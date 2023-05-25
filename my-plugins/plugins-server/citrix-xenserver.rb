@@ -1,8 +1,7 @@
 Plugin.define do
 name "citrix-xenserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Citrix XenServer is a complete, managed server virtualization platform built on the powerful Xen hypervisor."

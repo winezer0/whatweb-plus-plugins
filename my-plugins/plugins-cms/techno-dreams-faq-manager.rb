@@ -1,8 +1,7 @@
 Plugin.define do
 name "techno-dreams-faq-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A full and ready to use ASP Script that enables you managing a FAQ List for your site. It lists FAQ questions and answers by categories. With search capabilities."

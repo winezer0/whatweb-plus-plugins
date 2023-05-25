@@ -1,8 +1,7 @@
 Plugin.define do
 name "Juniper-NetScreen-Secure-Access"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
+"Aung Khant <http://yehg.net/>",
 ]
 version "0.1"
 description "Juniper Networks NetScreen Secure Access (SSL VPN) - http://www.juniper.net/"

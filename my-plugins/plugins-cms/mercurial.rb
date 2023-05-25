@@ -1,8 +1,7 @@
 Plugin.define do
 name "Mercurial"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Mercurial is a free, distributed source control management tool."

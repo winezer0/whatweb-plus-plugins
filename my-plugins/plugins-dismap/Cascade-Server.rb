@@ -1,7 +1,7 @@
 Plugin.define do
-name "Cascade-Server" 
+name "Cascade-Server"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

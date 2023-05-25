@@ -2,7 +2,6 @@ Plugin.define do
 name "samsung-printer"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "Samsung. SyncThru Web Service - Embedded Web Server"

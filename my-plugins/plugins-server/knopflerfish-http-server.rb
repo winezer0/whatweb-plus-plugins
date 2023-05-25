@@ -1,8 +1,7 @@
 Plugin.define do
 name "knopflerfish-http-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Knopflerfish HTTP Server - Small footprint OSGi HTTP server implementation for embedded use"

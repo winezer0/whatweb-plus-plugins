@@ -1,8 +1,7 @@
 Plugin.define do
-name "网康ns-asg应用安全网关" 
+name "网康ns-asg应用安全网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

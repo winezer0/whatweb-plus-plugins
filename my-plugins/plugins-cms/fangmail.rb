@@ -1,8 +1,7 @@
 Plugin.define do
-name "fangmail" 
+name "fangmail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

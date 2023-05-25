@@ -1,8 +1,7 @@
 Plugin.define do
-name "edayshop团购系统" 
+name "edayshop团购系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

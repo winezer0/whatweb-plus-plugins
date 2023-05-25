@@ -1,8 +1,7 @@
 Plugin.define do
-name "兔子影视cms" 
+name "兔子影视cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

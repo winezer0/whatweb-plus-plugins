@@ -1,8 +1,7 @@
 Plugin.define do
-name "sarka-spip" 
+name "sarka-spip"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "wcm-拓尔思cms-trs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

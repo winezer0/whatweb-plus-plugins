@@ -1,8 +1,7 @@
 Plugin.define do
-name "用友turbocrm" 
+name "用友turbocrm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

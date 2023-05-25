@@ -1,8 +1,7 @@
 Plugin.define do
-name "zeroboard" 
+name "zeroboard"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

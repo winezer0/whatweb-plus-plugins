@@ -1,8 +1,7 @@
 Plugin.define do
-name "方维p2p网贷系统" 
+name "方维p2p网贷系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

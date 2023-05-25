@@ -1,8 +1,7 @@
 Plugin.define do
 name "DokuWiki"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DokuWiki is a standards compliant, simple to use Wiki, mainly aimed at creating documentation of any kind."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "sucuri" 
+name "sucuri"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

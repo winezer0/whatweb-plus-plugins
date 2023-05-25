@@ -1,8 +1,7 @@
 Plugin.define do
-name "物品申领审批发放系统" 
+name "物品申领审批发放系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

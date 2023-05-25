@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-3g-mr12u"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

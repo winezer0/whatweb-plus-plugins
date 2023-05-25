@@ -2,7 +2,6 @@ Plugin.define do
 name "supermicro-ipmi-rmcp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

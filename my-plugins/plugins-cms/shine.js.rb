@@ -1,8 +1,7 @@
 Plugin.define do
-name "shine.js" 
+name "shine.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

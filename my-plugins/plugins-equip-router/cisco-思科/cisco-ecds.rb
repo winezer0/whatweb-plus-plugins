@@ -1,8 +1,7 @@
 Plugin.define do
-name "cisco-ecds" 
+name "cisco-ecds"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,9 +2,7 @@ Plugin.define do
 name "cPanel"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.5"
 description "Site configuration and management software application. Supporting many operating systems while allowing endusers to control every aspect of their webhosting experience."

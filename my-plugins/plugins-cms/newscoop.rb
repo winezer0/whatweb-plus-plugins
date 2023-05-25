@@ -1,8 +1,7 @@
 Plugin.define do
 name "Newscoop"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Open content management system for professional journalists & online newspapers."

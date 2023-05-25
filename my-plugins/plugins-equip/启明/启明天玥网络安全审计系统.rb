@@ -1,8 +1,7 @@
 Plugin.define do
-name "启明天玥网络安全审计系统" 
+name "启明天玥网络安全审计系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

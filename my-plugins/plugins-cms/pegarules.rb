@@ -2,7 +2,6 @@ Plugin.define do
 name "PegaRULES"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "PegaRULES Process Commander is BPM software from Pega. Many of the world's leading organizations use Pega to drive revenue growth, improve customer experience, and enhance operational efficiency. Pega's unified offering is recognized by industry analysts as a leader in CRM, BPM, case management and business rules"

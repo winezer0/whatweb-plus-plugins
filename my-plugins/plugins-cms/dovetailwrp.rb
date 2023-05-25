@@ -1,8 +1,7 @@
 Plugin.define do
-name "dovetailwrp" 
+name "dovetailwrp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

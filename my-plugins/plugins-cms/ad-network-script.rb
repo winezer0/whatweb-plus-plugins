@@ -1,8 +1,7 @@
 Plugin.define do
 name "Ad-Network-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The ad network script is a comprehensive solution to let you start your own professional ad network website. The script comes with bells and whistles to make you start and run your ad network website and to monitor the daily sales and delivery of ads on regular basis."

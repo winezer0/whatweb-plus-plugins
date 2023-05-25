@@ -1,8 +1,7 @@
 Plugin.define do
-name "mycncart" 
+name "mycncart"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

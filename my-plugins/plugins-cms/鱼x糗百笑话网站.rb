@@ -1,8 +1,7 @@
 Plugin.define do
-name "鱼x糗百笑话网站" 
+name "鱼x糗百笑话网站"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

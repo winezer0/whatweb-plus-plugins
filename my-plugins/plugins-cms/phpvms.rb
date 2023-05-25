@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpVMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "phpVMS is apparently the most popular, free, virtual airline software, with support for various ACARS applications (kACARS, FSACARS, XAcars, FS Flight Keeper, and FSPassengers)"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "edmwebvideo" 
+name "edmwebvideo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

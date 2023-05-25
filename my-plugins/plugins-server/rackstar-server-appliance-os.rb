@@ -1,8 +1,7 @@
 Plugin.define do
 name "rackstar-server-appliance-os"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "RackStar can be installed on almost any PC platform. That's what makes the RackStar Server Appliance Software so great! Now anyone can host sites! Still got a Cobalt RAQ? No problem! RackStar runs on that too!"

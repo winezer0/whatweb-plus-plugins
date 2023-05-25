@@ -1,8 +1,7 @@
 Plugin.define do
 name "DiY-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Do It Yourself Content Management System is a feature-rich, php-built, mysql-based, opensource and free CMS."

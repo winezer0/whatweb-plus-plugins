@@ -1,8 +1,7 @@
 Plugin.define do
 name "PulseCMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Manage Content, Simply. Pulse is a simple CMS designed for small websites. It enables you to add content management to an existing site in five minutes."

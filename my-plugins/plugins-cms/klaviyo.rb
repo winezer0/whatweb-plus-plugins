@@ -1,8 +1,7 @@
 Plugin.define do
-name "klaviyo" 
+name "klaviyo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

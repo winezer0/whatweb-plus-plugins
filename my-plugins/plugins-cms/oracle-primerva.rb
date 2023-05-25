@@ -1,8 +1,7 @@
 Plugin.define do
 name "Oracle-Primerva"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Enterprise Project Portfolio Management (EPPM) solutions"

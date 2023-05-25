@@ -1,8 +1,7 @@
 Plugin.define do
 name "Pharos-LPC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Pharos LPC web interface - All-in-one control solution for entertainment and LED lighting installations."
@@ -27,4 +26,13 @@ m << { :certainty=>75, :name=>"Redirect Location" } if @headers["location"] =~ /
 m << { :name=>"authenticate realm" } if @headers["www-authenticate"] =~ /Digest realm="PharosLPC"/
 m
 end
+matches [
+{:regexp=>/<[^>]+(?:class|id)="phabricator-/},
+{:regexp=>/<title>Login to Phabricator<\/title>/},
+{:search=>"headers", :text=>'phsid'},
+{:search=>'body', :regexp=>/.phabricator.[a-f0-9]{8}.rsrc.js.phui.[a-z-]+\.js$/},
+{:text=>'<title>Login to Phabricator<\/title>'},
+{:text=>'phabricator-application-launch-container'},
+{:text=>'res/phabricator'},
+]
 end

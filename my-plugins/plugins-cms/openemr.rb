@@ -1,8 +1,7 @@
 Plugin.define do
 name "openemr"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "OpenEMR is a Free and Open Source electronic health records and medical practice management application."

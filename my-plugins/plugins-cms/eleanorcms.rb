@@ -1,8 +1,7 @@
 Plugin.define do
-name "eleanorcms" 
+name "eleanorcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

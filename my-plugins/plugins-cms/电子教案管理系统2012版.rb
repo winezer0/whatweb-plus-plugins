@@ -1,8 +1,7 @@
 Plugin.define do
-name "电子教案管理系统2012版" 
+name "电子教案管理系统2012版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "keyfocus-webserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "KeyFocus Web Server is a free HTTP Server that can host an unlimited number of web sites."

@@ -2,7 +2,6 @@ Plugin.define do
 name "microsoft-windows-media-services"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,14 +1,10 @@
 Plugin.define do
 name "Serendipity"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Brendan Coles <bcoles at gmail dot com>", 
-
-"Andrew Horton", 
-
-"Napz", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Brendan Coles <bcoles at gmail dot com>",
+"Andrew Horton",
+"Napz",
 ]
 version "0.3"
 description "Serendipity - a PHP Weblog/Blog software. Serendipity is a PHP-powered weblog application which gives the user an easy way to maintain an online diary, weblog or even a complete homepage."
@@ -60,9 +56,9 @@ files=[
 to_download = files.map {|x| x[:path]}.sort.uniq
 downloads={}
 to_download.each do |d|
-target = URI.join(@base_uri.to_s,d).to_s	
+target = URI.join(@base_uri.to_s,d).to_s
 status,url,ip,body,headers=open_target(target)
-downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}	
+downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}
 end
 version=nil
 files.each do |thisfile|

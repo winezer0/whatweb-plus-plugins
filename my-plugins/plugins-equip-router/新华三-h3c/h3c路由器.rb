@@ -1,8 +1,7 @@
 Plugin.define do
-name "h3c路由器" 
+name "h3c路由器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

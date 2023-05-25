@@ -1,10 +1,8 @@
 Plugin.define do
 name "schoolwires-centricity"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "SchoolWire-Centricity is a CMS designed exclusively for K-12 school districts."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "AContent"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "AContent  is an open source learning content authoring system and respository used to create interoperable, accessible, adaptive Web-based learning content."

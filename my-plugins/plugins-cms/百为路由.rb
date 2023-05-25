@@ -1,8 +1,7 @@
 Plugin.define do
-name "百为路由" 
+name "百为路由"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

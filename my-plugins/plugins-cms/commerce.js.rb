@@ -1,8 +1,7 @@
 Plugin.define do
-name "commerce.js" 
+name "commerce.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

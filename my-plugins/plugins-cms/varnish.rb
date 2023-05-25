@@ -1,10 +1,8 @@
 Plugin.define do
 name "Varnish"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.2"
 description "Varnish is an HTTP accelerator written in C designed for content-heavy dynamic web sites. In contrast to other HTTP accelerators, such as Squid, which began life as a client-side cache, or Apache, which is primarily an origin server, Varnish was designed from the ground up as an HTTP accelerator."

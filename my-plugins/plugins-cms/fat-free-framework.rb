@@ -2,7 +2,6 @@ Plugin.define do
 name "fat-free-framework"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

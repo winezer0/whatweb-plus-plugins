@@ -1,8 +1,7 @@
 Plugin.define do
-name "芝麻听书网2014版" 
+name "芝麻听书网2014版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

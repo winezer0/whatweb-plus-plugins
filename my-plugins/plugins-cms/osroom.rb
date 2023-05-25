@@ -1,8 +1,7 @@
 Plugin.define do
-name "osroom" 
+name "osroom"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

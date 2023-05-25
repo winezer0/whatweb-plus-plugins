@@ -1,8 +1,7 @@
 Plugin.define do
-name "pagekit" 
+name "pagekit"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

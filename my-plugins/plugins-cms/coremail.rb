@@ -1,8 +1,7 @@
 Plugin.define do
-name "coremail" 
+name "coremail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

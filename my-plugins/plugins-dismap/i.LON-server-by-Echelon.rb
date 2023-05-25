@@ -1,7 +1,7 @@
 Plugin.define do
-name "i.LON-server-by-Echelon" 
+name "i.LON-server-by-Echelon"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

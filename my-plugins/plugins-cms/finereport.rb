@@ -1,8 +1,7 @@
 Plugin.define do
-name "finereport" 
+name "finereport"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

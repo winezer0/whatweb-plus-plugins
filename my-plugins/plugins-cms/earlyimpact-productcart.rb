@@ -2,7 +2,6 @@ Plugin.define do
 name "EarlyImpact-ProductCart"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "EarlyImpact ProductCart is an ASP commercial ecommerce system "

@@ -1,8 +1,7 @@
 Plugin.define do
-name "netcore" 
+name "netcore"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

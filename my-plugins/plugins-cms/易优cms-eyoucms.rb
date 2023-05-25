@@ -2,7 +2,6 @@ Plugin.define do
 name "易优cms-eyoucms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "grandnode" 
+name "grandnode"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "c9cms网站信息管理企业版" 
+name "c9cms网站信息管理企业版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

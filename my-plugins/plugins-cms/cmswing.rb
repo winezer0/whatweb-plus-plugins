@@ -1,8 +1,7 @@
 Plugin.define do
-name "cmswing" 
+name "cmswing"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

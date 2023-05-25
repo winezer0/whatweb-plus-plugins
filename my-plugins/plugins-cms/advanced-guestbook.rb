@@ -2,7 +2,6 @@ Plugin.define do
 name "Advanced-Guestbook"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Web guestbook script. http://johnny.ihackstuff.com/ghdb/?function=detail&id=228 Version 2.2 is vulnerable http://www.securityfocus.com/bid/10209/info."

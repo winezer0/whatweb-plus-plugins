@@ -1,8 +1,7 @@
 Plugin.define do
-name "doyo通用建站系统" 
+name "doyo通用建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

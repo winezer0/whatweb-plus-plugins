@@ -1,8 +1,7 @@
 Plugin.define do
-name "皓翰通用数字化校园平台" 
+name "皓翰通用数字化校园平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

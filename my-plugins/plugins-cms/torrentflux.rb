@@ -1,8 +1,7 @@
 Plugin.define do
 name "TorrentFlux"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Open source PHP client for web based management of torrents. Features, downloads, forum. - http://www.torrentflux.com/"

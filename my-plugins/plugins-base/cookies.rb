@@ -2,9 +2,7 @@ Plugin.define do
 name "Cookies"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.5"
 description "Display the names of cookies in the HTTP headers. The values are not returned to save on space."

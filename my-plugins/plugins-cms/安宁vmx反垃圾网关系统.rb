@@ -1,8 +1,7 @@
 Plugin.define do
-name "安宁vmx反垃圾网关系统" 
+name "安宁vmx反垃圾网关系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

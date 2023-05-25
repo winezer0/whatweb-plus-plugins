@@ -1,10 +1,8 @@
 Plugin.define do
 name "zyxel-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.6"
 description "This plugin indentifies ZyXEL routers"

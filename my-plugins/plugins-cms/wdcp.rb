@@ -1,8 +1,7 @@
 Plugin.define do
-name "wdcp" 
+name "wdcp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

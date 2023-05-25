@@ -1,8 +1,7 @@
 Plugin.define do
-name "cherrypy" 
+name "cherrypy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

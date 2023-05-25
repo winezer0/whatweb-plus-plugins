@@ -1,8 +1,7 @@
 Plugin.define do
-name "expressionengine" 
+name "expressionengine"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

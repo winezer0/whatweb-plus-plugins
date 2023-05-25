@@ -1,8 +1,7 @@
 Plugin.define do
-name "javashop" 
+name "javashop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

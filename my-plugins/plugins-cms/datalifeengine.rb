@@ -1,8 +1,7 @@
 Plugin.define do
-name "datalifeengine" 
+name "datalifeengine"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

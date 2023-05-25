@@ -1,8 +1,7 @@
 Plugin.define do
-name "蓝太平洋网络舆情监测系统" 
+name "蓝太平洋网络舆情监测系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

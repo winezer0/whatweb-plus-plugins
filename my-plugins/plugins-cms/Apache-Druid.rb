@@ -2,7 +2,6 @@ Plugin.define do
 name "Apache-Druid"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

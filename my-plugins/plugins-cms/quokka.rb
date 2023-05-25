@@ -1,8 +1,7 @@
 Plugin.define do
-name "quokka" 
+name "quokka"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

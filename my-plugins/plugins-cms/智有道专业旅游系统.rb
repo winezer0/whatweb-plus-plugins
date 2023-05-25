@@ -1,8 +1,7 @@
 Plugin.define do
-name "智有道专业旅游系统" 
+name "智有道专业旅游系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

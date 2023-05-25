@@ -1,8 +1,7 @@
 Plugin.define do
 name "secure-snapgear"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Secure SnapGear all-in-one Internet security appliances. Secure SnapGear can be deployed as just a firewall, as a VPN gateway, a UTM security appliance, or as a complete office network-in-a-box Internet appliance for small businesses, with all of the wide area networking tools needed to serve large enterprise remote offices."

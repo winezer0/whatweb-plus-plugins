@@ -1,8 +1,7 @@
 Plugin.define do
 name "CalendarScript"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "CalendarScript is a fully customizable event-publishing solution. It gives you everything you'll need to begin, then gives you the power to redefine it to fit your specific needs."
@@ -32,7 +31,6 @@ unless target_url.nil?
 target = URI.join(@base_uri.to_s,target_url).to_s
 status,url,ip,body,headers=open_target(target)
 m << { :filepath=>body.scan(/^Month '-1' out of range 0\.\.11 at ([^\n^<]+) <a href="#error">line [\d]+<\/a>\.$/).flatten } if body =~ /^Month '-1' out of range 0\.\.11 at ([^\n^<]+) <a href="#error">line [\d]+<\/a>\.$/
-
 end
 end
 m

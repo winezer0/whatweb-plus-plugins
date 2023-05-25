@@ -1,8 +1,7 @@
 Plugin.define do
-name "urlscan" 
+name "urlscan"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "termly" 
+name "termly"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

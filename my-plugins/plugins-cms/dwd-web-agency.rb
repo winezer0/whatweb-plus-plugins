@@ -2,7 +2,6 @@ Plugin.define do
 name "dwd-web-agency"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

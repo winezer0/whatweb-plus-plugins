@@ -1,8 +1,7 @@
 Plugin.define do
 name "Google-Hack-Honeypot"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "Google Hack Honeypot is the reaction to a new type of malicious web traffic: search engine hackers. This plugin identifies the following GHH modules: php-ping, HAXPLORER, phpSysInfo, PHPFM, SquirrelMail, wwwboard passwd.txt"

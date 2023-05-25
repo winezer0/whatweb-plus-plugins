@@ -2,7 +2,6 @@ Plugin.define do
 name "redis-object-cache"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

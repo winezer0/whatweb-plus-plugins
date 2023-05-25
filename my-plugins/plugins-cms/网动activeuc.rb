@@ -1,8 +1,7 @@
 Plugin.define do
-name "网动activeuc" 
+name "网动activeuc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "PHPWind-Forums-7" 
+name "PHPWind-Forums-7"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

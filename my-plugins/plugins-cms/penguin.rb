@@ -1,8 +1,7 @@
 Plugin.define do
-name "penguin" 
+name "penguin"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

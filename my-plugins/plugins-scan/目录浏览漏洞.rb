@@ -1,8 +1,7 @@
 Plugin.define do
-name "目录浏览漏洞" 
+name "目录浏览漏洞"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

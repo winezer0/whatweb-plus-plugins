@@ -1,8 +1,7 @@
 Plugin.define do
 name "Springboot"
 authors [
-"winezero", 
-
+"winezero",
 ]
 version "0.2"
 description "Springboot Framework is an open source application framework for the Java platform."

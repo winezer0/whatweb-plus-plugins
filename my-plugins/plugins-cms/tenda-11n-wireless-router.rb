@@ -2,7 +2,6 @@ Plugin.define do
 name "tenda-11n-wireless-router"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

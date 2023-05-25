@@ -1,8 +1,7 @@
 Plugin.define do
 name "Matomo"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.1"
 description "Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. Matomo was formerly known as Piwik, and is developed in PHP."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "CactuShop"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ASP and ASP.NET SEO optimized database-driven e-commerce storefront software."

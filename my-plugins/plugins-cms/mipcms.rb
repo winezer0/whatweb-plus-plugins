@@ -1,8 +1,7 @@
 Plugin.define do
-name "mipcms" 
+name "mipcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

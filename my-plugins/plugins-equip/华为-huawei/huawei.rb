@@ -1,8 +1,7 @@
 Plugin.define do
-name "huawei" 
+name "huawei"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

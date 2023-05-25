@@ -2,7 +2,6 @@ Plugin.define do
 name "materialize-css"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "mixcall座席管理中心" 
+name "mixcall座席管理中心"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

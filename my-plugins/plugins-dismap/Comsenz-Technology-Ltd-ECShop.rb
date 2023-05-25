@@ -1,7 +1,7 @@
 Plugin.define do
-name "Comsenz-Technology-Ltd-ECShop" 
+name "Comsenz-Technology-Ltd-ECShop"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

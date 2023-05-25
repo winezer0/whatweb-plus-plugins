@@ -1,8 +1,7 @@
 Plugin.define do
 name "MemHT-Portal"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "MemHT Portal is a Free PHP CMS and Blog. It permits the creation and the management online of websites with few and easy steps. It's completely customizable, expandable and suitable for all needs."

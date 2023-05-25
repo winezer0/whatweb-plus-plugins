@@ -1,8 +1,7 @@
 Plugin.define do
-name "smartstore.net" 
+name "smartstore.net"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

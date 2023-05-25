@@ -1,8 +1,7 @@
 Plugin.define do
 name "Flat-File-Guestbook"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Flat File PHP Guestbook is designed to be lightweight, easy on the server, and simple to install. Requires PHP 4+."

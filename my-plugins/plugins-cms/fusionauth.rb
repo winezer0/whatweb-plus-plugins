@@ -1,8 +1,7 @@
 Plugin.define do
-name "fusionauth" 
+name "fusionauth"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "Quantcast"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "Visitor demographics and statistics. www.quantcast.com"

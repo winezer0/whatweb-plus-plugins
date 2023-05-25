@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-td-w8980"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "mpsec" 
+name "mpsec"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

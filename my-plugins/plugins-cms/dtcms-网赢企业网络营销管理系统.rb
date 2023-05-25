@@ -2,7 +2,6 @@ Plugin.define do
 name "dtcms-网赢企业网络营销管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

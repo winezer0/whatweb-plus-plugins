@@ -2,7 +2,6 @@ Plugin.define do
 name "DiBos"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "DiBos security surveillance system"

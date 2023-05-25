@@ -2,7 +2,6 @@ Plugin.define do
 name "webrtu-z2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

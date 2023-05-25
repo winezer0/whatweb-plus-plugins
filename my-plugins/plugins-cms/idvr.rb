@@ -1,8 +1,7 @@
 Plugin.define do
 name "idvr"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "iDVR (formerly Devloution Security System) is a video surveillance system for the Linux/X11 platform."

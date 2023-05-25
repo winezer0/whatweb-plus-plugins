@@ -1,8 +1,7 @@
 Plugin.define do
 name "Contao"
 authors [
-"Eric Sesterhenn", 
-
+"Eric Sesterhenn",
 ]
 version "0.1"
 description "Contao is an OpenSource CMS written in PHP"
@@ -22,7 +21,7 @@ status,url,ip,body,headers=open_target(target)
 if body =~ /<title>[^<]+Contao[^<]+CMS ([^<]+)<\/title>/
 version=body.scan(/<title>[^<]+Contao[^<]+CMS ([^<]+)<\/title>/)[0][0]
 m << {:name=>"login page version", :version=>version}
-end	
+end
 files=[
 { :md5=>'0469d85ecb18e9a1ede2b0b2d5aa79a9', :version=>'2.9.0 (2010-07-02)', :path=>'CHANGELOG.md' },
 { :md5=>'24fb115dd0722792961d04b62353954c', :version=>'2.9.1 (2010-08-09)', :path=>'CHANGELOG.md' },
@@ -51,9 +50,9 @@ files=[
 to_download = files.map {|x| x[:path]}.sort.uniq
 downloads={}
 to_download.each do |d|
-target = URI.join(@base_uri.to_s,d).to_s	
+target = URI.join(@base_uri.to_s,d).to_s
 status,url,ip,body,headers=open_target(target)
-downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}	
+downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}
 end
 version=nil
 files.each do |thisfile|

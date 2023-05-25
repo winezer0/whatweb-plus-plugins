@@ -1,8 +1,7 @@
 Plugin.define do
-name "axis-70u" 
+name "axis-70u"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

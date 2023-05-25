@@ -1,8 +1,7 @@
 Plugin.define do
-name "npoint" 
+name "npoint"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

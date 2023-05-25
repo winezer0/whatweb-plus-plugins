@@ -1,8 +1,7 @@
 Plugin.define do
-name "cdr-stats" 
+name "cdr-stats"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

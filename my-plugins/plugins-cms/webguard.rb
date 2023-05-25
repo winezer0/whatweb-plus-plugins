@@ -2,9 +2,7 @@ Plugin.define do
 name "WebGuard"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "Security surveillance"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "TreeNeWS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Probably a 3Com Corporation or Trapeze Networks wireless access point"

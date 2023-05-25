@@ -1,12 +1,9 @@
 Plugin.define do
 name "OpenCms"
 authors [
-"Emilio Casbas", 
-
-"Andrew Horton", 
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Emilio Casbas",
+"Andrew Horton",
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "OpenCms, professional and easy to use CMS."

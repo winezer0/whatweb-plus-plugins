@@ -1,8 +1,7 @@
 Plugin.define do
-name "fireblade" 
+name "fireblade"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

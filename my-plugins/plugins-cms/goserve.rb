@@ -1,10 +1,8 @@
 Plugin.define do
 name "GoServe"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "GoServe - A Web and Gopher Server for OS/2. SRE-http is a highly configurable http server which requires GoServe"

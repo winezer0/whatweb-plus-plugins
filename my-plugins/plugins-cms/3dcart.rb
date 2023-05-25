@@ -1,12 +1,9 @@
 Plugin.define do
 name "3dcart"
 authors [
-"Napz <napzs@rocketmail.com>", 
-
-"Andrew Horton", 
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Napz <napzs@rocketmail.com>",
+"Andrew Horton",
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.3"
 description "3dcart - The 3dcart Shopping Cart Software is a complete ecommerce solution for anyone."

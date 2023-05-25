@@ -1,8 +1,7 @@
 Plugin.define do
-name "signal" 
+name "signal"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

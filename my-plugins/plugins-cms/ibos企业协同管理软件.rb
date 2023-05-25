@@ -1,8 +1,7 @@
 Plugin.define do
-name "ibos企业协同管理软件" 
+name "ibos企业协同管理软件"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

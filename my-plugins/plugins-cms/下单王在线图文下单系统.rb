@@ -1,8 +1,7 @@
 Plugin.define do
-name "下单王在线图文下单系统" 
+name "下单王在线图文下单系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

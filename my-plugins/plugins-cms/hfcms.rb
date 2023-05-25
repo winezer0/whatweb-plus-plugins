@@ -1,8 +1,7 @@
 Plugin.define do
-name "hfcms" 
+name "hfcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

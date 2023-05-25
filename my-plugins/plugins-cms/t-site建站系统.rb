@@ -1,8 +1,7 @@
 Plugin.define do
-name "t-site建站系统" 
+name "t-site建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

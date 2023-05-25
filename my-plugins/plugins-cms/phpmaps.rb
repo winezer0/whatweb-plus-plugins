@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpmaps" 
+name "phpmaps"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

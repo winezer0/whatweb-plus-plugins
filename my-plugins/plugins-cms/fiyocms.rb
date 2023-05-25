@@ -1,8 +1,7 @@
 Plugin.define do
-name "fiyocms" 
+name "fiyocms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

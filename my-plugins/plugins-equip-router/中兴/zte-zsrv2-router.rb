@@ -2,7 +2,6 @@ Plugin.define do
 name "zte-zsrv2-router"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

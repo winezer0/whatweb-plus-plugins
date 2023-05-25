@@ -1,8 +1,7 @@
 Plugin.define do
-name "ethernut" 
+name "ethernut"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

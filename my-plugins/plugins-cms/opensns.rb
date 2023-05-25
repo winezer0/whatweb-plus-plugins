@@ -1,12 +1,12 @@
 Plugin.define do
-name "opensns" 
+name "opensns"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
 {:md5=>'08711abfb016a55c0e84f7b54bef5632'},
+{:text=>'<a href="http://www.opensns.cn" target="_blank">Powered by OpenSNS</a>'},
 {:text=>'content="OpenSNS'},
 {:url=>'/Public/images/adv_line.jpg', :md5=>'8f0f3cfe9b55df497571fdc818bca5d7'},
 {:url=>'/Public/images/default_avatar_64_64.jpg', :md5=>'82b11d1e3e2da1ff9ea39dbc8dd4826f'},

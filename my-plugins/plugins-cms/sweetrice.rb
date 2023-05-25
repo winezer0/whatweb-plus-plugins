@@ -1,8 +1,7 @@
 Plugin.define do
 name "Sweetrice"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SweeRice is a simple website management system ,it is not just free and open source, it provides popular functions such as SEO."

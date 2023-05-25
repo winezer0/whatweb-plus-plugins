@@ -1,7 +1,7 @@
 Plugin.define do
-name "ST-605" 
+name "ST-605"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

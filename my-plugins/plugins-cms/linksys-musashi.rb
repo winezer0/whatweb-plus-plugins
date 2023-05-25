@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-musashi" 
+name "linksys-musashi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

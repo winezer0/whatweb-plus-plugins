@@ -1,10 +1,8 @@
 Plugin.define do
 name "ideawebserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "home.net.pl hosting - a major polish hosting company home.pl uses its own server software (Idea Web Server)"

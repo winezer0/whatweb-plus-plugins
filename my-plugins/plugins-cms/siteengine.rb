@@ -1,8 +1,7 @@
 Plugin.define do
-name "siteengine" 
+name "siteengine"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

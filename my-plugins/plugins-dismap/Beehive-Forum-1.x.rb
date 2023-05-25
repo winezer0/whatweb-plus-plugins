@@ -1,7 +1,7 @@
 Plugin.define do
-name "Beehive-Forum-1.x" 
+name "Beehive-Forum-1.x"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

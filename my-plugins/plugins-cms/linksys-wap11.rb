@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-wap11"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "cnoa" 
+name "cnoa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

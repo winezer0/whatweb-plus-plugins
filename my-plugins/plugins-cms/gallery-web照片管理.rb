@@ -2,7 +2,6 @@ Plugin.define do
 name "gallery-web照片管理"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

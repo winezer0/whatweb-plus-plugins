@@ -1,10 +1,8 @@
 Plugin.define do
 name "Axentra-HipServ"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Axentra-HipServ - Digital Home/SOHO Software Platform for Internet Gateway and NAS Devices"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "新丽都娱乐shi时彩系统" 
+name "新丽都娱乐shi时彩系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

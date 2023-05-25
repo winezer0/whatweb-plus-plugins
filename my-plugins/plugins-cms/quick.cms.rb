@@ -1,8 +1,7 @@
 Plugin.define do
 name "quick.cms"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Freeware, fast and easy to customize Content Management System."

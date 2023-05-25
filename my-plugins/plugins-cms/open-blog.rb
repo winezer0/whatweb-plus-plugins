@@ -1,8 +1,7 @@
 Plugin.define do
 name "Open-Blog"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Open blog is a free and open source blogging platform built using the CodeIgniter PHP framework and released under the GPL v3 license."

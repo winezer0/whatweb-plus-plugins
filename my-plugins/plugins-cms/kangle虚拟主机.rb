@@ -1,8 +1,7 @@
 Plugin.define do
-name "kangle虚拟主机" 
+name "kangle虚拟主机"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

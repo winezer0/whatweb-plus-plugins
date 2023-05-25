@@ -1,8 +1,7 @@
 Plugin.define do
 name "PHP-Fusion"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "PHP-Fusion, a light-weight open-source content management system (CMS) - Requires: PHP and MySQL"

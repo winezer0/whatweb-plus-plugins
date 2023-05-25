@@ -1,7 +1,7 @@
 Plugin.define do
-name "WoltLab-Burning-Board" 
+name "WoltLab-Burning-Board"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

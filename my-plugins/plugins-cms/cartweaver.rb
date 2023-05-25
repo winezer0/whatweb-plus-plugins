@@ -1,8 +1,7 @@
 Plugin.define do
 name "cartweaver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Cartweaver is truly as close to Instant e-Commerce as you can get. Now you can have a full-featured, robust, scaleable, ASP shopping cart, ColdFusion shopping cart or PHP shopping cart ready in less time than you can imagine."

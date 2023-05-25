@@ -1,8 +1,7 @@
 Plugin.define do
 name "Oracle-Real-User-Experience-Insight"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Oracle Real User Experience Insight - passive network performance analysis and usage analysis"

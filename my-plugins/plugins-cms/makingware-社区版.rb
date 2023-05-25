@@ -2,7 +2,6 @@ Plugin.define do
 name "makingware-社区版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

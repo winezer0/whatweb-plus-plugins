@@ -1,8 +1,7 @@
 Plugin.define do
-name "cmstop" 
+name "cmstop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

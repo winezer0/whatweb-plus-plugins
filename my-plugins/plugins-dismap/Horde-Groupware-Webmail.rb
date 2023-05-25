@@ -1,7 +1,7 @@
 Plugin.define do
-name "Horde-Groupware-Webmail" 
+name "Horde-Groupware-Webmail"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

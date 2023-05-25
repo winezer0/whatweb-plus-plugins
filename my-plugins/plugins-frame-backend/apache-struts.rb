@@ -1,9 +1,9 @@
 Plugin.define do
 name "Apache-Struts"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-"winezero", 
-"Andrew Horton", 
+"Brendan Coles <bcoles@gmail.com>",
+"winezero",
+"Andrew Horton",
 ]
 version "0.2"
 description "The Apache Struts web framework is a free open-source solution for creating Java web applications."

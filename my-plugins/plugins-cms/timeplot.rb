@@ -1,8 +1,7 @@
 Plugin.define do
-name "timeplot" 
+name "timeplot"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

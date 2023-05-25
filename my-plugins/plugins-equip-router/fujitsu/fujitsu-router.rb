@@ -1,10 +1,8 @@
 Plugin.define do
 name "fujitsu-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Fujitsu-Router"

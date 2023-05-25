@@ -1,8 +1,7 @@
 Plugin.define do
 name "intrinsyc-deviceweb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Intrinsyc deviceWEB - a web server specialized for embedded devices"

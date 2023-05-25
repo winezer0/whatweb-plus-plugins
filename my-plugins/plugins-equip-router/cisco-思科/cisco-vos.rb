@@ -1,8 +1,7 @@
 Plugin.define do
-name "cisco-vos" 
+name "cisco-vos"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

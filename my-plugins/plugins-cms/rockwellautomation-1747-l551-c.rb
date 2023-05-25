@@ -2,7 +2,6 @@ Plugin.define do
 name "rockwellautomation-1747-l551-c"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

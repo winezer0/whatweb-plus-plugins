@@ -1,8 +1,7 @@
 Plugin.define do
 name "Zimplit-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Zimplit CMS: The easiest Open Source Content Management System for small web- and minisites"

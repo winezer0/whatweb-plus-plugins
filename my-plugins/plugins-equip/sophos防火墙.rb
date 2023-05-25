@@ -1,8 +1,7 @@
 Plugin.define do
-name "sophos防火墙" 
+name "sophos防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

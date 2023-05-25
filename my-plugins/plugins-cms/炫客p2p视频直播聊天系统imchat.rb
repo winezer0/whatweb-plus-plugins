@@ -1,8 +1,7 @@
 Plugin.define do
-name "炫客p2p视频直播聊天系统imchat" 
+name "炫客p2p视频直播聊天系统imchat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

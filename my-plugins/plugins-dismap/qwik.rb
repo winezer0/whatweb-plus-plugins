@@ -1,7 +1,7 @@
 Plugin.define do
-name "qwik" 
+name "qwik"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "cisco-dlt" 
+name "cisco-dlt"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "cartstack" 
+name "cartstack"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "digital-campus2.0"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

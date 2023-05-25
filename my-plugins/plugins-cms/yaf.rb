@@ -2,7 +2,6 @@ Plugin.define do
 name "yaf"
 authors [
 "Eugene Amirov",
-
 ]
 version "0.1"
 description "YAF is a .NET forum engine."

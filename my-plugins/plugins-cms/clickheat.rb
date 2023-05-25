@@ -1,8 +1,7 @@
 Plugin.define do
-name "clickheat" 
+name "clickheat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

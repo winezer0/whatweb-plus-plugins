@@ -2,7 +2,6 @@ Plugin.define do
 name "akamai-web-application-protector"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

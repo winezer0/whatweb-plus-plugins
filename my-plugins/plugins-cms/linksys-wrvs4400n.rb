@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-wrvs4400n"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

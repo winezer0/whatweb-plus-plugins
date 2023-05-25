@@ -2,7 +2,6 @@ Plugin.define do
 name "barracuda-waf"
 authors [
 "Guillaume Delacour <gui@iroqwa.org>",
-
 ]
 version "0.1"
 description "Barracuda Web Application Firewall: Security and DDoS Protection Against Automated & Targeted Attacks - https://www.barracuda.com/products/webapplicationfirewall"

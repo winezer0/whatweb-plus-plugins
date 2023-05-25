@@ -2,7 +2,6 @@ Plugin.define do
 name "siemens-simatic-s7"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

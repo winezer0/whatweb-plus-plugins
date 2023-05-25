@@ -1,10 +1,8 @@
 Plugin.define do
 name "easyLink-Web-Solutions"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "German Content Management System"

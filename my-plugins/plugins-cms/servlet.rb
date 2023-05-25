@@ -1,8 +1,7 @@
 Plugin.define do
-name "servlet" 
+name "servlet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

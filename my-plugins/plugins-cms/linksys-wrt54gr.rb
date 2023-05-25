@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-wrt54gr"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

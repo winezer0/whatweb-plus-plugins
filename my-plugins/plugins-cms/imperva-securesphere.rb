@@ -1,8 +1,7 @@
 Plugin.define do
 name "imperva-securesphere"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
+"Aung Khant <http://yehg.net/>",
 ]
 version "0.1"
 description "Imperva SecureSphere - http://www.impervaguard.com/SecureSphere-Platform.asp"
@@ -16,8 +15,8 @@ matches [
 ]
 aggressive do
 m=[]
-target = URI.join(@base_uri.to_s,'SecureSphere/secsphLogin.jsp').to_s	
-status,url,ip,body,headers=open_target(target)	
+target = URI.join(@base_uri.to_s,'SecureSphere/secsphLogin.jsp').to_s
+status,url,ip,body,headers=open_target(target)
 if status == 200
 if body =~ /<td><font class="gray\-text\-small">SecureSphere includes software developed by Oracle Corporation\.<\/font><\/td><\/tr>/
 m << {:name => "HTML Body (CM2)"}

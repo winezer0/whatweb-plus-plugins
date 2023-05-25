@@ -1,8 +1,7 @@
 Plugin.define do
-name "livechat" 
+name "livechat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

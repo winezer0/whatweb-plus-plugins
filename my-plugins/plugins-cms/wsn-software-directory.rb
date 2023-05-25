@@ -1,8 +1,7 @@
 Plugin.define do
 name "WSN-Software-Directory"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WSN Software Directory is a full-featured software respository script. Run your own download.com or hotscripts type of website. Take full advantage of the PAD file format for easy maintenance. Translate to any language and easily customize fields and functionality."

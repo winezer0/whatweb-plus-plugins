@@ -2,7 +2,6 @@ Plugin.define do
 name "pirobase-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

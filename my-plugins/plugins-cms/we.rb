@@ -2,7 +2,6 @@ Plugin.define do
 name "we"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

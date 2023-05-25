@@ -2,7 +2,6 @@ Plugin.define do
 name "sap-commerce-cloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

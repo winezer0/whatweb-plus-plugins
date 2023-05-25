@@ -2,7 +2,6 @@ Plugin.define do
 name "快范cms-kuaifancms-快范cms-手机建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

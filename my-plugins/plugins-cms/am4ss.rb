@@ -1,8 +1,7 @@
 Plugin.define do
 name "AM4SS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Advanced Management For Services Sites (AM4SS)"

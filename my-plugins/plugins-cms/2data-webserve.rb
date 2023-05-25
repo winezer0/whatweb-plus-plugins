@@ -2,7 +2,6 @@ Plugin.define do
 name "2data-webserve"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

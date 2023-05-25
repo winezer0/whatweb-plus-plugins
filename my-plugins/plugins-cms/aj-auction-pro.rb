@@ -1,10 +1,8 @@
 Plugin.define do
 name "AJ-Auction-Pro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "AJ Auction is a PHP-based Auction portal software which is a simple to use auction portal script with an effective administrative interface. You can control every aspect of your website through this all-inclusive user friendly Admin Panel with minimal server requirements."

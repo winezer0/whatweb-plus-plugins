@@ -1,10 +1,8 @@
 Plugin.define do
 name "Hyperic-HQ"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Hyperic HQ - platform for custom web application monitoring and performance management in physical, virtual, and cloud environments."

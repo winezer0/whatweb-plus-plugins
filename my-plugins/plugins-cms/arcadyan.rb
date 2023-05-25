@@ -1,8 +1,7 @@
 Plugin.define do
-name "arcadyan" 
+name "arcadyan"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

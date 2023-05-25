@@ -1,8 +1,7 @@
 Plugin.define do
-name "edgecast" 
+name "edgecast"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "H3C-SecBlade-FireWall"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "H3C SecBlade FireWall modules are industry-leading 10000-Mbps high-performance firewall modules"

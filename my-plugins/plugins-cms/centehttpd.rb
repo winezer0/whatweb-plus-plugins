@@ -1,8 +1,7 @@
 Plugin.define do
-name "centehttpd" 
+name "centehttpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "tablecheck" 
+name "tablecheck"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

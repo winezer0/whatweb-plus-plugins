@@ -1,7 +1,7 @@
 Plugin.define do
-name "Apache-Solr" 
+name "Apache-Solr"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

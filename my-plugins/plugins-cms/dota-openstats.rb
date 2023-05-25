@@ -1,8 +1,7 @@
 Plugin.define do
 name "DotA-OpenStats"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DotA OpenStats - MySQL based web statistics site for DotA games. - Requires PHP and MySQL"

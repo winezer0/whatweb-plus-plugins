@@ -1,8 +1,7 @@
 Plugin.define do
-name "yzncms内容管理系统" 
+name "yzncms内容管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

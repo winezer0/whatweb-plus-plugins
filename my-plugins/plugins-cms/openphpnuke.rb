@@ -1,8 +1,7 @@
 Plugin.define do
-name "openphpnuke" 
+name "openphpnuke"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

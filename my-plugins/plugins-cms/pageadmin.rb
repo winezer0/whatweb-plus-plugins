@@ -1,8 +1,7 @@
 Plugin.define do
-name "pageadmin" 
+name "pageadmin"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

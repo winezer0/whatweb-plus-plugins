@@ -1,8 +1,7 @@
 Plugin.define do
 name "ClickMotive"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.1"
 description "ClickMotive CMS"

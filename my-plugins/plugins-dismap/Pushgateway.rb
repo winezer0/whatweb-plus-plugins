@@ -1,7 +1,7 @@
 Plugin.define do
-name "Pushgateway" 
+name "Pushgateway"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

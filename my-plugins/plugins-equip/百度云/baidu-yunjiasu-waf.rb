@@ -2,7 +2,6 @@ Plugin.define do
 name "baidu-yunjiasu-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

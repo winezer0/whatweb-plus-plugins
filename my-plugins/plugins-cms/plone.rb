@@ -2,7 +2,6 @@ Plugin.define do
 name "Plone"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Plone Content Management System (CMS)"

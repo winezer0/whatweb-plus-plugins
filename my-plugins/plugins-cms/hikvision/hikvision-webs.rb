@@ -1,8 +1,7 @@
 Plugin.define do
-name "hikvision-webs" 
+name "hikvision-webs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

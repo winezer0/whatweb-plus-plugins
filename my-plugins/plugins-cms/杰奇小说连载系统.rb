@@ -1,8 +1,7 @@
 Plugin.define do
-name "杰奇小说连载系统" 
+name "杰奇小说连载系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

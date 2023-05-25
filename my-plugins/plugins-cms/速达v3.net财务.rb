@@ -1,8 +1,7 @@
 Plugin.define do
-name "速达v3.net财务" 
+name "速达v3.net财务"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

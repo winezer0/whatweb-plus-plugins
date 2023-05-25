@@ -1,8 +1,7 @@
 Plugin.define do
-name "xpaper数字报刊系统" 
+name "xpaper数字报刊系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "slimbox" 
+name "slimbox"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

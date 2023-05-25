@@ -1,8 +1,7 @@
 Plugin.define do
 name "Windows-Remote-Printing"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Windows remote printing interface displays networked printers, print job owner usernames and internal IP addresses."

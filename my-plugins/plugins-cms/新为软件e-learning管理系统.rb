@@ -1,8 +1,7 @@
 Plugin.define do
-name "新为软件e-learning管理系统" 
+name "新为软件e-learning管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

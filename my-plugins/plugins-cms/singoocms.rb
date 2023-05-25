@@ -1,8 +1,7 @@
 Plugin.define do
-name "singoocms" 
+name "singoocms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

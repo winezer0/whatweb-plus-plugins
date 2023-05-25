@@ -1,8 +1,7 @@
 Plugin.define do
 name "bmc-remedy"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "BMC Remedy Action Request System (also known as Remedy, AR System and ARS) is a client-server software application development environment from BMC Software (originally developed by Remedy Corporation). BMC Remedy Mid-Tier is a server component in the Action Request System for web access."

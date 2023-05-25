@@ -2,7 +2,6 @@ Plugin.define do
 name "siemens-hmi-miniweb"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "soeasy网站集群系统" 
+name "soeasy网站集群系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

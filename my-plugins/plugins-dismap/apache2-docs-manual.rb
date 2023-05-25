@@ -1,7 +1,7 @@
 Plugin.define do
-name "apache2-docs-manual" 
+name "apache2-docs-manual"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

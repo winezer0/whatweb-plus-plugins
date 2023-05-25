@@ -1,8 +1,7 @@
 Plugin.define do
 name "deluxebb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DeluxeBB is a powerful open source bulletin board, which helps you create your own web communities in less than 10 minutes. The board is written completely in PHP and uses a MySQL database to store its content."

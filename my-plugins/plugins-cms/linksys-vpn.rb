@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-vpn" 
+name "linksys-vpn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

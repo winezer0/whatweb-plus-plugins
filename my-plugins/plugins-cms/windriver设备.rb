@@ -1,8 +1,7 @@
 Plugin.define do
-name "windriver设备" 
+name "windriver设备"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

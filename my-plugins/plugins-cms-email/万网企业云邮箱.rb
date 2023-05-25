@@ -1,8 +1,7 @@
 Plugin.define do
-name "万网企业云邮箱" 
+name "万网企业云邮箱"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

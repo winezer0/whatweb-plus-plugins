@@ -1,8 +1,7 @@
 Plugin.define do
-name "net110" 
+name "net110"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

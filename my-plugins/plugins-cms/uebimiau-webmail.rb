@@ -1,8 +1,7 @@
 Plugin.define do
 name "Uebimiau-Webmail"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Uebimiau Webmail"

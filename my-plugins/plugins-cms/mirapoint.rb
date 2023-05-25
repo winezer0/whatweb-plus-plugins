@@ -1,8 +1,7 @@
 Plugin.define do
-name "mirapoint" 
+name "mirapoint"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

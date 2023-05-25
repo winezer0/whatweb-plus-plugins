@@ -1,7 +1,7 @@
 Plugin.define do
-name "ForMinistry-church-web-hosting" 
+name "ForMinistry-church-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

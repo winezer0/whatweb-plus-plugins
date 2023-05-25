@@ -1,8 +1,7 @@
 Plugin.define do
 name "vmware-virtualcenter"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "VMware VirtualCenter is a software suite designed to centralize the management of virtualized IT environments."

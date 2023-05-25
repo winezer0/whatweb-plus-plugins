@@ -1,8 +1,7 @@
 Plugin.define do
 name "Antiboard"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.3"
 description "Antiboard is a PHP forum."

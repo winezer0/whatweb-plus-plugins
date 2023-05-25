@@ -2,7 +2,6 @@ Plugin.define do
 name "微窗cms-vwins"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

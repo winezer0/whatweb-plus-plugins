@@ -2,7 +2,6 @@ Plugin.define do
 name "axis-printserver"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "Axis 540/542 Network Print Server"

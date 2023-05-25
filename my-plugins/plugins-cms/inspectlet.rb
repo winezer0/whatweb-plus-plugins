@@ -1,8 +1,7 @@
 Plugin.define do
-name "inspectlet" 
+name "inspectlet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

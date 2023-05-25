@@ -2,7 +2,6 @@ Plugin.define do
 name "Novell-Groupwise"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Novell GroupWise collaboration software is a premier collaboration tool for large enterprise. GroupWise WebAccess was released as an add-on to Novell GroupWise, providing internet-based access to GroupWise from a web browser."

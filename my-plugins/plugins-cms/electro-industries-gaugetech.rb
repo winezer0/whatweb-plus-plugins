@@ -1,8 +1,7 @@
 Plugin.define do
 name "Electro-Industries-GaugeTech"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Electro Industries GaugeTech Device - Electro Industries meters are known world-wide for their ease of use, advanced power functionality and reliable service."

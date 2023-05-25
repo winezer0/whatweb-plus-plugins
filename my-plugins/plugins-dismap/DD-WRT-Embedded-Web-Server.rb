@@ -1,7 +1,7 @@
 Plugin.define do
-name "DD-WRT-Embedded-Web-Server" 
+name "DD-WRT-Embedded-Web-Server"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

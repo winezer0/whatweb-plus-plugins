@@ -1,8 +1,7 @@
 Plugin.define do
-name "vue.js" 
+name "vue.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

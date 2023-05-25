@@ -1,7 +1,7 @@
 Plugin.define do
-name "hover-domain-forwarding" 
+name "hover-domain-forwarding"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

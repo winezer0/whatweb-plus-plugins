@@ -2,7 +2,6 @@ Plugin.define do
 name "x-web-serve"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

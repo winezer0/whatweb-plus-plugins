@@ -1,7 +1,7 @@
 Plugin.define do
-name "Hewlett-Packard-HPLIP-doc" 
+name "Hewlett-Packard-HPLIP-doc"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

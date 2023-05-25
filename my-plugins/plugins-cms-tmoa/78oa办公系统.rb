@@ -1,8 +1,7 @@
 Plugin.define do
-name "78OA办公系统" 
+name "78OA办公系统"
 authors [
 "winezero",
-
 ]
 version "0.2"
 matches [

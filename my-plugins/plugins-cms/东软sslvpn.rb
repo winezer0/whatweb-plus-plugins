@@ -1,8 +1,7 @@
 Plugin.define do
-name "东软sslvpn" 
+name "东软sslvpn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "OpenWebif" 
+name "OpenWebif"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

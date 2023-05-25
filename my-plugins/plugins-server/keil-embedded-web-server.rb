@@ -1,10 +1,8 @@
 Plugin.define do
 name "keil-embedded-web-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Keil Embedded WEB Server"

@@ -1,10 +1,8 @@
 Plugin.define do
 name "XWiki"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "XWiki - Open Source Wiki and Content-Oriented Application Platform"
@@ -18,5 +16,6 @@ matches [
 {:text=>'<div id="xwikilicence">'},
 {:text=>'<meta name="wiki" content="xwiki"/>'},
 {:version=>/<div id="xwikiplatformversion">(Powered by )?(XWiki Enterprise )?([^\s<>]+)/, :offset=>2},
+{:version=>/<div id="xwikiplatformversion">(Powered by )?(XWiki Enterprise )?([^\s^<^>]+)/, :offset=>2 },
 ]
 end

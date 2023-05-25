@@ -2,7 +2,6 @@ Plugin.define do
 name "solusquare-omnicommerce-cloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

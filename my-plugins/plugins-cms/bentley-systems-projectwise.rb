@@ -1,8 +1,7 @@
 Plugin.define do
 name "bentley-systems-projectwise"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ProjectWise - Project Collaboration and Content Management Software for Architecture, Construction, and Engineering Projects"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "majexpress" 
+name "majexpress"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "spftp" 
+name "spftp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

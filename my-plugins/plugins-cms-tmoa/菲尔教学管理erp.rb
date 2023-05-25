@@ -1,8 +1,7 @@
 Plugin.define do
-name "菲尔教学管理erp" 
+name "菲尔教学管理erp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

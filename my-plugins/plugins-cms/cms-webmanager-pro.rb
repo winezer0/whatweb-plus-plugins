@@ -1,8 +1,7 @@
 Plugin.define do
 name "CMS-WebManager-Pro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "CMS WebManager-Pro - is a software product for creating and maintaining websites of any complexity."

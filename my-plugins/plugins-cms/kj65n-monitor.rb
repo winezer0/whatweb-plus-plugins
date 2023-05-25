@@ -2,7 +2,6 @@ Plugin.define do
 name "kj65n-monitor"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

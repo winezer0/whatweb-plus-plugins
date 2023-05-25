@@ -1,7 +1,7 @@
 Plugin.define do
-name "QNAP-TurboNAS" 
+name "QNAP-TurboNAS"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

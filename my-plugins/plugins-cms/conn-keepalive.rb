@@ -2,7 +2,6 @@ Plugin.define do
 name "conn-keepalive"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "慧网智能建站" 
+name "慧网智能建站"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

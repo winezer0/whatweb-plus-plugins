@@ -2,7 +2,6 @@ Plugin.define do
 name "xgroup-cc城市校友圈"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

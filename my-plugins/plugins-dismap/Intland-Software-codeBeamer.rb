@@ -1,7 +1,7 @@
 Plugin.define do
-name "Intland-Software-codeBeamer" 
+name "Intland-Software-codeBeamer"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

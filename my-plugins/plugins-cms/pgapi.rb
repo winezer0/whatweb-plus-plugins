@@ -1,8 +1,7 @@
 Plugin.define do
-name "pgapi" 
+name "pgapi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

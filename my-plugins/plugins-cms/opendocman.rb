@@ -1,8 +1,7 @@
 Plugin.define do
 name "OpenDocMan"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "OpenDocMan - Open Source Document Management System - Requires PHP"

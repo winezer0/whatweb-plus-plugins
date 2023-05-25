@@ -2,7 +2,6 @@ Plugin.define do
 name "佳能网络摄像头-canon-network-cameras"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

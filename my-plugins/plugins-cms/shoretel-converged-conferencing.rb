@@ -1,8 +1,7 @@
 Plugin.define do
 name "ShoreTel-Converged-Conferencing"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ShoreTel Converged Conferencing"

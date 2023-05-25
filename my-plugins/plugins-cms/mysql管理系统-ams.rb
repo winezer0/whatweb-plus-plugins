@@ -2,7 +2,6 @@ Plugin.define do
 name "mysql管理系统-ams"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

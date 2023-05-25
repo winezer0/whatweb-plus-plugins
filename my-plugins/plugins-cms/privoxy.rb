@@ -1,8 +1,7 @@
 Plugin.define do
-name "privoxy" 
+name "privoxy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

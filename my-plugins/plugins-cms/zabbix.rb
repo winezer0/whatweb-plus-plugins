@@ -1,8 +1,7 @@
 Plugin.define do
 name "Zabbix"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Zabbix is an enterprise-class open source distributed monitoring solution for networks and applications."

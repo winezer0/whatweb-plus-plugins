@@ -1,8 +1,7 @@
 Plugin.define do
-name "nginxplus" 
+name "nginxplus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

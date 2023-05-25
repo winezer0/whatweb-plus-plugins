@@ -1,8 +1,7 @@
 Plugin.define do
 name "WebIssues"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WebIssues is an open source, multi-platform system for issue tracking and team collaboration."

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Ant-docs-manual" 
+name "Ant-docs-manual"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

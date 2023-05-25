@@ -1,8 +1,7 @@
 Plugin.define do
 name "CitusCMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "CitusCMS - Open Source Content Management System"

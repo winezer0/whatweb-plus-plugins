@@ -1,8 +1,7 @@
 Plugin.define do
-name "ajenti" 
+name "ajenti"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

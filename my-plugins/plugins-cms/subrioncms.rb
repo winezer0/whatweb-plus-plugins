@@ -1,8 +1,7 @@
 Plugin.define do
-name "subrioncms" 
+name "subrioncms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

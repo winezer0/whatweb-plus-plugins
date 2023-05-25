@@ -2,7 +2,6 @@ Plugin.define do
 name "hdcms-后盾云"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

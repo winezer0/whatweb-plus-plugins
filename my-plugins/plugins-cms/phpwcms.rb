@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpwcms"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description " is a robust and simple but yet powerful web based content management system running under PHP and MySQL."

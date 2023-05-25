@@ -1,8 +1,7 @@
 Plugin.define do
 name "Jive-SBS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Jive Engage platform apparently combines the most powerful features of community software, collaboration software, social networking software & social media monitoring into the leading Social Business Software (SBS) solution."

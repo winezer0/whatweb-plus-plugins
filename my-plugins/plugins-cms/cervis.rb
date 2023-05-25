@@ -1,8 +1,7 @@
 Plugin.define do
 name "CERVIS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Community Event Registration and Volunteer Information System (CERVIS) is the most complete and customizable web-based volunteer management software available."

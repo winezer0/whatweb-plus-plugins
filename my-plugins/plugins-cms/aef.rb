@@ -1,8 +1,7 @@
 Plugin.define do
 name "AEF"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Advanced Electron Forum (AEF) - bulletin board software - requires PHP and MySQL"

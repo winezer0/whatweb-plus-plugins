@@ -2,7 +2,6 @@ Plugin.define do
 name "nanjing-shiyou"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "X10media-Torrent-Search-Engine"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "X10 Torrent Script is a bittorrent search engine, users fill in a keyword and get access to 5 000 000 files for search."

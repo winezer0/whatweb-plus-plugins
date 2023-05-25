@@ -2,7 +2,6 @@ Plugin.define do
 name "yahoo!-tag-manager"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "mitel-networks-micollab-end-user-portal"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

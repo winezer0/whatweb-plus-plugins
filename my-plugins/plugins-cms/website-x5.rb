@@ -2,7 +2,6 @@ Plugin.define do
 name "website-x5"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

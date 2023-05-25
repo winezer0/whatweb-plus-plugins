@@ -1,8 +1,7 @@
 Plugin.define do
-name "cachefly" 
+name "cachefly"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

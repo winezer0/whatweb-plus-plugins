@@ -1,8 +1,7 @@
 Plugin.define do
-name "skedify" 
+name "skedify"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

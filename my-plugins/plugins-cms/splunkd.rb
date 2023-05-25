@@ -1,8 +1,7 @@
 Plugin.define do
-name "splunkd" 
+name "splunkd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

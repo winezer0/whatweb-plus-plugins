@@ -1,8 +1,7 @@
 Plugin.define do
-name "webray" 
+name "webray"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

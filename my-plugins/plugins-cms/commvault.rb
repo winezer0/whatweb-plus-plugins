@@ -1,8 +1,7 @@
 Plugin.define do
-name "commvault" 
+name "commvault"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "火车头wifi-hctwifi广告营销系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

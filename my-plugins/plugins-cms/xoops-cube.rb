@@ -1,8 +1,7 @@
 Plugin.define do
 name "XOOPS-Cube"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "XOOPS Cube is an Open Source Web Application Platform"

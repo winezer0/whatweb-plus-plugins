@@ -1,8 +1,7 @@
 Plugin.define do
-name "supersized" 
+name "supersized"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

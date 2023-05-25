@@ -1,8 +1,7 @@
 Plugin.define do
-name "presstopia" 
+name "presstopia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-huelva-3-telepalma" 
+name "linksys-huelva-3-telepalma"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

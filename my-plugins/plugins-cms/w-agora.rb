@@ -1,8 +1,7 @@
 Plugin.define do
 name "w-agora"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "w-agora is web based forum package. It is entirely customizable through a web browser. It allows web publishing and file upload."

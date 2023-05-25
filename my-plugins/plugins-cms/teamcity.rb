@@ -1,8 +1,7 @@
 Plugin.define do
-name "teamcity" 
+name "teamcity"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

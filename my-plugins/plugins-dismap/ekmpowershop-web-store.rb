@@ -1,7 +1,7 @@
 Plugin.define do
-name "ekmpowershop-web-store" 
+name "ekmpowershop-web-store"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

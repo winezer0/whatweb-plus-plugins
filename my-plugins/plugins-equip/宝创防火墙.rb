@@ -1,8 +1,7 @@
 Plugin.define do
-name "宝创防火墙" 
+name "宝创防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

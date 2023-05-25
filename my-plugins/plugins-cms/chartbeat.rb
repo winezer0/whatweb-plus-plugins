@@ -1,8 +1,7 @@
 Plugin.define do
-name "chartbeat" 
+name "chartbeat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

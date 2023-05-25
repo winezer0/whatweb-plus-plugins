@@ -2,7 +2,6 @@ Plugin.define do
 name "solvonet-device-voip"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

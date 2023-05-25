@@ -1,8 +1,7 @@
 Plugin.define do
-name "tp-link无线路由器" 
+name "tp-link无线路由器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

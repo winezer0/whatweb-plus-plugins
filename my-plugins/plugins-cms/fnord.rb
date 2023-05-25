@@ -1,10 +1,8 @@
 Plugin.define do
 name "fnord"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "fnord - yet another small httpd"

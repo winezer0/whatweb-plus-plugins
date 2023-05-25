@@ -1,8 +1,7 @@
 Plugin.define do
-name "1039家校通" 
+name "1039家校通"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

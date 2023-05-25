@@ -1,7 +1,7 @@
 Plugin.define do
-name "LiveJournal-blog-hosting" 
+name "LiveJournal-blog-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

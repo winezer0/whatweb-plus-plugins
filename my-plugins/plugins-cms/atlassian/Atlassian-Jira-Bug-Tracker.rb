@@ -1,7 +1,7 @@
 Plugin.define do
-name "Atlassian-Jira-Bug-Tracker" 
+name "Atlassian-Jira-Bug-Tracker"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

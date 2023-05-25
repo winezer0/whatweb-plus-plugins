@@ -1,8 +1,7 @@
 Plugin.define do
-name "FestOS" 
+name "FestOS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "FestOS is web-based arts-n-crafts festival management software"

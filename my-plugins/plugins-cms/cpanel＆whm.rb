@@ -1,8 +1,7 @@
 Plugin.define do
-name "cpanel＆whm" 
+name "cpanel＆whm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

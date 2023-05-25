@@ -1,8 +1,7 @@
 Plugin.define do
 name "uniform-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Uniform Server is a lightweight server solution for running a web server under the WindowsOS. Includes the latest versions of Apache2, Perl5, PHP5, MySQL5, phpMyAdmin."

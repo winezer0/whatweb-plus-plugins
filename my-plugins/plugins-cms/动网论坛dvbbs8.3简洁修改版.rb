@@ -1,8 +1,7 @@
 Plugin.define do
-name "动网论坛dvbbs8.3简洁修改版" 
+name "动网论坛dvbbs8.3简洁修改版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

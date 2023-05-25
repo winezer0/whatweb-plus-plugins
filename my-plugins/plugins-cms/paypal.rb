@@ -1,8 +1,7 @@
 Plugin.define do
-name "paypal" 
+name "paypal"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

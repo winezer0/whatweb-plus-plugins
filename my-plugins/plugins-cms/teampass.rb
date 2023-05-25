@@ -1,8 +1,7 @@
 Plugin.define do
-name "teampass" 
+name "teampass"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "云端网络" 
+name "云端网络"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

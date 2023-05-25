@@ -1,8 +1,7 @@
 Plugin.define do
-name "octopress" 
+name "octopress"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

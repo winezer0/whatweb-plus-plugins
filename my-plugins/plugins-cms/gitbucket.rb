@@ -1,8 +1,7 @@
 Plugin.define do
-name "gitbucket" 
+name "gitbucket"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

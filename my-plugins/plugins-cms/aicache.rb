@@ -1,8 +1,7 @@
 Plugin.define do
-name "aicache" 
+name "aicache"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

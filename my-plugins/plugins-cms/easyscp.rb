@@ -1,8 +1,7 @@
 Plugin.define do
-name "easyscp" 
+name "easyscp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

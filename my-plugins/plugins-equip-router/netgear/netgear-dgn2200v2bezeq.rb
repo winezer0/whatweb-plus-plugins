@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-dgn2200v2bezeq"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

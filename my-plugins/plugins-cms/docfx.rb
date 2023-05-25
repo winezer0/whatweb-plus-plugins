@@ -1,8 +1,7 @@
 Plugin.define do
-name "docfx" 
+name "docfx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

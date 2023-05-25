@@ -2,7 +2,6 @@ Plugin.define do
 name "planet-wnrt-617g"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

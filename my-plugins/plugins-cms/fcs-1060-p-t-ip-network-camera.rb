@@ -2,7 +2,6 @@ Plugin.define do
 name "fcs-1060-p-t-ip-network-camera"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

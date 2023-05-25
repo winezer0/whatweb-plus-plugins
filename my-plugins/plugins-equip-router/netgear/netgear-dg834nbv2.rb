@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-dg834nbv2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

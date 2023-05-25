@@ -1,8 +1,7 @@
 Plugin.define do
 name "IP-Logger-Pro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The IP Logger PRO provides a straightforward and efficient way to record and analyze your website visitors completely."

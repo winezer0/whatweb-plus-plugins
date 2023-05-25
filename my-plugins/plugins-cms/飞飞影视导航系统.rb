@@ -1,8 +1,7 @@
 Plugin.define do
-name "飞飞影视导航系统" 
+name "飞飞影视导航系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

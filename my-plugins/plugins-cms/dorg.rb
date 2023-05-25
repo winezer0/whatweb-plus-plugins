@@ -1,8 +1,7 @@
 Plugin.define do
 name "DORG"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DORG is an Disc organization script which makes it easier for customers and businesses to find their software."

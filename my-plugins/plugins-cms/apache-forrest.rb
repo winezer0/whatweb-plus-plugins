@@ -1,8 +1,7 @@
 Plugin.define do
 name "Apache-Forrest"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Apache Forrest software is a publishing framework that transforms input from various sources into a unified presentation in one or more output formats."

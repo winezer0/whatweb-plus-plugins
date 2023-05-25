@@ -1,8 +1,7 @@
 Plugin.define do
-name "twistphp" 
+name "twistphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

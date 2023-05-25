@@ -1,8 +1,7 @@
 Plugin.define do
 name "SABnzbd"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SABnzbd is an Open Source Binary Newsreader written in Python."

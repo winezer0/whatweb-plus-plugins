@@ -1,8 +1,7 @@
 Plugin.define do
-name "tessitura" 
+name "tessitura"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

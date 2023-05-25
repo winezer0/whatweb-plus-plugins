@@ -1,8 +1,7 @@
 Plugin.define do
 name "zoneminder"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Linux video camera security and surveillance solution - Web interface - Requires MySQL and PHP"

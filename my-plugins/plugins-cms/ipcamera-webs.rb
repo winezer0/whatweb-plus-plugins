@@ -1,8 +1,7 @@
 Plugin.define do
-name "ipcamera-webs" 
+name "ipcamera-webs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "asp168欧虎" 
+name "asp168欧虎"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

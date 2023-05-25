@@ -1,8 +1,7 @@
 Plugin.define do
-name "shuipfcms" 
+name "shuipfcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

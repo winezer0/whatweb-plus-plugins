@@ -1,8 +1,7 @@
 Plugin.define do
-name "aspcms" 
+name "aspcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

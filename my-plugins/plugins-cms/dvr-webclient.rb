@@ -2,7 +2,6 @@ Plugin.define do
 name "DVR-WebClient"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "DVR camera"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "thinkadmin" 
+name "thinkadmin"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

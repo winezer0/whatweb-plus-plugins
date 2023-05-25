@@ -1,8 +1,7 @@
 Plugin.define do
-name "globopex" 
+name "globopex"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

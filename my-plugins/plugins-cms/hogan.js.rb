@@ -1,8 +1,7 @@
 Plugin.define do
-name "hogan.js" 
+name "hogan.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Aruba-Mobility-Controller-Config-File"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Aruba's family of mobility controllers are purpose-built network infrastructure devices, designed from the ground up to provide secure, scalable solutions for campus wireless LAN, wired security, branch office deployments, and remote networking. "

@@ -1,8 +1,7 @@
 Plugin.define do
-name "gitphp" 
+name "gitphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

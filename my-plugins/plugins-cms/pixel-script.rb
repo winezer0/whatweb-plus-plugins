@@ -1,8 +1,7 @@
 Plugin.define do
 name "Pixel-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "From simple to complex pixel page advertising system PHP Pixel Script makes it possible."

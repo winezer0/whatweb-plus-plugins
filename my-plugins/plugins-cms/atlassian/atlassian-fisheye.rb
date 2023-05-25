@@ -2,7 +2,6 @@ Plugin.define do
 name "atlassian-fisheye"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

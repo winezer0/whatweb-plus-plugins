@@ -1,8 +1,7 @@
 Plugin.define do
 name "broadwin-webaccess"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "BroadWin WebAccess is a web browser-based software package for human-machine interfaces (HMI), and supervisory control and data acquisition (SCADA)."

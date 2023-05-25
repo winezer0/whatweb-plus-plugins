@@ -2,7 +2,6 @@ Plugin.define do
 name "dgraph-ratel"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

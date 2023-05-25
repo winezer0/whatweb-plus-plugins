@@ -1,8 +1,7 @@
 Plugin.define do
 name "Polycom-ViewStation"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Polycom ViewStation - video server"
@@ -16,4 +15,8 @@ m << { :url=>"/u_indexmain.htm", :version=>@body.scan(/<td> <span class="bigtext
 end
 m
 end
+matches [
+{:version=>/<cite>Podcast Powered by <a href="http:\/\/www.mightyseek.com\/podpress\/" title="podPress, the dream plugin for podcasting with WordPress"><strong>podPress \(v([\d\.]+)\)<\/strong><\/a><\/cite>/},
+{:version=>/<div id="podPress_footer">Podcast powered by <a href="http:\/\/wordpress.org\/extend\/plugins\/podpress\/" title="podPress, a plugin for podcasting with WordPress"><strong>podPress v([\d\.]+)<\/strong><\/a><\/div>/},
+]
 end

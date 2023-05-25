@@ -1,8 +1,7 @@
 Plugin.define do
 name "Softbiz-Online-Auctions-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Softbiz Online Auctions Script is an Extensive and Powerful script written in PHP. It has potential to generate very heavy revenues for you. Script is built with focus on increased ease of users and raised profits of webmasters."

@@ -2,7 +2,6 @@ Plugin.define do
 name "moxa-vport-p06-1mp-m12-ip-camera"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

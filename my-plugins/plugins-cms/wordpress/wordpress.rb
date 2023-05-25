@@ -2,13 +2,9 @@ Plugin.define do
 name "WordPress"
 authors [
 "Andrew Horton",
-
-"@SlivTaMere", 
-
-"@anoroozian", 
-
-"@ajgon", 
-
+"@SlivTaMere",
+"@anoroozian",
+"@ajgon",
 ]
 version "0.9"
 description "WordPress is an opensource blogging system commonly used as a CMS."
@@ -49,6 +45,9 @@ matches [
 {:url=>"/wp-login.php", :text=>'action=lostpassword'},
 {:url=>"/wp-login.php",:regexp=>/<a href="https:\/\/cn.wordpress.org\/" title=/},
 {:url=>"/wp-login.php",:search=>"header",:regexp=>/Set-Cookie: wordpress_test_cookie=.*/},
+{:url=>"favicon.ico", :md5=>'f420dc2c7d90d7873a90d82cd7fde315'}, # not common, seen on http://s.wordpress.org/favicon.ico
+{:url=>"favicon.ico", :md5=>'fa54dbf2f61bd2e0188e47f5f578f736', :name=>'WordPress.com favicon'},  # on wordpress.com blogs  http://s2.wp.com/i/favicon.ico
+{:url=>"/readme.html", :version=>/<h1.*WordPress.*Version ([0-9a-z\.]+).*<\/h1>/m},
 {:url=>'/help.txt', :text=>'WordPress'},
 {:url=>'/license.txt', :md5=>'0d0434c8b176c525a6fce9cefdf8e106'},
 {:url=>'/license.txt', :md5=>'2cea1e842759512fed9c64df919615a2'},

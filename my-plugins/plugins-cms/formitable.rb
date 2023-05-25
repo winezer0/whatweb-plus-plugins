@@ -1,8 +1,7 @@
 Plugin.define do
-name "formitable" 
+name "formitable"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "久其通用财表系统" 
+name "久其通用财表系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

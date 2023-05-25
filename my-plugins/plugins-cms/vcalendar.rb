@@ -1,8 +1,7 @@
 Plugin.define do
 name "vcalendar"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "VCalendar is an open source Web calendar application for posting and maintaining events and schedules online. A free solution for use by online Web communities and any commercial and non-commercial organizations, available in PHP, ASP, C# and VB.NET."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "惠尔顿广域网加速" 
+name "惠尔顿广域网加速"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

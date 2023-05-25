@@ -1,8 +1,7 @@
 Plugin.define do
-name "miot-backend" 
+name "miot-backend"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

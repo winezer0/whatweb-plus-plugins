@@ -1,8 +1,7 @@
 Plugin.define do
-name "visualpath" 
+name "visualpath"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

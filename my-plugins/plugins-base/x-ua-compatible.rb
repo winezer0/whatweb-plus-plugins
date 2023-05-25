@@ -1,8 +1,7 @@
 Plugin.define do
 name "X-UA-Compatible"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin retrieves the X-UA-Compatible value from the HTTP header and meta http-equiv tag. - More Info: http://msdn.microsoft.com/en-us/library/cc817574.aspx"

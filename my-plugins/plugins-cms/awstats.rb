@@ -1,8 +1,7 @@
 Plugin.define do
 name "AWStats"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "AWStats - Free log file analyzer for advanced statistics (GNU GPL)."

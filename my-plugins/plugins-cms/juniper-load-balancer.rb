@@ -1,10 +1,8 @@
 Plugin.define do
 name "juniper-load-balancer"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Aung Khant <http://yehg.net/>",
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Juniper Networks Application Acceleration and Load Balancing Platforms"
@@ -17,7 +15,7 @@ m << {:name=>"via header" }
 if @headers['via'] =~ /Juniper Networks Application Acceleration Platform \- ([^<^\)]+)/i
 m << { :version=>@headers['via'].scan(/Juniper Networks Application Acceleration Platform \- ([^<^\)]+)/i) }
 end
-end    
+end
 m
 end
 matches [

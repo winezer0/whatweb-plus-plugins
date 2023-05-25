@@ -1,8 +1,7 @@
 Plugin.define do
-name "全程oa" 
+name "全程oa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "mobilecms" 
+name "mobilecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

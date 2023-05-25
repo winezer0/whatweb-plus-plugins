@@ -2,7 +2,6 @@ Plugin.define do
 name "zhicms-值得买系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

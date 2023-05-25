@@ -1,8 +1,7 @@
 Plugin.define do
 name "visionweb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "VisionWEB - video server web interface - Homepage [offline]: http://www.cieffe.com/"

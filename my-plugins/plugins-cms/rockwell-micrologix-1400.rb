@@ -2,7 +2,6 @@ Plugin.define do
 name "rockwell-micrologix-1400"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

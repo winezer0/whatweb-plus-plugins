@@ -1,8 +1,7 @@
 Plugin.define do
-name "storeden" 
+name "storeden"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

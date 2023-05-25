@@ -1,8 +1,7 @@
 Plugin.define do
-name "芒果商城系统gshop" 
+name "芒果商城系统gshop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "华夏erp" 
+name "华夏erp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

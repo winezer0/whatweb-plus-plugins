@@ -2,7 +2,6 @@ Plugin.define do
 name "lplydir-网站分类目录"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

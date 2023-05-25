@@ -1,8 +1,7 @@
 Plugin.define do
-name "cdnsun" 
+name "cdnsun"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Play-Framework"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Play is an open source web application framework, written in Java, which follows the model-view-controller architectural pattern. Build and deployment is all handled by Python scripts."

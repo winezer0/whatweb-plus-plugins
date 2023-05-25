@@ -1,8 +1,7 @@
 Plugin.define do
 name "railo"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Railo is an Open Source ColdFusion Markup Language (CFML) server."

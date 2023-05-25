@@ -1,8 +1,7 @@
 Plugin.define do
-name "openmas" 
+name "openmas"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

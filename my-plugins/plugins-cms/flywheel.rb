@@ -1,8 +1,7 @@
 Plugin.define do
-name "flywheel" 
+name "flywheel"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

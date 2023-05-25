@@ -1,8 +1,7 @@
 Plugin.define do
-name "elm-ui" 
+name "elm-ui"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

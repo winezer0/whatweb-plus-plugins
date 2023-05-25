@@ -1,8 +1,7 @@
 Plugin.define do
 name "Puppet-Dashboard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Puppet Dashboard is a web interface and reporting tool for a Puppet installation."

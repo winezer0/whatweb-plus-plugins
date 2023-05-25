@@ -1,8 +1,7 @@
 Plugin.define do
-name "金和oa" 
+name "金和oa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

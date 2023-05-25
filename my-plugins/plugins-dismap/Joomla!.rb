@@ -1,7 +1,7 @@
 Plugin.define do
-name "Joomla!" 
+name "Joomla!"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

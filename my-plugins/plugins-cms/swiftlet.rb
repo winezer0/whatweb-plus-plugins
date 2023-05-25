@@ -1,8 +1,7 @@
 Plugin.define do
-name "swiftlet" 
+name "swiftlet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

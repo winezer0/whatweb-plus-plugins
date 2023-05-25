@@ -1,8 +1,7 @@
 Plugin.define do
 name "Web-Calendar-System"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "web calendar system"

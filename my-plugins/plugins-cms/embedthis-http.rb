@@ -1,8 +1,7 @@
 Plugin.define do
-name "embedthis-http" 
+name "embedthis-http"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

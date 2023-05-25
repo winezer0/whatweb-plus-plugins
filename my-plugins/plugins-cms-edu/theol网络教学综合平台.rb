@@ -1,8 +1,7 @@
 Plugin.define do
-name "theol网络教学综合平台" 
+name "theol网络教学综合平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

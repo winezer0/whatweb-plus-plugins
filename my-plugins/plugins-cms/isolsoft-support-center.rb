@@ -1,8 +1,7 @@
 Plugin.define do
 name "isolsoft-support-center"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Support Center is a fully automated Help Desk solution."

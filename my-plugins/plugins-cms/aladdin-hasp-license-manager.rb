@@ -1,8 +1,7 @@
 Plugin.define do
 name "aladdin-hasp-license-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Aladdin HASP License Manager"

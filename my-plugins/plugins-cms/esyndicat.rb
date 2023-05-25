@@ -1,8 +1,7 @@
 Plugin.define do
 name "eSyndiCat"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "eSyndiCat is a professional, affordable directory software solution."

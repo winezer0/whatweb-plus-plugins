@@ -1,8 +1,7 @@
 Plugin.define do
-name "acsoft" 
+name "acsoft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

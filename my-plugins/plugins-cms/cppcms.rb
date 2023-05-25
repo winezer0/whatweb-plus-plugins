@@ -1,8 +1,7 @@
 Plugin.define do
-name "cppcms" 
+name "cppcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

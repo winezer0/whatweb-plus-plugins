@@ -1,8 +1,7 @@
 Plugin.define do
-name "incapsula-firewall" 
+name "incapsula-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

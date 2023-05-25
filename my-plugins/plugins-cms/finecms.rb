@@ -1,8 +1,7 @@
 Plugin.define do
-name "finecms" 
+name "finecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
@@ -24,5 +23,6 @@ matches [
 {:url=>'/views/default/images/hotbg.gif', :md5=>'fa475c40a6fa77c26759edb4b0bab182'},
 {:url=>'/views/default/images/icon2.gif', :md5=>'4361622dab8bbd82ae37cefce6d53ac7'},
 {:url=>'/views/default/member/images/login_bg.png', :md5=>'b3afcf9b2a6569e4cfa4bd9f2b3f8edc'},
+{:version=>/<span>FineCMS.*? (v.+)<\/span>/},
 ]
 end

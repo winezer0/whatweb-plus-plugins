@@ -1,8 +1,7 @@
 Plugin.define do
-name "农友政务系统" 
+name "农友政务系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

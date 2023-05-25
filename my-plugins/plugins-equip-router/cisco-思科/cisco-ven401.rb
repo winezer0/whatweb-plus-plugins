@@ -2,7 +2,6 @@ Plugin.define do
 name "cisco-ven401"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

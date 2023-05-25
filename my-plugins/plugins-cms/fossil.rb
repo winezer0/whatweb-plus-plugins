@@ -1,8 +1,7 @@
 Plugin.define do
 name "Fossil"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Simple, high-reliability, distributed software configuration management"

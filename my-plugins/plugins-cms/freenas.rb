@@ -1,8 +1,7 @@
 Plugin.define do
 name "FreeNAS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "FreeNAS is an Open Source Storage Platform based on FreeBSD and supports sharing across Windows, Apple, and UNIX-like systems."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "网新ibw网站管理系统" 
+name "网新ibw网站管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

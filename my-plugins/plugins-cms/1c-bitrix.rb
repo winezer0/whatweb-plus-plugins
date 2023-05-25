@@ -1,8 +1,7 @@
 Plugin.define do
-name "1c-bitrix" 
+name "1c-bitrix"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "dell-openmanage-switch-administrator"
 authors [
-"Max Davitt", 
-
+"Max Davitt",
 ]
 version "0.1"
 description "The Dell OpenManage Switch Administrator is a web interface for various Dell network switches (PowerConnect and N series switches?)."

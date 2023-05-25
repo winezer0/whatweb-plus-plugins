@@ -1,8 +1,7 @@
 Plugin.define do
-name "sitecatalyst" 
+name "sitecatalyst"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

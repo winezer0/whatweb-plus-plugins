@@ -1,8 +1,7 @@
 Plugin.define do
-name "网御waf" 
+name "网御waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

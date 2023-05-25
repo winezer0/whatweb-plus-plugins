@@ -1,7 +1,7 @@
 Plugin.define do
-name "Squid-Proxy-Server" 
+name "Squid-Proxy-Server"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

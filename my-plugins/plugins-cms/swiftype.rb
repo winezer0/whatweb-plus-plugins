@@ -1,8 +1,7 @@
 Plugin.define do
-name "swiftype" 
+name "swiftype"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

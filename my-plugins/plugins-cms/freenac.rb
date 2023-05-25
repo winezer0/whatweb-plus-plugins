@@ -1,8 +1,7 @@
 Plugin.define do
 name "FreeNAC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "FreeNAC is an OpenSource solution for LAN access control and dynamic Vlan management"

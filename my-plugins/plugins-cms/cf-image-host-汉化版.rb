@@ -2,7 +2,6 @@ Plugin.define do
 name "cf-image-host-汉化版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

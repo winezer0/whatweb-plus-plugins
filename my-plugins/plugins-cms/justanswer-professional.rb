@@ -1,8 +1,7 @@
 Plugin.define do
 name "JustAnswer-Professional"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "JustAnswer Professional Script is a PHP script that lets you start your own question answer website just like JustAnswer."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "nodejs" 
+name "nodejs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

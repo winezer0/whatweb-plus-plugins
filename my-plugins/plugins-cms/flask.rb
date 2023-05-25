@@ -1,8 +1,7 @@
 Plugin.define do
-name "flask" 
+name "flask"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "eFront"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "eFront is a modern learning system, bundled with key enterprise functionality ranging from skill-gap analysis and branch management to tailor-made reports."

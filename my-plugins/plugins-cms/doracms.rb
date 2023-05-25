@@ -1,8 +1,7 @@
 Plugin.define do
-name "doracms" 
+name "doracms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-c6250-100nas"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

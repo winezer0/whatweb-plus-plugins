@@ -1,8 +1,7 @@
 Plugin.define do
-name "groupoffice" 
+name "groupoffice"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

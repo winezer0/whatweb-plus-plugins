@@ -1,8 +1,7 @@
 Plugin.define do
-name "opsview" 
+name "opsview"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

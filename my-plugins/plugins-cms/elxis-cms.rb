@@ -1,8 +1,7 @@
 Plugin.define do
 name "Elxis-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Elxis is powerful open source content management system (CMS) released for free under the GNU/GPL license."

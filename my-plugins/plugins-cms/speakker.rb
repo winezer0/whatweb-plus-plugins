@@ -1,8 +1,7 @@
 Plugin.define do
 name "speakker"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Crossbrowser JavaScript audio solution based on HTML5"

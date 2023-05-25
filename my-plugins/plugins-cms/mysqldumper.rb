@@ -1,8 +1,7 @@
 Plugin.define do
 name "mysqldumper"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "MySQLDumper is a free PHP/Perl script to backup your important MySQL-Data safe and secure and restore them in the case of an emergency."

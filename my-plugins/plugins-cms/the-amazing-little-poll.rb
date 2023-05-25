@@ -1,10 +1,8 @@
 Plugin.define do
 name "The-Amazing-Little-Poll"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "The Amazing Little Poll is a very simple php polling script."

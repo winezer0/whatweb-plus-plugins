@@ -1,8 +1,7 @@
 Plugin.define do
-name "360网站安全检测" 
+name "360网站安全检测"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

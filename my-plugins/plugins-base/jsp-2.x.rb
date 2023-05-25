@@ -2,7 +2,6 @@ Plugin.define do
 name "jsp-2.x"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

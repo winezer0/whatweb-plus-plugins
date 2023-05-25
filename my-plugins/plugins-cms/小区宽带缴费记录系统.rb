@@ -1,8 +1,7 @@
 Plugin.define do
-name "小区宽带缴费记录系统" 
+name "小区宽带缴费记录系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

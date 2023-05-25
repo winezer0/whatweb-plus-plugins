@@ -1,7 +1,7 @@
 Plugin.define do
-name "Apahce-Flink" 
+name "Apahce-Flink"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

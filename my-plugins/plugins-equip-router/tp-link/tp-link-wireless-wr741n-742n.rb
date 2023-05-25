@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-wireless-wr741n-742n"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

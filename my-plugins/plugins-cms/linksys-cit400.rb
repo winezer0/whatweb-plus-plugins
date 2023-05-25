@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-cit400" 
+name "linksys-cit400"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

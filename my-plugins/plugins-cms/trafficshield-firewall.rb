@@ -1,8 +1,7 @@
 Plugin.define do
-name "trafficshield-firewall" 
+name "trafficshield-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

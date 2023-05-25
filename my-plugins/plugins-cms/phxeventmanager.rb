@@ -1,8 +1,7 @@
 Plugin.define do
 name "phxeventmanager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "phxEventManager is an event resource calendar system designed to manage all aspects of an occasion."

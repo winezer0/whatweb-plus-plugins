@@ -2,7 +2,6 @@ Plugin.define do
 name "eact-route"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

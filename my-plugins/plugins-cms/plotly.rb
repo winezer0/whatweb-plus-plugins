@@ -1,8 +1,7 @@
 Plugin.define do
-name "plotly" 
+name "plotly"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

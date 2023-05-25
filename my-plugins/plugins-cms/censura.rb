@@ -1,8 +1,7 @@
 Plugin.define do
 name "Censura"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Censura - the flexible, robust, reviews and ratings application."

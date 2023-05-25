@@ -1,8 +1,7 @@
 Plugin.define do
-name "企业版qq" 
+name "企业版qq"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "LEAP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "LEAP is a Content Management System (LEAP CMS), yet so much more than this. Because of its wide range of features that go beyond content management, it is also referred to as a Website Operating System."

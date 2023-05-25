@@ -2,7 +2,6 @@ Plugin.define do
 name "juniper-device-manager"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

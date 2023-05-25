@@ -1,10 +1,8 @@
 Plugin.define do
 name "mysql-connect"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "This plugin detects instances of the mysql_connect() function in PHP source code and retrieves the mysql server hostname, username and password if it's in plain-text. Alternatively, if the connection details are stored in variables it will return the variable names with possible values for those variables returned in :string=>"
@@ -25,7 +23,7 @@ r=Regexp.new("[\s]*"+Regexp.escape(line.to_s)+"[\s]*=[\s]*([^\r^\n]*);")
 if @body =~ r
 found=@body.scan(r)
 if found.size > 1
-hup[symbol] << found.join("+") 
+hup[symbol] << found.join("+")
 else
 hup[symbol] << found.first
 end

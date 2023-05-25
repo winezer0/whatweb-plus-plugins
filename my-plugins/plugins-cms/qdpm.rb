@@ -1,8 +1,7 @@
 Plugin.define do
 name "qdPM"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "qdPM is a free web-based project management tool suitable for a small team working on multiple projects."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "liveinternet" 
+name "liveinternet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

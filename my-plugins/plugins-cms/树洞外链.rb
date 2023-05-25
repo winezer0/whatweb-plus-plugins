@@ -1,8 +1,7 @@
 Plugin.define do
-name "树洞外链" 
+name "树洞外链"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

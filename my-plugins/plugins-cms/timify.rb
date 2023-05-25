@@ -1,8 +1,7 @@
 Plugin.define do
-name "timify" 
+name "timify"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

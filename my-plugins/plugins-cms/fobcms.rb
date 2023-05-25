@@ -1,8 +1,7 @@
 Plugin.define do
-name "fobcms" 
+name "fobcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

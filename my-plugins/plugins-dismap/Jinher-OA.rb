@@ -1,7 +1,7 @@
 Plugin.define do
-name "Jinher-OA" 
+name "Jinher-OA"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

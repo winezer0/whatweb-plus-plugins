@@ -1,8 +1,7 @@
 Plugin.define do
-name "snipcart" 
+name "snipcart"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

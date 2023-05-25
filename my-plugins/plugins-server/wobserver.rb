@@ -1,8 +1,7 @@
 Plugin.define do
 name "wobserver"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.1"
 description "Wobserver is a web based metrics, monitoring, and observer drop-in system for web apps. It is written in Elixir (based on Erlang), and available as a plugin for Phoenix web applications."

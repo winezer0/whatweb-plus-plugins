@@ -1,8 +1,7 @@
 Plugin.define do
-name "onestat" 
+name "onestat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

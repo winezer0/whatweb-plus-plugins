@@ -1,7 +1,7 @@
 Plugin.define do
-name "kdelibs" 
+name "kdelibs"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "SocialText" 
+name "SocialText"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

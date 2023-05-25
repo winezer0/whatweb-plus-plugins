@@ -1,7 +1,7 @@
 Plugin.define do
-name "sork-vacation-h3" 
+name "sork-vacation-h3"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

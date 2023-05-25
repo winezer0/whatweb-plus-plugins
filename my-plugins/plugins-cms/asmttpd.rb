@@ -1,8 +1,7 @@
 Plugin.define do
-name "asmttpd" 
+name "asmttpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

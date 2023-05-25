@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cype-MSCMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Cype MSCMS - a CMS for managing MapleStory server stats - http://cypedev.com/"

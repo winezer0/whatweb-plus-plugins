@@ -1,8 +1,7 @@
 Plugin.define do
-name "未知政府采购系统" 
+name "未知政府采购系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

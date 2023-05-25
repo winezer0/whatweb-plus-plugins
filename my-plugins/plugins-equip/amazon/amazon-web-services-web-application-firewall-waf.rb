@@ -2,7 +2,6 @@ Plugin.define do
 name "amazon-web-services-web-application-firewall-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

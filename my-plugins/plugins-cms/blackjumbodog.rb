@@ -1,8 +1,7 @@
 Plugin.define do
 name "blackjumbodog"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SapporoWorks BlackJumboDog provides server functions (HTTP, FTP, etc)"

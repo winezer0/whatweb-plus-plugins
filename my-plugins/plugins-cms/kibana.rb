@@ -1,10 +1,8 @@
 Plugin.define do
 name "Kibana"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Kibana is an open source data visualization platform that allows you to interact with your data"

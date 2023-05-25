@@ -1,8 +1,7 @@
 Plugin.define do
-name "underscore.js" 
+name "underscore.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

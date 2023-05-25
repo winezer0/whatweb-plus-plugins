@@ -1,8 +1,7 @@
 Plugin.define do
 name "barts-cms"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Bart's CMS is a website Content Management System that is build with Codecharge Studio."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "e-office" 
+name "e-office"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

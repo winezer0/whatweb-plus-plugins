@@ -1,11 +1,11 @@
 Plugin.define do
-name "kingcms" 
+name "kingcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>"<meta name=\"generator\" content=\"KingCMS\"/>"},
 {:text=>'Powered by KingCMS'},
 {:text=>'content="KingCMS'},
 {:url=>'/Article/index.asp', :text=>'kingcms'},

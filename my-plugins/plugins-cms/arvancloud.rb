@@ -1,8 +1,7 @@
 Plugin.define do
-name "arvancloud" 
+name "arvancloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

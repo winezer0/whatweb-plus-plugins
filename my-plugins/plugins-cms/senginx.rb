@@ -1,8 +1,7 @@
 Plugin.define do
-name "senginx" 
+name "senginx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

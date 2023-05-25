@@ -1,8 +1,8 @@
 Plugin.define do
 name "acme-embeddable-http-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-"Andrew Horton", 
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Minimal Java HTTP server class. This class implements a very small embeddable HTTP server. It runs Servlets compatible with the API used by JavaSoft's JavaServer server. Used as an embedded server for many devices."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "pendo" 
+name "pendo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

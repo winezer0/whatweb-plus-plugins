@@ -1,8 +1,7 @@
 Plugin.define do
-name "金钱柜p2p" 
+name "金钱柜p2p"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

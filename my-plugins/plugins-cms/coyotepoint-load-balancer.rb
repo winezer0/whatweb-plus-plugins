@@ -1,10 +1,8 @@
 Plugin.define do
 name "coyotepoint-load-balancer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "CoyotePoint load balancing device"

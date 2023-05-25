@@ -1,8 +1,7 @@
 Plugin.define do
-name "lionwiki" 
+name "lionwiki"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

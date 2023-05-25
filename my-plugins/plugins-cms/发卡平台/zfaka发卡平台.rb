@@ -1,8 +1,7 @@
 Plugin.define do
-name "zfaka发卡平台" 
+name "zfaka发卡平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "SiteCaddy"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Site Caddy offers a suite of online tools for marketing, content management, e-commerce and hosting"

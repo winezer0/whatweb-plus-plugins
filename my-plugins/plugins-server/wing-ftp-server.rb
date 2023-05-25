@@ -1,8 +1,7 @@
 Plugin.define do
 name "wing-ftp-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Wing FTP server is a secure multi-protocol file server(FTP, HTTP, FTPS, HTTPS, SFTP) for Windows, Linux, Mac OSX and Solaris."

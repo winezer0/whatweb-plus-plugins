@@ -1,8 +1,7 @@
 Plugin.define do
-name "thinkox" 
+name "thinkox"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

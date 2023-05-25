@@ -2,7 +2,6 @@ Plugin.define do
 name "pars-elecom-portal"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

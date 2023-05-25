@@ -1,8 +1,7 @@
 Plugin.define do
-name "superword博客程序" 
+name "superword博客程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

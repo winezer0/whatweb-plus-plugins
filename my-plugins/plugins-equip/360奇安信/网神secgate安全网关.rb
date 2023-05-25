@@ -1,8 +1,7 @@
 Plugin.define do
-name "网神secgate安全网关" 
+name "网神secgate安全网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

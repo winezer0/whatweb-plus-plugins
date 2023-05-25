@@ -1,8 +1,7 @@
 Plugin.define do
-name "nebulytics" 
+name "nebulytics"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "12样-12yang团购系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

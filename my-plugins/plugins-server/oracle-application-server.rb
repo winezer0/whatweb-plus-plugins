@@ -1,8 +1,7 @@
 Plugin.define do
 name "oracle-application-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Oracle Application Server - superseded by Oracle iAS (Internet Application Server)"

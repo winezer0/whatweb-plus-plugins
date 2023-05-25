@@ -1,8 +1,7 @@
 Plugin.define do
-name "wijungle" 
+name "wijungle"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

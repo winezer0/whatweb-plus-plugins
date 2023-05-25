@@ -1,8 +1,7 @@
 Plugin.define do
-name "keenetic" 
+name "keenetic"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

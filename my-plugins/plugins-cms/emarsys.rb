@@ -1,8 +1,7 @@
 Plugin.define do
-name "emarsys" 
+name "emarsys"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

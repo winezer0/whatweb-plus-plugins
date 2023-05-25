@@ -1,8 +1,7 @@
 Plugin.define do
-name "ionicons" 
+name "ionicons"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

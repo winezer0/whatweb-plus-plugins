@@ -1,8 +1,7 @@
 Plugin.define do
-name "hybris" 
+name "hybris"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

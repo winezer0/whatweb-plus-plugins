@@ -1,8 +1,7 @@
 Plugin.define do
 name "Ilient-SysAid"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Ilient SysAid IT Help Desk Software"

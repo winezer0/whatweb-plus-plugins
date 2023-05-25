@@ -1,7 +1,7 @@
 Plugin.define do
-name "MinIO" 
+name "MinIO"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "九酷网络二级域名注册系统" 
+name "九酷网络二级域名注册系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

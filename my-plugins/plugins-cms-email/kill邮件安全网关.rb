@@ -1,8 +1,7 @@
 Plugin.define do
-name "kill邮件安全网关" 
+name "kill邮件安全网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

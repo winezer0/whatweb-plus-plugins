@@ -1,8 +1,7 @@
 Plugin.define do
-name "小蚂蚁" 
+name "小蚂蚁"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

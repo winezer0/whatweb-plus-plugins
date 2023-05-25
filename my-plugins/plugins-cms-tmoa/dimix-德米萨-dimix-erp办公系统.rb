@@ -2,7 +2,6 @@ Plugin.define do
 name "dimix-德米萨-dimix-erp办公系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

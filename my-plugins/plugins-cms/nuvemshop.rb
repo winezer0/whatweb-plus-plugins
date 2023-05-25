@@ -1,8 +1,7 @@
 Plugin.define do
-name "nuvemshop" 
+name "nuvemshop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

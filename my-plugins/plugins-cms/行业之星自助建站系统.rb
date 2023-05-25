@@ -1,8 +1,7 @@
 Plugin.define do
-name "行业之星自助建站系统" 
+name "行业之星自助建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

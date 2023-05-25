@@ -1,7 +1,7 @@
 Plugin.define do
-name "NetScreen-WebUI-or-3Com-Router" 
+name "NetScreen-WebUI-or-3Com-Router"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

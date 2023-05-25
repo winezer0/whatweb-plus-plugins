@@ -2,7 +2,6 @@ Plugin.define do
 name "slimbox-2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

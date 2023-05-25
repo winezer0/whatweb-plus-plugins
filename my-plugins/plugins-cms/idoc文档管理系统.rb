@@ -1,8 +1,7 @@
 Plugin.define do
-name "idoc文档管理系统" 
+name "idoc文档管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

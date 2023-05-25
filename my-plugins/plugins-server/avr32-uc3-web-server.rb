@@ -2,7 +2,6 @@ Plugin.define do
 name "avr32-uc3-web-server"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

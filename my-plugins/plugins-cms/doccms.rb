@@ -1,8 +1,7 @@
 Plugin.define do
-name "doccms" 
+name "doccms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

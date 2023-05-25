@@ -1,8 +1,7 @@
 Plugin.define do
-name "mojolicious" 
+name "mojolicious"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "error-log"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin identifies PHP error_logs and and extracts the local file path."

@@ -1,8 +1,8 @@
 Plugin.define do
 name "PHP"
 authors [
-"Andrew Horton", 
-"Brendan Coles <bcoles@gmail.com>", 
+"Andrew Horton",
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.6"
 description "PHP is a widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML. This plugin identifies PHP errors, modules and versions and extracts the local file path and username if present."

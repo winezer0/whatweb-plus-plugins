@@ -1,8 +1,7 @@
 Plugin.define do
 name "eMeeting-Online-Dating-Software"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Dating Software by eMeeting Ltd"

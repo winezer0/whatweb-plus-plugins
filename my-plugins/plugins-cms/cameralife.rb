@@ -1,8 +1,7 @@
 Plugin.define do
-name "cameralife" 
+name "cameralife"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

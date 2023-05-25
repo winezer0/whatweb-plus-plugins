@@ -1,8 +1,7 @@
 Plugin.define do
-name "东软neteye防火墙" 
+name "东软neteye防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "slack-instance" 
+name "slack-instance"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

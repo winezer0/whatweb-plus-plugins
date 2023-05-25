@@ -1,7 +1,7 @@
 Plugin.define do
-name "rPath-Appliance-Agent" 
+name "rPath-Appliance-Agent"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

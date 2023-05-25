@@ -1,8 +1,7 @@
 Plugin.define do
-name "jalbum" 
+name "jalbum"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

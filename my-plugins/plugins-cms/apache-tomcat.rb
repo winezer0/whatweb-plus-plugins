@@ -1,8 +1,8 @@
 Plugin.define do
-name "Apache-Tomcat" 
+name "Apache-Tomcat"
 authors [
-"Louis Nyffenegger","Andrew Horton", "Code0x58" 
-] 
+"Louis Nyffenegger","Andrew Horton", "Code0x58"
+]
 description "Apache Tomcat Web Server"
 website "http://tomcat.apache.org/"
 version "0.5"
@@ -13,7 +13,11 @@ matches [
 {:name=>"Footer", :version=>/Apache Tomcat\/([0-9\.]+)<\/h3><\/body><\/html>/},
 {:name=>"Java Stack Trace Error", :regexp=>/org\.apache\.tomcat\..*java\.lang\.Thread\.run/},
 {:name=>"Tomcat admin /manager/status", :url=>"/manager/status", :text=>"tomcat"},
+{:name=>"catalina home",
+:regexp=>/CATALINA_HOME\/webapps\/ROOT\/index\.html/},
 {:name=>"catalina home",:regexp=>/CATALINA_HOME\/webapps\/ROOT\/index\.html/},
+{:name=>"tomcat in title",
+:regexp=>/<title>Apache Tomcat<\/title>/},
 {:name=>"tomcat in title",:regexp=>/<title>Apache Tomcat<\/title>/},
 {:offset=>1, :search=>'headers[x-powered-by]', :regexp=>/\bTomcat\b(?:-([\d.]+))?/},
 {:regexp=>/<a href="\/docs\/setup.html">Tomcat Setup<\/a>|If you're seeing this, you've successfully installed Tomcat. Congratulations!/},
@@ -32,9 +36,9 @@ matches [
 {:url=>'/tomcat.png', :md5=>'b1661b22c16b597596a005ab73068c0b'},
 ]
 aggressive do
-target = URI.join(@base_uri.to_s,"/#{$RANDSTR}").to_s	
+target = URI.join(@base_uri.to_s,"/#{$RANDSTR}").to_s
 info = []
-begin 
+begin
 status, _, _, body, _ = open_target(target)
 if status == 404
 v = body.scan(/Apache Tomcat\/([456]\.\d+\.\d+)/)[0]

@@ -1,10 +1,8 @@
 Plugin.define do
 name "badblue"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "A free, very small Windows web server for sharing, publishing and serving files."

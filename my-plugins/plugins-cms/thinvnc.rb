@@ -1,8 +1,7 @@
 Plugin.define do
-name "thinvnc" 
+name "thinvnc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

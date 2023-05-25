@@ -1,8 +1,7 @@
 Plugin.define do
-name "vmware-auth" 
+name "vmware-auth"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

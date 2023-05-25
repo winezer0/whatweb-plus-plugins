@@ -1,8 +1,7 @@
 Plugin.define do
-name "会捷通云视讯平台" 
+name "会捷通云视讯平台"
 authors [
 "winezero",
-
 ]
 version "0.2"
 matches [

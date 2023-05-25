@@ -1,8 +1,7 @@
 Plugin.define do
-name "fritz!box" 
+name "fritz!box"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

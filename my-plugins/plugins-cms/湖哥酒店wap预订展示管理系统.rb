@@ -1,8 +1,7 @@
 Plugin.define do
-name "湖哥酒店wap预订展示管理系统" 
+name "湖哥酒店wap预订展示管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

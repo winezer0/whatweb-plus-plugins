@@ -2,7 +2,6 @@ Plugin.define do
 name "alert-logic-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

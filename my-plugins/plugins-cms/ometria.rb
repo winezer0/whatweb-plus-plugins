@@ -1,8 +1,7 @@
 Plugin.define do
-name "ometria" 
+name "ometria"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-jwnr2000v2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

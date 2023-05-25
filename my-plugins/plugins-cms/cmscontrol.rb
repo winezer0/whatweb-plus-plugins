@@ -1,8 +1,7 @@
 Plugin.define do
 name "CMScontrol"
 authors [
-"Brendan Coles <bcoles at gmail dot com>", 
-
+"Brendan Coles <bcoles at gmail dot com>",
 ]
 version "0.2"
 description "CMScontrol"

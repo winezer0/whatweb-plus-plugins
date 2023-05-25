@@ -1,8 +1,7 @@
 Plugin.define do
 name "ipmate-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "IPMATE router [Japanese] - http://www.ntt-east.co.jp/"

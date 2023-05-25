@@ -1,8 +1,7 @@
 Plugin.define do
 name "Kajona"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Kajona - Open Source Content Management System - Requires PHP & MySQL"

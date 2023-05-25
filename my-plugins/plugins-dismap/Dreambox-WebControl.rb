@@ -1,7 +1,7 @@
 Plugin.define do
-name "Dreambox-WebControl" 
+name "Dreambox-WebControl"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

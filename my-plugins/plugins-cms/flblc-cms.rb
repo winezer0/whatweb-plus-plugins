@@ -1,8 +1,7 @@
 Plugin.define do
-name "flblc-cms" 
+name "flblc-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

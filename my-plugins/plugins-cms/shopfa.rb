@@ -1,8 +1,7 @@
 Plugin.define do
-name "shopfa" 
+name "shopfa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

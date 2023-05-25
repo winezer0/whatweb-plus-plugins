@@ -1,8 +1,7 @@
 Plugin.define do
 name "FileNice"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "fileNice is a free php file browser, particularly useful if you have a 'dump' folder on your server where you regularly upload files and you want to be able to see what.s there."

@@ -1,10 +1,8 @@
 Plugin.define do
 name "Allen-Bradley-PLC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "SCADA - Allen Bradley programmable logic controller (PLC)"

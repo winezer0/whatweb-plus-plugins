@@ -2,7 +2,6 @@ Plugin.define do
 name "Echo"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "CMS"

@@ -1,10 +1,8 @@
 Plugin.define do
 name "SailsJS"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "SailsJS is a realtime MVC Framework for Node.js"

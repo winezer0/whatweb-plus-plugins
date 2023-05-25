@@ -1,8 +1,7 @@
 Plugin.define do
-name "pagefly" 
+name "pagefly"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

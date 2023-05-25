@@ -2,7 +2,6 @@ Plugin.define do
 name "arcgis-api-for-javascript"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

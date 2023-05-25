@@ -1,10 +1,8 @@
-Plugin.define do 
-name "Odoo" 
+Plugin.define do
+name "Odoo"
 authors [
 "Naglis Jonaitis",
-
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version '0.2'
 description 'Odoo is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications targeting companies of all sizes.'

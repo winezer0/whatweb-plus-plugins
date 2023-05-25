@@ -2,7 +2,6 @@ Plugin.define do
 name "kingdee-eas"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

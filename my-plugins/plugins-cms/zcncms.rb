@@ -1,8 +1,7 @@
 Plugin.define do
-name "zcncms" 
+name "zcncms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

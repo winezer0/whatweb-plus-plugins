@@ -1,8 +1,7 @@
 Plugin.define do
-name "kontaktify" 
+name "kontaktify"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

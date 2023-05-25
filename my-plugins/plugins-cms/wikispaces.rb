@@ -1,8 +1,7 @@
 Plugin.define do
-name "wikispaces" 
+name "wikispaces"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Elite-Gaming-Ladders"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Elite Gaming Ladders - Leagues, tournaments and online game battles script"

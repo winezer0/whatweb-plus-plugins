@@ -1,8 +1,7 @@
 Plugin.define do
-name "eyeos" 
+name "eyeos"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

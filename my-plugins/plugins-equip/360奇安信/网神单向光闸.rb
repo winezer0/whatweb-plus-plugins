@@ -1,8 +1,7 @@
 Plugin.define do
-name "网神单向光闸" 
+name "网神单向光闸"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

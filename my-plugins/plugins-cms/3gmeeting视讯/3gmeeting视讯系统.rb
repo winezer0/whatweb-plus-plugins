@@ -1,8 +1,7 @@
 Plugin.define do
-name "3gmeeting视讯系统" 
+name "3gmeeting视讯系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "WoW-Server-Status"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This lightweight PHP script will parse Blizzard's XML feed and display realm status on your Guild's web page. The output can be configured as text/HTML, a dynamically generated image or as a PHP array."

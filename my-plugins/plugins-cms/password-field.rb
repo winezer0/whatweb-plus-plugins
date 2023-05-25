@@ -2,7 +2,6 @@ Plugin.define do
 name "password-field"
 authors [
 "Caleb Anderson",
-
 ]
 version "0.1"
 description "find password fields"
@@ -13,7 +12,7 @@ passive do
 m=[]
 fields=@body.scan(/<input [^>]*?type=["']password["'][^>]*>/i)
 fields.each do |field|
-name=field.scan(/name=["'](.*?)["']/i).first.first rescue nil 
+name=field.scan(/name=["'](.*?)["']/i).first.first rescue nil
 m << {:name=>"field name",:string=>name} unless name.nil?
 end
 return m

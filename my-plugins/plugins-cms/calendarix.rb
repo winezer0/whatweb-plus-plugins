@@ -1,8 +1,7 @@
 Plugin.define do
 name "Calendarix"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Calendarix is a powerful and easy to use web-based calendar that runs on PHP and MySQL."

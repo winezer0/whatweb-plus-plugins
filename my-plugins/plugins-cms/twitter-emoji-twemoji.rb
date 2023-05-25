@@ -2,7 +2,6 @@ Plugin.define do
 name "twitter-emoji-twemoji"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

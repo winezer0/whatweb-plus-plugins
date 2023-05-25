@@ -2,7 +2,6 @@ Plugin.define do
 name "netcore-nr285p"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

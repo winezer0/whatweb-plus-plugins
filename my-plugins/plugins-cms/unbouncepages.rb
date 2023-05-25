@@ -1,8 +1,7 @@
 Plugin.define do
-name "unbouncepages" 
+name "unbouncepages"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

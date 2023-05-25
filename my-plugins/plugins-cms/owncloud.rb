@@ -1,8 +1,7 @@
 Plugin.define do
-name "owncloud" 
+name "owncloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

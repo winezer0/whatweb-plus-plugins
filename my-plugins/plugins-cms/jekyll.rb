@@ -1,8 +1,7 @@
 Plugin.define do
-name "jekyll" 
+name "jekyll"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

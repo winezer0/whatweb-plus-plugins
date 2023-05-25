@@ -1,10 +1,8 @@
 Plugin.define do
 name "Kleeja"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Kleeja is a free, open-source file upload system"

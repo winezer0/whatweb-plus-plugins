@@ -1,8 +1,7 @@
 Plugin.define do
 name "SystemBase-PortBase"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Portbase is a Serial to Ethernet Device Server with an internal modem for PPP server and client. When a network failure has occurs, serial device can still be managed over PSTN connection. Also, RAS server feature enables both directly and network-connected devices to be accessed via Portbase. Uses telnet for remote management"
@@ -14,4 +13,10 @@ m << { :name=>"HTTP Server and WWW-Authenticate Headers" }
 end
 m
 end
+matches [
+{:text=>'                powered by System-Shop'},
+{:text=>'               http://www.system-shop.at'},
+{:text=>'      powered by System4you.com internet solutions'},
+{:text=>'<a href="http://www.systemshop.at" target="_blank">Powered by System'},
+]
 end

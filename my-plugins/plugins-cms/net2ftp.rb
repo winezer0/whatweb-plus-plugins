@@ -1,8 +1,7 @@
 Plugin.define do
 name "net2ftp"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "net2ftp is a web based FTP client"

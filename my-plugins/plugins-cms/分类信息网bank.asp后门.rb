@@ -1,8 +1,7 @@
 Plugin.define do
-name "分类信息网bank.asp后门" 
+name "分类信息网bank.asp后门"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

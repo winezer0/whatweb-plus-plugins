@@ -1,8 +1,7 @@
 Plugin.define do
-name "房佳百分百开源新房分销erp学习版" 
+name "房佳百分百开源新房分销erp学习版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

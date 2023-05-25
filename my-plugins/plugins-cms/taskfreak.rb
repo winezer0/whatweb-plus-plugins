@@ -1,8 +1,7 @@
 Plugin.define do
 name "TaskFreak"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "TaskFreak! Original is a simple but efficient web based task manager written in PHP."

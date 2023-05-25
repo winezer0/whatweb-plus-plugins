@@ -1,8 +1,7 @@
 Plugin.define do
-name "用友fe协作办公平台" 
+name "用友fe协作办公平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

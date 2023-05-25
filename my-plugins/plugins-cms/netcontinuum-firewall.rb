@@ -1,8 +1,7 @@
 Plugin.define do
-name "netcontinuum-firewall" 
+name "netcontinuum-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

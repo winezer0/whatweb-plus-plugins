@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-huelva-5-pedreratv" 
+name "linksys-huelva-5-pedreratv"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

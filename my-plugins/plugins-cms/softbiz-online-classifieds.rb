@@ -1,8 +1,7 @@
 Plugin.define do
 name "Softbiz-Online-Classifieds"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Softbiz Online Classifieds PLUS Script is a highly Advanced and Powerful PHP script to run your classifieds site. It has potential to generate very heavy revenues for you. Script is built with focus on increase ease of users and profits of webmasters."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "loginradius" 
+name "loginradius"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

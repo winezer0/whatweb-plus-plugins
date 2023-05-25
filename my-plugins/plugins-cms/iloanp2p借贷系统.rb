@@ -1,8 +1,7 @@
 Plugin.define do
-name "iloanp2p借贷系统" 
+name "iloanp2p借贷系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

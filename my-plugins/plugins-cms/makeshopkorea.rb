@@ -1,8 +1,7 @@
 Plugin.define do
-name "makeshopkorea" 
+name "makeshopkorea"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

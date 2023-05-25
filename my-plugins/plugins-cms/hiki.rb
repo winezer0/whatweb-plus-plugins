@@ -1,8 +1,7 @@
 Plugin.define do
 name "Hiki"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Hiki is a powerful and fast wiki clone written in Ruby."

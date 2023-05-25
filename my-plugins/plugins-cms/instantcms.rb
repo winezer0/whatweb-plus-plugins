@@ -1,8 +1,7 @@
 Plugin.define do
-name "instantcms" 
+name "instantcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

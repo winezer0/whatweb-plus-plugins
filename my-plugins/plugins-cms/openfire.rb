@@ -1,8 +1,7 @@
 Plugin.define do
-name "openfire" 
+name "openfire"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

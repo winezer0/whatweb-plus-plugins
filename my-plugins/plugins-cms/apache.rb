@@ -2,9 +2,7 @@ Plugin.define do
 name "Apache"
 authors [
 "Andrew Horton",
-
 "Brendan Coles <bcoles@gmail.com>",
-
 ]
 version "0.8"
 description "The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards."
@@ -17,7 +15,7 @@ dorks [
 matches [
 {:certainty=>75, :module=>"mod_security", :regexp=>/^NOYB$/, :search=>"headers[server]"},
 {:certainty=>75, :name=>"htacess WWW-Authenticate realm", :search=>"headers[www-authenticate]", :regexp=>/Basic realm="htaccess password prompt"/},
-{:name=>"This IP is being shared among many domains.", 
+{:name=>"This IP is being shared among many domains.",
 :text=>"<body><center>This IP is being shared among many domains.<br>\nTo view the domain you are looking for, simply enter the domain name in the location bar of your web browser.<br>", :string=>"Default"},
 {:regexp=>/^Apache/i,  :search=>"headers[server]", :name=>"HTTP Server Header"},
 {:search=>"header",:regexp=>/Server: Apache.*/},

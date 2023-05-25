@@ -1,8 +1,7 @@
 Plugin.define do
 name "VMware-Horizon"
 authors [
-"Max Davitt", 
-
+"Max Davitt",
 ]
 version "0.1"
 description "VMware Horizon is a modern platform for secure delivery of virtual desktops and apps across the hybrid cloud, from the market leader in software-defined data center and digital workspaces."

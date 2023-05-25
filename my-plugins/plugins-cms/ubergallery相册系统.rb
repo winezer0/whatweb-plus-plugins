@@ -1,8 +1,7 @@
 Plugin.define do
-name "ubergallery相册系统" 
+name "ubergallery相册系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

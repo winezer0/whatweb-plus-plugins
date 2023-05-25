@@ -1,8 +1,7 @@
 Plugin.define do
-name "songcms" 
+name "songcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

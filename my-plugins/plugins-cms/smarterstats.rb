@@ -1,8 +1,7 @@
 Plugin.define do
 name "SmarterStats"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Complete SEO and Web Analytics for Individuals and Enterprises"

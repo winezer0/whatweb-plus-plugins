@@ -1,10 +1,8 @@
 Plugin.define do
 name "sysmaster"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "SysMaster is a leading vendor of voice, video and wireless products and solutions, serving telecoms and service providers worldwide."

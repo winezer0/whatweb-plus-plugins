@@ -1,8 +1,7 @@
 Plugin.define do
-name "xregexp" 
+name "xregexp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

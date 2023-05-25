@@ -1,8 +1,7 @@
 Plugin.define do
-name "siteground" 
+name "siteground"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

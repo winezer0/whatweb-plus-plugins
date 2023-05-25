@@ -1,10 +1,8 @@
 Plugin.define do
 name "TalkSwitch-Phone"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "TalkSwitch designs and builds telephone systems for small and multi-location businesses. The company's Private branch exchange (PBX) and hybrid IP-PBX products enable communication over telephone and Voice over IP (VoIP) networks."

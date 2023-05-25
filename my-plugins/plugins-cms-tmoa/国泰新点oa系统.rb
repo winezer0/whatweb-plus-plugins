@@ -1,8 +1,7 @@
 Plugin.define do
-name "国泰新点oa系统" 
+name "国泰新点oa系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

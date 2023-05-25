@@ -1,8 +1,7 @@
 Plugin.define do
-name "kangle反向代理" 
+name "kangle反向代理"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

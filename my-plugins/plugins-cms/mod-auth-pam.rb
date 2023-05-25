@@ -2,7 +2,6 @@ Plugin.define do
 name "mod-auth-pam"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "HESK"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Web-based help desk software featuring unlimited tickets, categories, knowledgebase, attachments and more. - Requires: PHP and MySQL"

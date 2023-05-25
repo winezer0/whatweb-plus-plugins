@@ -1,7 +1,7 @@
 Plugin.define do
-name "Apache-on-Mac-OS-X" 
+name "Apache-on-Mac-OS-X"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "sophp免费微信开源框架" 
+name "sophp免费微信开源框架"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

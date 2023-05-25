@@ -1,8 +1,7 @@
 Plugin.define do
-name "dasannetworks" 
+name "dasannetworks"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "ibm-internet-connection-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "IBM Internet Connection Server - Homepage [offline] : http://www.ics.raleigh.ibm.com"

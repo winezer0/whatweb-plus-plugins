@@ -1,8 +1,7 @@
 Plugin.define do
 name "Amiro-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Amiro.CMS is a top-notch website development and content management system with several dynamic features and a user-friendly interface."

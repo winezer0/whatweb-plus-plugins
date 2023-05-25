@@ -1,7 +1,7 @@
 Plugin.define do
-name "Tongda-OA" 
+name "Tongda-OA"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

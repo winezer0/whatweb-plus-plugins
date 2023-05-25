@@ -1,8 +1,7 @@
 Plugin.define do
-name "adultvideoscript" 
+name "adultvideoscript"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

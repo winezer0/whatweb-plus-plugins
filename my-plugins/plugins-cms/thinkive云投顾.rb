@@ -1,8 +1,7 @@
 Plugin.define do
-name "thinkive云投顾" 
+name "thinkive云投顾"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

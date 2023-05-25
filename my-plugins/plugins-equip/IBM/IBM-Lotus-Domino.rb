@@ -1,8 +1,7 @@
 Plugin.define do
-name "IBM-Lotus-Domino" 
+name "IBM-Lotus-Domino"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

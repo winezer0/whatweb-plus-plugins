@@ -1,7 +1,7 @@
 Plugin.define do
-name "vlc" 
+name "vlc"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

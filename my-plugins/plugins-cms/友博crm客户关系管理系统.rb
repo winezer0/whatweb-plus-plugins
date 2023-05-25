@@ -1,8 +1,7 @@
 Plugin.define do
-name "友博crm客户关系管理系统" 
+name "友博crm客户关系管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

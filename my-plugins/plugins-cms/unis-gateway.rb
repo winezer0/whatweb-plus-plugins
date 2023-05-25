@@ -2,7 +2,6 @@ Plugin.define do
 name "unis-gateway"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

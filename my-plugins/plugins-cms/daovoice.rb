@@ -1,8 +1,7 @@
 Plugin.define do
-name "daovoice" 
+name "daovoice"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

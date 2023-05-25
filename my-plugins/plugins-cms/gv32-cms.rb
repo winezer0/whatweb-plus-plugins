@@ -1,8 +1,7 @@
 Plugin.define do
-name "gv32-cms" 
+name "gv32-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "opengrok" 
+name "opengrok"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

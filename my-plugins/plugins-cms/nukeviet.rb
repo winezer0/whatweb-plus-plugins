@@ -1,8 +1,7 @@
 Plugin.define do
-name "nukeviet" 
+name "nukeviet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

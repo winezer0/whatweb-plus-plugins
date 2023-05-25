@@ -1,8 +1,7 @@
 Plugin.define do
 name "xmb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "XMB is a lightweight PHP forum software with all the features you need to support a growing community."
@@ -18,7 +17,13 @@ matches [
 {:name=>'Title',
 :version=>/<title>[^<]+- Powered by XMB ([\d\.]+) /},
 {:regexp=>/<!-- Powered by XMB/},
+{:text=>'<!-- Aventure Media & The XMB Group -->'},
+{:text=>'<!-- Powered by XMB  -->'},
 {:text=>'<!-- Powered by XMB '},
 {:text=>'<!-- The XMB Group -->'},
+{:text=>'<!-- www.aventure-media.co.uk  :  www.xmbforum.com -->'},
+{:version=>/<title>[^\-]+- Powered by XMB ([^<]+)<\/title>/},
+{:version=>/^<!-- Powered by XMB ([^\ \ ]+)/},
+{:version=>/^Powered by XMB ([^<]+)<br \/>/},
 ]
 end

@@ -1,7 +1,7 @@
 Plugin.define do
-name "ktorrent" 
+name "ktorrent"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

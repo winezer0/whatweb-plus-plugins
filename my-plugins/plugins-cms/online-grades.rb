@@ -1,8 +1,7 @@
 Plugin.define do
 name "Online-Grades"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Online Grades is the leading free-software project that allows K-12+ student grades attendance information to be posted onto a dynamic web site. Online Grades is not a web-based gradebook. Instead, it accepts grade export information from several popular gradebook software programs such as Easy Grade Pro, Gradekeeper, Misty City's Grade Machine, and PGGP and places the grade information online securely."

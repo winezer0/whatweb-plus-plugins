@@ -1,8 +1,7 @@
 Plugin.define do
-name "爱青檬cms音乐程序系统" 
+name "爱青檬cms音乐程序系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

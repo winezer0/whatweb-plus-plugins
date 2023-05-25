@@ -1,8 +1,7 @@
 Plugin.define do
 name "podPress"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "podPress - A dream plugin for Podcastrs using WordPress."

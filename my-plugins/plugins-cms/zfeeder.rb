@@ -1,8 +1,7 @@
 Plugin.define do
 name "zfeeder"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "check zFeeder if you want to show other's RSS content (news and much more) on your website, wapsite or use it on your PC (or intranet) as a news reader."

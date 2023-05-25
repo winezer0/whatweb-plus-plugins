@@ -1,8 +1,7 @@
 Plugin.define do
-name "vkflash" 
+name "vkflash"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

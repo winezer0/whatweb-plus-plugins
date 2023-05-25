@@ -1,8 +1,7 @@
 Plugin.define do
-name "pinphp购物分享系统" 
+name "pinphp购物分享系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

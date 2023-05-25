@@ -1,8 +1,7 @@
 Plugin.define do
 name "base"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Basic Analysis and Security Engine (BASE) - front end for the snort IDS system."
@@ -20,7 +19,6 @@ matches [
 passive do
 m=[]
 if @body =~ /<tr><td class="setupKey" width="50%">Config Writeable:<\/td><td class="setupValue"><font color='#(336600|FF0000)'>(Yes|No)<\/font><\/td<\/tr>[\s]+<tr><td class="setupKey" width="50%">PHP Version:<\/td><td class="setupValue"><font color='#336600'>([^<]+)<\/font><\/td<\/tr>/
-
 m << { :string=>"PHP/#{$3}" }
 end
 if @body =~ /<!-- BASE_path = (.+)[\s]+BASE_urlpath = \/.*[\s]+BASE_VERSION = (.+)[\s]+-->/

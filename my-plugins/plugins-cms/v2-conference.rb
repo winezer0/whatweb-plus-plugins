@@ -2,7 +2,6 @@ Plugin.define do
 name "v2-conference"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

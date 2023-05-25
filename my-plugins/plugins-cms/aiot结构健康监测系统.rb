@@ -1,8 +1,7 @@
 Plugin.define do
-name "aiot结构健康监测系统" 
+name "aiot结构健康监测系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "nop-commerce"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "nopCommerce is an ASP.NET based open-source ecommerce solution "

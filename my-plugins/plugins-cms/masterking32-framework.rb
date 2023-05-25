@@ -2,7 +2,6 @@ Plugin.define do
 name "masterking32-framework"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

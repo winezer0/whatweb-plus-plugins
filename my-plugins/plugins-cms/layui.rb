@@ -1,8 +1,7 @@
 Plugin.define do
-name "layui" 
+name "layui"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

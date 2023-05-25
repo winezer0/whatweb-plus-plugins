@@ -1,8 +1,7 @@
 Plugin.define do
-name "presscdn" 
+name "presscdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

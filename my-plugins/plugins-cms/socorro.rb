@@ -1,8 +1,7 @@
 Plugin.define do
 name "Socorro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A server for collecting, processing, and displaying crash reports from clients using the Breakpad libraries"

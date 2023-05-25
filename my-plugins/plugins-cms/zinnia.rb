@@ -1,8 +1,7 @@
 Plugin.define do
-name "zinnia" 
+name "zinnia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

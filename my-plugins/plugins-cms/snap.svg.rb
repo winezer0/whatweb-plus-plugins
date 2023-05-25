@@ -1,8 +1,7 @@
 Plugin.define do
-name "snap.svg" 
+name "snap.svg"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "AfterLogic-WebMail-Pro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "AfterLogic WebMail Pro is a webmail front-end for your existing POP3/IMAP mail server."

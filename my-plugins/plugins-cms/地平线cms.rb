@@ -1,8 +1,7 @@
 Plugin.define do
-name "地平线cms" 
+name "地平线cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

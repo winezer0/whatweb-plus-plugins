@@ -1,10 +1,8 @@
 Plugin.define do
 name "remotelyanywhere"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "A small HTTP daemon, which enables you to access and manage services, processes, users, and files on the remote computer over the network."

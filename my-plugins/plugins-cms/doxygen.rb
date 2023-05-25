@@ -1,8 +1,7 @@
 Plugin.define do
-name "doxygen" 
+name "doxygen"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

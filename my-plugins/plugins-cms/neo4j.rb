@@ -1,8 +1,7 @@
 Plugin.define do
-name "neo4j" 
+name "neo4j"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

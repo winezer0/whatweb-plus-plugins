@@ -1,7 +1,7 @@
 Plugin.define do
-name "Drupal-CMS" 
+name "Drupal-CMS"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

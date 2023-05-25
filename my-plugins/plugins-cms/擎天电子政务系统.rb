@@ -2,7 +2,6 @@ Plugin.define do
 name "擎天电子政务系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

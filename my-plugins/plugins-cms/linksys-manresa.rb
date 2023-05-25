@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-manresa" 
+name "linksys-manresa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

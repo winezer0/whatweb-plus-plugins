@@ -1,8 +1,7 @@
 Plugin.define do
-name "ideacms" 
+name "ideacms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

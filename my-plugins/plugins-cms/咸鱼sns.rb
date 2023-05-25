@@ -1,8 +1,7 @@
 Plugin.define do
-name "咸鱼sns" 
+name "咸鱼sns"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "easysite内容管理" 
+name "easysite内容管理"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

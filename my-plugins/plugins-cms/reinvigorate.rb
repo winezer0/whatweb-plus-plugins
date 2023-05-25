@@ -1,8 +1,7 @@
 Plugin.define do
 name "reinvigorate"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Reinvigorate measures your influence on the web in real-time. Simple, real-time web analytics + heatmaps."

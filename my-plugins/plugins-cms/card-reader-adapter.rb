@@ -1,8 +1,7 @@
 Plugin.define do
 name "card-reader-adapter"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Card Reader Adapter - Unknown manufacturer [Korean]"

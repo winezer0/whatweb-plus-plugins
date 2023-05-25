@@ -1,8 +1,7 @@
 Plugin.define do
 name "ovbb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Written in PHP and powered by MySQL, OvBB is a light-weight and fast discussion board system that mimics vBulletin 2 in both look and behavior while incorporating new features and functionality."

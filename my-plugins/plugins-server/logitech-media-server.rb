@@ -2,7 +2,6 @@ Plugin.define do
 name "logitech-media-server"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

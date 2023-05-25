@@ -1,8 +1,7 @@
 Plugin.define do
 name "WebsiteBaker-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WebsiteBaker open source content management system (CMS)."

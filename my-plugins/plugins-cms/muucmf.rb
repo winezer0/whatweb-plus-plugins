@@ -1,8 +1,7 @@
 Plugin.define do
-name "muucmf" 
+name "muucmf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

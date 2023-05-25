@@ -1,10 +1,8 @@
 Plugin.define do
 name "prtg-network-monitor"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "PRTG Network Monitor - Availability and Bandwidth Monitoring"

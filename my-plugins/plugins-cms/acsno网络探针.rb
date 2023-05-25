@@ -1,8 +1,7 @@
 Plugin.define do
-name "acsno网络探针" 
+name "acsno网络探针"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "妃子一元云购夺宝系统" 
+name "妃子一元云购夺宝系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

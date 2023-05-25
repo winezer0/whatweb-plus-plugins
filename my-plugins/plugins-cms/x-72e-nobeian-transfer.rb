@@ -2,7 +2,6 @@ Plugin.define do
 name "x-72e-nobeian-transfer"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

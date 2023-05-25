@@ -1,7 +1,7 @@
 Plugin.define do
-name "gosa" 
+name "gosa"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

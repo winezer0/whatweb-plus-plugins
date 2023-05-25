@@ -1,8 +1,7 @@
 Plugin.define do
-name "animate.css" 
+name "animate.css"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

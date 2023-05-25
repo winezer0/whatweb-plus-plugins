@@ -1,8 +1,7 @@
 Plugin.define do
-name "awstats网站日志分析工具" 
+name "awstats网站日志分析工具"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

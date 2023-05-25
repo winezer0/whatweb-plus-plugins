@@ -1,8 +1,7 @@
 Plugin.define do
 name "Viscacha"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Viscacha is a free bulletin board system with an integrated content management system."

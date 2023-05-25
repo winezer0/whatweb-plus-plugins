@@ -1,8 +1,7 @@
 Plugin.define do
-name "spammark邮件信息安全网关" 
+name "spammark邮件信息安全网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

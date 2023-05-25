@@ -1,8 +1,7 @@
 Plugin.define do
-name "安昊cms企业双语系统" 
+name "安昊cms企业双语系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

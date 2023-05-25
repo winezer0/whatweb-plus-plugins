@@ -1,8 +1,7 @@
 Plugin.define do
 name "WebPA"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WebPA is an open source online peer assessment tool that enables every team member to recognise individual contributions to group work."

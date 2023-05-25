@@ -2,7 +2,6 @@ Plugin.define do
 name "zebranet-printserver"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "Print Server for Zebra mobile printers. Provides a wireless/ethernet network interface for parallel port printers. Uses listed on the website range from  card printers, kiosk printers, mobile printers, RFID printers, to industrial printers"

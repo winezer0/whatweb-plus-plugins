@@ -1,8 +1,7 @@
 Plugin.define do
-name "suitecrm" 
+name "suitecrm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

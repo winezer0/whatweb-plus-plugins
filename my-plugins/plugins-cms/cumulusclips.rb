@@ -1,8 +1,7 @@
 Plugin.define do
-name "cumulusclips" 
+name "cumulusclips"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

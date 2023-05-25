@@ -1,8 +1,7 @@
 Plugin.define do
-name "upsellit" 
+name "upsellit"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

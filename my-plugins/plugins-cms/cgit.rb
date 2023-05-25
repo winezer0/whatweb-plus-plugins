@@ -1,8 +1,7 @@
 Plugin.define do
 name "cgit"
 authors [
-"Fabian Affolter <fabian@engineering.ch>", 
-
+"Fabian Affolter <fabian@engineering.ch>",
 ]
 version "0.1"
 description "A web frontend for git repositories written in C."

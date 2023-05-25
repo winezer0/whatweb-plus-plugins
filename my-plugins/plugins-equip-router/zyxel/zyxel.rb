@@ -1,8 +1,7 @@
 Plugin.define do
-name "zyxel" 
+name "zyxel"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

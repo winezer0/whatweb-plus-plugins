@@ -1,10 +1,8 @@
 Plugin.define do
 name "SpirePRO-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Custom CMS from Boston web design and hosting company 1stOmni - http://www.1stomni.com/"

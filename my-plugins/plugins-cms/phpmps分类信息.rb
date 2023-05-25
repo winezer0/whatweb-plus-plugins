@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpmps分类信息" 
+name "phpmps分类信息"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

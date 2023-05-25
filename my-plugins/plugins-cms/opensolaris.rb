@@ -1,8 +1,7 @@
 Plugin.define do
-name "opensolaris" 
+name "opensolaris"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

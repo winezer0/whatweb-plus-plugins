@@ -2,7 +2,6 @@ Plugin.define do
 name "ks-waf-知道创宇"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

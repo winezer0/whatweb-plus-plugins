@@ -1,8 +1,7 @@
 Plugin.define do
-name "evo-cam" 
+name "evo-cam"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

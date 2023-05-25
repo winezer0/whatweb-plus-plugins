@@ -1,8 +1,7 @@
 Plugin.define do
-name "yandex.direct" 
+name "yandex.direct"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

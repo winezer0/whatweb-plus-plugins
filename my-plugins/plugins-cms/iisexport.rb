@@ -1,8 +1,7 @@
 Plugin.define do
-name "iisexport" 
+name "iisexport"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

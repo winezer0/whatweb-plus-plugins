@@ -1,8 +1,7 @@
 Plugin.define do
-name "userrules" 
+name "userrules"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

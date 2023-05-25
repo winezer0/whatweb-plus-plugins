@@ -1,8 +1,7 @@
 Plugin.define do
 name "ArticlePublisherPRO"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "The Flexible and Easy Article Publishing System"

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Sourcefire-http-admin" 
+name "Sourcefire-http-admin"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

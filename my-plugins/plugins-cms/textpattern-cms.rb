@@ -1,8 +1,7 @@
 Plugin.define do
 name "Textpattern-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A flexible, elegant and easy-to-use CMS"

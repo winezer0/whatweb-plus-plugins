@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-dd-wrt-bridge"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

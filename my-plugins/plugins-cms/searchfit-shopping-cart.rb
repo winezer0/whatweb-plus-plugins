@@ -2,7 +2,6 @@ Plugin.define do
 name "searchfit-shopping-cart"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Commercial ecommerce system written in PHP"

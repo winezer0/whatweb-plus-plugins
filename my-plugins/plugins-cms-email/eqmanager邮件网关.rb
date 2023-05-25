@@ -1,8 +1,7 @@
 Plugin.define do
-name "eqmanager邮件网关" 
+name "eqmanager邮件网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

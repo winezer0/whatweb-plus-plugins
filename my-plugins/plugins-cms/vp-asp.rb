@@ -2,7 +2,6 @@ Plugin.define do
 name "VP-ASP"
 authors [
 "Andrew Horton",
-
 ]
 version "0.5"
 description "VP-ASP (Virtual Programming - ASP) Shopping Cart. Free & commercial versions. http://johnny.ihackstuff.com/ghdb/?function=detail&id=324"

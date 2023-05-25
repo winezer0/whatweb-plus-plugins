@@ -1,8 +1,7 @@
 Plugin.define do
-name "avantfax传真管理" 
+name "avantfax传真管理"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

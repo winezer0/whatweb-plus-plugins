@@ -1,8 +1,7 @@
 Plugin.define do
-name "安恒玄武盾" 
+name "安恒玄武盾"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

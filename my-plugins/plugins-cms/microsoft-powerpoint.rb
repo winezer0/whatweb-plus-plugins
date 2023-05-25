@@ -2,7 +2,6 @@ Plugin.define do
 name "microsoft-powerpoint"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

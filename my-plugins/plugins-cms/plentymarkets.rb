@@ -1,8 +1,7 @@
 Plugin.define do
-name "plentymarkets" 
+name "plentymarkets"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

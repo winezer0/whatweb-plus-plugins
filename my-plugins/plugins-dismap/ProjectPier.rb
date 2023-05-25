@@ -1,7 +1,7 @@
 Plugin.define do
-name "ProjectPier" 
+name "ProjectPier"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

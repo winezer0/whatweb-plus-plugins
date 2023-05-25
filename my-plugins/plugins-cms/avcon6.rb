@@ -1,8 +1,7 @@
 Plugin.define do
-name "avcon6" 
+name "avcon6"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Linksys-USB-HDD"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "Linksys external USB HDD web frontend"

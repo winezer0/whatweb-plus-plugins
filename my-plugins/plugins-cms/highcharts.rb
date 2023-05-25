@@ -1,8 +1,7 @@
 Plugin.define do
-name "highcharts" 
+name "highcharts"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

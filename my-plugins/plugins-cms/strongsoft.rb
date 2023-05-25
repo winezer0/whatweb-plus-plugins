@@ -1,8 +1,7 @@
 Plugin.define do
-name "strongsoft" 
+name "strongsoft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

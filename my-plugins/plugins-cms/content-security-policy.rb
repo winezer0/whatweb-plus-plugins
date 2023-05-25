@@ -1,8 +1,7 @@
 Plugin.define do
 name "Content-Security-Policy"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Content Security Policy (CSP) - More Info: https://en.wikipedia.org/wiki/Content_Security_Policy"

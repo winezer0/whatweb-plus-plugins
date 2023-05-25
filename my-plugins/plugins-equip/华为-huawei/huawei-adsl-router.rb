@@ -2,7 +2,6 @@ Plugin.define do
 name "huawei-adsl-router"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

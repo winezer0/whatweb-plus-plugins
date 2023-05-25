@@ -1,10 +1,8 @@
 Plugin.define do
 name "CMSimple"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "CMSimple is a simple content management system for smart maintainance of small commercial or private sites."

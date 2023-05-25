@@ -1,12 +1,16 @@
 Plugin.define do
-name "emlog" 
+name "emlog"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>"<meta name=\"generator\" content=\"emlog\" />"},
+{:text=>"Powered by <a href=\"http://www.emlog.net\" title=\"emlog "},
 {:text=>'content="emlog'},
+{:url=>"/content/templates/default/main.css",:text=>"emlog"},
+{:url=>"/robots.txt",:text=>"emlog"},
+{:url=>"/wlwmanifest.xml",:text=>"emlog"},
 {:url=>'/admin/views/default/main.css', :text=>'emlog'},
 {:url=>'/admin/views/images/login_logo.png', :md5=>'30f23137659a1d7aec7c60c9197ab185'},
 {:url=>'/admin/views/style/default/style.css', :text=>'emlog'},
@@ -19,5 +23,6 @@ matches [
 {:url=>'/content/templates/default/tpl.ini', :text=>'emlog'},
 {:url=>'/robots.txt', :text=>'emlog'},
 {:url=>'/wlwmanifest.xml', :text=>'emlog'},
+{:version=>/title=\"emlog ([\d\.]+)\"/m},
 ]
 end

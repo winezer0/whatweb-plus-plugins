@@ -1,8 +1,7 @@
 Plugin.define do
-name "mono.net" 
+name "mono.net"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

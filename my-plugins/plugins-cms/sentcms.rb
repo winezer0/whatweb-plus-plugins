@@ -1,8 +1,7 @@
 Plugin.define do
-name "sentcms" 
+name "sentcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

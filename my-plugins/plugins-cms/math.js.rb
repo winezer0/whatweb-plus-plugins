@@ -1,8 +1,7 @@
 Plugin.define do
-name "math.js" 
+name "math.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

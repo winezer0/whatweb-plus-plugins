@@ -1,8 +1,7 @@
 Plugin.define do
-name "tcn" 
+name "tcn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

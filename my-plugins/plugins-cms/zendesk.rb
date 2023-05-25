@@ -1,8 +1,7 @@
 Plugin.define do
-name "zendesk" 
+name "zendesk"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "JXT-Consulting"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "JXT Consulting specialises in building and designing recruitment websites and implementing social recruiting strategies for recruitment companies, utilising the benefits of facebook, twitter and LinkedIn."

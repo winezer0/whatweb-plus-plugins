@@ -1,8 +1,7 @@
 Plugin.define do
 name "toshiba-projector"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Toshiba mobile and conference room projector"

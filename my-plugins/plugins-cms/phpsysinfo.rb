@@ -1,10 +1,8 @@
 Plugin.define do
 name "phpSysInfo"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.4"
 description "PHPSysInfo is a customizable PHP Script that parses /proc, and formats information nicely. It will display information about system facts like Uptime, CPU, Memory, PCI devices, SCSI devices, IDE devices, Network adapters, Disk usage, and more."

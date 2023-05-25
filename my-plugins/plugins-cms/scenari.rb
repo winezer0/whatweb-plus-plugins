@@ -1,8 +1,7 @@
 Plugin.define do
-name "scenari" 
+name "scenari"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

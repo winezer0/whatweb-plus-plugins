@@ -1,7 +1,7 @@
 Plugin.define do
-name "Roundcube-Webmail-Elastic-Skin" 
+name "Roundcube-Webmail-Elastic-Skin"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

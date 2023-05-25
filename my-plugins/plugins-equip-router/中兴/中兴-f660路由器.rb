@@ -2,7 +2,6 @@ Plugin.define do
 name "中兴-f660路由器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

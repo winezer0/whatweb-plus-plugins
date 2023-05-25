@@ -1,8 +1,7 @@
 Plugin.define do
 name "bigace"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "BIGACE is not just an easy to use Web Content Management System (CMS), but offers also a scripting API and an extensible architecture for developing, maintaining, and deploying applications."

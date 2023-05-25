@@ -1,8 +1,7 @@
 Plugin.define do
-name "易思espcms企业建站管理系统集成包" 
+name "易思espcms企业建站管理系统集成包"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-wireless-wr2543n"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

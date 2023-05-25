@@ -2,7 +2,6 @@ Plugin.define do
 name "smf论坛-simple-machines-forum"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

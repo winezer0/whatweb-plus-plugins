@@ -1,8 +1,7 @@
 Plugin.define do
 name "Swiki"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Swiki is a popular implementation of Ward Cunningham's WikiWikiWeb that runs under Comanche."

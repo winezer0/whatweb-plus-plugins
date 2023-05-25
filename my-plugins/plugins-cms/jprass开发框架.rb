@@ -1,8 +1,7 @@
 Plugin.define do
-name "jprass开发框架" 
+name "jprass开发框架"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

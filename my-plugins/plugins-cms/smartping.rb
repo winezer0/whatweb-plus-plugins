@@ -1,8 +1,7 @@
 Plugin.define do
-name "smartping" 
+name "smartping"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

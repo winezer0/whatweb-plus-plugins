@@ -1,8 +1,7 @@
 Plugin.define do
 name "Loggix"
 authors [
-"Brendan Coles <bcoles at gmail dot com>", 
-
+"Brendan Coles <bcoles at gmail dot com>",
 ]
 version "0.2"
 description "Loggix is a really simple, lightweight PHP and SQlite driven weblog/cms engine."

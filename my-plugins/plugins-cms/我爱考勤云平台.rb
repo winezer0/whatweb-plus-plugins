@@ -1,8 +1,7 @@
 Plugin.define do
-name "我爱考勤云平台" 
+name "我爱考勤云平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "centminmod" 
+name "centminmod"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

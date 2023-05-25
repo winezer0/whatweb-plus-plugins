@@ -2,9 +2,7 @@ Plugin.define do
 name "canon-printer"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Remote UI for Canon Printers"

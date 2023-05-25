@@ -1,8 +1,7 @@
 Plugin.define do
 name "MySQL-dump"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Extracts MySQL host, database and server version from MySQL-dump .sql files."

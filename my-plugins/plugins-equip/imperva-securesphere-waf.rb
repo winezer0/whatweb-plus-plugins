@@ -2,7 +2,6 @@ Plugin.define do
 name "imperva-securesphere-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

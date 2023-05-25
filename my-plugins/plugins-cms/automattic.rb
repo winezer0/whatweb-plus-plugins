@@ -1,8 +1,7 @@
 Plugin.define do
-name "automattic" 
+name "automattic"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

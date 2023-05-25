@@ -2,7 +2,6 @@ Plugin.define do
 name "cc校友录-毕业入世版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

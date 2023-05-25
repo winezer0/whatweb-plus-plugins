@@ -1,8 +1,7 @@
 Plugin.define do
-name "mastodon" 
+name "mastodon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

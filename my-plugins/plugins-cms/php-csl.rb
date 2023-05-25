@@ -1,8 +1,7 @@
 Plugin.define do
 name "PHP-CSL"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PHP-CSL: Code Snippet Library. PHP-CSL is an online application written in PHP which enables authorised users to store and categorise code snippets."

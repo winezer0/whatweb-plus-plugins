@@ -1,8 +1,7 @@
 Plugin.define do
-name "paths.js" 
+name "paths.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

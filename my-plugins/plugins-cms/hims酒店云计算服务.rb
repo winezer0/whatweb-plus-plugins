@@ -1,8 +1,7 @@
 Plugin.define do
-name "hims酒店云计算服务" 
+name "hims酒店云计算服务"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

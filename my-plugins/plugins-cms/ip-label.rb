@@ -1,8 +1,7 @@
 Plugin.define do
-name "ip-label" 
+name "ip-label"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

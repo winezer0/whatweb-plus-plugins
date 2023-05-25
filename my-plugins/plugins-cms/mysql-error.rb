@@ -1,8 +1,7 @@
 Plugin.define do
 name "mysql-error"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "This plugin detects mySQL errors and grabs the username, server and database details."

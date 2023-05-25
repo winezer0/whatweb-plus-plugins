@@ -2,7 +2,6 @@ Plugin.define do
 name "polycom-rss-4000"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

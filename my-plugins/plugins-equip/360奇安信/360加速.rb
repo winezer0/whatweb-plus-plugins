@@ -1,8 +1,7 @@
 Plugin.define do
-name "360加速" 
+name "360加速"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

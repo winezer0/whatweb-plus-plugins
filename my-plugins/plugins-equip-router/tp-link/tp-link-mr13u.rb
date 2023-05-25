@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-mr13u"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

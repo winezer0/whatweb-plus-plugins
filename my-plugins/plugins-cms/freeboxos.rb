@@ -1,8 +1,7 @@
 Plugin.define do
-name "freeboxos" 
+name "freeboxos"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

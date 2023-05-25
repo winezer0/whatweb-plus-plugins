@@ -1,8 +1,7 @@
 Plugin.define do
-name "percona" 
+name "percona"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

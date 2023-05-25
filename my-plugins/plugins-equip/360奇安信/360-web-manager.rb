@@ -1,8 +1,7 @@
 Plugin.define do
 name "360-web-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "360-Web-Manager"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Sun-Java-System-Calendar-Express"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Sun Java System Calendar Server is Sun's calendar (scheduling) server."

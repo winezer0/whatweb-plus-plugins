@@ -1,8 +1,7 @@
 Plugin.define do
-name "diywap" 
+name "diywap"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

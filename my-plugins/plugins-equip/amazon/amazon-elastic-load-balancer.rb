@@ -1,10 +1,8 @@
 Plugin.define do
 name "amazon-elastic-load-balancer"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Amazon Elastic Load Balancer"

@@ -1,10 +1,8 @@
 Plugin.define do
 name "tivoli-access-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Tivoli Access Manager for e-business software is a highly scalable user authentication, authorization and Web SSO solution for enforcing security policies over a wide range of Web and application resources. It centralizes user access management for online portal and business initiatives."

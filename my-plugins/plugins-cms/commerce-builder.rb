@@ -1,10 +1,8 @@
 Plugin.define do
 name "commerce-builder"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Internet Factory's Commerce Builder web server [Discontinued]"

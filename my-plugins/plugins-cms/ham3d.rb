@@ -1,8 +1,7 @@
 Plugin.define do
-name "ham3d" 
+name "ham3d"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

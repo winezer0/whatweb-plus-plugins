@@ -1,15 +1,13 @@
 Plugin.define do
 name "WhatWeb-Plugin"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "This plugin detects instances of WhatWeb plugins. If this plugin is returned then chances are the other results are false positives."
 passive do
 m=[]
 if @body =~ /^# redistribution and commercial restrictions. Please see the WhatWeb/ or @body =~ /^# This file is part of WhatWeb and may be subject to/
-
 if @body =~ /^version "([^\"]+)"/
 m << { :version=>@body.scan(/^version "([^\"]+)"/) }
 end
@@ -22,4 +20,9 @@ end
 end
 m
 end
+matches [
+{:name=>"HTTP Server Header", :regexp=>/^WhatsUp/, :search=>"headers[server]"},
+{:string=>"Gold", :certainty=>75, :name=>"WWW-Authenticate", :regexp=>/^Basic realm="WhatsUp[\s]?Gold"/, :search=>"headers[www-authenticate]"},
+{:string=>"Gold", :version=>/^WhatsUp_Gold\/([\d\.]+)/, :search=>"headers[server]"},
+]
 end

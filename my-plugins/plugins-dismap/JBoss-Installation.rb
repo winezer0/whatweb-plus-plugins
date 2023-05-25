@@ -1,7 +1,7 @@
 Plugin.define do
-name "JBoss-Installation" 
+name "JBoss-Installation"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

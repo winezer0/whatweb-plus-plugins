@@ -1,8 +1,7 @@
 Plugin.define do
-name "iframe" 
+name "iframe"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

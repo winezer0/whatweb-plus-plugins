@@ -1,8 +1,7 @@
 Plugin.define do
-name "easytalk微博客" 
+name "easytalk微博客"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

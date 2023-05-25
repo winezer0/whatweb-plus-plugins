@@ -1,8 +1,7 @@
 Plugin.define do
-name "vtscada" 
+name "vtscada"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

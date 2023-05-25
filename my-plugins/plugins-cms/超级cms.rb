@@ -1,8 +1,7 @@
 Plugin.define do
-name "超级cms" 
+name "超级cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

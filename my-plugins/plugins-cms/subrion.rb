@@ -1,8 +1,7 @@
 Plugin.define do
-name "subrion" 
+name "subrion"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

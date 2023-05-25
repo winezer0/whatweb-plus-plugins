@@ -1,8 +1,7 @@
 Plugin.define do
-name "weboffice" 
+name "weboffice"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "analysys-ark"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

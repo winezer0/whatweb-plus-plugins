@@ -1,8 +1,7 @@
 Plugin.define do
-name "u-mail" 
+name "u-mail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "yioop!-开源搜索引擎"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

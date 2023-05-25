@@ -1,8 +1,7 @@
 Plugin.define do
 name "spinetix-hyper-media-player"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SpinetiX HMP100 is the first networked Hyper Media Player appliance dedicated to the professional digital signage industry. In this field it represents for final users, integrators and service providers a better alternative of choice to personal and industrial computers and proprietary dedicated software."

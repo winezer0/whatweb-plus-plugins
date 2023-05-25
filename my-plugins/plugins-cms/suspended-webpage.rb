@@ -1,8 +1,7 @@
 Plugin.define do
 name "Suspended-Webpage"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Sometimes web hosts suspend their clients pages. This is often due to a breach a of the TOS or excessive traffic."

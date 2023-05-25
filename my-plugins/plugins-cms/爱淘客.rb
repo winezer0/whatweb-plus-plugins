@@ -1,8 +1,7 @@
 Plugin.define do
-name "爱淘客" 
+name "爱淘客"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

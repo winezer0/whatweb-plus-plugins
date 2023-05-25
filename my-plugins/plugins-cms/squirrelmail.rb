@@ -2,7 +2,6 @@ Plugin.define do
 name "SquirrelMail"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Opensource Webmail written in PHP"
@@ -18,7 +17,7 @@ matches [
 ]
 passive do
 m=[]
-m << {:name=>"SQMSESSID cookie" } if @headers["set-cookie"] =~ /SQMSESSID=/i		
+m << {:name=>"SQMSESSID cookie" } if @headers["set-cookie"] =~ /SQMSESSID=/i
 m
 end
 end

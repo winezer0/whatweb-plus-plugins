@@ -2,7 +2,6 @@ Plugin.define do
 name "material-design-lite"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

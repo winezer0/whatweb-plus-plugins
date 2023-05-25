@@ -1,8 +1,7 @@
 Plugin.define do
-name "深信服SSL-VPN" 
+name "深信服SSL-VPN"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

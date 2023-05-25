@@ -1,8 +1,7 @@
 Plugin.define do
-name "halo" 
+name "halo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

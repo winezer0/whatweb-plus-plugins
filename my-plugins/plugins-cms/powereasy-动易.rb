@@ -2,7 +2,6 @@ Plugin.define do
 name "powereasy-动易"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

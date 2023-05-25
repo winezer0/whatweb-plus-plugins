@@ -1,7 +1,7 @@
 Plugin.define do
-name "Free-web-hosting-free.fr" 
+name "Free-web-hosting-free.fr"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

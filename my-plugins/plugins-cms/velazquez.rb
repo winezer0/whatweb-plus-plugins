@@ -1,10 +1,8 @@
 Plugin.define do
 name "Velazquez"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Velazquez HTTP Server"

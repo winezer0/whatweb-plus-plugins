@@ -2,7 +2,6 @@ Plugin.define do
 name "appwall-radware"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

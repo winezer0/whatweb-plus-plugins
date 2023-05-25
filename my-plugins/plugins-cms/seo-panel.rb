@@ -1,8 +1,7 @@
 Plugin.define do
 name "Seo-Panel"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A complete open source seo control panel for managing search engine optimization of your websites. Seo Panel is a seo tool kit includes latest hot seo tools to increase and track the performace of your websites."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "kesionicms" 
+name "kesionicms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "ok3w新闻发布系统-动态版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

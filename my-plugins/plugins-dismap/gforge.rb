@@ -1,7 +1,7 @@
 Plugin.define do
-name "gforge" 
+name "gforge"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

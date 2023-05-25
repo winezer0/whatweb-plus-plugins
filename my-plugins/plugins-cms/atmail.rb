@@ -1,8 +1,7 @@
 Plugin.define do
-name "atmail" 
+name "atmail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "chora2" 
+name "chora2"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

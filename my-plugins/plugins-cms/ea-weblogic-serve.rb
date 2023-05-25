@@ -1,8 +1,7 @@
 Plugin.define do
 name "ea-weblogic-serve"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "BEA WebLogic Server is an enterprise-ready Java EE application server that supports the deployment of mission-critical applications in a robust, secure, highly available, and scalable environment."

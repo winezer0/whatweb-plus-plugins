@@ -1,8 +1,7 @@
 Plugin.define do
-name "synkronvia" 
+name "synkronvia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

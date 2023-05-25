@@ -1,8 +1,7 @@
 Plugin.define do
 name "my-webcamxp-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "WebCamXP web interface"

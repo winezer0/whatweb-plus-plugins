@@ -1,8 +1,7 @@
 Plugin.define do
-name "tpshop-cms" 
+name "tpshop-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

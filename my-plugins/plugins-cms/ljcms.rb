@@ -1,11 +1,11 @@
 Plugin.define do
-name "ljcms" 
+name "ljcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
 {:search=>"all", :text=>'LjCMS'},
+{:text=>"LJcms("},
 ]
 end

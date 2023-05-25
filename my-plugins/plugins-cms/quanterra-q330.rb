@@ -1,10 +1,8 @@
 Plugin.define do
 name "Quanterra-Q330"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Quanterra Q330 series - seismic data acquisition systems"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "filepond" 
+name "filepond"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

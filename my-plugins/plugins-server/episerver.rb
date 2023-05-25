@@ -1,13 +1,23 @@
 Plugin.define do
+
 name "episerver"
+
 authors [
+
 "Patrik Wallström",
+
+
 
 "Andrew Horton", 
 
+
+
 ]
+
 version "0.2"
+
 description "CMS from EPiServer - http://episerver.com/"
+
 matches [
 {:name=>"EPiServer comment", :text=>"<!-- EPiServer -->"},
 {:name=>"meta generator tag with EPiServer", :text=>"<meta name=\"GENERATOR\" content=\"EPiServer\" />"},
@@ -22,4 +32,5 @@ matches [
 {:url=>"/util/images/loginbackground.gif", :md5=>"7dea9dcf92792b1bf2bddfe71549dd19", :version=>"5.x-6.x"},
 {:url=>"/util/login.aspx", :text=>"<h1>Log in to EPiServer CMS 6", :version=>"6.x"},
 ]
+
 end

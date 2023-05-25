@@ -1,8 +1,7 @@
 Plugin.define do
 name "dynamicweb"
 authors [
-"Guillaume Delacour <gui@iroqwa.org>", 
-
+"Guillaume Delacour <gui@iroqwa.org>",
 ]
 version "0.1"
 description "Dynamicweb is the All-In-One Platform for Content Management, Ecommerce, Digital Marketing and Integration."

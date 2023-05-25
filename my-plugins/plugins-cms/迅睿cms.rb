@@ -1,8 +1,7 @@
 Plugin.define do
-name "迅睿cms" 
+name "迅睿cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

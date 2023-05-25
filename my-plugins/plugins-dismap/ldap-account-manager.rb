@@ -1,7 +1,7 @@
 Plugin.define do
-name "ldap-account-manager" 
+name "ldap-account-manager"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

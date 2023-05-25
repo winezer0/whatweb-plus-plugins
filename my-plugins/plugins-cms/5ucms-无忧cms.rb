@@ -2,7 +2,6 @@ Plugin.define do
 name "5ucms-无忧cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

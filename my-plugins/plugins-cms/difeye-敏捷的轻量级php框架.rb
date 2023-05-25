@@ -1,8 +1,7 @@
 Plugin.define do
-name "difeye-敏捷的轻量级php框架" 
+name "difeye-敏捷的轻量级php框架"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

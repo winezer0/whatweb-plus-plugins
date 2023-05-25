@@ -1,8 +1,7 @@
 Plugin.define do
-name "xsite企业自助建站软件" 
+name "xsite企业自助建站软件"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

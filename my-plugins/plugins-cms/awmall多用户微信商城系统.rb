@@ -1,8 +1,7 @@
 Plugin.define do
-name "awmall多用户微信商城系统" 
+name "awmall多用户微信商城系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

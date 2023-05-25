@@ -2,7 +2,6 @@ Plugin.define do
 name "mikrotik-router"
 authors [
 "Andrew Horton",
-
 ]
 version "0.4"
 description "MikroTik router"

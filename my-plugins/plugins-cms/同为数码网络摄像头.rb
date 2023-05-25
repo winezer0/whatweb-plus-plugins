@@ -1,8 +1,7 @@
 Plugin.define do
-name "同为数码网络摄像头" 
+name "同为数码网络摄像头"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

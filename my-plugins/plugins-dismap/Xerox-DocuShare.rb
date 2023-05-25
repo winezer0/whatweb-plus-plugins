@@ -1,7 +1,7 @@
 Plugin.define do
-name "Xerox-DocuShare" 
+name "Xerox-DocuShare"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

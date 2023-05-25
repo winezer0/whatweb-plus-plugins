@@ -1,8 +1,7 @@
 Plugin.define do
-name "gnuboard" 
+name "gnuboard"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

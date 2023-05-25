@@ -2,7 +2,6 @@ Plugin.define do
 name "zhonghaida-vnet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

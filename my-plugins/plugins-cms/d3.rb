@@ -1,8 +1,7 @@
 Plugin.define do
-name "d3" 
+name "d3"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Splunk"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Splunk indexes and makes searchable data from any app, server or network device in real time including logs, config files, messages, alerts, scripts and metrics."

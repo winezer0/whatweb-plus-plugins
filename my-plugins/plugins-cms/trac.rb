@@ -1,8 +1,7 @@
 Plugin.define do
 name "Trac"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Trac is an enhanced wiki and issue tracking system for software development projects."

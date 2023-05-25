@@ -1,8 +1,7 @@
 Plugin.define do
-name "stamplay" 
+name "stamplay"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

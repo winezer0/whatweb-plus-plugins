@@ -1,8 +1,7 @@
 Plugin.define do
 name "support-incident-tracker"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Support Incident Tracker (or SiT!) is a Free Software/Open Source (GPL) web based application which uses PHP and MySQL for tracking technical support calls/emails (also commonly known as a 'Help Desk' or 'Support Ticket System')"

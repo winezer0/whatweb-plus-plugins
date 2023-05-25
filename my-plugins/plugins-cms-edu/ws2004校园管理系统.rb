@@ -1,8 +1,7 @@
 Plugin.define do
-name "ws2004校园管理系统" 
+name "ws2004校园管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

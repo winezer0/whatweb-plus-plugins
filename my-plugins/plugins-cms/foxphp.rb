@@ -1,8 +1,7 @@
 Plugin.define do
-name "foxphp" 
+name "foxphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

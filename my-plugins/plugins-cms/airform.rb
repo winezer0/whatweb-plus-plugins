@@ -1,8 +1,7 @@
 Plugin.define do
-name "airform" 
+name "airform"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

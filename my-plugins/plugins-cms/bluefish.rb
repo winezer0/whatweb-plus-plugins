@@ -2,7 +2,6 @@ Plugin.define do
 name "bluefish"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

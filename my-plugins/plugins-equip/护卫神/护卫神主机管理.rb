@@ -1,8 +1,7 @@
 Plugin.define do
-name "护卫神主机管理" 
+name "护卫神主机管理"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

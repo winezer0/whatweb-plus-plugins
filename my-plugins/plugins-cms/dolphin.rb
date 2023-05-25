@@ -1,8 +1,7 @@
 Plugin.define do
 name "Dolphin"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Dolphin is built using PHP and MySQL running on Apache. It is tested and proven stable running on Linux. Dolphin will also run on Windows if needed."

@@ -1,14 +1,10 @@
 Plugin.define do
 name "TYPO3"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Janosch Maier @Phylu", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Janosch Maier @Phylu",
 ]
 version "0.4"
 description "TYPO3 is a free Open Source content management system for enterprise purposes on the web and in intranets. It offers full flexibility and extendability while featuring an accomplished set of ready-made interfaces, functions and modules."
@@ -57,9 +53,9 @@ files=[
 to_download = files.map {|x| x[:path]}.sort.uniq
 downloads={}
 to_download.each do |d|
-target = URI.join(@base_uri.to_s,d).to_s	
+target = URI.join(@base_uri.to_s,d).to_s
 status,url,ip,body,headers=open_target(target)
-downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}	
+downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}
 end
 version=nil
 files.each do |thisfile|

@@ -1,8 +1,7 @@
 Plugin.define do
-name "swfobject" 
+name "swfobject"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

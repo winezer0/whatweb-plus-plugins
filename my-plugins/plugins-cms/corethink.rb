@@ -1,8 +1,7 @@
 Plugin.define do
-name "corethink" 
+name "corethink"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "zeroshell" 
+name "zeroshell"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

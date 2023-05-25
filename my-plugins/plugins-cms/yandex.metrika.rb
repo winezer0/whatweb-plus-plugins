@@ -1,8 +1,7 @@
 Plugin.define do
-name "yandex.metrika" 
+name "yandex.metrika"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

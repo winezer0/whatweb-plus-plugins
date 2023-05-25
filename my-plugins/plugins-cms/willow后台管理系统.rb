@@ -1,8 +1,7 @@
 Plugin.define do
-name "willow后台管理系统" 
+name "willow后台管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

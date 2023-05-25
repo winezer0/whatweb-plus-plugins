@@ -1,8 +1,7 @@
 Plugin.define do
-name "powercdn" 
+name "powercdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

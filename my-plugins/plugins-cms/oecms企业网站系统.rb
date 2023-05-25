@@ -1,8 +1,7 @@
 Plugin.define do
-name "oecms企业网站系统" 
+name "oecms企业网站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

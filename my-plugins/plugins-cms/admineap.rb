@@ -1,8 +1,7 @@
 Plugin.define do
-name "admineap" 
+name "admineap"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

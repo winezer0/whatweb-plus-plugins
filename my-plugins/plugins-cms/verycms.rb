@@ -1,8 +1,7 @@
 Plugin.define do
-name "verycms" 
+name "verycms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

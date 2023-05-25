@@ -1,8 +1,7 @@
 Plugin.define do
 name "wampserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WampServer is a Windows web development environment. It allows you to create web applications with Apache, PHP and the MySQL database. It also comes with PHPMyAdmin to easily manage your databases."
@@ -15,4 +14,10 @@ m << { :version=>@body.scan(/<ul class="utility">[\s]*<li>Version ([\d\.]+)[\s]*
 end
 m
 end
+matches [
+{:regexp=>/^Visualware MyConnection Server/, :search=>"headers[server]"},
+{:string=>/^Visualware MyConnection Server ([^\d]+) \d\.[^\s]+$/, :search=>"headers[server]"},
+{:text=>'<!-- Begin MyConnection Server applet -->'},
+{:version=>/^Visualware MyConnection Server [^\d]+ (\d\.[^\s]+)$/, :search=>"headers[server]"},
+]
 end

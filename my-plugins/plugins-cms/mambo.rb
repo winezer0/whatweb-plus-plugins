@@ -2,9 +2,7 @@ Plugin.define do
 name "Mambo"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.6"
 description "Mambo CMS (http://mambo-foundation.org)"
@@ -25,10 +23,9 @@ m << {:name=>"seconds since epoch in html comment after </html>",:certainty=>25}
 end
 if @body =~ /<a href="[^"]*index.php\?option=(com_[^&^"]+)/
 m << { :certainty=>75, :module=>@body.scan(/<a href="https?:\/\/#{Regexp.escape(@base_uri.host)}[^"]*index.php\?option=(com_[^&^"]+)/) } if @body =~ /<a href="https?:\/\/#{Regexp.escape(@base_uri.host)}[^"]*index.php\?option=(com_[^&^"]+)/
-
 m << { :certainty=>75, :module=>@body.scan(/<a href="[^"^:]*index.php\?option=(com_[^&^"]+)/) } if @body =~ /<a href="[^"^:]*index.php\?option=(com_[^&^"]+)/
 end
-m << { :certainty=>75, :name=>"mosvisitor cookie" } if @headers["set-cookie"] =~ /mosvisitor=[0-9]+/ 
+m << { :certainty=>75, :name=>"mosvisitor cookie" } if @headers["set-cookie"] =~ /mosvisitor=[0-9]+/
 m
 end
 aggressive do

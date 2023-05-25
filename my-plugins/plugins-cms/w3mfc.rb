@@ -1,8 +1,7 @@
 Plugin.define do
 name "W3MFC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "W3Mfc is a collection of MFC classes to implement a Web Server"

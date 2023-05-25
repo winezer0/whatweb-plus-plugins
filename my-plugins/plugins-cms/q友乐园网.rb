@@ -1,8 +1,7 @@
 Plugin.define do
-name "q友乐园网" 
+name "q友乐园网"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

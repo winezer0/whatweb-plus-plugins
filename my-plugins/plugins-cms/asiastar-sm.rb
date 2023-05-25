@@ -2,7 +2,6 @@ Plugin.define do
 name "asiastar-sm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

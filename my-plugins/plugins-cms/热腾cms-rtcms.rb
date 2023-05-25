@@ -2,7 +2,6 @@ Plugin.define do
 name "热腾cms-rtcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

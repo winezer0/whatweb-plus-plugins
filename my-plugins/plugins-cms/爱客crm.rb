@@ -1,8 +1,7 @@
 Plugin.define do
-name "爱客crm" 
+name "爱客crm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "intercom" 
+name "intercom"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

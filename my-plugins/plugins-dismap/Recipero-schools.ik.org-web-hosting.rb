@@ -1,7 +1,7 @@
 Plugin.define do
-name "Recipero-schools.ik.org-web-hosting" 
+name "Recipero-schools.ik.org-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

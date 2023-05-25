@@ -2,7 +2,6 @@ Plugin.define do
 name "palo-alto-firewall-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

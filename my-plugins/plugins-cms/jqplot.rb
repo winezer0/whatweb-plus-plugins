@@ -1,8 +1,7 @@
 Plugin.define do
-name "jqplot" 
+name "jqplot"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

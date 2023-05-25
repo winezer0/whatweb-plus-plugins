@@ -1,8 +1,7 @@
 Plugin.define do
 name "eLitius"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "eLitius is a free software package that allows a person to easily create and manage his own Affiliate Program, recruit affiliates, track visitors and sales."

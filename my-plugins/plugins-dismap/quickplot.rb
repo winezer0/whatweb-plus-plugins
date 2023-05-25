@@ -1,7 +1,7 @@
 Plugin.define do
-name "quickplot" 
+name "quickplot"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

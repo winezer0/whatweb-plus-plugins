@@ -1,8 +1,7 @@
 Plugin.define do
-name "我乐电影搜索" 
+name "我乐电影搜索"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

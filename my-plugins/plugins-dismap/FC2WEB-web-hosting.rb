@@ -1,7 +1,7 @@
 Plugin.define do
-name "FC2WEB-web-hosting" 
+name "FC2WEB-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "anyInventory"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "anyInventory, the most flexible and powerful web-based inventory system"

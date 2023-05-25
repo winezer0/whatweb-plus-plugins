@@ -1,7 +1,7 @@
 Plugin.define do
-name "Online-Judge" 
+name "Online-Judge"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

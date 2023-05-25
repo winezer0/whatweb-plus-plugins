@@ -1,8 +1,7 @@
 Plugin.define do
-name "clerk.io" 
+name "clerk.io"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

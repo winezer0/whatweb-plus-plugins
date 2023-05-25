@@ -1,8 +1,7 @@
 Plugin.define do
-name "禅道项目管理" 
+name "禅道项目管理"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

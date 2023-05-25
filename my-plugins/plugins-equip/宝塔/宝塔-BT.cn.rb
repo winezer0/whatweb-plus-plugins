@@ -1,8 +1,7 @@
 Plugin.define do
-name "宝塔-BT.cn" 
+name "宝塔-BT.cn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

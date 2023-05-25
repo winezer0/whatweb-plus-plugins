@@ -1,10 +1,8 @@
 Plugin.define do
 name "snap-appliance-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Snap Appliance Server network attached storage (NAS)"

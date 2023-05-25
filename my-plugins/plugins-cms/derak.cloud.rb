@@ -1,8 +1,7 @@
 Plugin.define do
-name "derak.cloud" 
+name "derak.cloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

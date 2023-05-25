@@ -1,8 +1,7 @@
 Plugin.define do
 name "Mahara"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Mahara is an open source e-portfolio system"

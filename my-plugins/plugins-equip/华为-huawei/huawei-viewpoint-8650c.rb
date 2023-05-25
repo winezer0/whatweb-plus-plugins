@@ -2,7 +2,6 @@ Plugin.define do
 name "huawei-viewpoint-8650c"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

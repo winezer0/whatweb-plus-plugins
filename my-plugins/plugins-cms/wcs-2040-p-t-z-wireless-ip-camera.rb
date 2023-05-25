@@ -2,7 +2,6 @@ Plugin.define do
 name "wcs-2040-p-t-z-wireless-ip-camera"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

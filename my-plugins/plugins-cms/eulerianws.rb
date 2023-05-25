@@ -1,10 +1,8 @@
 Plugin.define do
 name "EulerianWS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Eulerian Technologies Web Server (EulerianWS) [French]"

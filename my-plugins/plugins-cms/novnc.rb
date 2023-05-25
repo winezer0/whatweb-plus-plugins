@@ -1,8 +1,7 @@
 Plugin.define do
 name "noVNC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "VNC client using HTML5 (Web Sockets, Canvas) with encryption (wss://) support."

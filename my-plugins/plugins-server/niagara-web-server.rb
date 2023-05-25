@@ -1,10 +1,8 @@
 Plugin.define do
 name "niagara-web-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Niagara Web Server"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "中国期刊先知网" 
+name "中国期刊先知网"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

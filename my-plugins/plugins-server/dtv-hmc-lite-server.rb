@@ -2,7 +2,6 @@ Plugin.define do
 name "dtv-hmc-lite-server"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

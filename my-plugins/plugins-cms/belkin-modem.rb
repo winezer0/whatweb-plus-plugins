@@ -2,7 +2,6 @@ Plugin.define do
 name "belkin-modem"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Belkin Consumer Modem / Router"

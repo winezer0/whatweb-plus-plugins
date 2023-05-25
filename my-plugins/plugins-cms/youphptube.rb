@@ -1,8 +1,7 @@
 Plugin.define do
-name "youphptube" 
+name "youphptube"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

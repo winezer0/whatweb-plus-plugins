@@ -1,8 +1,7 @@
 Plugin.define do
-name "kotisivukone" 
+name "kotisivukone"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

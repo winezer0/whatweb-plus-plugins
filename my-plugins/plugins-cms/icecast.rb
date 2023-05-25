@@ -1,8 +1,7 @@
 Plugin.define do
 name "Icecast"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Icecast is a GPL streaming media server project that currently streams in MP3 format."

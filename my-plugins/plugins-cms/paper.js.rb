@@ -1,8 +1,7 @@
 Plugin.define do
-name "paper.js" 
+name "paper.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

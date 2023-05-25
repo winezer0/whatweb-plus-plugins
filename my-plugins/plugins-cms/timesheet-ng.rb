@@ -1,8 +1,7 @@
 Plugin.define do
 name "Timesheet-NG"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Timesheet NG is a free Open Source online time tracking application. Focusing on ease of use, Timesheet NG allows multiple employees and contractors to track and log their time spent on multiple projects."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "前端公共库cdn" 
+name "前端公共库cdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

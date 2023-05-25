@@ -1,7 +1,7 @@
 Plugin.define do
-name "Parallels-Control-Panel" 
+name "Parallels-Control-Panel"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-wet11"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

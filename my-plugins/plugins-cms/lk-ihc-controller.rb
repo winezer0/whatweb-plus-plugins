@@ -1,8 +1,7 @@
 Plugin.define do
 name "lk-ihc-controller"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Visualization of an IHC Control electrical installation."

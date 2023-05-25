@@ -1,8 +1,7 @@
 Plugin.define do
 name "HP-System-Management-Homepage"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The HP System Management Homepage is a web-based interface that consolidates and simplifies the management of individual ProLiant and Integrity servers running Microsoft Windows or Linux operating systems, or HP 9000 and HP Integrity servers running HP-UX 11i."

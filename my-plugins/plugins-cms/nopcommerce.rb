@@ -1,8 +1,7 @@
 Plugin.define do
 name "nopCommerce"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "nopCommerce is an open source e-commerce solution that contains both a catalog frontend and an administration tool backend. nopCommerce is a fully customizable shopping cart. It's stable and highly usable. "

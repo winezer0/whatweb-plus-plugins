@@ -1,7 +1,7 @@
 Plugin.define do
-name "Trimble-Device-Embedded-Web-Server" 
+name "Trimble-Device-Embedded-Web-Server"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "http-explorer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Http explorer is a free easy-to-use web server with which you can share your musics, videos and images for several web displays"

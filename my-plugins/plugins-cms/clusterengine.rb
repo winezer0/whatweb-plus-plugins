@@ -1,8 +1,7 @@
 Plugin.define do
-name "clusterengine" 
+name "clusterengine"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

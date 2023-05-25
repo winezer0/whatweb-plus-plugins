@@ -1,8 +1,7 @@
 Plugin.define do
 name "1024-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "1024 is one of a few CMS's leading the way with the implementation of the AJAX technology  into all its areas. This includes dynamic adminstration and user interaction. 1024 offers you to ability to set up your own community forums, download area, news posts, member management and more."

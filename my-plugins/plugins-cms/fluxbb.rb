@@ -2,9 +2,7 @@ Plugin.define do
 name "fluxbb"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles at gmail dot com>", 
-
+"Brendan Coles <bcoles at gmail dot com>",
 ]
 version "0.5"
 description "Open Source forum written in PHP"
@@ -50,9 +48,9 @@ files=[
 to_download = files.map {|x| x[:path]}.sort.uniq
 downloads={}
 to_download.each do |d|
-target = URI.join(@base_uri.to_s,d).to_s	
+target = URI.join(@base_uri.to_s,d).to_s
 status,url,ip,body,headers=open_target(target)
-downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}	
+downloads[d] = {:md5sum=>Digest::MD5.hexdigest(body).to_s}
 end
 version=nil
 files.each do |thisfile|

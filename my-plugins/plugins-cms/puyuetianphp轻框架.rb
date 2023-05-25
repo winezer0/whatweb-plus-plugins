@@ -1,8 +1,7 @@
 Plugin.define do
-name "puyuetianphp轻框架" 
+name "puyuetianphp轻框架"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

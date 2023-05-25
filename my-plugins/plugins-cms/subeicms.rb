@@ -1,8 +1,7 @@
 Plugin.define do
-name "subeicms" 
+name "subeicms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

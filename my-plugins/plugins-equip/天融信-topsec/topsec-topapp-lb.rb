@@ -2,7 +2,6 @@ Plugin.define do
 name "topsec-topapp-lb"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

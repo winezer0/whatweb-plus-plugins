@@ -1,8 +1,7 @@
 Plugin.define do
 name "Lotus-Domino"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Lotus Domino - Social business application platform"

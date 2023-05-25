@@ -1,8 +1,7 @@
 Plugin.define do
-name "imagevue" 
+name "imagevue"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

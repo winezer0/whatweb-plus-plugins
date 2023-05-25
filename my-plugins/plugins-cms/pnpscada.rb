@@ -1,8 +1,7 @@
 Plugin.define do
 name "PnPSCADA"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Plug 'n' Play SCADA (PnPSCADA) - Hosted service or run on site"

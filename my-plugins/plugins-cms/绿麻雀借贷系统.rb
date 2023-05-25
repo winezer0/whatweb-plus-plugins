@@ -1,8 +1,7 @@
 Plugin.define do
-name "绿麻雀借贷系统" 
+name "绿麻雀借贷系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

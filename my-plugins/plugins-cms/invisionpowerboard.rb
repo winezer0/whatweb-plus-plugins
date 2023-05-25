@@ -1,8 +1,7 @@
 Plugin.define do
-name "invisionpowerboard" 
+name "invisionpowerboard"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

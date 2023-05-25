@@ -1,8 +1,7 @@
 Plugin.define do
-name "imo云办公室系统" 
+name "imo云办公室系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

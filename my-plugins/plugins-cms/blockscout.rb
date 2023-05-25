@@ -1,8 +1,7 @@
 Plugin.define do
 name "blockscout"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.1"
 description "BlockScout provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes the POA Network, xDai Chain, Ethereum Classic and other Ethereum testnets, private networks and sidechains. BlockScout is opensource, licensed under GPLv3 and developed with Elixir. Many crypto currencies or tokens use this project."

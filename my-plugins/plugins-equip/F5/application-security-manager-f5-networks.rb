@@ -2,7 +2,6 @@ Plugin.define do
 name "application-security-manager-f5-networks"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

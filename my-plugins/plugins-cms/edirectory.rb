@@ -1,8 +1,7 @@
 Plugin.define do
 name "eDirectory"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Arca Solutions eDirectory provides a php and .NET software platform to allow site owners to publish directory-driven websites with ease. - Hompage: http://www.edirectory.com/"

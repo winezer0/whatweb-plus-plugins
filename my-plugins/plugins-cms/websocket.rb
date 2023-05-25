@@ -1,8 +1,7 @@
 Plugin.define do
 name "WebSocket"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WebSocket is a technology providing for bi-directional, full-duplex communications channels, over a single Transmission Control Protocol (TCP) socket. - More info: https://secure.wikimedia.org/wikipedia/en/wiki/WebSocket - Protocol: https://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-12"

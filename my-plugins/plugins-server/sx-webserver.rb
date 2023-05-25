@@ -1,8 +1,7 @@
 Plugin.define do
 name "sx-webserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SX-Webserver - a simple tcp socket web server - coded by: neotek of soldierx.com"

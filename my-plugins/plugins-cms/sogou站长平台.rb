@@ -1,8 +1,7 @@
 Plugin.define do
-name "sogou站长平台" 
+name "sogou站长平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

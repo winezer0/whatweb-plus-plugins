@@ -1,8 +1,7 @@
 Plugin.define do
-name "skyverge" 
+name "skyverge"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

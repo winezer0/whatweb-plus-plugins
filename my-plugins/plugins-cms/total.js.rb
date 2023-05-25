@@ -1,8 +1,7 @@
 Plugin.define do
-name "total.js" 
+name "total.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

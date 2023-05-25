@@ -1,8 +1,7 @@
 Plugin.define do
-name "中环cms" 
+name "中环cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

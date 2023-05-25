@@ -1,8 +1,7 @@
 Plugin.define do
 name "Syncrify"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Syncrify is a fast incremental remote backup that backs up files using the HTTP protocol."

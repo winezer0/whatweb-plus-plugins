@@ -1,8 +1,7 @@
 Plugin.define do
-name "好视通" 
+name "好视通"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

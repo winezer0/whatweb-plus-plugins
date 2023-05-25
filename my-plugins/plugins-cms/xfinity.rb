@@ -1,8 +1,7 @@
 Plugin.define do
-name "xfinity" 
+name "xfinity"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

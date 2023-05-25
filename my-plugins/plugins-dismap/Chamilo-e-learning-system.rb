@@ -1,7 +1,7 @@
 Plugin.define do
-name "Chamilo-e-learning-system" 
+name "Chamilo-e-learning-system"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

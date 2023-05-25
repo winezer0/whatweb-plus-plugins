@@ -1,8 +1,7 @@
 Plugin.define do
-name "新网企业邮" 
+name "新网企业邮"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "amazon-cloudfront" 
+name "amazon-cloudfront"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

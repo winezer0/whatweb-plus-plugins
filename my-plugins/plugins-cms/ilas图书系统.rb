@@ -1,8 +1,7 @@
 Plugin.define do
-name "ilas图书系统" 
+name "ilas图书系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

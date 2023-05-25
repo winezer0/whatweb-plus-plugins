@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpaacms" 
+name "phpaacms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "osTicket"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "osTicket is a widely-used open source support ticket system - Requires: PHP and MySQL"

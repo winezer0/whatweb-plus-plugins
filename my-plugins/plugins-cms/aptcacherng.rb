@@ -1,8 +1,7 @@
 Plugin.define do
-name "aptcacherng" 
+name "aptcacherng"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

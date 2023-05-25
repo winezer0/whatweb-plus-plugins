@@ -1,8 +1,7 @@
 Plugin.define do
-name "kissmetrics" 
+name "kissmetrics"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

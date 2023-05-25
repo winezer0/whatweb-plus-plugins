@@ -1,8 +1,7 @@
 Plugin.define do
-name "WIFISKY-7层流控路由器" 
+name "WIFISKY-7层流控路由器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

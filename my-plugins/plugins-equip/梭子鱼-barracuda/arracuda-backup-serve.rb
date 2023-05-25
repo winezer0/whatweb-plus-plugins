@@ -1,8 +1,7 @@
 Plugin.define do
 name "arracuda-backup-serve"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Local inline Deduplication Backup Systems with available offsite Cloud Storage or site to site replication."

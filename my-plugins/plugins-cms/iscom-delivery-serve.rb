@@ -1,8 +1,7 @@
 Plugin.define do
 name "iscom-delivery-serve"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Biscom Delivery Server - Secure File Transfer (SFT) software"

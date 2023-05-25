@@ -1,8 +1,7 @@
 Plugin.define do
-name "tengine" 
+name "tengine"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

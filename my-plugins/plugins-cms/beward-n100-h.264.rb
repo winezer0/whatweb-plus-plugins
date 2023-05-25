@@ -2,7 +2,6 @@ Plugin.define do
 name "beward-n100-h.264"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

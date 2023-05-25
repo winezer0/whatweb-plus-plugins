@@ -1,8 +1,7 @@
 Plugin.define do
-name "particles.js" 
+name "particles.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

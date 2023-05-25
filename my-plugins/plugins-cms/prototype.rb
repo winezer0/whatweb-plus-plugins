@@ -2,7 +2,6 @@ Plugin.define do
 name "Prototype"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Javascript library"

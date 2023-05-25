@@ -2,7 +2,6 @@ Plugin.define do
 name "shlcms-深喉咙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "live800" 
+name "live800"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

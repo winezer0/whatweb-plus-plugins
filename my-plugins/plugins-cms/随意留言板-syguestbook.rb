@@ -2,7 +2,6 @@ Plugin.define do
 name "随意留言板-syguestbook"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

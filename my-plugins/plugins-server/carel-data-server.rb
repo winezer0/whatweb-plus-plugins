@@ -1,10 +1,8 @@
 Plugin.define do
 name "carel-data-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Pl@ntVisor is a communication data server distributed by CAREL Italy. It is now obsolete and replaced by Pl@ntVisorPRO"

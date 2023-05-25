@@ -1,8 +1,7 @@
 Plugin.define do
-name "fancybox" 
+name "fancybox"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

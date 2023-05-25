@@ -1,8 +1,7 @@
 Plugin.define do
-name "easypanel" 
+name "easypanel"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

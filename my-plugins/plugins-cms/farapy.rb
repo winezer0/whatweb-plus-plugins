@@ -1,8 +1,7 @@
 Plugin.define do
-name "farapy" 
+name "farapy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

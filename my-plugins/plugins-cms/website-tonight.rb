@@ -1,10 +1,8 @@
 Plugin.define do
 name "website-tonight"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Website Tonight CMS from GoDaddy"

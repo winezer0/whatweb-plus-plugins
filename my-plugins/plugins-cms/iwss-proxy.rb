@@ -1,8 +1,7 @@
 Plugin.define do
-name "iwss-proxy" 
+name "iwss-proxy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

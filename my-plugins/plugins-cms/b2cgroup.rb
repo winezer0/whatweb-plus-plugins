@@ -2,7 +2,6 @@ Plugin.define do
 name "b2cgroup"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "moment.js" 
+name "moment.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

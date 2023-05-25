@@ -1,8 +1,7 @@
 Plugin.define do
-name "openvas" 
+name "openvas"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

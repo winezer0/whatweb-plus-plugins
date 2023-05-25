@@ -2,7 +2,6 @@ Plugin.define do
 name "Moodle"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Opensource educational software written in PHP."

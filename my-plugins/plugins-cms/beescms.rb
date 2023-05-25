@@ -2,10 +2,13 @@ Plugin.define do
 name "beescms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>'/template/default/images/search_btn.gif'},
+{:text=>'/upload/img/20110625/201106251133539086.gif'},
+{:text=>'http://www.beescms.com'},
+{:url=>"/data/compile_tpl/member_login_cn_compile.php"},
 {:url=>'/admin/template/images/login_title.gif', :md5=>'24f6ae88c72035f42eda5794edc6203f'},
 {:url=>'/ckeditor/contents.css', :md5=>'4fe76ebc3e34ec87eb67207f04b70e87'},
 {:url=>'/robots.txt', :md5=>'fc76a80a5c88d524252ca991367ed89f'},

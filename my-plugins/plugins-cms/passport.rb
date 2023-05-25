@@ -1,8 +1,7 @@
 Plugin.define do
 name "Passport"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin detects instances of Microsoft Live Passport servers using the MSNSERVER, X-MSNSERVER and PPServer HTTP headers."
@@ -13,4 +12,9 @@ m << { :string=>@headers["msnserver"].to_s.scan(/H: ([\w\-\.]+) /).flatten } if 
 m << { :string=>@headers["x-msnserver"].to_s } unless @headers["x-msnserver"].nil?
 m
 end
+matches [
+{:regexp=>/.*Phusion_Passenger/, :search=>"headers[server]"},
+{:version=>/Phusion Passenger \(mod_rails\/mod_rack\) ([\d\.]+)/, :search=>"headers[x-powered-by]"},
+{:version=>/[\s]+Phusion_Passenger\/([\d\.]+)/, :search=>"headers[server]"},
+]
 end

@@ -2,7 +2,6 @@ Plugin.define do
 name "鹏为e-4-cloud-crm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

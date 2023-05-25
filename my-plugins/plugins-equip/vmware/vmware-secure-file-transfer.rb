@@ -2,7 +2,6 @@ Plugin.define do
 name "vmware-secure-file-transfer"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "gauges" 
+name "gauges"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

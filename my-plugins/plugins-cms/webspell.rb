@@ -1,8 +1,7 @@
 Plugin.define do
 name "webSPELL"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "webSPELL is a free Content Management System which was especially developed for the needs of esport related communities."

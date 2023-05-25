@@ -1,8 +1,7 @@
 Plugin.define do
-name "qibocms" 
+name "qibocms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

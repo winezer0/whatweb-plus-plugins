@@ -1,8 +1,7 @@
 Plugin.define do
 name "LifeSize-Control"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "LifeSize Control is an all-in-one video management software platform that provides centralized management of your entire video conferencing network, including multivendor environments."

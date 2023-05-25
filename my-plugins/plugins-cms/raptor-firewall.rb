@@ -1,10 +1,8 @@
 Plugin.define do
 name "raptor-firewall"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Raptor Firewall (previously known as Raptor EagleNT) was acquired by Symantec and has been discontinued"

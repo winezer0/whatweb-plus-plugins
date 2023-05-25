@@ -1,7 +1,7 @@
 Plugin.define do
-name "vBulletin-forum" 
+name "vBulletin-forum"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

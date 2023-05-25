@@ -2,7 +2,6 @@ Plugin.define do
 name "2bbuilde"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

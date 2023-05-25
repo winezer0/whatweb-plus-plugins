@@ -1,8 +1,7 @@
 Plugin.define do
-name "typecho" 
+name "typecho"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

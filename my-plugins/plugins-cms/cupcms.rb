@@ -1,8 +1,7 @@
 Plugin.define do
-name "cupcms" 
+name "cupcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

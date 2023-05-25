@@ -1,8 +1,7 @@
 Plugin.define do
-name "wstmart" 
+name "wstmart"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

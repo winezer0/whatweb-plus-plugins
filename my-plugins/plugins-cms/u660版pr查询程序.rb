@@ -1,8 +1,7 @@
 Plugin.define do
-name "u660版pr查询程序" 
+name "u660版pr查询程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

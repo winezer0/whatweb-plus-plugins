@@ -1,7 +1,7 @@
 Plugin.define do
-name "Iomega-StorCenter-px2-300d" 
+name "Iomega-StorCenter-px2-300d"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

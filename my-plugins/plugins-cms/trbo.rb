@@ -1,8 +1,7 @@
 Plugin.define do
-name "trbo" 
+name "trbo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

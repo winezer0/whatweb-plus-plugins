@@ -1,7 +1,7 @@
 Plugin.define do
-name "Schneider-Electric-Modicon-340-BMX-P34-CPU-B" 
+name "Schneider-Electric-Modicon-340-BMX-P34-CPU-B"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

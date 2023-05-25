@@ -2,7 +2,6 @@ Plugin.define do
 name "ibos协同办公平台-虚拟主机版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

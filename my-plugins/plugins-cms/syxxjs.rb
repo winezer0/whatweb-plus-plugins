@@ -1,8 +1,7 @@
 Plugin.define do
-name "syxxjs" 
+name "syxxjs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

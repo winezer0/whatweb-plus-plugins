@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cisco-Adaptive-Security-Appliance"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Cisco Adaptive Security Appliance (ASA) family of security devices protects corporate networks. It provides users with highly secure access to data - anytime, anywhere, using any device."

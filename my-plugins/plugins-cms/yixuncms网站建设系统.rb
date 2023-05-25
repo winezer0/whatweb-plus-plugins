@@ -1,8 +1,7 @@
 Plugin.define do
-name "yixuncms网站建设系统" 
+name "yixuncms网站建设系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

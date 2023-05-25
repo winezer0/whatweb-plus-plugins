@@ -1,8 +1,7 @@
 Plugin.define do
-name "turbomail邮箱系统" 
+name "turbomail邮箱系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

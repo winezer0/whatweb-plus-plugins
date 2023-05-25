@@ -1,8 +1,7 @@
 Plugin.define do
 name "GuppY"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "An easy, free web portal, GuppY will allow you to generate very easily a complete and interactive web site. It requires no database."

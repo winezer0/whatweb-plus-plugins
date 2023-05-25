@@ -1,8 +1,7 @@
 Plugin.define do
 name "scrutinizer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Scrutinizer NetFlow - monitoring solution"

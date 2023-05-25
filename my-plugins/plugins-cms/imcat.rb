@@ -1,8 +1,7 @@
 Plugin.define do
-name "imcat" 
+name "imcat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

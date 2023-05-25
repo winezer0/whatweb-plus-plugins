@@ -2,7 +2,6 @@ Plugin.define do
 name "webbackdoor"
 authors [
 "Aung Khant, http://yehg.net",
-
 ]
 version "0.1"
 description "Detect common web doors (asp,jsp,php,jsp,pl,cgi)  using fuzz-db list and others"

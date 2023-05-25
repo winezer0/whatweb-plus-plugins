@@ -1,8 +1,7 @@
 Plugin.define do
-name "cloudproxy-firewall" 
+name "cloudproxy-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

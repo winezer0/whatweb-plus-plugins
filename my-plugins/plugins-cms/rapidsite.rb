@@ -1,10 +1,8 @@
 Plugin.define do
 name "rapidsite"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "RapidSite is the world's largest and most experienced Web hosting entity."

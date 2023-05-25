@@ -1,8 +1,7 @@
 Plugin.define do
-name "高升控股" 
+name "高升控股"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

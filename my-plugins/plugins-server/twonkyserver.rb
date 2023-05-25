@@ -1,8 +1,7 @@
 Plugin.define do
 name "twonkyserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Twonky is a line of computer and mobile applications that finds all of your digital media collections and shares them with PCs, TVs, stereos and other devices connected to your network."

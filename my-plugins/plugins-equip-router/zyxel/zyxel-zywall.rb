@@ -2,7 +2,6 @@ Plugin.define do
 name "zyxel-zywall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "oask问答系统免费版" 
+name "oask问答系统免费版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

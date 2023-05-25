@@ -1,8 +1,7 @@
 Plugin.define do
-name "walle瓦力平台" 
+name "walle瓦力平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

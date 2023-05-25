@@ -1,10 +1,8 @@
 Plugin.define do
 name "wpml"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "The WordPress Multilingual Plugin enables multilingual websites"

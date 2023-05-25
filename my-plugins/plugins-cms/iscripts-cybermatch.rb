@@ -1,8 +1,7 @@
 Plugin.define do
 name "iScripts-CyberMatch"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "iScripts CyberMatch is an open source online dating software with features like background check ,chat alerts, integrated payment system etc."

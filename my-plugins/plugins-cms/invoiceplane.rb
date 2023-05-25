@@ -1,8 +1,7 @@
 Plugin.define do
-name "invoiceplane" 
+name "invoiceplane"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

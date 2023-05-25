@@ -1,7 +1,7 @@
 Plugin.define do
-name "Stephen-Turner-Analog" 
+name "Stephen-Turner-Analog"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

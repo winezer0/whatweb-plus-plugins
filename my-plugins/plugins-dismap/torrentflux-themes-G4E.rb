@@ -1,7 +1,7 @@
 Plugin.define do
-name "torrentflux-themes-G4E" 
+name "torrentflux-themes-G4E"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

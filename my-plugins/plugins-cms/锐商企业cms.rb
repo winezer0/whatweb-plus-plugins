@@ -1,8 +1,7 @@
 Plugin.define do
-name "锐商企业cms" 
+name "锐商企业cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "万户网络" 
+name "万户网络"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

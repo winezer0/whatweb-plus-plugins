@@ -1,8 +1,7 @@
 Plugin.define do
 name "rios"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Riverbed Optimization System (RiOS)"

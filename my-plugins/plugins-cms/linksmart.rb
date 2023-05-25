@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksmart" 
+name "linksmart"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

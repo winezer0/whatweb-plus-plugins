@@ -1,8 +1,7 @@
 Plugin.define do
-name "zych自由策划企业网站管理系统" 
+name "zych自由策划企业网站管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

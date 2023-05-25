@@ -1,8 +1,7 @@
 Plugin.define do
-name "fluentd" 
+name "fluentd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

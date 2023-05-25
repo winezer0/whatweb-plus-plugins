@@ -1,8 +1,7 @@
 Plugin.define do
 name "m2soft-rdserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "M2Soft Report Designer Server - reporting tool"

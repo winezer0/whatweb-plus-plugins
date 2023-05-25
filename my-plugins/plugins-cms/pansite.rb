@@ -1,8 +1,7 @@
 Plugin.define do
-name "pansite" 
+name "pansite"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

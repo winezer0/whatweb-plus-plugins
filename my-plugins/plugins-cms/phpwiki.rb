@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpwiki" 
+name "phpwiki"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

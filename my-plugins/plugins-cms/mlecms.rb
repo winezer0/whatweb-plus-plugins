@@ -1,8 +1,7 @@
 Plugin.define do
-name "mlecms" 
+name "mlecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "zzzcms-zzzphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

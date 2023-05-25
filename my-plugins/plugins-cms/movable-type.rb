@@ -2,9 +2,7 @@ Plugin.define do
 name "Movable-Type"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "Blogging platform"
@@ -24,8 +22,10 @@ matches [
 :certainty=>75,
 :regexp=>/"[^"]+\/mt-(tags|tb|cp|search|user-login|recommend)\.[f]?cgi[^"]*"/},
 {:search=>"all", :text=>'Movable Type'},
+{:search=>"all", :text=>'movabletype'},
 {:search=>'body', :regexp=>/Movable Type/},
 {:text=>'<title>Movable Type System Check [mt-check.cgi]</title>'},
+{:url=>"/favicon.ico",:allhash=>"06b60d90ccfb79c2574c7fdc3ac23f05"},
 {:version=>/<li><strong>Movable Type version:<\/strong> <code>([^<]+)<\/code><\/li>/},
 {:version=>/<meta name="generator" content="Movable Type ([^"]*)/,  :name=>"meta generator tag"},
 ]

@@ -1,8 +1,7 @@
 Plugin.define do
-name "avigilon" 
+name "avigilon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

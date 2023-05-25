@@ -2,7 +2,6 @@ Plugin.define do
 name "foosuncms-风讯"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

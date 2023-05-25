@@ -1,8 +1,7 @@
 Plugin.define do
-name "flarum中文优化版" 
+name "flarum中文优化版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

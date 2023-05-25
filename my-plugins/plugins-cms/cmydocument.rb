@@ -1,8 +1,7 @@
 Plugin.define do
 name "CmyDocument"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "CmyDocument is a Content Management and Document Management application"

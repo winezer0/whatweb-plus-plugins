@@ -1,8 +1,7 @@
 Plugin.define do
-name "coverprise品牌官网建站系统" 
+name "coverprise品牌官网建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

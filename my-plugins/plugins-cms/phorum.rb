@@ -1,8 +1,7 @@
 Plugin.define do
 name "Phorum"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Phorum - Forum - Requires PHP and MySQL"

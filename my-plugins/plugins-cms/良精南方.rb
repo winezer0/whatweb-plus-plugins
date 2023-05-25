@@ -1,8 +1,7 @@
 Plugin.define do
-name "良精南方" 
+name "良精南方"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "scrollreveal" 
+name "scrollreveal"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

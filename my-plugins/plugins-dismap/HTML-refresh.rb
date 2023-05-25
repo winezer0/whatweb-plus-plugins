@@ -1,7 +1,7 @@
 Plugin.define do
-name "HTML-refresh" 
+name "HTML-refresh"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

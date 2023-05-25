@@ -1,8 +1,7 @@
 Plugin.define do
-name "Hikvision-视频监控" 
+name "Hikvision-视频监控"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

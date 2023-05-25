@@ -1,8 +1,7 @@
 Plugin.define do
-name "dojo" 
+name "dojo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

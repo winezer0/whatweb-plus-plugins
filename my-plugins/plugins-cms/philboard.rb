@@ -1,8 +1,7 @@
 Plugin.define do
 name "PhilBoard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "PhilBoard - ASP powered forum"

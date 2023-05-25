@@ -1,8 +1,7 @@
 Plugin.define do
-name "venycms" 
+name "venycms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

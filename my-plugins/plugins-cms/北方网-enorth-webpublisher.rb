@@ -2,7 +2,6 @@ Plugin.define do
 name "北方网-enorth-webpublisher"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

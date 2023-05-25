@@ -1,8 +1,7 @@
 Plugin.define do
-name "公交联盟" 
+name "公交联盟"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

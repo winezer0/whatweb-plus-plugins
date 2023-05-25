@@ -1,8 +1,7 @@
 Plugin.define do
-name "通用webapi" 
+name "通用webapi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

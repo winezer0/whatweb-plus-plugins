@@ -1,8 +1,7 @@
 Plugin.define do
 name "PRITLOG"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PRITLOG is an extremely simple, small and powerful blog system. Requires SQLite"

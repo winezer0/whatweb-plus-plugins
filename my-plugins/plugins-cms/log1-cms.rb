@@ -1,8 +1,7 @@
 Plugin.define do
 name "Log1-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Idea of this CMS is simplicity and fast web development with no data base. Using log1CMS you can create one leveled-menu web page in 5 simple steps. Create menu using drag and drop feature and then edit files with TinyMCE WYSWIG editor."

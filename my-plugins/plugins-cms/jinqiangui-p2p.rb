@@ -2,7 +2,6 @@ Plugin.define do
 name "jinqiangui-p2p"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

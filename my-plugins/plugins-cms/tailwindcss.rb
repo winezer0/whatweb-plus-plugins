@@ -1,8 +1,7 @@
 Plugin.define do
-name "tailwindcss" 
+name "tailwindcss"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

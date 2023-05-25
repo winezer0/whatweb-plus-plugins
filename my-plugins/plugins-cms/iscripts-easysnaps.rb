@@ -1,8 +1,7 @@
 Plugin.define do
 name "iScripts-EasySnaps"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "iScripts EasySnaps is an open source image hosting script."

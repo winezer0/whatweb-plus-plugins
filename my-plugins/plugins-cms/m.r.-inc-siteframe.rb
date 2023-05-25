@@ -2,7 +2,6 @@ Plugin.define do
 name "m.r.-inc-siteframe"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

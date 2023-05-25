@@ -2,7 +2,6 @@ Plugin.define do
 name "bintec-elmeg"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

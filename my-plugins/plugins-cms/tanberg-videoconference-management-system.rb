@@ -1,8 +1,7 @@
 Plugin.define do
 name "tanberg-videoconference-management-system"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "TANDBERG video conferencing management system web interface - http://www.tandberg.com/"

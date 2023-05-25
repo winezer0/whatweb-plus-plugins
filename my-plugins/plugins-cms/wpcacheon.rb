@@ -1,8 +1,7 @@
 Plugin.define do
-name "wpcacheon" 
+name "wpcacheon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

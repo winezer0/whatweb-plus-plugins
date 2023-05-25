@@ -1,8 +1,7 @@
 Plugin.define do
-name "dwhttpd" 
+name "dwhttpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

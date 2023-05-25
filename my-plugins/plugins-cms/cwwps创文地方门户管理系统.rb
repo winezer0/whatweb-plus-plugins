@@ -1,8 +1,7 @@
 Plugin.define do
-name "cwwps创文地方门户管理系统" 
+name "cwwps创文地方门户管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

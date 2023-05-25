@@ -1,8 +1,7 @@
 Plugin.define do
 name "vTigerCRM"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
+"Aung Khant <http://yehg.net/>",
 ]
 version "0.1"
 description "vTigerCRM - http://www.vtiger.com/"

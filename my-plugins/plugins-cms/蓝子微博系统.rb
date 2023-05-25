@@ -1,8 +1,7 @@
 Plugin.define do
-name "蓝子微博系统" 
+name "蓝子微博系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

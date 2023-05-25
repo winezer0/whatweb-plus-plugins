@@ -1,8 +1,7 @@
 Plugin.define do
-name "mindbody" 
+name "mindbody"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

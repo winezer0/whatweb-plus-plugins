@@ -2,9 +2,7 @@ Plugin.define do
 name "microsoft-windows-business-server"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "Microsoft Small/Essential Business Server"

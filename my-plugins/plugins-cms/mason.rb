@@ -1,8 +1,7 @@
 Plugin.define do
 name "Mason"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Mason is a powerful Perl-based templating system for generating HTML or other dynamic content."

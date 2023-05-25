@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpRemoteView"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "phpRemoteView - web backdoor - allows users to browse the filesystem, edit files on the server, execute PHP code, or Shell commands, etc. Works on Windows and Unix servers"

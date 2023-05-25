@@ -1,8 +1,7 @@
 Plugin.define do
-name "ticketly" 
+name "ticketly"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "WHMCS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WHMCS is an all-in-one client management, billing & support solution for online businesses."

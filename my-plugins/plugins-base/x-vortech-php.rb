@@ -1,8 +1,7 @@
 Plugin.define do
 name "X-Vortech-PHP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "X-Vortech-PHP HTTP header."
@@ -11,4 +10,7 @@ m=[]
 m << { :version=>@headers["x-vortech-php"].to_s } unless @headers["x-vortech-php"].nil?
 m
 end
+matches [
+{:string=>/<meta http-equiv[\s]*=[^>]*X-UA-Compatible[^>]*[\s]+content[\s]*=[\s]*['|"]?([a-z0-9=]+)[^>]*>/i },
+]
 end

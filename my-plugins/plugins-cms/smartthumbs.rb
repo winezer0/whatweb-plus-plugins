@@ -1,8 +1,7 @@
 Plugin.define do
 name "SmartThumbs"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SmartThumbs is a complete tgp script (thumbnail gallery post management script), it makes your work easier and faster by automating gallery preview and thumbnail cropping. Productivity based thumbnail rotation makes your productivity higher and brings fast traffic growth."

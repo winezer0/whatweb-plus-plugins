@@ -1,8 +1,7 @@
 Plugin.define do
-name "decimal.js" 
+name "decimal.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "communique" 
+name "communique"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

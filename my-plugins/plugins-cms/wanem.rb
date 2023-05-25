@@ -1,8 +1,7 @@
 Plugin.define do
 name "WANem"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WANem is a Wide Area Network emulator designed by Performance Engineering Research Centre, TATA Consultancy Services, Mumbai."

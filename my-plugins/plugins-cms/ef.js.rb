@@ -1,8 +1,7 @@
 Plugin.define do
-name "ef.js" 
+name "ef.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

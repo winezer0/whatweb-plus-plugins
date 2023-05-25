@@ -1,8 +1,7 @@
 Plugin.define do
-name "elcodi" 
+name "elcodi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

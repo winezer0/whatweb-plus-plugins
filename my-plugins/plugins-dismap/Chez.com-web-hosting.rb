@@ -1,7 +1,7 @@
 Plugin.define do
-name "Chez.com-web-hosting" 
+name "Chez.com-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

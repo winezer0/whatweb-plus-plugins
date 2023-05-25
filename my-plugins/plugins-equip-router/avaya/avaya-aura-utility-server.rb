@@ -1,8 +1,7 @@
 Plugin.define do
 name "avaya-aura-utility-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Avaya Aura Utility Server"

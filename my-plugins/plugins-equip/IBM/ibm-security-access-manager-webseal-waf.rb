@@ -2,7 +2,6 @@ Plugin.define do
 name "ibm-security-access-manager-webseal-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

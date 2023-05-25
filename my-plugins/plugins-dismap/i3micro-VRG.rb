@@ -1,7 +1,7 @@
 Plugin.define do
-name "i3micro-VRG" 
+name "i3micro-VRG"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

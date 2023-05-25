@@ -1,8 +1,7 @@
 Plugin.define do
 name "Access-Control-Allow-Methods"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Specifies the method or methods allowed when accessing a resource"

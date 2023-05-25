@@ -2,7 +2,6 @@ Plugin.define do
 name "intel-active-management-technology"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

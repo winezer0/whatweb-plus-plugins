@@ -1,8 +1,7 @@
 Plugin.define do
 name "Campsite"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Campsite is a multilingual content management system (CMS) for news websites."

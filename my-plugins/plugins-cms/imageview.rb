@@ -1,8 +1,7 @@
 Plugin.define do
 name "Imageview"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Imageview 6 is a 4th generation image gallery script, using AJAX to deliver the best version yet."

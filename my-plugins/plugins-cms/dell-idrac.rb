@@ -1,8 +1,7 @@
 Plugin.define do
-name "dell-idrac" 
+name "dell-idrac"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

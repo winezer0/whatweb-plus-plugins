@@ -1,8 +1,7 @@
 Plugin.define do
-name "ssycms" 
+name "ssycms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

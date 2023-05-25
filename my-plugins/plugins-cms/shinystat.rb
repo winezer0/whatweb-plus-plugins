@@ -1,8 +1,7 @@
 Plugin.define do
-name "shinystat" 
+name "shinystat"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "MailEnable"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Windows mail server software with webmail, caldav, carddav, antivirus, spam filtering and more."

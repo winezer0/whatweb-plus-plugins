@@ -1,8 +1,7 @@
 Plugin.define do
-name "chorus" 
+name "chorus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

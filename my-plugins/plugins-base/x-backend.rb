@@ -1,8 +1,7 @@
 Plugin.define do
 name "X-Backend"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin identifies and extracts the value for X-Backend, X-Backend-Server, X-BackendHost and X-Backend-Host from the HTTP headers."
@@ -14,4 +13,7 @@ m << { :string=>@headers["x-backendhost"].to_s } unless @headers["x-backendhost"
 m << { :string=>@headers["x-backend-host"].to_s } unless @headers["x-backend-host"].nil?
 m
 end
+matches [
+{:search=>"headers[Strict-Transport-Security]", :string=>/^(.*)$/},
+]
 end

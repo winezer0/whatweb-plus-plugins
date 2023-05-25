@@ -1,7 +1,7 @@
 Plugin.define do
-name "Citrix-XenApp-Logon" 
+name "Citrix-XenApp-Logon"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

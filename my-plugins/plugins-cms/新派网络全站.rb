@@ -1,8 +1,7 @@
 Plugin.define do
-name "新派网络全站" 
+name "新派网络全站"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "datatables" 
+name "datatables"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

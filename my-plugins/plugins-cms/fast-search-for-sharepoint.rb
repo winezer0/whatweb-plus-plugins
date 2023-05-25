@@ -2,7 +2,6 @@ Plugin.define do
 name "fast-search-for-sharepoint"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "luenet-video-serve"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "BlueNet Video Server - video camera web interface"

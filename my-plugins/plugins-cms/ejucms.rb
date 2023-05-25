@@ -1,8 +1,7 @@
 Plugin.define do
-name "ejucms" 
+name "ejucms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "uikit" 
+name "uikit"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

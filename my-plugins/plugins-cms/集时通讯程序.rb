@@ -1,8 +1,7 @@
 Plugin.define do
-name "集时通讯程序" 
+name "集时通讯程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "dvr.webcam-webdvr"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "shellinabox" 
+name "shellinabox"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

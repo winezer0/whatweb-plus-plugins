@@ -2,7 +2,6 @@ Plugin.define do
 name "moment-timezone"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

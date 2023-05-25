@@ -1,8 +1,7 @@
 Plugin.define do
-name "ayacms" 
+name "ayacms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

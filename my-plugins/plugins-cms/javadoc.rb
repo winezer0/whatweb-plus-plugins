@@ -1,8 +1,7 @@
 Plugin.define do
-name "javadoc" 
+name "javadoc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

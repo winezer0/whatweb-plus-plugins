@@ -1,8 +1,7 @@
 Plugin.define do
-name "lua" 
+name "lua"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

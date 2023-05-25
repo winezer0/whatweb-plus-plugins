@@ -1,8 +1,7 @@
 Plugin.define do
-name "fedora" 
+name "fedora"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

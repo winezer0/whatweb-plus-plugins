@@ -1,8 +1,7 @@
 Plugin.define do
 name "Apache-Wicket"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Apache Wicket, commonly referred to as Wicket, is a lightweight component-based web application framework for the Java programming language"

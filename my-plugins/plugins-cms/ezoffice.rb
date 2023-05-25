@@ -1,8 +1,7 @@
 Plugin.define do
-name "ezoffice" 
+name "ezoffice"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

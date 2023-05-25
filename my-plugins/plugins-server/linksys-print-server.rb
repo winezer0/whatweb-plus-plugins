@@ -1,10 +1,8 @@
 Plugin.define do
 name "linksys-print-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Linksys Print Server - Print servers connect printers directly to the network so that multiple PCs can share them."

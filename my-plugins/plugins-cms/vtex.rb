@@ -1,8 +1,7 @@
 Plugin.define do
-name "vtex" 
+name "vtex"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

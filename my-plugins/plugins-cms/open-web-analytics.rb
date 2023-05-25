@@ -2,7 +2,6 @@ Plugin.define do
 name "open-web-analytics"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

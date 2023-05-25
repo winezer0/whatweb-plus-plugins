@@ -1,8 +1,7 @@
 Plugin.define do
 name "StatusNet"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "StatusNet's Open Source social software enables organizations to collaborate, share insights and build relationships in real time."

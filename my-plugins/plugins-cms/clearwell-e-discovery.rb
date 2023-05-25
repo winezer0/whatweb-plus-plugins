@@ -1,8 +1,7 @@
 Plugin.define do
 name "Clearwell-E-Discovery"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Clearwell E-Discovery Platform is the leading enterprise e-discovery solution that enables enterprises, governments, and law firms to manage legal, regulatory, and investigative matters using a single application. The Clearwell Platform was purpose-built for e-discovery, making it easy for organizations to defensibly solve real-world challenges across the entire e-discovery lifecycle from legal hold and collections through analysis, review and production."

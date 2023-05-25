@@ -2,7 +2,6 @@ Plugin.define do
 name "ibm-aix-nim"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "strato" 
+name "strato"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

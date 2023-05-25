@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-central" 
+name "linksys-central"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "headjs" 
+name "headjs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

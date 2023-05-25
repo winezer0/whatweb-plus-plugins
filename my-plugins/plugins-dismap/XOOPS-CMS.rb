@@ -1,7 +1,7 @@
 Plugin.define do
-name "XOOPS-CMS" 
+name "XOOPS-CMS"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

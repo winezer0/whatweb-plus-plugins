@@ -1,8 +1,7 @@
 Plugin.define do
-name "po.st" 
+name "po.st"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

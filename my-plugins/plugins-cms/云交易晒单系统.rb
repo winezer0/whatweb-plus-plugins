@@ -1,8 +1,7 @@
 Plugin.define do
-name "云交易晒单系统" 
+name "云交易晒单系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

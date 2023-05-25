@@ -1,8 +1,7 @@
 Plugin.define do
-name "好丽盈舞曲cms管理系统" 
+name "好丽盈舞曲cms管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

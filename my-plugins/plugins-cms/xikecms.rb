@@ -1,8 +1,7 @@
 Plugin.define do
-name "xikecms" 
+name "xikecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

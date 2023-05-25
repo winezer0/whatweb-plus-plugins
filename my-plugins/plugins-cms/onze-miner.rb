@@ -1,8 +1,7 @@
 Plugin.define do
 name "onze-miner"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ONZE Miner is a browser-based linguistics research tool that stores audio recordings and regular-expression searchable text transcripts of interviews."

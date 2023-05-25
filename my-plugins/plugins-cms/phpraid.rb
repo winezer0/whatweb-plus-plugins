@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpRaid"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "phpRaid is a raid management tool for World of Warcraft - a MMORPG developed by Blizzard."

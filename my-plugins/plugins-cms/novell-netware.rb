@@ -1,8 +1,7 @@
 Plugin.define do
 name "Novell-NetWare"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Novell NetWare server."

@@ -2,7 +2,6 @@ Plugin.define do
 name "用友-e-hr"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

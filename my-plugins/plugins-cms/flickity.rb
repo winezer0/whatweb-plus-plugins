@@ -1,8 +1,7 @@
 Plugin.define do
-name "flickity" 
+name "flickity"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

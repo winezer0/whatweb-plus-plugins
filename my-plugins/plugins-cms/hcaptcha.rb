@@ -1,8 +1,7 @@
 Plugin.define do
-name "hcaptcha" 
+name "hcaptcha"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

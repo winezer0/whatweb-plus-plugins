@@ -2,7 +2,6 @@ Plugin.define do
 name "zdsoft-cnet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

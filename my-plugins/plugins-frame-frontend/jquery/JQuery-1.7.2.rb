@@ -1,8 +1,7 @@
 Plugin.define do
-name "JQuery-1.7.2" 
+name "JQuery-1.7.2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

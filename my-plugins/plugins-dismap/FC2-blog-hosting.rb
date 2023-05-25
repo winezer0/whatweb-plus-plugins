@@ -1,7 +1,7 @@
 Plugin.define do
-name "FC2-blog-hosting" 
+name "FC2-blog-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

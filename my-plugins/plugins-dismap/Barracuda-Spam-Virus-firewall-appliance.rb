@@ -1,7 +1,7 @@
 Plugin.define do
-name "Barracuda-Spam-Virus-firewall-appliance" 
+name "Barracuda-Spam-Virus-firewall-appliance"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

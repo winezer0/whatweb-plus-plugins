@@ -1,8 +1,7 @@
 Plugin.define do
-name "workyisystem" 
+name "workyisystem"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

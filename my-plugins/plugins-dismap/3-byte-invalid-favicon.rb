@@ -1,7 +1,7 @@
 Plugin.define do
-name "3-byte-invalid-favicon" 
+name "3-byte-invalid-favicon"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

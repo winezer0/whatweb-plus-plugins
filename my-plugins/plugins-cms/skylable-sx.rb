@@ -1,8 +1,7 @@
 Plugin.define do
-name "skylable-sx" 
+name "skylable-sx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

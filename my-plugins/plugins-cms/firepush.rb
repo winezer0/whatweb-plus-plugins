@@ -1,8 +1,7 @@
 Plugin.define do
-name "firepush" 
+name "firepush"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

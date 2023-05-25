@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-ea2700"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

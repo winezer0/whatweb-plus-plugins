@@ -2,7 +2,6 @@ Plugin.define do
 name "shopnc-b2b2c"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

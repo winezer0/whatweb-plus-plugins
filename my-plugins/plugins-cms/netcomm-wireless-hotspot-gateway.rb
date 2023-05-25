@@ -1,8 +1,7 @@
 Plugin.define do
 name "NetComm-Wireless-HotSpot-Gateway"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "NetComm Hotspot gateway device - http://www.netcomm.com.au/products/hotspots"

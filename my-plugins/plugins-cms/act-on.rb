@@ -1,8 +1,7 @@
 Plugin.define do
-name "act-on" 
+name "act-on"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

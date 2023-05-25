@@ -1,8 +1,7 @@
 Plugin.define do
-name "tjpcms" 
+name "tjpcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

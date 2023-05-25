@@ -1,7 +1,7 @@
 Plugin.define do
-name "Dvbbs-Forum" 
+name "Dvbbs-Forum"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

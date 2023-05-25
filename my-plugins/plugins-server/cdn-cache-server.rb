@@ -1,10 +1,8 @@
 Plugin.define do
 name "cdn-cache-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "CDN-Cache-Server"

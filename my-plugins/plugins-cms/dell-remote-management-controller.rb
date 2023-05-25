@@ -2,7 +2,6 @@ Plugin.define do
 name "dell-remote-management-controller"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

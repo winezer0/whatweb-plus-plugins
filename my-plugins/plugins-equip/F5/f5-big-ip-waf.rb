@@ -2,7 +2,6 @@ Plugin.define do
 name "f5-big-ip-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

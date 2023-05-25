@@ -1,8 +1,7 @@
 Plugin.define do
-name "校无忧学校网站系统" 
+name "校无忧学校网站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

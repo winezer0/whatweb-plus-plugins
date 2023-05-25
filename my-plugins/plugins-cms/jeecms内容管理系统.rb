@@ -1,8 +1,7 @@
 Plugin.define do
-name "jeecms内容管理系统" 
+name "jeecms内容管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

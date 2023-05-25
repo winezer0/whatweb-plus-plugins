@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-wgr614v8"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

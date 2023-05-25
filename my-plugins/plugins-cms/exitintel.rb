@@ -1,8 +1,7 @@
 Plugin.define do
-name "exitintel" 
+name "exitintel"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

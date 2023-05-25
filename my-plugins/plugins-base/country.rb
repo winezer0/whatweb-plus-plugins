@@ -2,18 +2,16 @@ Plugin.define do
 name "Country"
 authors [
 "Andrew Horton",
-
-"Code0x58", 
-
+"Code0x58",
 ]
 version "0.4"
 description "Shows the country the IPv4 address belongs to. This uses the GeoIP IP2Country database from http://software77.net/geo-ip/. Instructions on updating the database are in the plugin comments."
 def startup
-whatweb_folder = File.expand_path(File.dirname(__FILE__))	
+whatweb_folder = File.expand_path(File.dirname(__FILE__))
 country_db = whatweb_folder + "/country-ips.dat"
 if File.exist?(country_db)
 rfile = File.open(country_db, "rb")
-else		
+else
 if File.exist?(whatweb_folder + "/IpToCountry.csv")
 last_start = nil
 last_end = nil
@@ -50,7 +48,7 @@ end
 @variables = {
 rfile: rfile,
 ccnames: ccnames,
-mutex: Mutex.new, 
+mutex: Mutex.new,
 }
 end
 passive do
@@ -65,7 +63,7 @@ record_max = rfile.pos / 10 - 1
 ipstr = @ip.split(".").map {|x| x.to_i.chr}.join
 low, high = 0, record_max
 loop do
-mid = (low + high) / 2       
+mid = (low + high) / 2
 rfile.seek(10 * mid)     # one record is 10 byte, seek to position
 str = rfile.read(8)      # for range matching, we need only 8 bytes
 if ipstr >= str[0, 4]     # is this IP not below the current range?
@@ -79,7 +77,7 @@ end
 else
 high = mid - 1           # binary search: reduce upper limit
 end
-if low > high            # no entries left? nothing found		
+if low > high            # no entries left? nothing found
 break
 end
 end
@@ -87,4 +85,7 @@ end
 end
 m
 end
+matches [
+{:search=>"headers", :text=>'set-cookie'},
+]
 end

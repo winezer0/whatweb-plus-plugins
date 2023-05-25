@@ -1,8 +1,7 @@
 Plugin.define do
-name "自动发卡平台" 
+name "自动发卡平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

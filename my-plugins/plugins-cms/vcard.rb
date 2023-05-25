@@ -1,8 +1,7 @@
 Plugin.define do
 name "vcard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "vCard is a file format standard for electronic business cards. This plugin identifies vcards and extracts the vcard version, name, full name and organization details."
@@ -17,4 +16,8 @@ m << { :string=>"Address:"+@body.scan(/^BEGIN:VCARD[\s]*$.*^ADR:([^\r^\n]+)[\s]*
 end
 m
 end
+matches [
+{:certainty=>75, :text=>'<link href="Styles/Basic/Style.css" type="text/css" rel="stylesheet"></head>'},
+{:text=>'Powered by <a href="http://www.vcalendar.org">VCalendar</a>'},
+]
 end

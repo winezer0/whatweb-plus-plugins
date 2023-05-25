@@ -1,10 +1,8 @@
 Plugin.define do
 name "ActiveHTML"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "seliSoft ActiveHTML provides Active-Server-Pages (ASP) to nearly every web server supporting CGI."

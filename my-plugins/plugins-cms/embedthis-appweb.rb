@@ -2,7 +2,6 @@ Plugin.define do
 name "embedthis-appweb"
 authors [
 "winezero",
-
 ]
 version "0.2"
 matches [

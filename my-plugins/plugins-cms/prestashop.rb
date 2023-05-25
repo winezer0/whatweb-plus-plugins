@@ -1,10 +1,8 @@
 Plugin.define do
 name "PrestaShop"
 authors [
-"Chris@NetAgence.com", 
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Chris@NetAgence.com",
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.2"
 description "Ecommerce CMS Prestashop."

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Aruba-Network-Devices" 
+name "Aruba-Network-Devices"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

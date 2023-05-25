@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-queretaro" 
+name "linksys-queretaro"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

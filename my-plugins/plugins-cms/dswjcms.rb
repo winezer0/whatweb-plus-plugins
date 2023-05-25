@@ -1,8 +1,7 @@
 Plugin.define do
-name "dswjcms" 
+name "dswjcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

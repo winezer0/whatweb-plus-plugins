@@ -2,7 +2,6 @@ Plugin.define do
 name "wosign-ssl-cert"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

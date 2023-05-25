@@ -1,8 +1,7 @@
 Plugin.define do
 name "Utopia-News-Pro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Utopia News Pro - news management system"

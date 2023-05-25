@@ -1,8 +1,7 @@
 Plugin.define do
-name "mshtml" 
+name "mshtml"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

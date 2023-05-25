@@ -1,8 +1,7 @@
 Plugin.define do
-name "阳光企业网站管理系统scscms" 
+name "阳光企业网站管理系统scscms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

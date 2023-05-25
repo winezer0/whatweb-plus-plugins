@@ -2,7 +2,6 @@ Plugin.define do
 name "cisco-meraki-dashboard"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

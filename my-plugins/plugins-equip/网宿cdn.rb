@@ -1,8 +1,7 @@
 Plugin.define do
-name "网宿cdn" 
+name "网宿cdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

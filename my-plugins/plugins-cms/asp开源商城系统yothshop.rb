@@ -1,8 +1,7 @@
 Plugin.define do
-name "asp开源商城系统yothshop" 
+name "asp开源商城系统yothshop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

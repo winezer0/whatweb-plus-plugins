@@ -1,8 +1,7 @@
 Plugin.define do
 name "UseResponse"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "UseResponse is a fully customizable, open-source, self-hosted customer feedback software and support system"

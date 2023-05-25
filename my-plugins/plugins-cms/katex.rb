@@ -1,8 +1,7 @@
 Plugin.define do
-name "katex" 
+name "katex"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

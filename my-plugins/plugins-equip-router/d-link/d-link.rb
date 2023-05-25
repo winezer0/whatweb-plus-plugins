@@ -1,8 +1,7 @@
 Plugin.define do
-name "d-link" 
+name "d-link"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

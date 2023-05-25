@@ -1,8 +1,7 @@
 Plugin.define do
 name "Stronghold"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Stronghold was a fork of the Apache HTTP Server. Stronghold was created by C2Net, which was eventually purchased by Red Hat. Red Hat Stronghold products are no longer available for purchase."

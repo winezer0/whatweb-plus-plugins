@@ -1,8 +1,7 @@
 Plugin.define do
-name "springrain" 
+name "springrain"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

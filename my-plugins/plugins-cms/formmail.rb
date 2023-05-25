@@ -2,7 +2,6 @@ Plugin.define do
 name "FormMail"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "

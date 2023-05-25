@@ -1,8 +1,7 @@
 Plugin.define do
 name "OpenKM"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "OpenKM - Open Source Electronic Document Management System"

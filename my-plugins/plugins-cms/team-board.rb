@@ -1,8 +1,7 @@
 Plugin.define do
 name "Team-Board"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Team Board forum [Chinese]"

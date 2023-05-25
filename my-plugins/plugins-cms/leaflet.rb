@@ -1,8 +1,7 @@
 Plugin.define do
-name "leaflet" 
+name "leaflet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

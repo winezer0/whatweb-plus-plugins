@@ -1,7 +1,7 @@
 Plugin.define do
-name "Serena-Collage" 
+name "Serena-Collage"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

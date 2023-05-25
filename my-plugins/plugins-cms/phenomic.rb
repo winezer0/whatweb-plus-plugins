@@ -1,8 +1,7 @@
 Plugin.define do
-name "phenomic" 
+name "phenomic"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

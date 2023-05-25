@@ -1,10 +1,8 @@
 Plugin.define do
 name "ben-ssl"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Apache-SSL was developed by Ben Laurie and is often referred to as Ben-SSL"

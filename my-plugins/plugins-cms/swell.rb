@@ -1,8 +1,7 @@
 Plugin.define do
-name "swell" 
+name "swell"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "heroku" 
+name "heroku"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

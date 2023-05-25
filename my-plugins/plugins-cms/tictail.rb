@@ -1,8 +1,7 @@
 Plugin.define do
-name "tictail" 
+name "tictail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

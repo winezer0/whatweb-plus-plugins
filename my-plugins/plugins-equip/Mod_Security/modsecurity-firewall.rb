@@ -1,8 +1,7 @@
 Plugin.define do
-name "modsecurity-firewall" 
+name "modsecurity-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "contentful" 
+name "contentful"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

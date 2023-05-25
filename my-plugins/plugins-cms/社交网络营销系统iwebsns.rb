@@ -1,8 +1,7 @@
 Plugin.define do
-name "社交网络营销系统iwebsns" 
+name "社交网络营销系统iwebsns"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

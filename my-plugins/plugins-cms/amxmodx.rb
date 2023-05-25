@@ -1,10 +1,8 @@
 Plugin.define do
 name "amxmodx"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "AMX Mod X is a versatile Half-Life metamod plugin which is targetted toward server administration."

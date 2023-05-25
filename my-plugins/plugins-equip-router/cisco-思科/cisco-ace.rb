@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cisco-ACE"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Cisco Application Control Engine (ACE) Device Manager"

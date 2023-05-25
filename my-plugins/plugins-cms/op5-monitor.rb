@@ -1,8 +1,7 @@
 Plugin.define do
 name "op5-monitor"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Op5-Monitor - Enterprise Open Source Monitoring"

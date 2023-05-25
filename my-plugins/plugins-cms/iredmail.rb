@@ -1,8 +1,7 @@
 Plugin.define do
-name "iredmail" 
+name "iredmail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

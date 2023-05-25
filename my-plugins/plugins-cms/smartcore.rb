@@ -1,8 +1,7 @@
 Plugin.define do
-name "smartcore" 
+name "smartcore"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

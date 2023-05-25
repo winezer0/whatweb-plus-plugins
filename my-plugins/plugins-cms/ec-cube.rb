@@ -1,8 +1,7 @@
 Plugin.define do
-name "ec-cube" 
+name "ec-cube"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

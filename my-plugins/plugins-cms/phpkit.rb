@@ -1,8 +1,7 @@
 Plugin.define do
 name "PHPKIT"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PHPKIT WCMS - Web content management system to easily create your personal homepage, blog or business website."

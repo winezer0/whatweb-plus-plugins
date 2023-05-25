@@ -1,8 +1,7 @@
 Plugin.define do
 name "PJIRC"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PJIRC is the best free java irc client available. It can be run as an applet or stand alone and it is fully opensource."

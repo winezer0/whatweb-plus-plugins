@@ -1,8 +1,7 @@
 Plugin.define do
-name "duomicms" 
+name "duomicms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

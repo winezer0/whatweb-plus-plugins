@@ -1,8 +1,7 @@
 Plugin.define do
-name "apexpages" 
+name "apexpages"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

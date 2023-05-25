@@ -1,8 +1,7 @@
 Plugin.define do
-name "万众电子期刊cms" 
+name "万众电子期刊cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

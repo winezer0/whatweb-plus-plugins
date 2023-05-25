@@ -1,8 +1,7 @@
 Plugin.define do
-name "powercreator在线教学系统" 
+name "powercreator在线教学系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

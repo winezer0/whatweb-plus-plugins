@@ -1,8 +1,7 @@
 Plugin.define do
-name "subversion" 
+name "subversion"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

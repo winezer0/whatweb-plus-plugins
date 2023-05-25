@@ -2,7 +2,6 @@ Plugin.define do
 name "Index-Of"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Index of"

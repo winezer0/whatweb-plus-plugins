@@ -1,10 +1,8 @@
 Plugin.define do
 name "Hyperwave-IS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Hyperwave Information Server"

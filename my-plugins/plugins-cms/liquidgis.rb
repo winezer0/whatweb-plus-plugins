@@ -1,8 +1,7 @@
 Plugin.define do
-name "liquidgis" 
+name "liquidgis"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpMySport"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PhpMySport is an open source software designed for all sport clubs and leagues which want to easily create and manage their website."

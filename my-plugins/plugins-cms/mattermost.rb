@@ -1,8 +1,7 @@
 Plugin.define do
-name "mattermost" 
+name "mattermost"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "turbocms" 
+name "turbocms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

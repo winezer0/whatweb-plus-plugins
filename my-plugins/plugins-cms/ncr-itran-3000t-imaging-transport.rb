@@ -1,8 +1,7 @@
 Plugin.define do
 name "NCR-iTRAN-3000t-Imaging-Transport"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A full function, image-based table top check imaging and payment processing device"

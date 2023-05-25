@@ -1,8 +1,7 @@
 Plugin.define do
-name "mucms" 
+name "mucms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

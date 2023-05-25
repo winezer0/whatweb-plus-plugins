@@ -1,8 +1,7 @@
 Plugin.define do
-name "cakephp" 
+name "cakephp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

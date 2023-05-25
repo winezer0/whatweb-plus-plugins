@@ -2,7 +2,6 @@ Plugin.define do
 name "at-internet-xiti"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

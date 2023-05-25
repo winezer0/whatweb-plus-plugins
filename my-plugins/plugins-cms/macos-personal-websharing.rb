@@ -1,8 +1,7 @@
 Plugin.define do
 name "MACOS-Personal-Websharing"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Web Sharing is a feature in Mac OS X that allows you to serve documents and other files from your computer."
@@ -12,4 +11,8 @@ m=[]
 m << { :name=>"HTTP Server Header", :string=>"Apache" } if @headers["server"] =~ /^MACOS_Personal_Websharing$/
 m
 end
+matches [
+{:regexp=>/^MacHTTP$/, :search=>"headers[server]"},
+{:version=>/^MacHTTP\/([^\s]+)$/, :search=>"headers[server]"},
+]
 end

@@ -1,8 +1,7 @@
 Plugin.define do
-name "xajax" 
+name "xajax"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Diaspora"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Diaspora - social networking service"

@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-ac1750"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

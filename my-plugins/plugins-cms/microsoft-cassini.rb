@@ -1,8 +1,7 @@
 Plugin.define do
-name "microsoft-cassini" 
+name "microsoft-cassini"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

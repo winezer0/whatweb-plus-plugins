@@ -2,7 +2,6 @@ Plugin.define do
 name "service-provider-pro"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

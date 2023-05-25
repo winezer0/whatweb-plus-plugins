@@ -1,10 +1,8 @@
 Plugin.define do
 name "HyNetOS-httpd"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "HyNetOS is a network operating system specifically designed for embedded systems, where computing and memory resources are limited."

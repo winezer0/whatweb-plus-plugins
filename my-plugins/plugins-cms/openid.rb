@@ -2,7 +2,6 @@ Plugin.define do
 name "OpenID"
 authors [
 "Caleb Anderson",
-
 ]
 version "0.1"
 description "openid detection"

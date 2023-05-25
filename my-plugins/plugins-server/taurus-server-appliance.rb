@@ -1,8 +1,7 @@
 Plugin.define do
 name "Taurus-Server-Appliance"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Taurus Server Appliance is an all-in-one networking device solution for the small to midsize business."

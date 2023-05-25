@@ -1,8 +1,7 @@
 Plugin.define do
 name "Google-Search-Appliance"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Google Search Appliance (GSA) is a piece of hardware that corporations install on-premise so that employees can search enterprise data."

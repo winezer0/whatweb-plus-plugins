@@ -2,7 +2,6 @@ Plugin.define do
 name "sophos-cyberoam-appliance"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

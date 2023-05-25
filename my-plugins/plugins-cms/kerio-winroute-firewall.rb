@@ -1,8 +1,7 @@
 Plugin.define do
 name "Kerio-WinRoute-Firewall"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Kerio WinRoute Firewall"

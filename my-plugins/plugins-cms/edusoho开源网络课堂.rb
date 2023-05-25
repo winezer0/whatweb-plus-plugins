@@ -1,8 +1,7 @@
 Plugin.define do
-name "edusoho开源网络课堂" 
+name "edusoho开源网络课堂"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "发现世界搜索引擎-utf-8版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

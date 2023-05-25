@@ -1,8 +1,7 @@
 Plugin.define do
-name "pbdigg" 
+name "pbdigg"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

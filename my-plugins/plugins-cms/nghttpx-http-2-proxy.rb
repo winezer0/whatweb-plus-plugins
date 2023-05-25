@@ -2,7 +2,6 @@ Plugin.define do
 name "nghttpx-http-2-proxy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

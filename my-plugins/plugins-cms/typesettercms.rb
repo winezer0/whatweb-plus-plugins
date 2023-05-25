@@ -1,8 +1,7 @@
 Plugin.define do
-name "typesettercms" 
+name "typesettercms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

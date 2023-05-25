@@ -1,8 +1,7 @@
 Plugin.define do
-name "aircall" 
+name "aircall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

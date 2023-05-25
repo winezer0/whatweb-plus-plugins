@@ -2,7 +2,6 @@ Plugin.define do
 name "daiqile-p2p"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

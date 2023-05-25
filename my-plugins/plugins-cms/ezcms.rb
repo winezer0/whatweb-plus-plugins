@@ -1,8 +1,7 @@
 Plugin.define do
 name "EZCMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Building your own website is easy with the EZ Websites Builder"

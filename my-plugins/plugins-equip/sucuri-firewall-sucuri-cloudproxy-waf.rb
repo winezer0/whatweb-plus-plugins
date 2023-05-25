@@ -2,7 +2,6 @@ Plugin.define do
 name "sucuri-firewall-sucuri-cloudproxy-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

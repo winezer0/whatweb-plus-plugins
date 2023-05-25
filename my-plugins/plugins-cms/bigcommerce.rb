@@ -2,11 +2,8 @@ Plugin.define do
 name "bigcommerce"
 authors [
 "Claudio Salazar <csalazar at spect dot cl>",
-
-"Bhavin Senjaliya", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya",
+"Andrew Horton",
 ]
 version "0.3"
 description "Fully loaded with killer features."

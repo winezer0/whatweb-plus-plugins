@@ -1,8 +1,7 @@
 Plugin.define do
-name "123phpshop电商系统" 
+name "123phpshop电商系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "parse.ly" 
+name "parse.ly"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

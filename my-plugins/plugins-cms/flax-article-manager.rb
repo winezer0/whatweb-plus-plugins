@@ -1,8 +1,7 @@
 Plugin.define do
 name "flax-article-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Managing large dynamic websites has always been a difficult task for several webmasters, we have developed Flax Article Manager keeping you in mind. By using this system one can easily manage their news and/or articles quite easily."

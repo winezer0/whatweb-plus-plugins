@@ -1,8 +1,7 @@
 Plugin.define do
-name "金色校园" 
+name "金色校园"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

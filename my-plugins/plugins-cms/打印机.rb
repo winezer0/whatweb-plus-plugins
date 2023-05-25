@@ -1,8 +1,7 @@
 Plugin.define do
-name "打印机" 
+name "打印机"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

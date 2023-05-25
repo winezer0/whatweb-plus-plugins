@@ -1,8 +1,7 @@
 Plugin.define do
 name "Axel-Device"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Axel design and manufacture innovative TCP/IP based Thin Client Terminals and Office Servers for Windows, Unix/Linux and AS/400 environments. Axel products are unique in having no embedded operating system."

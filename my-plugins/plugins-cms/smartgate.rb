@@ -1,8 +1,7 @@
 Plugin.define do
-name "smartgate" 
+name "smartgate"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

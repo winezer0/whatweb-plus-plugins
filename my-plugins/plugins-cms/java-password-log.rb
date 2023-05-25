@@ -1,8 +1,7 @@
 Plugin.define do
 name "Java-Password-Log"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin detects Java password.log files and retrieves the usernname, password and URL."
@@ -19,4 +18,7 @@ end
 end
 m
 end
+matches [
+{:regexp=>/[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]+ [DEBUG|INFO]/},
+]
 end

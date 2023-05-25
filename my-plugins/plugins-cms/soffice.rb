@@ -1,8 +1,7 @@
 Plugin.define do
-name "soffice" 
+name "soffice"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

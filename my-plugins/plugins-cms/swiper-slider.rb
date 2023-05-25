@@ -2,7 +2,6 @@ Plugin.define do
 name "swiper-slider"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

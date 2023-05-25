@@ -1,8 +1,7 @@
 Plugin.define do
-name "ntopng" 
+name "ntopng"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

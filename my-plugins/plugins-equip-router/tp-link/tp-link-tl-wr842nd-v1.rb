@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-tl-wr842nd-v1"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

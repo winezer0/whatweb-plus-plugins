@@ -1,8 +1,7 @@
 Plugin.define do
 name "Citrix-Access-Gateway"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Citrix Access Gateway is a secure application access solution that provides administrators granular application-level control while empowering users with remote access from anywhere."

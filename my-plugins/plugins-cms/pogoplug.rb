@@ -1,8 +1,7 @@
 Plugin.define do
 name "Pogoplug"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Pogoplug is a device that connects your USB drive to the Internet so you can easily share and access your files from anywhere. To set it up, all that is needed is to plug it into a wall socket, connect the device to your router using an etherent cable and plug a USB drive into the other side of the pogoplug. No network setup is required."
@@ -15,4 +14,8 @@ m << { :version=>"#{$2}" }
 end
 m
 end
+matches [
+{:version=>/<cite>Podcast Powered by <a href="http:\/\/www.mightyseek.com\/podpress\/" title="podPress, the dream plugin for podcasting with WordPress"><strong>podPress \(v([\d\.]+)\)<\/strong><\/a><\/cite>/},
+{:version=>/<div id="podPress_footer">Podcast powered by <a href="http:\/\/wordpress.org\/extend\/plugins\/podpress\/" title="podPress, a plugin for podcasting with WordPress"><strong>podPress v([\d\.]+)<\/strong><\/a><\/div>/},
+]
 end

@@ -1,8 +1,7 @@
 Plugin.define do
-name "yeecms" 
+name "yeecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

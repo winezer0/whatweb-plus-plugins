@@ -1,8 +1,7 @@
 Plugin.define do
-name "tqcms企业管理系统" 
+name "tqcms企业管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

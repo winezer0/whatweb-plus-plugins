@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-firewall-fr5300"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

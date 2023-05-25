@@ -1,8 +1,7 @@
 Plugin.define do
 name "buddy-zone"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Buddy Zone is a social network script which has all latest technologies needed to run a new version 2.0 Social Network Website."

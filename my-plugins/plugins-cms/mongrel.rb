@@ -1,8 +1,7 @@
 Plugin.define do
 name "Mongrel"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Mongrel is an open-source HTTP library and web server written in Ruby."

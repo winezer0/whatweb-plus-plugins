@@ -1,8 +1,7 @@
 Plugin.define do
 name "b2evolution"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "b2evolution is a powerful blog tool you can install on your own website."

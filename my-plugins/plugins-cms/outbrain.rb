@@ -1,8 +1,7 @@
 Plugin.define do
-name "outbrain" 
+name "outbrain"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

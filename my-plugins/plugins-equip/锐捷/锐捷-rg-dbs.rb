@@ -2,7 +2,6 @@ Plugin.define do
 name "锐捷-rg-dbs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

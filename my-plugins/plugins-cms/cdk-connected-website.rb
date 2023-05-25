@@ -1,10 +1,8 @@
 Plugin.define do
 name "cdk-connected-website"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "CDK creates websites for the automotive industry. CDK Connected Store is an eCommerce platform."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Open-Freeway"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Freeway is by far the largest and most fully featured Open Source eCommerce platform. It doesn't just sell products but extends to sell in some very fancy new ways and is very configurable."

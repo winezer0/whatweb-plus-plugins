@@ -2,7 +2,6 @@ Plugin.define do
 name "neo-omnichannel-commerce-platform"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

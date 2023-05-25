@@ -1,8 +1,7 @@
 Plugin.define do
-name "sablog-x" 
+name "sablog-x"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Elexio-church-CMS" 
+name "Elexio-church-CMS"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

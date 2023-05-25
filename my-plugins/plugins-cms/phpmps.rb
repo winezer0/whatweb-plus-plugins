@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpmps" 
+name "phpmps"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "auth0-lock"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

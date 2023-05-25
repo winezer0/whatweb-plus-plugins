@@ -1,8 +1,7 @@
 Plugin.define do
 name "WSN-Knowledge-Base"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WSN Knowledge Base is an article directory script. It can autopost whole feeds of prepared content, be employed as a CMS, or be used as a simple knowledge base. The rich text editor allows easy composition. WSN KB offers a vast array of features and the option to translate to any language."

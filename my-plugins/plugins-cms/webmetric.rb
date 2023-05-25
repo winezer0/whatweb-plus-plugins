@@ -1,8 +1,7 @@
 Plugin.define do
-name "webmetric" 
+name "webmetric"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

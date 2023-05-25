@@ -1,8 +1,7 @@
 Plugin.define do
-name "gpeasy" 
+name "gpeasy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

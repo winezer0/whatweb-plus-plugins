@@ -1,8 +1,7 @@
 Plugin.define do
-name "comodo-firewall" 
+name "comodo-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

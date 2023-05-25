@@ -1,8 +1,7 @@
 Plugin.define do
 name "troy-serial-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "TROY500 Serial Server allows connection for devices with RS232, RS422, RS485 serial ports."

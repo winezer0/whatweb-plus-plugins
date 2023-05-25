@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-wap54gp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

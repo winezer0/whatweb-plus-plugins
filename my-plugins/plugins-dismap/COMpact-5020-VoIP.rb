@@ -1,7 +1,7 @@
 Plugin.define do
-name "COMpact-5020-VoIP" 
+name "COMpact-5020-VoIP"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

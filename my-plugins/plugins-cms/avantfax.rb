@@ -1,8 +1,7 @@
 Plugin.define do
 name "AvantFAX"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "AvantFAX is a web application for managing faxes on HylaFAX fax servers."

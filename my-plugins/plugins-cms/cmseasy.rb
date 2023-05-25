@@ -1,14 +1,16 @@
 Plugin.define do
-name "cmseasy" 
+name "cmseasy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
 {:search=>"headers", :text=>'http://www.cmseasy.cn/service_1.html'},
+{:text=>'<a href="https://www.cmseasy.cn"'},
+{:text=>'<meta name="author" content="CmsEasy Team">'},
 {:text=>'Powered by CmsEasy'},
 {:text=>'content="CmsEasy'},
+{:text=>'target="_blank">CmsEasy</a>'},
 {:url=>'/bbs/css/images/announ.gif', :md5=>'58e959b455c4a49e431dd28868699fe4'},
 {:url=>'/bbs/css/images/avatar.gif', :md5=>'abf773557bfc1c13a9195ccab619ceb5'},
 {:url=>'/celive/admin/live/loading.gif', :md5=>'11188b5f7d29016c1b75601d16fc5710'},

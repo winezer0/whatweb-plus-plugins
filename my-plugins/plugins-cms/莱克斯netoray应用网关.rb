@@ -1,8 +1,7 @@
 Plugin.define do
-name "莱克斯netoray应用网关" 
+name "莱克斯netoray应用网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

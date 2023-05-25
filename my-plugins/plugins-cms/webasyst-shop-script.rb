@@ -1,8 +1,7 @@
 Plugin.define do
 name "WebAsyst-Shop-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Shop-Script . ecommerce platform for creating online stores. Available as PHP software and hosted service."

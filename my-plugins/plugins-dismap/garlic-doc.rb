@@ -1,7 +1,7 @@
 Plugin.define do
-name "garlic-doc" 
+name "garlic-doc"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

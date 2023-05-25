@@ -1,8 +1,7 @@
 Plugin.define do
-name "cushycms" 
+name "cushycms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

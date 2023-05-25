@@ -2,7 +2,6 @@ Plugin.define do
 name "hikvision-ivms-8300"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

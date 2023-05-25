@@ -1,8 +1,7 @@
 Plugin.define do
-name "o2oa" 
+name "o2oa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "safe3waf" 
+name "safe3waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

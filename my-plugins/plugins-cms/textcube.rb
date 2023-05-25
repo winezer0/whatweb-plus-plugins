@@ -1,8 +1,7 @@
 Plugin.define do
-name "textcube" 
+name "textcube"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

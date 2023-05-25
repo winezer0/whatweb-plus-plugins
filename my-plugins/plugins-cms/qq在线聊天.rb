@@ -1,8 +1,7 @@
 Plugin.define do
-name "qq在线聊天" 
+name "qq在线聊天"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

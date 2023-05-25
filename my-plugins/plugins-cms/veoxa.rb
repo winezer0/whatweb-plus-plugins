@@ -1,8 +1,7 @@
 Plugin.define do
-name "veoxa" 
+name "veoxa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

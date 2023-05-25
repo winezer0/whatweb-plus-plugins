@@ -1,8 +1,7 @@
 Plugin.define do
-name "ember.js" 
+name "ember.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

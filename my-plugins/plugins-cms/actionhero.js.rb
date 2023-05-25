@@ -1,8 +1,7 @@
 Plugin.define do
-name "actionhero.js" 
+name "actionhero.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

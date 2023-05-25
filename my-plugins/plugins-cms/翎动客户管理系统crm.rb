@@ -1,8 +1,7 @@
 Plugin.define do
-name "翎动客户管理系统crm" 
+name "翎动客户管理系统crm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

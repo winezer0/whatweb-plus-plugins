@@ -1,8 +1,7 @@
 Plugin.define do
-name "sift" 
+name "sift"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

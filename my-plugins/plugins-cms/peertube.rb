@@ -1,8 +1,7 @@
 Plugin.define do
-name "peertube" 
+name "peertube"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

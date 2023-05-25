@@ -1,7 +1,7 @@
 Plugin.define do
 name "Safedog-安全狗"
 authors [
-"Brendan Coles <bcoles@gmail.com>" 
+"Brendan Coles <bcoles@gmail.com>"
 ]
 version '0.2'
 description 'Safedog WAF'

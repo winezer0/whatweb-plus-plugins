@@ -2,7 +2,6 @@ Plugin.define do
 name "carbon-ads"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

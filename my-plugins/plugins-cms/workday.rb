@@ -1,8 +1,7 @@
 Plugin.define do
-name "workday" 
+name "workday"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

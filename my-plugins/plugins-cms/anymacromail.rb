@@ -1,8 +1,7 @@
 Plugin.define do
-name "anymacromail" 
+name "anymacromail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

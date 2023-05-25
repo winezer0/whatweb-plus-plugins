@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cisco-IP-Phone"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin identifies Cisco IP phones and extracts the internal hostname which is also the device's MAC adress prefixed with 'SEP'"

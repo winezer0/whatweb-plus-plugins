@@ -1,8 +1,7 @@
 Plugin.define do
-name "lazy.js" 
+name "lazy.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

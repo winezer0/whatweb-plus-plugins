@@ -1,8 +1,7 @@
 Plugin.define do
-name "cufon" 
+name "cufon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "facil-iti" 
+name "facil-iti"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

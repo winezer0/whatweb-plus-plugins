@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpRechnung"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "phpRechnung is easy-to-use Web-based multilingual accounting software"

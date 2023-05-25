@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-wireless-g-wr340g"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

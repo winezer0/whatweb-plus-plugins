@@ -1,10 +1,8 @@
 Plugin.define do
 name "Grandstream-Phone"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Grandstream Networks is the leading manufacturer of IP voice/video telephony and video surveillance solutions."

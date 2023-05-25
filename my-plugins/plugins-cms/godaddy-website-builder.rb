@@ -2,7 +2,6 @@ Plugin.define do
 name "godaddy-website-builder"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

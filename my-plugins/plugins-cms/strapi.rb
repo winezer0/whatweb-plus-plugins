@@ -1,8 +1,7 @@
 Plugin.define do
-name "strapi" 
+name "strapi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

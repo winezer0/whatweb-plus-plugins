@@ -1,8 +1,7 @@
 Plugin.define do
 name "redshop"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ASP Powered shopping cart software [Chinese]"

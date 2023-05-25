@@ -2,7 +2,6 @@ Plugin.define do
 name "网神VPN防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

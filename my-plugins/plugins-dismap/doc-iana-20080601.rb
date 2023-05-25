@@ -1,7 +1,7 @@
 Plugin.define do
-name "doc-iana-20080601" 
+name "doc-iana-20080601"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

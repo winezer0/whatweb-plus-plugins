@@ -1,10 +1,8 @@
 Plugin.define do
 name "EDIMAX"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "EDIMAX Device # Wireless Access Point / Broadband Routers / Ethernet Hub / Printer Server / Load Balancing Router"

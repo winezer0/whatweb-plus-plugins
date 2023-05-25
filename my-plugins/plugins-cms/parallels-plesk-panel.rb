@@ -2,7 +2,6 @@ Plugin.define do
 name "parallels-plesk-panel"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "h5ai" 
+name "h5ai"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "syncloud" 
+name "syncloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

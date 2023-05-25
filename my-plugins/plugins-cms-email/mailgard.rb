@@ -1,8 +1,7 @@
 Plugin.define do
-name "mailgard" 
+name "mailgard"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

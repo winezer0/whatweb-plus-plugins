@@ -2,7 +2,6 @@ Plugin.define do
 name "盘锦dj舞曲cms-2012"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

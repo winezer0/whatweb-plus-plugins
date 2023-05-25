@@ -1,7 +1,7 @@
 Plugin.define do
-name "Yahoo!" 
+name "Yahoo!"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

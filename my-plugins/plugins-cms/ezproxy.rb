@@ -1,8 +1,7 @@
 Plugin.define do
-name "ezproxy" 
+name "ezproxy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

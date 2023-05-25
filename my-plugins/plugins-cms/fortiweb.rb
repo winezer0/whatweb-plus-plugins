@@ -1,8 +1,7 @@
 Plugin.define do
 name "fortiweb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The FortiWeb family of Web application and XML firewalls protect, balance, and accelerate Web applications, databases, and the information exchanged between them."

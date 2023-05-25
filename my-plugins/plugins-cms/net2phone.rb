@@ -1,8 +1,7 @@
 Plugin.define do
 name "Net2Phone"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Net2Phone CommCenter is software that allows you to make phone calls and send faxes to anywhere in the world."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "CuteFlow"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "CuteFlow - web-based workflow management"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "BIG-IP" 
+name "BIG-IP"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

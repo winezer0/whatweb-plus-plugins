@@ -2,7 +2,6 @@ Plugin.define do
 name "aspcms开源企业网站管理系统-utf8"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

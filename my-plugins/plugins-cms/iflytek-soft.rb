@@ -2,7 +2,6 @@ Plugin.define do
 name "iflytek-soft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

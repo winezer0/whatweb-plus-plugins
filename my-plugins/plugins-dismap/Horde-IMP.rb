@@ -1,7 +1,7 @@
 Plugin.define do
-name "Horde-IMP" 
+name "Horde-IMP"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

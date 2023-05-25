@@ -1,10 +1,8 @@
 Plugin.define do
 name "XAMPP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.4"
 description "XAMPP is an easy to install Apache distribution containing MySQL, PHP and Perl. XAMPP is really very easy to install and to use - just download, extract and start."
@@ -16,6 +14,7 @@ matches [
 {:mmh3=>'-1275226814'},
 {:mmh3=>'-1437701105'},
 {:os=>/<title>XAMPP for ([^\r\n<]{5,8}) [\d\.a-z]{3,6}[\s]*<\/title>/},
+{:os=>/<title>XAMPP for ([^\r^\n^<]{5,8}) [\d\.a-z]{3,6}[\s]*<\/title>/},
 {:regexp=>/<title>XAMPP(?: Version ([\d\.]+))?<.title>/,:offset=>1},
 {:regexp=>/Kai Oswald Seidler/, :search=>'body', :certainty=>10},
 {:text=>'<meta name="author" content="Kai Oswald Seidler">', :certainty=>75},
@@ -26,6 +25,7 @@ matches [
 {:url=>"img/head-solaris.gif", :md5=>"b18490e1a42d7293cbca353100d6d787", :os=>"Solaris"},
 {:url=>"img/head-windows.gif", :md5=>"567ebe64625942cbb8244eca918b06a0", :os=>"Windows"},
 {:version=>/<title>XAMPP Version ([^\r\n<]+)[\s]*<\/title>/},
+{:version=>/<title>XAMPP Version ([^\r^\n^<]+)[\s]*<\/title>/},
 ]
 passive do
 m=[]

@@ -1,8 +1,7 @@
 Plugin.define do
 name "barracuda-spam-firewall"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "The Barracuda Spam & Virus Firewall is an integrated hardware and software solution designed to protect your email server from spam, virus, spoofing, phishing and spyware attacks."

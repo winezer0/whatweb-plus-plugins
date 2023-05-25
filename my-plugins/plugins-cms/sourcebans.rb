@@ -1,8 +1,7 @@
 Plugin.define do
 name "SourceBans"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SourceBans is a free global administration and banning system for Source engine based servers."

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Jive-Forums" 
+name "Jive-Forums"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Dealerskins-auto-sales-web-hosting" 
+name "Dealerskins-auto-sales-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

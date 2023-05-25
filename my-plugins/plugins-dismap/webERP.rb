@@ -1,7 +1,7 @@
 Plugin.define do
-name "webERP" 
+name "webERP"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

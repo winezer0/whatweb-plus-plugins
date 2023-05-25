@@ -1,8 +1,7 @@
 Plugin.define do
-name "zswin社交类博客" 
+name "zswin社交类博客"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

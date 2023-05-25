@@ -1,10 +1,8 @@
 Plugin.define do
 name "kyocera-printer"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Web interface for Kyocera printers. Some models have built in fax and scanner capabilities."

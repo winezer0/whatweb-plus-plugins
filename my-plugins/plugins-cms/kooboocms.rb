@@ -1,8 +1,7 @@
 Plugin.define do
-name "kooboocms" 
+name "kooboocms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

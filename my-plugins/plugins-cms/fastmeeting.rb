@@ -1,8 +1,7 @@
 Plugin.define do
-name "fastmeeting" 
+name "fastmeeting"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

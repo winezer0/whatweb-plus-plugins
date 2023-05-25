@@ -1,8 +1,7 @@
 Plugin.define do
-name "librenms" 
+name "librenms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

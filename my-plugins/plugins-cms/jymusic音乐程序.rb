@@ -1,8 +1,7 @@
 Plugin.define do
-name "jymusic音乐程序" 
+name "jymusic音乐程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

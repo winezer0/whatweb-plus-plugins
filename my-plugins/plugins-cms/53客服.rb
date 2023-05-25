@@ -1,8 +1,7 @@
 Plugin.define do
-name "53客服" 
+name "53客服"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

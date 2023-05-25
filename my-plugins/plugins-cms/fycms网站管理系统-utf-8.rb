@@ -2,7 +2,6 @@ Plugin.define do
 name "fycms网站管理系统-utf-8"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

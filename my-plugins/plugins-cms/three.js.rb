@@ -1,8 +1,7 @@
 Plugin.define do
-name "three.js" 
+name "three.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

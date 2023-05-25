@@ -1,8 +1,7 @@
 Plugin.define do
-name "openpay" 
+name "openpay"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

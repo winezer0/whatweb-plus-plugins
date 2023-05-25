@@ -2,7 +2,6 @@ Plugin.define do
 name "Lightbox"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Javascript for nice image popups"

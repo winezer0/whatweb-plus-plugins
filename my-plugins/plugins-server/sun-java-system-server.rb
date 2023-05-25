@@ -1,10 +1,8 @@
 Plugin.define do
 name "sun-java-system-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Sun Java System Web/Proxy Server."

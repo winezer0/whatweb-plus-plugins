@@ -1,8 +1,7 @@
 Plugin.define do
 name "NetBotz-Network-Monitoring-Device"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "NetBotz monitoring and management web front end"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Nabble"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Freed embeddable web apps"

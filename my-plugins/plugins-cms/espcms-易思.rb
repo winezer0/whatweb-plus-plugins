@@ -2,7 +2,6 @@ Plugin.define do
 name "espcms-易思"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

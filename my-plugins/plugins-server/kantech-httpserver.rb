@@ -2,7 +2,6 @@ Plugin.define do
 name "kantech-httpserver"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

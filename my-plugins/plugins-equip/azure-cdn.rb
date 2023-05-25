@@ -2,7 +2,6 @@ Plugin.define do
 name "azure-cdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

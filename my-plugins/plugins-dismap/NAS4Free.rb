@@ -1,7 +1,7 @@
 Plugin.define do
-name "NAS4Free" 
+name "NAS4Free"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "PCPIN-Chat"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PCPIN Chat is a powerful and secure professional instant messaging system written in PHP and MySQL. It has large ammount of features and highly customizable. PCPIN Chat was written with security considerations in mind, so there is only one public discovered vulnerability in a default configuration since more than 5 years!"

@@ -2,7 +2,6 @@ Plugin.define do
 name "淘特房产网站管理系统-房产cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

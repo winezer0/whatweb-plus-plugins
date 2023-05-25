@@ -1,8 +1,7 @@
 Plugin.define do
 name "Flir-AX8"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.1"
 description "FLIR AX8 is a Thermal Imaging Camera For Continuous Condition and Safety Monitoring"

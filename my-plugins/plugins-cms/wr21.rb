@@ -1,8 +1,7 @@
 Plugin.define do
-name "wr21" 
+name "wr21"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

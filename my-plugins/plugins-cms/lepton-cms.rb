@@ -1,8 +1,7 @@
 Plugin.define do
-name "lepton-cms" 
+name "lepton-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

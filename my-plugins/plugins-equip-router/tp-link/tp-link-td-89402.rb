@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-td-89402"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "Phion-Firewall"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Phion Firewall is now Barracuda NG Firewall"

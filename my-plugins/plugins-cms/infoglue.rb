@@ -1,8 +1,7 @@
 Plugin.define do
-name "infoglue" 
+name "infoglue"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

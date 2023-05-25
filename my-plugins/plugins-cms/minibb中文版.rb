@@ -1,8 +1,7 @@
 Plugin.define do
-name "minibb中文版" 
+name "minibb中文版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

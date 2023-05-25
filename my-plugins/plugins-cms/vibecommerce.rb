@@ -1,8 +1,7 @@
 Plugin.define do
-name "vibecommerce" 
+name "vibecommerce"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

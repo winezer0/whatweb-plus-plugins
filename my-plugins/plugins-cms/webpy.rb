@@ -1,8 +1,7 @@
 Plugin.define do
-name "webpy" 
+name "webpy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

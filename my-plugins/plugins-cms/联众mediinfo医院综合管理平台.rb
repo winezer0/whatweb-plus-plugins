@@ -1,8 +1,7 @@
 Plugin.define do
-name "联众mediinfo医院综合管理平台" 
+name "联众mediinfo医院综合管理平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

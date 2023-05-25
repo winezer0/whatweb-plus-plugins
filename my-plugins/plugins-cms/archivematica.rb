@@ -1,8 +1,7 @@
 Plugin.define do
-name "archivematica" 
+name "archivematica"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "Acclipse"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Acclipse is a web CMS found mainly in New Zealand and Australia. It is popular with accountants."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "luzhucms" 
+name "luzhucms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "又拍云js库" 
+name "又拍云js库"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

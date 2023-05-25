@@ -2,16 +2,22 @@ Plugin.define do
 name "discuz-康盛"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
 {:regexp=>/Discuz! X([\d\.]+)?/, :search=>'body',:offset=>1},
+{:search=>"all", :text=>'Discuz(康盛)7.2'},
+{:text=>"<meta name=\"author\" content=\"Discuz! Team and Comsenz UI Team\" />",:name=>"Author"},
+{:text=>"<meta name=\"generator\" content=\"Discuz! X",:name=>"Generator"},
+{:text=>"discuz_uid",:name=>"UID"},
+{:text=>'<meta name=\"generator\" content=\"Discuz!'},
+{:text=>'<script src=\".*?logging\.js'},
 {:text=>'Powered by <strong><a href="http://www.discuz.net'},
 {:text=>'Powered by Discuz'},
 {:text=>'content="Discuz'},
 {:text=>'content=\Discuz! X\"'},
 {:text=>'portal.php?mod=view")'},
+{:url=>"/robots.txt",:text=>"Discuz! X"},
 {:url=>'/', :text=>'Powered by Discuz!'},
 {:url=>'/admin/discuzfiles.md5', :md5=>'151a5ab1902785136c9583cb5554c8f9'},
 {:url=>'/admin/discuzfiles.md5', :text=>'discuz'},
@@ -52,5 +58,6 @@ matches [
 {:url=>'/templates.cdb', :text=>'discuz'},
 {:url=>'/u2upopup.js', :text=>'discuz'},
 {:url=>'/uc_server/view/default/admin_frame_main.htm', :text=>'discuz'},
+{:version=>/<meta name=\"generator\" content=\"Discuz! X([\d\.]+)\"/},
 ]
 end

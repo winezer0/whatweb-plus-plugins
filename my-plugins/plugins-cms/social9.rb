@@ -1,8 +1,7 @@
 Plugin.define do
-name "social9" 
+name "social9"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

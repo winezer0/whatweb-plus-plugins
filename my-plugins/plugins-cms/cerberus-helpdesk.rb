@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cerberus-Helpdesk"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Cerberus Helpdesk - fast and flexible web-based platform for business collaboration and automation"

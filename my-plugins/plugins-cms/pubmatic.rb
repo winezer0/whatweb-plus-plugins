@@ -1,8 +1,7 @@
 Plugin.define do
-name "pubmatic" 
+name "pubmatic"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

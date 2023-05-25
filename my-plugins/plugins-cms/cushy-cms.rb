@@ -2,7 +2,6 @@ Plugin.define do
 name "cushy-cms"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Simple, closed-source CMS. Free and paid versions. Built with Ruby on Rails"

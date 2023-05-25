@@ -1,8 +1,7 @@
 Plugin.define do
-name "网展企业网站系统" 
+name "网展企业网站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

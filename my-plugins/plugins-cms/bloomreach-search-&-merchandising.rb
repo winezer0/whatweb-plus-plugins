@@ -2,7 +2,6 @@ Plugin.define do
 name "bloomreach-search-&-merchandising"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

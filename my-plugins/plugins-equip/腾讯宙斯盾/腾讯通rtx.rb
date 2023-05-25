@@ -1,8 +1,7 @@
 Plugin.define do
-name "腾讯通rtx" 
+name "腾讯通rtx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

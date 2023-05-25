@@ -1,8 +1,7 @@
 Plugin.define do
-name "iwebmall多用户商城系统" 
+name "iwebmall多用户商城系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

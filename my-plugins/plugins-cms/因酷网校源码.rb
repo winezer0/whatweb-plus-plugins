@@ -1,8 +1,7 @@
 Plugin.define do
-name "因酷网校源码" 
+name "因酷网校源码"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

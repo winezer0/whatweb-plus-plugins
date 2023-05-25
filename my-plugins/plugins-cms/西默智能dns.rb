@@ -1,8 +1,7 @@
 Plugin.define do
-name "西默智能dns" 
+name "西默智能dns"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

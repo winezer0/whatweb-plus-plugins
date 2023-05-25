@@ -1,8 +1,7 @@
 Plugin.define do
 name "PhotoPost-PHP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PhotoPost is photo sharing gallery software for your site that lets your users upload photos to galleries and to interact in photo discussions. Install it yourself, or let us get your gallery up and running in one day."

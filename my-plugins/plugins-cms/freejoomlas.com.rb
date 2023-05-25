@@ -1,8 +1,7 @@
 Plugin.define do
 name "freejoomlas.com"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "FreeJoomlas.com - We provide free hosting for your Joomla portals. It is absolutely FREE. Moreover, we provide FREE subdomains (YOURNAME.FreeJoomlas.com) and UNLIMITED data transfer."

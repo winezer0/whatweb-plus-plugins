@@ -1,8 +1,7 @@
 Plugin.define do
-name "tableau" 
+name "tableau"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

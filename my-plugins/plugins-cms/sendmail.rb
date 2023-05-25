@@ -1,8 +1,7 @@
 Plugin.define do
-name "sendmail" 
+name "sendmail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

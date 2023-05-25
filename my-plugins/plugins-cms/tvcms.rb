@@ -1,8 +1,7 @@
 Plugin.define do
-name "tvcms" 
+name "tvcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

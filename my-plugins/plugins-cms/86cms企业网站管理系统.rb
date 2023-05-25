@@ -1,5 +1,5 @@
 Plugin.define do
-name "86cms企业网站管理系统" 
+name "86cms企业网站管理系统"
 authors [
 "winezero",
 ]

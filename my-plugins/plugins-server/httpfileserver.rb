@@ -1,10 +1,8 @@
 Plugin.define do
 name "httpfileserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "You can use HFS (HTTP File Server) to send and receive files. Access your remote files, over the network."

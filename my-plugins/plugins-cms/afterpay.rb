@@ -1,8 +1,7 @@
 Plugin.define do
-name "afterpay" 
+name "afterpay"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

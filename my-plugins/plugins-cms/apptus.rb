@@ -1,8 +1,7 @@
 Plugin.define do
-name "apptus" 
+name "apptus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

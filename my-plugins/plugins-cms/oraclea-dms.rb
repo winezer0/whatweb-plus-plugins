@@ -1,8 +1,7 @@
 Plugin.define do
-name "oraclea-dms" 
+name "oraclea-dms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

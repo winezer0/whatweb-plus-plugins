@@ -1,8 +1,7 @@
 Plugin.define do
 name "ElasticSearch"
 authors [
-"Andrew Hortons", 
-
+"Andrew Hortons",
 ]
 version "0.1"
 description "Elasticsearch is a distributed RESTful search engine built for the cloud. Built on top of Apache Lucene."

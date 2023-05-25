@@ -1,8 +1,7 @@
 Plugin.define do
-name "基于慧博cms修改的购物网站系统" 
+name "基于慧博cms修改的购物网站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

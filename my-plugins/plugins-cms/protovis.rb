@@ -1,8 +1,7 @@
 Plugin.define do
-name "protovis" 
+name "protovis"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

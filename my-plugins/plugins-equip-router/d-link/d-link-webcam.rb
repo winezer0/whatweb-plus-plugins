@@ -2,7 +2,6 @@ Plugin.define do
 name "d-link-webcam"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Linksys-Wireless-G-Camera"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Linksys Wireless-G Camera web interface"

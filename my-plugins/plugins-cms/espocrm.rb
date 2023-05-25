@@ -1,8 +1,7 @@
 Plugin.define do
-name "espocrm" 
+name "espocrm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

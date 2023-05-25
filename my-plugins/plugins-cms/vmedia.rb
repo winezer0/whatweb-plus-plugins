@@ -1,8 +1,7 @@
 Plugin.define do
-name "vmedia" 
+name "vmedia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

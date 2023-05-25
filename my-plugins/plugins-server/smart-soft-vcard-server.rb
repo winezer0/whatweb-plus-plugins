@@ -1,10 +1,8 @@
 Plugin.define do
 name "smart-soft-vcard-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "SMART-SOFT VCard HTTP/SSL server"

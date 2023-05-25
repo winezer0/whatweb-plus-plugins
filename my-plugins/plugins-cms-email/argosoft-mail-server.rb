@@ -1,10 +1,8 @@
 Plugin.define do
 name "argosoft-mail-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.5"
 description "ArGoSoft-Mail-Server web interface"

@@ -2,9 +2,7 @@ Plugin.define do
 name "php-nuke"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "PHP-Nuke is a free CMS"
@@ -22,7 +20,7 @@ matches [
 :text=>"<a href=\"modules.php?name=Feedback\">Feedback</a>"},
 {:name=>"engine code is copyright of PHP-Nuke",
 :text=>"<a href='http://www.phpnuke.org'><img src='images/powered/phpnuke.gif' title=\"The engine code is copyright of PHP-Nuke.\" border='0'></a>"},
-{:name=>"meta generator tag with PHP-Nuke", 
+{:name=>"meta generator tag with PHP-Nuke",
 :regexp=>/<meta name="generator" content="[^"]+(PHP-Nuke|http:\/\/phpnuke.org)/i},
 {:name=>"modules.php?name links",
 :certainty=>25,

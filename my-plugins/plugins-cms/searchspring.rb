@@ -1,8 +1,7 @@
 Plugin.define do
-name "searchspring" 
+name "searchspring"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

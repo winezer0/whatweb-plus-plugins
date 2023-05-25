@@ -2,7 +2,6 @@ Plugin.define do
 name "kjcms-快捷订餐系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

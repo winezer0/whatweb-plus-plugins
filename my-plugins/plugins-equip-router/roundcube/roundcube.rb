@@ -2,7 +2,6 @@ Plugin.define do
 name "roundcube"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Opensource Webmail written in PHP"
@@ -18,7 +17,7 @@ matches [
 ]
 passive do
 m=[]
-m << {:name=>"roundcube_sessid cookie" } if @headers["set-cookie"] =~ /roundcube_sessid/i		
+m << {:name=>"roundcube_sessid cookie" } if @headers["set-cookie"] =~ /roundcube_sessid/i
 m
 end
 end

@@ -1,8 +1,7 @@
 Plugin.define do
 name "jobberBase"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "jobberBase is the open-source job board software that helps you set up a jobsite in minutes!"

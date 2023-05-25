@@ -1,8 +1,7 @@
 Plugin.define do
-name "comscore" 
+name "comscore"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

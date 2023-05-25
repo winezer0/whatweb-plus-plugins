@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-discovery" 
+name "linksys-discovery"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "SchoolCenter-CMS" 
+name "SchoolCenter-CMS"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

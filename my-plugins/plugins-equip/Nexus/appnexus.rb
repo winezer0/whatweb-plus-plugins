@@ -1,8 +1,7 @@
 Plugin.define do
-name "appnexus" 
+name "appnexus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

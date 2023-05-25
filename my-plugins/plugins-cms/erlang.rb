@@ -1,8 +1,7 @@
 Plugin.define do
-name "erlang" 
+name "erlang"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "FBI-Takedown-Notice"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin detects instances of the joint Department of Justice, FBI and IPR Center take down notice."

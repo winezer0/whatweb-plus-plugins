@@ -1,8 +1,7 @@
 Plugin.define do
-name "maccms" 
+name "maccms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

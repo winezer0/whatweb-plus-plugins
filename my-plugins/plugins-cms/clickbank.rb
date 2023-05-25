@@ -1,8 +1,7 @@
 Plugin.define do
-name "clickbank" 
+name "clickbank"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

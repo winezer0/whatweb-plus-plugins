@@ -2,7 +2,6 @@ Plugin.define do
 name "o2security-succendo-ssl-vpn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

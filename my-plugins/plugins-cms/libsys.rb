@@ -1,8 +1,7 @@
 Plugin.define do
-name "libsys" 
+name "libsys"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

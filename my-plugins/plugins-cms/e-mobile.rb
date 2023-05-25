@@ -1,8 +1,7 @@
 Plugin.define do
-name "e-mobile" 
+name "e-mobile"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

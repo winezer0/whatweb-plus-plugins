@@ -2,7 +2,6 @@ Plugin.define do
 name "yrcms-易人cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

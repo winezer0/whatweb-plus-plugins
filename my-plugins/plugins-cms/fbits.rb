@@ -1,8 +1,7 @@
 Plugin.define do
-name "fbits" 
+name "fbits"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

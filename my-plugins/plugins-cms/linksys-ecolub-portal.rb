@@ -1,8 +1,7 @@
 Plugin.define do
-name "linksys-ecolub-portal" 
+name "linksys-ecolub-portal"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

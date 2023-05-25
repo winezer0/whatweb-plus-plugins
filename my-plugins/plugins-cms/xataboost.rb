@@ -1,8 +1,7 @@
 Plugin.define do
-name "xataboost" 
+name "xataboost"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

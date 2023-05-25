@@ -1,8 +1,7 @@
 Plugin.define do
-name "globalprotect" 
+name "globalprotect"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

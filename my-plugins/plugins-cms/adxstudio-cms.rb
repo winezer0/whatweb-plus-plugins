@@ -1,10 +1,8 @@
 Plugin.define do
 name "adxstudio-cms"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
-"Andrew Horton", 
-
+"Aung Khant <http://yehg.net/>",
+"Andrew Horton",
 ]
 version "0.2"
 description "ADXStudio CMS"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Inktomi-Search"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Inktomi Search engine"

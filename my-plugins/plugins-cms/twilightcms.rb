@@ -1,8 +1,7 @@
 Plugin.define do
-name "twilightcms" 
+name "twilightcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "TimeLive"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "TimeLive Time and Expense Tracking - TimeLive Web timesheet suite is an integrated suite for time record, time tracking and time billing software."

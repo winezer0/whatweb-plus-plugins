@@ -1,8 +1,7 @@
 Plugin.define do
-name "php-multishop" 
+name "php-multishop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

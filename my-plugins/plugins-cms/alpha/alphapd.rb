@@ -1,8 +1,7 @@
 Plugin.define do
-name "alphapd" 
+name "alphapd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

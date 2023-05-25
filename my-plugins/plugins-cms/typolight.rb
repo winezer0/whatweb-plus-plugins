@@ -2,7 +2,6 @@ Plugin.define do
 name "TypoLight"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "TypoLight is an OpenSource CMS written in PHP"
@@ -19,7 +18,7 @@ status,url,ip,body,headers=open_target(target)
 if body =~ /<title>[^<]+TYPOlight[^<]+CMS ([^<]+)<\/title>/
 version=body.scan(/<title>[^<]+TYPOlight[^<]+CMS ([^<]+)<\/title>/)[0][0]
 m << {:name=>"login page version", :version=>version}
-end	
+end
 m
 end
 end

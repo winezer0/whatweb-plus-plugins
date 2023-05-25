@@ -1,8 +1,7 @@
 Plugin.define do
-name "sgc8000" 
+name "sgc8000"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "only1店铺收录" 
+name "only1店铺收录"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

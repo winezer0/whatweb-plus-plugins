@@ -1,8 +1,7 @@
 Plugin.define do
-name "g-wan" 
+name "g-wan"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

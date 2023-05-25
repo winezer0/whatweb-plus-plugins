@@ -1,8 +1,7 @@
 Plugin.define do
-name "openstack" 
+name "openstack"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

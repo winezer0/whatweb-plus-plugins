@@ -1,8 +1,7 @@
 Plugin.define do
-name "tidecms" 
+name "tidecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "semantic-ui" 
+name "semantic-ui"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

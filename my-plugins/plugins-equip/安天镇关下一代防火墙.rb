@@ -1,8 +1,7 @@
 Plugin.define do
-name "安天镇关下一代防火墙" 
+name "安天镇关下一代防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

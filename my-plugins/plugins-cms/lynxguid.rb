@@ -1,8 +1,7 @@
 Plugin.define do
-name "lynxguid" 
+name "lynxguid"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

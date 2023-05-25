@@ -1,8 +1,7 @@
 Plugin.define do
-name "diancms" 
+name "diancms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

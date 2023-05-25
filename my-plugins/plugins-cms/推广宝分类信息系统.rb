@@ -1,8 +1,7 @@
 Plugin.define do
-name "推广宝分类信息系统" 
+name "推广宝分类信息系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

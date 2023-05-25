@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-wireless-ap-wa5110g"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

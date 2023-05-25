@@ -1,8 +1,7 @@
 Plugin.define do
-name "asciinema" 
+name "asciinema"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

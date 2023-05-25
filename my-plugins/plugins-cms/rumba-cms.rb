@@ -1,8 +1,7 @@
 Plugin.define do
 name "rumba-cms"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Rumba is a Content Management System (CMS). It is the engine behind your website that simplifies the creation, management, and sharing of content. Use Rumba as CMS, blog, site of news or personal page."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "AutoIndex-PHP-Script"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "AutoIndex PHP Script - A Website Directory Indexer and File Manager"

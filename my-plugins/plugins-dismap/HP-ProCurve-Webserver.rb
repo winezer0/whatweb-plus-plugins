@@ -1,7 +1,7 @@
 Plugin.define do
-name "HP-ProCurve-Webserver" 
+name "HP-ProCurve-Webserver"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

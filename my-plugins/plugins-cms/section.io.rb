@@ -1,8 +1,7 @@
 Plugin.define do
-name "section.io" 
+name "section.io"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

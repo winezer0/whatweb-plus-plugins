@@ -1,8 +1,7 @@
 Plugin.define do
 name "OpenLabyrinth"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "OpenLabyrinth is a web application for authoring and delivering virtual patient and other decision path and maze-like activities. It is written in ASP/VBScript and requires an ODBC SQL database."

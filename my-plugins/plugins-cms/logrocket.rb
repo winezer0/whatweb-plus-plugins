@@ -1,8 +1,7 @@
 Plugin.define do
-name "logrocket" 
+name "logrocket"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

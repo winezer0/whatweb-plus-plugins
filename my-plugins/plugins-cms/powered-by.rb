@@ -2,9 +2,7 @@ Plugin.define do
 name "powered-by"
 authors [
 "Andrew Horton",
-
-"Brendan Coles < bcoles@gmail.com>", 
-
+"Brendan Coles < bcoles@gmail.com>",
 ]
 version "0.3"
 description "This plugin identifies instances of 'Powered by x' text and attempts to extract the value for x."

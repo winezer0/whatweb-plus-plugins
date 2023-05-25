@@ -1,7 +1,7 @@
 Plugin.define do
-name "Holger-Zimmerman-Pi3Web-HTTP-Server" 
+name "Holger-Zimmerman-Pi3Web-HTTP-Server"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "fastcommerce" 
+name "fastcommerce"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

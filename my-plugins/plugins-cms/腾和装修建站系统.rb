@@ -1,8 +1,7 @@
 Plugin.define do
-name "腾和装修建站系统" 
+name "腾和装修建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

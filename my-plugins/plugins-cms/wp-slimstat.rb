@@ -1,8 +1,7 @@
 Plugin.define do
 name "WP-SlimStat"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A lightwight but powerful real-time web analytics plugin for WordPress"

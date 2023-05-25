@@ -1,7 +1,7 @@
 Plugin.define do
-name "spe" 
+name "spe"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

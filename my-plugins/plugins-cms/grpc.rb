@@ -1,8 +1,7 @@
 Plugin.define do
-name "grpc" 
+name "grpc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "safe3-firewall" 
+name "safe3-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

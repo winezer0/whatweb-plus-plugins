@@ -1,8 +1,7 @@
 Plugin.define do
 name "Mobotix-Network-Camera"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "MOBOTIX network camera web interface"

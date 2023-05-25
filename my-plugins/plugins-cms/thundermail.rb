@@ -1,8 +1,7 @@
 Plugin.define do
-name "thundermail" 
+name "thundermail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

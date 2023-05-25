@@ -2,7 +2,6 @@ Plugin.define do
 name "question2answer"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

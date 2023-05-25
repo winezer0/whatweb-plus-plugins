@@ -1,10 +1,8 @@
 Plugin.define do
 name "i3micro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Tilgin was founded under the name i3 micro technology in 1997 and develops equipment for IPTV and VOIP solutions."

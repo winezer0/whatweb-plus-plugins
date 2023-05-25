@@ -1,8 +1,7 @@
 Plugin.define do
-name "crmeb电商系统" 
+name "crmeb电商系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

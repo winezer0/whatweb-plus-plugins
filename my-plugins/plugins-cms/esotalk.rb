@@ -1,8 +1,7 @@
 Plugin.define do
 name "esoTalk"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "esoTalk is a simple, fast, free web-forum."

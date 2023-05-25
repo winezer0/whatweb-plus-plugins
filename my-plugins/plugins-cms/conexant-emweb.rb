@@ -1,10 +1,8 @@
 Plugin.define do
 name "conexant-emweb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "This plugin identifies the Conexant-EmWeb DSL router web interface."
@@ -33,7 +31,7 @@ matches [
 passive do
 m=[]
 if @headers["server"] =~ /Conexant-EmWeb\/([^\r^\n]+)/ or @headers["server"] =~ /Virata-EmWeb\/([^\r^\n]+)/
-m << { :model=>"e-con "+@body.scan(/<img src="\/webconfig\/images\/logo.gif" alt="LOGO" title="LOGO" hspace="0" vspace="0" width="220" height="45"><\/td><td class="rbtop" width="100%"><h1 class="pname">e-con ([^\s]+) Ethernet Router<\/h1>/).flatten.first } if @body =~ /<img src="\/webconfig\/images\/logo.gif" alt="LOGO" title="LOGO" hspace="0" vspace="0" width="220" height="45"><\/td><td class="rbtop" width="100%"><h1 class="pname">e-con ([^\s]+) Ethernet Router<\/h1>/	
+m << { :model=>"e-con "+@body.scan(/<img src="\/webconfig\/images\/logo.gif" alt="LOGO" title="LOGO" hspace="0" vspace="0" width="220" height="45"><\/td><td class="rbtop" width="100%"><h1 class="pname">e-con ([^\s]+) Ethernet Router<\/h1>/).flatten.first } if @body =~ /<img src="\/webconfig\/images\/logo.gif" alt="LOGO" title="LOGO" hspace="0" vspace="0" width="220" height="45"><\/td><td class="rbtop" width="100%"><h1 class="pname">e-con ([^\s]+) Ethernet Router<\/h1>/
 end
 m
 end

@@ -1,8 +1,7 @@
 Plugin.define do
-name "pushowl" 
+name "pushowl"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "postnuke" 
+name "postnuke"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Roku-Soundbridge" 
+name "Roku-Soundbridge"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

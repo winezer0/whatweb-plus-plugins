@@ -2,7 +2,6 @@ Plugin.define do
 name "ecweb-shop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

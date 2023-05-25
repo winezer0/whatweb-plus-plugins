@@ -1,8 +1,7 @@
 Plugin.define do
-name "auth0" 
+name "auth0"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "iGuard-Security-System"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "Lucky Technology iGuard security system, based on smart card and biometric fingerprint technology."

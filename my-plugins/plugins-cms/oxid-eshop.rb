@@ -2,7 +2,6 @@ Plugin.define do
 name "oxid-eshop"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

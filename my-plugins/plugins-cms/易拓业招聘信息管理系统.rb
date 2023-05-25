@@ -1,8 +1,7 @@
 Plugin.define do
-name "易拓业招聘信息管理系统" 
+name "易拓业招聘信息管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

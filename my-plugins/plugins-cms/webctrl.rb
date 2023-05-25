@@ -1,8 +1,7 @@
 Plugin.define do
-name "webctrl" 
+name "webctrl"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

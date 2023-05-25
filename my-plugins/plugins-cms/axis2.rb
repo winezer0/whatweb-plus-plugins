@@ -1,8 +1,7 @@
 Plugin.define do
-name "axis2" 
+name "axis2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

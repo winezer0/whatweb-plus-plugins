@@ -1,8 +1,7 @@
 Plugin.define do
 name "X10media-MP3-Search-Engine"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "X10media MP3 search engine"

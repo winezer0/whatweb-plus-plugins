@@ -1,8 +1,7 @@
 Plugin.define do
-name "tp-link" 
+name "tp-link"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

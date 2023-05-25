@@ -1,8 +1,7 @@
 Plugin.define do
-name "楼中楼类贴吧论坛程序" 
+name "楼中楼类贴吧论坛程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

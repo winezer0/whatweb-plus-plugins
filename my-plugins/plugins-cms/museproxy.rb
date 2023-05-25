@@ -1,8 +1,7 @@
 Plugin.define do
-name "museproxy" 
+name "museproxy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

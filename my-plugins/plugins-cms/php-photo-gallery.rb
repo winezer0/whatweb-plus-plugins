@@ -1,8 +1,7 @@
 Plugin.define do
 name "PHP-Photo-Gallery"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Easily create your own photo album on the internet. With the easy installation you can have your gallery up and running within 5 minutes with unlimited albums and photos."

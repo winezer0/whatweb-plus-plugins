@@ -2,9 +2,7 @@ Plugin.define do
 name "advance-digitalmg"
 authors [
 "Elias Dorneles",
-
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.2"
 description "Identifies a news website by Advance Digital MG network"

@@ -2,7 +2,6 @@ Plugin.define do
 name "otenet-ondsl-live-camera"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

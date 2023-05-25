@@ -1,8 +1,7 @@
 Plugin.define do
-name "cisco-sx20" 
+name "cisco-sx20"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

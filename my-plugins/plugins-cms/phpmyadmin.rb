@@ -1,12 +1,9 @@
 Plugin.define do
 name "phpMyAdmin"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
-"Juanan Pereira", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
+"Juanan Pereira",
 ]
 version "0.6"
 description "phpMyAdmin is a free software tool written in PHP intended to handle the administration of MySQL over the World Wide Web."
@@ -18,6 +15,7 @@ dorks [
 matches [
 {:certainty=>75, :ghdb=>'intitle:phpMyAdmin "Language: Afrikaans" "Welcome to phpMyAdmin"'},
 {:md5=>"d037ef2f629a22ddadcf438e6be7a325", :url=>"/favicon.ico"},
+{:md5=>"d037ef2f629a22ddadcf438e6be7a325", :url=>"favicon.ico"},
 {:mmh3=>'-1010568750'},
 {:mmh3=>'-476231906'},
 {:offset=>1, :regexp=>/!\[CDATA\[[^<]*PMA_VERSION:\"([\d.]+)/},

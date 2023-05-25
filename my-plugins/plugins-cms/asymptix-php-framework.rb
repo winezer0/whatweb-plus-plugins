@@ -2,7 +2,6 @@ Plugin.define do
 name "asymptix-php-framework"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

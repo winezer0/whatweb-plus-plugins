@@ -1,8 +1,7 @@
 Plugin.define do
-name "tccms" 
+name "tccms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

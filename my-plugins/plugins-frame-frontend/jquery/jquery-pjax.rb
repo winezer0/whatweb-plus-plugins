@@ -1,8 +1,7 @@
 Plugin.define do
-name "jquery-pjax" 
+name "jquery-pjax"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

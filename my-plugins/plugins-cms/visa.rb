@@ -1,8 +1,7 @@
 Plugin.define do
-name "visa" 
+name "visa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Apache-Archiva"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Apache Archiva is an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository. It is the perfect companion for build tools such as Maven, Continuum, and ANT."
@@ -12,6 +11,7 @@ dorks [
 ]
 matches [
 {:certainty=>25, :text=>'<title>Apache Archiva '},
+{:certainty=>25, :text=>'<title>Apache Archiva \\'},
 {:text=>'/archiva.css'},
 {:text=>'/archiva.js'},
 {:text=>'<form namespace="/" id="quickSearch" name="quickSearch" onsubmit="customOnsubmit_quickSearch(); return validateForm_quickSearch();" action="'},

@@ -1,8 +1,7 @@
 Plugin.define do
-name "usualtoolcms" 
+name "usualtoolcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "中企动力z云邮" 
+name "中企动力z云邮"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

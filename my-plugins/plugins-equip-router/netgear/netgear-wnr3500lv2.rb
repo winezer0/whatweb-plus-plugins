@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-wnr3500lv2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

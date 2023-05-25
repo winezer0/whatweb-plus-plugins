@@ -2,7 +2,6 @@ Plugin.define do
 name "toshiba-printer"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Toshiba printer Top Access"

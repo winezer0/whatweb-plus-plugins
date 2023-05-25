@@ -1,12 +1,9 @@
 Plugin.define do
 name "cloudflare"
 authors [
-"Aung Khant <http://yehg.net/> & David P Robinson <david@intruder.io>", 
-
-"Andrew Horton", 
-
-"David P Robinson <david@intruder.io>", 
-
+"Aung Khant <http://yehg.net/> & David P Robinson <david@intruder.io>",
+"Andrew Horton",
+"David P Robinson <david@intruder.io>",
 ]
 version "0.3"
 description "CloudFlare is a content delivery network. Its features include DDoS protection and Web Application Firewall functionality"
@@ -20,6 +17,7 @@ matches [
 {:name=>'footer', :text=>'&nbsp;&nbsp;Performance &amp; Security by <a id="FooterCloudFlare" href="https://www.cloudflare.com" target="_blank">CloudFlare</a>'},
 {:search=>"headers", :text=>'cloudflare-nginx'},
 {:search=>"headers[server]", :regexp=>/cloudflare\-nginx/, :name=>"server header"},
+{:search=>"headers[set-cookie]", :regexp=>/__cfduid/, :name=>"__cfduid cookie"},
 {:search=>"headers[set-cookie]", :regexp=>/__cfduid/, :name=>"__cfduid"},
 {:search=>'headers', :text=>'__cfduid'},
 {:search=>'headers[server]', :regexp=>/^cloudflare$/},

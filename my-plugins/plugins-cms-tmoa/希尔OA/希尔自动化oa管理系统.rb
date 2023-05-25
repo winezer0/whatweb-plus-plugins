@@ -1,8 +1,7 @@
 Plugin.define do
-name "希尔自动化oa管理系统" 
+name "希尔自动化oa管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

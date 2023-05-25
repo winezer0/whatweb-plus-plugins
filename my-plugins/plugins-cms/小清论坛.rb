@@ -1,8 +1,7 @@
 Plugin.define do
-name "小清论坛" 
+name "小清论坛"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

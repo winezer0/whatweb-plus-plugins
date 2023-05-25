@@ -1,8 +1,7 @@
 Plugin.define do
-name "省级农机构置补贴信息管理系统" 
+name "省级农机构置补贴信息管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

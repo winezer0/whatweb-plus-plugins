@@ -1,8 +1,7 @@
 Plugin.define do
-name "impresscms" 
+name "impresscms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

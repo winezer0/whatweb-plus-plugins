@@ -1,8 +1,7 @@
 Plugin.define do
-name "亿网引用友情链接程序" 
+name "亿网引用友情链接程序"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

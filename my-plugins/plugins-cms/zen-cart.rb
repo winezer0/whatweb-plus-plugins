@@ -1,10 +1,8 @@
 Plugin.define do
 name "Zen-Cart"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "Zen Cart. truly is the art of e-commerce; free, user-friendly, open source shopping cart software."

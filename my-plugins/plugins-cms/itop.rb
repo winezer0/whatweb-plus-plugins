@@ -1,8 +1,7 @@
 Plugin.define do
 name "iTop"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "IT Operations Portal (iTop): a complete open source, ITIL, web based service management tool including a fully customizable CMDB, a helpdesk system and a document management tool."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "soc8000ip" 
+name "soc8000ip"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

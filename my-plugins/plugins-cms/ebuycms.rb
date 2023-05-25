@@ -1,8 +1,7 @@
 Plugin.define do
-name "ebuycms" 
+name "ebuycms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

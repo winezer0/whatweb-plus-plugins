@@ -1,8 +1,7 @@
 Plugin.define do
-name "企智通系列上网行为管理系统" 
+name "企智通系列上网行为管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

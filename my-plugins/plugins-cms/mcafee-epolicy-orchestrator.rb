@@ -1,8 +1,7 @@
 Plugin.define do
 name "mcafee-epolicy-orchestrator"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "McAfee ePolicy Orchestrator (ePO) - unified security management"

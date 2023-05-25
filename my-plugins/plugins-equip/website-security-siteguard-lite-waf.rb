@@ -2,7 +2,6 @@ Plugin.define do
 name "website-security-siteguard-lite-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "启明天清adm" 
+name "启明天清adm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

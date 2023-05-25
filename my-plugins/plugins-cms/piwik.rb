@@ -1,10 +1,8 @@
 Plugin.define do
 name "Piwik"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.3"
 description "Piwik is a downloadable, open source (GPL licensed) real time web analytics software program."

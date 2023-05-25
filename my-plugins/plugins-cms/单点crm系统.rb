@@ -1,8 +1,7 @@
 Plugin.define do
-name "单点crm系统" 
+name "单点crm系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

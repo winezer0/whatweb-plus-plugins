@@ -1,8 +1,7 @@
 Plugin.define do
-name "dhtmlx" 
+name "dhtmlx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "accessibe" 
+name "accessibe"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

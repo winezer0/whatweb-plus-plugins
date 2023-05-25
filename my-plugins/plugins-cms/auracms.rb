@@ -1,8 +1,7 @@
 Plugin.define do
-name "auracms" 
+name "auracms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

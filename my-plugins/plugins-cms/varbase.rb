@@ -1,8 +1,7 @@
 Plugin.define do
-name "varbase" 
+name "varbase"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

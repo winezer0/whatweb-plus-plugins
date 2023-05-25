@@ -1,8 +1,7 @@
 Plugin.define do
 name "jw-player"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
 ]
 version "0.1"
 description "JW Player provides video and audio streaming"

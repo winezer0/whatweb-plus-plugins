@@ -1,8 +1,7 @@
 Plugin.define do
 name "brother-fax"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Brother fax web interface"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpyun人才招聘系统" 
+name "phpyun人才招聘系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

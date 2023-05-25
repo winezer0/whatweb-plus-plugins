@@ -2,7 +2,6 @@ Plugin.define do
 name "phpBB"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "phpBB is a free forum"
@@ -11,8 +10,14 @@ dorks [
 '"Powered by phpBB"'
 ]
 matches [
+{:name=>"In total there are x users online ::",
+:regexp=>/In total there are <b>[0-9]+<\/b> users online :: [0-9]+ Registered, [0-9]+ Hidden and [0-9]+ Guests/},
 {:name=>"In total there are x users online ::",:regexp=>/In total there are <b>[0-9]+<\/b> users online :: [0-9]+ Registered, [0-9]+ Hidden and [0-9]+ Guests/},
+{:name=>"Powered by...",
+:regexp=>/Powered by <a href="http:\/\/www.phpbb.com\/"( target="_phpbb")?( class="copyright")?>phpBB<\/a>[ ]+&copy;[ 0-9,\.]+ phpBB Group/},
 {:name=>"Powered by...",:regexp=>/Powered by <a href="http:\/\/www.phpbb.com\/"( target="_phpbb")?( class="copyright")?>phpBB<\/a>[ ]+&copy;[ 0-9,\.]+ phpBB Group/},
+{:name=>"folder icons",
+:regexp=>/<td width="20" align="center"><img src="[^"]+images\/folder_new_big.gif" alt="New posts"\/><\/td>/},
 {:name=>"folder icons",:regexp=>/<td width="20" align="center"><img src="[^"]+images\/folder_new_big.gif" alt="New posts"\/><\/td>/},
 {:regexp=>/<[^>]+styles.(?:sub|pro)silver.theme/},
 {:regexp=>/<div class=phpbb_copyright>/},
@@ -36,7 +41,6 @@ m=[]
 if @headers["set-cookie"] =~ /([^ ]+)_u=1; expires/
 p=@headers["set-cookie"].scan(/([^ ]+)_u=1; expires/).flatten.first
 m << {:name=>"phpbb3 _u, _k, _sid cookies", :version=>"3" } if @headers["set-cookie"] =~ /#{p}_u=.*#{p}_k=.*#{p}_sid=[0-9a-z]{32}/
-
 end
 m
 end

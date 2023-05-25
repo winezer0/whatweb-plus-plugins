@@ -1,7 +1,7 @@
 Plugin.define do
-name "SparkWeb-web-based-collaboration-client" 
+name "SparkWeb-web-based-collaboration-client"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "teltonika" 
+name "teltonika"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

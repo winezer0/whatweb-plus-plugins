@@ -1,10 +1,8 @@
 Plugin.define do
 name "evercookie"
 authors [
-"Aung Khant <http://yehg.net/>", 
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Aung Khant <http://yehg.net/>",
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "EverCookie - evercookie is a javascript API available that produces extremely persistent cookies in a browser. Its goal is to identify a client even after they've removed standard cookies, Flash cookies (Local Shared Objects or LSOs), and others."

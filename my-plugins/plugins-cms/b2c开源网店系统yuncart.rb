@@ -2,7 +2,6 @@ Plugin.define do
 name "b2c开源网店系统yuncart"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

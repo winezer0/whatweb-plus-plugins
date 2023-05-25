@@ -1,8 +1,7 @@
 Plugin.define do
-name "localfocus" 
+name "localfocus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

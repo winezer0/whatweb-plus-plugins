@@ -1,8 +1,7 @@
 Plugin.define do
-name "ubuntu" 
+name "ubuntu"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

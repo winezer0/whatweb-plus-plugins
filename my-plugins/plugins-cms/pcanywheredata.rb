@@ -1,8 +1,7 @@
 Plugin.define do
-name "pcanywheredata" 
+name "pcanywheredata"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

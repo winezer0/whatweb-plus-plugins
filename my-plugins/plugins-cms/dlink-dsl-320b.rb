@@ -2,7 +2,6 @@ Plugin.define do
 name "dlink-dsl-320b"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

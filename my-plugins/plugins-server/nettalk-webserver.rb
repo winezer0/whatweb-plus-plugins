@@ -1,10 +1,8 @@
 Plugin.define do
 name "nettalk-webserver"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Webserver using NetTalk. NetTalk is the de-facto standard tool for TCP/IP networking in Clarion."

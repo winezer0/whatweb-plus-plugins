@@ -1,8 +1,7 @@
 Plugin.define do
-name "mindoc" 
+name "mindoc"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

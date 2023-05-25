@@ -1,8 +1,7 @@
 Plugin.define do
-name "ncftpd" 
+name "ncftpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

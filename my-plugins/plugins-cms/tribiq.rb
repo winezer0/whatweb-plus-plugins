@@ -1,8 +1,7 @@
 Plugin.define do
 name "Tribiq"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Tribiq CMS is a content management system for websites. Without needing technical skills, you can edit and grow your website."

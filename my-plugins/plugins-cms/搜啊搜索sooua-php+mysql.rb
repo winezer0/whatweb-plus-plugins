@@ -2,7 +2,6 @@ Plugin.define do
 name "搜啊搜索sooua-php+mysql"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

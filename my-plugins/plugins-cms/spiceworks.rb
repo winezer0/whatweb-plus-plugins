@@ -1,8 +1,7 @@
 Plugin.define do
 name "Spiceworks"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Spiceworks' single, easy-to-use interface combines Network Inventory, Help Desk, Mapping, Reporting, Monitoring and Troubleshooting"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "koken" 
+name "koken"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

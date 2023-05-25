@@ -1,8 +1,7 @@
 Plugin.define do
-name "pyrocms" 
+name "pyrocms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "jshop小程序商城" 
+name "jshop小程序商城"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

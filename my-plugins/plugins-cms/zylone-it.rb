@@ -1,10 +1,8 @@
 Plugin.define do
 name "Zylone-IT"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Zylone IT is an IT company in Singapore providing web design, web solutions and internet marketing."

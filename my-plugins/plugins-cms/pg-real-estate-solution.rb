@@ -1,8 +1,7 @@
 Plugin.define do
 name "PG-Real-Estate-Solution"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Turnkey Multilingual Real Estate Website script for Real Estate professionals."

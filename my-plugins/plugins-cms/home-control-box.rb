@@ -1,10 +1,8 @@
 Plugin.define do
 name "Home-Control-Box"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "The Home Control Box is a small, powerful computer that integrates the various sensors and electronic systems in the home into one single functional system."

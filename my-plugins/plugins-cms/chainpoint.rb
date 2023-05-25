@@ -1,8 +1,7 @@
 Plugin.define do
-name "chainpoint" 
+name "chainpoint"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

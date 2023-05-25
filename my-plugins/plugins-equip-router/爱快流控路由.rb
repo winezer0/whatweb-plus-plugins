@@ -1,8 +1,7 @@
 Plugin.define do
-name "爱快流控路由" 
+name "爱快流控路由"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

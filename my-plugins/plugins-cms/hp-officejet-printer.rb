@@ -2,7 +2,6 @@ Plugin.define do
 name "hp-officejet-printer"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "HP Officejet Pro and Officejet printers"

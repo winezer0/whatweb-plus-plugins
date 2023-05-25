@@ -2,7 +2,6 @@ Plugin.define do
 name "蓝凌OA-landray"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

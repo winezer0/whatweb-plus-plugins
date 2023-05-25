@@ -1,10 +1,8 @@
 Plugin.define do
 name "Dart-WebServer-Tool"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Build web applications in any familiar software development environment. Use WebServer for ActiveX to add web-based access to traditional compiled applications"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "pardot" 
+name "pardot"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

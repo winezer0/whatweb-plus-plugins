@@ -2,7 +2,6 @@ Plugin.define do
 name "doubleclick-for-publishers-dfp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

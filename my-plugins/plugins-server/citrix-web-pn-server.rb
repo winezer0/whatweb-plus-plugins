@@ -1,8 +1,7 @@
 Plugin.define do
 name "citrix-web-pn-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Citrix Web PN Server - http://www.citrix.com"

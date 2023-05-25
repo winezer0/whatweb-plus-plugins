@@ -1,8 +1,7 @@
 Plugin.define do
-name "huawei-ar敏捷网关" 
+name "huawei-ar敏捷网关"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

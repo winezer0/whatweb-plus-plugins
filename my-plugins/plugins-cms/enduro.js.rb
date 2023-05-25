@@ -1,8 +1,7 @@
 Plugin.define do
-name "enduro.js" 
+name "enduro.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

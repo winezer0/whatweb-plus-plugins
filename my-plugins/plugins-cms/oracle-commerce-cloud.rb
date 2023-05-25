@@ -2,7 +2,6 @@ Plugin.define do
 name "oracle-commerce-cloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

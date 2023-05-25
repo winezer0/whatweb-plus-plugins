@@ -1,8 +1,7 @@
 Plugin.define do
-name "齐治堡垒机" 
+name "齐治堡垒机"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

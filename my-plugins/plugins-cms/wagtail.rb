@@ -1,8 +1,7 @@
 Plugin.define do
-name "wagtail" 
+name "wagtail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

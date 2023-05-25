@@ -2,9 +2,7 @@ Plugin.define do
 name "Mailman"
 authors [
 "Tonmoy Saikia",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Mailman is free software for managing electronic mail discussion and e-newsletter lists. WEB:http://www.gnu.org/software/mailman/index.html"

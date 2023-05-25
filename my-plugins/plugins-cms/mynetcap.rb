@@ -1,8 +1,7 @@
 Plugin.define do
-name "mynetcap" 
+name "mynetcap"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

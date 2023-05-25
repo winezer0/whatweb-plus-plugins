@@ -1,8 +1,7 @@
 Plugin.define do
 name "LynxGuide"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Lynx System is a Facility-wide, Network based, Duress and Emergency Notification System. "

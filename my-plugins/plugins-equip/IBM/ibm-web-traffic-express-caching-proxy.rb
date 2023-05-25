@@ -1,8 +1,7 @@
 Plugin.define do
 name "IBM-Web-Traffic-Express-Caching-Proxy"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "IBM Web Traffic Express - proxy, caching and filtering"

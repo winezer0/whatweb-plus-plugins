@@ -1,8 +1,7 @@
 Plugin.define do
-name "javaex" 
+name "javaex"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

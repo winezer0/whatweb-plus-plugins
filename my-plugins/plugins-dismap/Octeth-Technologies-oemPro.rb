@@ -1,7 +1,7 @@
 Plugin.define do
-name "Octeth-Technologies-oemPro" 
+name "Octeth-Technologies-oemPro"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

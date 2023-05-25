@@ -1,8 +1,7 @@
 Plugin.define do
-name "urp" 
+name "urp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

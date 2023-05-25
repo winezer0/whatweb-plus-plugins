@@ -1,8 +1,7 @@
 Plugin.define do
-name "最土团购系统" 
+name "最土团购系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

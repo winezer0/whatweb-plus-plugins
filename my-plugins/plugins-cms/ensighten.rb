@@ -1,8 +1,7 @@
 Plugin.define do
-name "ensighten" 
+name "ensighten"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

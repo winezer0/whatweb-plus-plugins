@@ -1,8 +1,7 @@
 Plugin.define do
-name "网神secwaf应用防火墙" 
+name "网神secwaf应用防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "maxcms-马克斯cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

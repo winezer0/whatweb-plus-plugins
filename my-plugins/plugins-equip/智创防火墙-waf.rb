@@ -2,7 +2,6 @@ Plugin.define do
 name "智创防火墙-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

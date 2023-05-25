@@ -1,8 +1,7 @@
 Plugin.define do
-name "pagely" 
+name "pagely"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "idc销售系统-星外代理模版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "蓝凌移动办公" 
+name "蓝凌移动办公"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "sork-passwd-h3" 
+name "sork-passwd-h3"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

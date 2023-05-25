@@ -1,8 +1,7 @@
 Plugin.define do
-name "ntlm认证" 
+name "ntlm认证"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

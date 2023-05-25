@@ -1,8 +1,7 @@
 Plugin.define do
-name "transifex" 
+name "transifex"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

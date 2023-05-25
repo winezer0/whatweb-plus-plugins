@@ -1,8 +1,7 @@
 Plugin.define do
-name "percussion" 
+name "percussion"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

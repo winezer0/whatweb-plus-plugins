@@ -1,8 +1,7 @@
 Plugin.define do
 name "Free-Realty"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Free Realty is primarily designed for real estate agents and offices to list properties on the internet."

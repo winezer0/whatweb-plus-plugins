@@ -1,8 +1,7 @@
 Plugin.define do
-name "apostrophecms" 
+name "apostrophecms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

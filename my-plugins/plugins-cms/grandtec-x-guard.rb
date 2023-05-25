@@ -1,8 +1,7 @@
 Plugin.define do
 name "GrandTec-X-Guard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "GrandTec X-Guard PC-based surveillance system"

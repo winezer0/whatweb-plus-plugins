@@ -2,11 +2,8 @@ Plugin.define do
 name "JQuery"
 authors [
 "Andrew Horton",
-
-"Eric Sesterhenn", 
-
-"Janosch Maier @Phylu", 
-
+"Eric Sesterhenn",
+"Janosch Maier @Phylu",
 ]
 version "0.5"
 description "A fast, concise, JavaScript that simplifies how to traverse HTML documents, handle events, perform animations, and add AJAX."

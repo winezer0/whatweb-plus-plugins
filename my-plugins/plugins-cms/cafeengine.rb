@@ -1,8 +1,7 @@
 Plugin.define do
 name "CafeEngine"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "CafeEngine is a professional CMS for cafe or restaurant web site with integrated shopping cart. It's not a set of scripts only, but allow to provide new level of service to restaurant visitors and administration. "

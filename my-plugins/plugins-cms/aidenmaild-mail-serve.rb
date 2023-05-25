@@ -2,7 +2,6 @@ Plugin.define do
 name "aidenmaild-mail-serve"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

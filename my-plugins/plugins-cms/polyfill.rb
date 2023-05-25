@@ -1,8 +1,7 @@
 Plugin.define do
-name "polyfill" 
+name "polyfill"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "trendnet-ip-cam"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

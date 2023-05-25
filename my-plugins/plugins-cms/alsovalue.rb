@@ -1,8 +1,7 @@
 Plugin.define do
-name "alsovalue" 
+name "alsovalue"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

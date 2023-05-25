@@ -1,8 +1,7 @@
 Plugin.define do
-name "ovidentia" 
+name "ovidentia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

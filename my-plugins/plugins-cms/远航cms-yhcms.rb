@@ -2,7 +2,6 @@ Plugin.define do
 name "远航cms-yhcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

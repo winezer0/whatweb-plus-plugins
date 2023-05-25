@@ -1,8 +1,7 @@
 Plugin.define do
 name "oracle-webdb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Oracle WebDB is a complete solution for building, deploying, and proactively monitoring Web database applications and content-driven Web sites."

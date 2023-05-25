@@ -1,8 +1,7 @@
 Plugin.define do
-name "禅道" 
+name "禅道"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

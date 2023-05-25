@@ -1,8 +1,7 @@
 Plugin.define do
-name "lebishop网上商城" 
+name "lebishop网上商城"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

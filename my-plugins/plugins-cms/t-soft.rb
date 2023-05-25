@@ -1,8 +1,7 @@
 Plugin.define do
-name "t-soft" 
+name "t-soft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

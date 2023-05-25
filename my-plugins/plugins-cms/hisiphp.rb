@@ -1,8 +1,7 @@
 Plugin.define do
-name "hisiphp" 
+name "hisiphp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

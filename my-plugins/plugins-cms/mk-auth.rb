@@ -1,8 +1,7 @@
 Plugin.define do
-name "mk-auth" 
+name "mk-auth"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

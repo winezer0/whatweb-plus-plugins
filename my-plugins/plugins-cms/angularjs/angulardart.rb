@@ -1,8 +1,7 @@
 Plugin.define do
-name "angulardart" 
+name "angulardart"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

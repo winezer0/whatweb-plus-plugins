@@ -1,7 +1,7 @@
 Plugin.define do
-name "Parallels-Confixx-Control-Panel" 
+name "Parallels-Confixx-Control-Panel"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

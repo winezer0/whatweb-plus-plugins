@@ -1,8 +1,7 @@
 Plugin.define do
-name "knockout.js" 
+name "knockout.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

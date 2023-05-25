@@ -1,8 +1,7 @@
 Plugin.define do
-name "cloudleft" 
+name "cloudleft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "launchrock" 
+name "launchrock"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

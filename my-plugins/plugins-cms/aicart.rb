@@ -1,8 +1,7 @@
 Plugin.define do
 name "AiCart"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "AiCart shopping cart software is created in PHP and uses a simple template structure, makes it very flexible and easy to modify. The data in AiCart is stored in a MySQL database."

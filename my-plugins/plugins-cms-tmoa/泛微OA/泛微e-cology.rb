@@ -1,8 +1,7 @@
 Plugin.define do
-name "泛微e-cology" 
+name "泛微e-cology"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

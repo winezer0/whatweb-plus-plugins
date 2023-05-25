@@ -1,8 +1,7 @@
 Plugin.define do
-name "天融信ads管理平台" 
+name "天融信ads管理平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

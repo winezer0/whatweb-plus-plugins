@@ -1,8 +1,7 @@
 Plugin.define do
-name "immutable.js" 
+name "immutable.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

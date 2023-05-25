@@ -1,8 +1,7 @@
 Plugin.define do
-name "okta" 
+name "okta"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

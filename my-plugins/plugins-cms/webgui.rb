@@ -1,8 +1,7 @@
 Plugin.define do
-name "webgui" 
+name "webgui"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

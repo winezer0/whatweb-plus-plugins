@@ -1,7 +1,7 @@
 Plugin.define do
-name "lastfmproxy" 
+name "lastfmproxy"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

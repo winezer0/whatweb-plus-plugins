@@ -1,8 +1,7 @@
 Plugin.define do
-name "chart.js" 
+name "chart.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

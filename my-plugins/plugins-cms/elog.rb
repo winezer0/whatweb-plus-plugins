@@ -1,8 +1,7 @@
 Plugin.define do
-name "elog" 
+name "elog"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

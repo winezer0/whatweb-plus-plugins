@@ -1,7 +1,7 @@
 Plugin.define do
-name "webcheck" 
+name "webcheck"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

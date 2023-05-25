@@ -1,8 +1,7 @@
 Plugin.define do
 name "WikidForum"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WikidForum is an open source free forum software combined with a Wiki which allows users to convert forum discussions into valuable Wiki articles."

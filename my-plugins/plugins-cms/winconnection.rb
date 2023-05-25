@@ -1,10 +1,8 @@
 Plugin.define do
 name "Winconnection"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "The Winconnection 6 is a gateway to access the Internet developed within the UTM (Unified Threat Management) philosophy."

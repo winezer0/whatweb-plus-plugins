@@ -1,10 +1,8 @@
 Plugin.define do
 name "SiteCore"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Sitecore a .NET CMS, ecommerce, and digital marketing platform."

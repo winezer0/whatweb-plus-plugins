@@ -1,8 +1,7 @@
 Plugin.define do
-name "moguta.cms" 
+name "moguta.cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

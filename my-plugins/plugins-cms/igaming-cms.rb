@@ -1,8 +1,7 @@
 Plugin.define do
 name "iGaming-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "iGaming CMS is a content management system designed for gaming websites. The system is written in PHP and requires a Mysql database for operation. "

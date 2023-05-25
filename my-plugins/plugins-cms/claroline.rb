@@ -1,8 +1,7 @@
 Plugin.define do
 name "Claroline"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Claroline is an Open Source eLearning and eWorking platform allowing teachers to build effective online courses and to manage learning and collaborative activities on the web. Translated into 35 languages, Claroline has a large worldwide community"

@@ -1,8 +1,7 @@
 Plugin.define do
 name "IB-Lite"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ComAp IB-Lite - Internet / Ethernet Module including Web Server - Plug-in communication module for IL-NT, IC-NT, IA-NT and ID-Lite controllers and their clones."

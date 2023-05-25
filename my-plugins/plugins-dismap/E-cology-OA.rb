@@ -1,7 +1,7 @@
 Plugin.define do
-name "E-cology-OA" 
+name "E-cology-OA"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

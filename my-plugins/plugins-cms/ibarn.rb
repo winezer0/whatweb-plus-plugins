@@ -1,8 +1,7 @@
 Plugin.define do
-name "ibarn" 
+name "ibarn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

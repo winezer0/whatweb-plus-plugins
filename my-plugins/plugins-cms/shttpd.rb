@@ -1,8 +1,7 @@
 Plugin.define do
-name "shttpd" 
+name "shttpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

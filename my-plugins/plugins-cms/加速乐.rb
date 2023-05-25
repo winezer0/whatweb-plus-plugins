@@ -1,8 +1,7 @@
 Plugin.define do
-name "加速乐" 
+name "加速乐"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

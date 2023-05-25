@@ -1,8 +1,7 @@
 Plugin.define do
 name "reos"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "REOS is hi-end software solution designed to help real estate agents, brokers and offices to easily present their properties on the internet."

@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-mr3020"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "hiconversion" 
+name "hiconversion"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

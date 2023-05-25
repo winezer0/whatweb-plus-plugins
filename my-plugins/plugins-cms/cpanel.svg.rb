@@ -1,8 +1,7 @@
 Plugin.define do
-name "cpanel.svg" 
+name "cpanel.svg"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

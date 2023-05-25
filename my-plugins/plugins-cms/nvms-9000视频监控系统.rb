@@ -1,8 +1,7 @@
 Plugin.define do
-name "nvms-9000视频监控系统" 
+name "nvms-9000视频监控系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

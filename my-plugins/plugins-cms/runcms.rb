@@ -1,8 +1,7 @@
 Plugin.define do
 name "runcms"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "RunCms is Ease Of Use for webmasters. One of the worlds finest free CMS systems."

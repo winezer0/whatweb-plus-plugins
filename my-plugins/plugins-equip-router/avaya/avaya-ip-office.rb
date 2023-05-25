@@ -1,10 +1,8 @@
 Plugin.define do
 name "Avaya-IP-Office"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "IP Office is Avaya's telephone system for small and medium enterprises. IP Office systems can be run in several modes."

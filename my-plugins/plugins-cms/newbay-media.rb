@@ -2,7 +2,6 @@ Plugin.define do
 name "newbay-media"
 authors [
 "Elias Dorneles",
-
 ]
 version "0.1"
 description "Identifies a news website by New Bay Media"

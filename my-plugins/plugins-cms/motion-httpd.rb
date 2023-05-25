@@ -1,8 +1,7 @@
 Plugin.define do
-name "motion-httpd" 
+name "motion-httpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

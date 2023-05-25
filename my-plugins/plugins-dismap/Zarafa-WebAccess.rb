@@ -1,7 +1,7 @@
 Plugin.define do
-name "Zarafa-WebAccess" 
+name "Zarafa-WebAccess"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

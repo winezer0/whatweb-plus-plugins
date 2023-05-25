@@ -1,8 +1,7 @@
 Plugin.define do
-name "spincms" 
+name "spincms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

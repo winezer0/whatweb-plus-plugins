@@ -2,7 +2,6 @@ Plugin.define do
 name "tribune"
 authors [
 "Shuai Lin",
-
 ]
 version "0.1"
 description "TribuneNews is a news website engine for sites of Tribune Newspaper."

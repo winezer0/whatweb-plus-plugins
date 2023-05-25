@@ -1,8 +1,7 @@
 Plugin.define do
-name "veeva-network" 
+name "veeva-network"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

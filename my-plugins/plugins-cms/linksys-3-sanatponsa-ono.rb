@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-3-sanatponsa-ono"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

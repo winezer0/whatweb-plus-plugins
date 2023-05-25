@@ -2,7 +2,6 @@ Plugin.define do
 name "nitc-定海神真"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

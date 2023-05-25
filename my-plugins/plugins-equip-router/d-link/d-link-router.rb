@@ -1,8 +1,7 @@
 Plugin.define do
 name "d-link-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "D-Link Router - D-Link is the global leader in connectivity for small, medium and large enterprise business networking."

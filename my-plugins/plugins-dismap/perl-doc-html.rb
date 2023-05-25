@@ -1,7 +1,7 @@
 Plugin.define do
-name "perl-doc-html" 
+name "perl-doc-html"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "eGroupWare"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Egroupware is a web based software for team collaboration, central data management and CRM: email client, online calendar, contact and task management, project and file management, trouble ticket system, synchronization."

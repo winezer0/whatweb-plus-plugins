@@ -2,7 +2,6 @@ Plugin.define do
 name "kesioncms-科讯"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

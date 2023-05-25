@@ -1,8 +1,7 @@
 Plugin.define do
 name "Posterita-POS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Posterita POS is a full web POS for large distribution and multi-site Point of Sale for thousands of users. Posterita POS is built on Adempiere/ERP."

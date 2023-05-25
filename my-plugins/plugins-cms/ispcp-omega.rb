@@ -2,7 +2,6 @@ Plugin.define do
 name "ispCP-Omega"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "PHP opensource, virtual hosting system"

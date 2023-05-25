@@ -1,8 +1,7 @@
 Plugin.define do
 name "Subdreamer-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Whether your goal is creating a simple or full scale website, Subdreamer will get you there by providing unbeatable content management tools."

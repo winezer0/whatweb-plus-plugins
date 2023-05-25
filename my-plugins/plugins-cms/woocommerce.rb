@@ -1,8 +1,7 @@
 Plugin.define do
-name "woocommerce" 
+name "woocommerce"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

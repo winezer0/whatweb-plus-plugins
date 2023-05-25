@@ -1,8 +1,7 @@
 Plugin.define do
-name "汉码高校毕业生就业信息系统" 
+name "汉码高校毕业生就业信息系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

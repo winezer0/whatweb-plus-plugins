@@ -2,7 +2,6 @@ Plugin.define do
 name "LifeType"
 authors [
 "Aung Khant, http://yehg.net",
-
 ]
 version "0.2"
 description "LifeType is an open-source blogging platform with support for multiple blogs and users in a single installation."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "bab.stats"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "BAB.Stats is a statistics system for the Delta Force series of games by Novalogic."

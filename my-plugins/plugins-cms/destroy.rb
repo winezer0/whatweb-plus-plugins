@@ -1,8 +1,7 @@
 Plugin.define do
-name "destroy" 
+name "destroy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

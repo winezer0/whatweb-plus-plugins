@@ -1,8 +1,7 @@
 Plugin.define do
-name "安达通tpn-2g网关控制台" 
+name "安达通tpn-2g网关控制台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

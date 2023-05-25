@@ -2,7 +2,6 @@ Plugin.define do
 name "方卡在线-isite"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

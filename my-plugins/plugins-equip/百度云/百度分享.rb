@@ -1,8 +1,7 @@
 Plugin.define do
-name "百度分享" 
+name "百度分享"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

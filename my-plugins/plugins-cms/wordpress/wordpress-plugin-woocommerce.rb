@@ -2,7 +2,6 @@ Plugin.define do
 name "wordpress-plugin-woocommerce"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

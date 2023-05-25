@@ -2,7 +2,6 @@ Plugin.define do
 name "dd-wrt-dd-wrt-milli-httpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "25yicms" 
+name "25yicms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "ehttp" 
+name "ehttp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

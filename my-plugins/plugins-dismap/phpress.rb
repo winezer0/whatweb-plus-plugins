@@ -1,7 +1,7 @@
 Plugin.define do
-name "phpress" 
+name "phpress"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

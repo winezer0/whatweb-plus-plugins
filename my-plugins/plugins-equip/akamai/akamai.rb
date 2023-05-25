@@ -1,8 +1,7 @@
 Plugin.define do
-name "akamai" 
+name "akamai"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

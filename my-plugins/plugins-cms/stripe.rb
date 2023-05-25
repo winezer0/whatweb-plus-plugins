@@ -1,8 +1,7 @@
 Plugin.define do
-name "stripe" 
+name "stripe"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,11 +2,13 @@ Plugin.define do
 name "齐博-qibosoft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
 {:search=>"all", :text=>'qibosoft'},
+{:text=>"Powered by QIBOSOFT ",:version=>/V([\d\.]+)/m},
+{:url=>"/admin/template/article_more/config.htm",:text=>"qiboSoft"},
+{:url=>"/guestbook/admin/template/label/guestbook.htm",:text=>"qiboSoft"},
 {:url=>'/a_d/install/data.sql', :md5=>'35f612d8e145f5a4e1bb1c4dbb816eb7'},
 {:url=>'/a_d/install/data.sql', :text=>'qiboSoft'},
 {:url=>'/admin/images/cutimg/ccc.gif', :md5=>'090a71bc4fc00f8d10c363c4e63ef779'},

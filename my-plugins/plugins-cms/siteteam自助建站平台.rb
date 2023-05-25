@@ -1,8 +1,7 @@
 Plugin.define do
-name "siteteam自助建站平台" 
+name "siteteam自助建站平台"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "Akiva-WebBoard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Akiva WebBoard - Online Communities and Enterprise Collaboration"

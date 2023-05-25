@@ -2,7 +2,6 @@ Plugin.define do
 name "dfe-scada"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

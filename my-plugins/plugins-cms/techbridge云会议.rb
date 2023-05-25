@@ -1,8 +1,7 @@
 Plugin.define do
-name "techbridge云会议" 
+name "techbridge云会议"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

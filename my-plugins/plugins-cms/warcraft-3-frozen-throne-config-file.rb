@@ -1,8 +1,7 @@
 Plugin.define do
 name "warcraft-3-frozen-throne-config-file"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The Warcraft 3 mod for AMX-Mod-X for Half-Life uses a config file which contains mySQL username, password, server, database name, table name. This plugin grabs the mySQL username, password and server."

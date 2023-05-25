@@ -1,8 +1,7 @@
 Plugin.define do
-name "tipask问答系统" 
+name "tipask问答系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

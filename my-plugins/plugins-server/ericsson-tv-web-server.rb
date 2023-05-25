@@ -1,8 +1,7 @@
 Plugin.define do
 name "ericsson-tv-web-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Ericsson Integrated Receiver Decoders - web interface"

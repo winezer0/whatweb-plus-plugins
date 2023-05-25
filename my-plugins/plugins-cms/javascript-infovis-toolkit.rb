@@ -2,7 +2,6 @@ Plugin.define do
 name "javascript-infovis-toolkit"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "wordpress-plugin-all-in-one-seo-pack"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

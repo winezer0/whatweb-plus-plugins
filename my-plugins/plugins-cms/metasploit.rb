@@ -1,8 +1,7 @@
 Plugin.define do
-name "metasploit" 
+name "metasploit"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

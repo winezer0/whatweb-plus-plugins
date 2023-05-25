@@ -1,7 +1,7 @@
 Plugin.define do
-name "Avenet-web-hosting" 
+name "Avenet-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

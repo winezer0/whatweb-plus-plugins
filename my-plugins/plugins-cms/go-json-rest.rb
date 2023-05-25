@@ -1,8 +1,7 @@
 Plugin.define do
-name "go-json-rest" 
+name "go-json-rest"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

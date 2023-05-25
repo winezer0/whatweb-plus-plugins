@@ -1,7 +1,7 @@
 Plugin.define do
-name "PIPS-Technology-ATZ-Executive-Automatic-Licence-Plate-Recognition-ALPR-System" 
+name "PIPS-Technology-ATZ-Executive-Automatic-Licence-Plate-Recognition-ALPR-System"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

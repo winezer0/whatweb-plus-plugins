@@ -1,8 +1,7 @@
 Plugin.define do
-name "thinkjs" 
+name "thinkjs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

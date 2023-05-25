@@ -2,7 +2,6 @@ Plugin.define do
 name "zoomla逐浪"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

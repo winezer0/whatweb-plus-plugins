@@ -1,8 +1,7 @@
 Plugin.define do
 name "x7chat"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "X7 Chat is a free script that can be modified and redistributed in any way that you want as long as the X7 Chat copyright logo remains in place."

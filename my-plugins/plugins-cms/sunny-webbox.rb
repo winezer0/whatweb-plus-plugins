@@ -2,7 +2,6 @@ Plugin.define do
 name "sunny-webbox"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

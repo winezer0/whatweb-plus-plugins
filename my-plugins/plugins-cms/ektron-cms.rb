@@ -1,10 +1,8 @@
 Plugin.define do
 name "Ektron-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Bhavin Senjaliya", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Bhavin Senjaliya",
 ]
 version "0.2"
 description "Ektron provides web content management and social software. Ektron's primary product is CMS400.NET, which is built on the Microsoft .NET Framework."

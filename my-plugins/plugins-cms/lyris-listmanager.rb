@@ -1,8 +1,7 @@
 Plugin.define do
 name "lyris-listmanager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Lyris ListManager email marketing software is a secure, installed solution with email deliverability and reporting"

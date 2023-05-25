@@ -1,8 +1,7 @@
 Plugin.define do
 name "CMS-Made-Simple"
 authors [
-"Andrew Horton", 
-
+"Andrew Horton",
 ]
 version "0.1"
 description "CMS Made Simple is an opensource Content Management System developed in PHP."

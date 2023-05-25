@@ -1,8 +1,7 @@
 Plugin.define do
-name "texthelp" 
+name "texthelp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

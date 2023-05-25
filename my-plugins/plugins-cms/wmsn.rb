@@ -1,8 +1,7 @@
 Plugin.define do
-name "wmsn" 
+name "wmsn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

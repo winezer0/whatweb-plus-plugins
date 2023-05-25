@@ -1,8 +1,7 @@
 Plugin.define do
-name "鑫宇秒赞" 
+name "鑫宇秒赞"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "atlassian" 
+name "atlassian"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

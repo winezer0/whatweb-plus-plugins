@@ -1,8 +1,7 @@
 Plugin.define do
-name "yxcms" 
+name "yxcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

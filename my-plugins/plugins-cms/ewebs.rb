@@ -1,8 +1,7 @@
 Plugin.define do
-name "ewebs" 
+name "ewebs"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

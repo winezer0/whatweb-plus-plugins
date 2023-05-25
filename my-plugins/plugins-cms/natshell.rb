@@ -1,8 +1,7 @@
 Plugin.define do
-name "natshell" 
+name "natshell"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

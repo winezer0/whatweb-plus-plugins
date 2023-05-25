@@ -1,8 +1,7 @@
 Plugin.define do
 name "ScrewTurn-Wiki"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "ScrewTurn Wiki allows you to create, manage and share wikis."

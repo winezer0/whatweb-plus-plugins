@@ -2,7 +2,6 @@ Plugin.define do
 name "kodi"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "KODI is a media center. It was formerly known as XBMC Media Center."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "MD-Pro"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "MaxDev is proud to introduce MD-Pro, the most complete, flexible and reliable CMS available on the market."

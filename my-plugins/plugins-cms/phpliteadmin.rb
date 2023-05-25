@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpliteadmin" 
+name "phpliteadmin"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

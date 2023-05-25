@@ -1,8 +1,7 @@
 Plugin.define do
-name "fisheye" 
+name "fisheye"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

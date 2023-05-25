@@ -1,10 +1,8 @@
 Plugin.define do
 name "pyro-cms"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Pyro is a CMS built for Laravel."

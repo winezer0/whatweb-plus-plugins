@@ -1,7 +1,7 @@
 Plugin.define do
-name "Netgear-Infrant-ReadyNAS-NV+" 
+name "Netgear-Infrant-ReadyNAS-NV+"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

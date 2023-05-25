@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-wireless-wa830re"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

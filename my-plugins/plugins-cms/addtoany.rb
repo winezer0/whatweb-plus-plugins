@@ -1,8 +1,7 @@
 Plugin.define do
-name "addtoany" 
+name "addtoany"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

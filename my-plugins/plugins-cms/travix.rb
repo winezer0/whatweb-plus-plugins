@@ -1,8 +1,7 @@
 Plugin.define do
-name "travix" 
+name "travix"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

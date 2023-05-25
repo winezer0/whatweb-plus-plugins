@@ -1,8 +1,7 @@
 Plugin.define do
-name "奇闻屋文章资讯" 
+name "奇闻屋文章资讯"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

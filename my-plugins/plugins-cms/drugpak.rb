@@ -1,8 +1,7 @@
 Plugin.define do
 name "DrugPak"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The DrugPak Software Suite is the premier random drug and alcohol testing management software available today. Hundreds of employers, TPAs, MROs, SAPs, clinics, hospitals, and occupational health departments use DrugPak to effectively and efficiently manage drug testing."

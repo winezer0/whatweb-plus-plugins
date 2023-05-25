@@ -1,8 +1,7 @@
 Plugin.define do
-name "vos3000" 
+name "vos3000"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

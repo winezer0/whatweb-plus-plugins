@@ -1,8 +1,7 @@
 Plugin.define do
-name "orderonline" 
+name "orderonline"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

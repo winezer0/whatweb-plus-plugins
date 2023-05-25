@@ -1,8 +1,7 @@
 Plugin.define do
 name "wow-raid-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "WoW Raid Manager or WRM for short is a PHP based application supporting World of Warcraft guilds."

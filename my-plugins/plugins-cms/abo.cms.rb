@@ -1,10 +1,8 @@
 Plugin.define do
 name "abo.cms"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "ABO.CMS"

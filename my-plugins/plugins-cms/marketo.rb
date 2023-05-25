@@ -1,8 +1,7 @@
 Plugin.define do
-name "marketo" 
+name "marketo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

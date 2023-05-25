@@ -1,8 +1,7 @@
 Plugin.define do
 name "apphp-calendar"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The ApPHP Calendar (ApPHP CAL) is a powerful PHP calendar script that may be easily integrated and used with various PHP projects, such as schedulers, event processors etc. The calendar is very simple to install, implement and use."

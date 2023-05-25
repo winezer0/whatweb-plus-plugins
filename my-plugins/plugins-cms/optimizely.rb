@@ -1,8 +1,7 @@
 Plugin.define do
-name "optimizely" 
+name "optimizely"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

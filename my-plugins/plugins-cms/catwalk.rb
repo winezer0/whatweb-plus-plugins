@@ -1,8 +1,7 @@
 Plugin.define do
-name "catwalk" 
+name "catwalk"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

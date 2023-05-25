@@ -1,8 +1,7 @@
 Plugin.define do
 name "c99-Shell"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "c99 PHP Backdoor"

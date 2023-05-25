@@ -1,8 +1,7 @@
 Plugin.define do
-name "kodcloud" 
+name "kodcloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

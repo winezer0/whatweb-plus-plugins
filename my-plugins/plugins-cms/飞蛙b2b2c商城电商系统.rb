@@ -1,8 +1,7 @@
 Plugin.define do
-name "飞蛙b2b2c商城电商系统" 
+name "飞蛙b2b2c商城电商系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

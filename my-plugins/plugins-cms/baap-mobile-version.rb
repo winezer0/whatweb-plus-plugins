@@ -1,8 +1,7 @@
 Plugin.define do
 name "baap-mobile-version"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "The BAAP Mobile Version is a complete toolkit to help mobilize your WordPress site."

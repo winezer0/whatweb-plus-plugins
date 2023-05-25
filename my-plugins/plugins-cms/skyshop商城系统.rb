@@ -1,8 +1,7 @@
 Plugin.define do
-name "skyshop商城系统" 
+name "skyshop商城系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

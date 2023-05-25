@@ -1,8 +1,7 @@
 Plugin.define do
-name "蓝汛cdn" 
+name "蓝汛cdn"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

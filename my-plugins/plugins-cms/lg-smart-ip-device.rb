@@ -2,7 +2,6 @@ Plugin.define do
 name "lg-smart-ip-device"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

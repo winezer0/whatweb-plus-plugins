@@ -1,8 +1,7 @@
 Plugin.define do
 name "google-apis"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "This plugin identifies references to Google API in <script>."

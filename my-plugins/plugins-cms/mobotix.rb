@@ -1,8 +1,7 @@
 Plugin.define do
-name "mobotix" 
+name "mobotix"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

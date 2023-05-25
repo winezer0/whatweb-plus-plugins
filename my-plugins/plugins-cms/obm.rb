@@ -1,8 +1,7 @@
 Plugin.define do
 name "OBM"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "OBM is a free messaging and collaboration software including Groupware, Messaging, CRM, LDAP, Domain management, Smartphones and PDA synchronization"

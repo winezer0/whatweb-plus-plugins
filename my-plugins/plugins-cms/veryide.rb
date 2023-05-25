@@ -1,8 +1,7 @@
 Plugin.define do
-name "veryide" 
+name "veryide"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

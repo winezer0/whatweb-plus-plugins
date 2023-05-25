@@ -1,8 +1,7 @@
 Plugin.define do
-name "openrasp" 
+name "openrasp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

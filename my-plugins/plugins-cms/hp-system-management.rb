@@ -2,7 +2,6 @@ Plugin.define do
 name "hp-system-management"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

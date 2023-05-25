@@ -1,8 +1,7 @@
 Plugin.define do
 name "Winstone"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Winstone is a servlet container that was written out of a desire to provide servlet functionality without the bloat that full J2EE compliance introduces."

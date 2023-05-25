@@ -2,15 +2,17 @@ Plugin.define do
 name "siteserver"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>"Powered by SiteServer CMS"},
 {:text=>'Powered by SiteServer CMS'},
 {:text=>'SiteServer CMS")'},
 {:text=>'T_系统首页模板'},
 {:text=>'http://www.siteserver.cn'},
 {:text=>'sitefiles")'},
+{:url=>"/UserCenter/Inc/script.js",:text=>"siteserver"},
+{:url=>"/robots.txt",:text=>"SiteServer"},
 {:url=>'/', :text=>'siteserver'},
 {:url=>'/LiveServer/Configuration/UrlRewrite.config', :text=>'siteserver'},
 {:url=>'/LiveServer/Inc/html_head.inc', :text=>'siteserver'},

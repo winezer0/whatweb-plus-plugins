@@ -2,7 +2,6 @@ Plugin.define do
 name "腾和企业网站管理系统-灰色简洁版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

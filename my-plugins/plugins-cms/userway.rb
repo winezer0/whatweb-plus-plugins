@@ -1,8 +1,7 @@
 Plugin.define do
-name "userway" 
+name "userway"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

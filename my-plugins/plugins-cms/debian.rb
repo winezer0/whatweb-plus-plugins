@@ -1,8 +1,7 @@
 Plugin.define do
-name "debian" 
+name "debian"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

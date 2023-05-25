@@ -1,10 +1,8 @@
 Plugin.define do
 name "CrushFTP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "A full-scale FTP server by Ben Spink written in Java using the SWING user interface libraries. [Mac OS/Windows/Linux]"

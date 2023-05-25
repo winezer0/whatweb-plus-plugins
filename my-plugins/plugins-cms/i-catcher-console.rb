@@ -1,8 +1,7 @@
 Plugin.define do
 name "i-Catcher-Console"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "i-Catcher is a Digital CCTV system for security, surveillance and remote monitoring applications."

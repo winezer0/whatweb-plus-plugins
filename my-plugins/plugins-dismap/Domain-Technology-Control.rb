@@ -1,7 +1,7 @@
 Plugin.define do
-name "Domain-Technology-Control" 
+name "Domain-Technology-Control"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

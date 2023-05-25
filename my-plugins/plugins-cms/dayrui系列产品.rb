@@ -1,8 +1,7 @@
 Plugin.define do
-name "dayrui系列产品" 
+name "dayrui系列产品"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

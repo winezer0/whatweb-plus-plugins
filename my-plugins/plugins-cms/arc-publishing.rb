@@ -2,7 +2,6 @@ Plugin.define do
 name "arc-publishing"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

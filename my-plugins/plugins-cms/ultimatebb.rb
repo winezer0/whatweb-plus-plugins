@@ -1,8 +1,7 @@
 Plugin.define do
 name "ultimatebb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Since 1997, thousands of websites have chosen UBB for their forum software solution. With the integrated Portal and Photo Gallery (UBB.Gallery) you can create your entire website using UBB without the need to buy anything else"

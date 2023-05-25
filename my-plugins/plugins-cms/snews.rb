@@ -1,8 +1,7 @@
 Plugin.define do
 name "sNews"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "sNews is a completely free, standards compliant, PHP and MySQL driven Content Management System."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "svbtle" 
+name "svbtle"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "powerboutique" 
+name "powerboutique"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

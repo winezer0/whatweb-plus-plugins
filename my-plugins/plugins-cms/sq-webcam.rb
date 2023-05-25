@@ -1,8 +1,7 @@
 Plugin.define do
-name "sq-webcam" 
+name "sq-webcam"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

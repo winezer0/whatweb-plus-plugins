@@ -1,8 +1,7 @@
 Plugin.define do
-name "fortiwifi" 
+name "fortiwifi"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

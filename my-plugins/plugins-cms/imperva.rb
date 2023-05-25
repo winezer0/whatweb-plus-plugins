@@ -1,8 +1,7 @@
 Plugin.define do
-name "imperva" 
+name "imperva"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

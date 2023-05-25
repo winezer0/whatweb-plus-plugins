@@ -1,8 +1,7 @@
 Plugin.define do
 name "LightNEasy"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "LightNEasy is a simple and light Content Management System and Website Builder"

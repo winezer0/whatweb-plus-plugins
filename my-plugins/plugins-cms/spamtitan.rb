@@ -1,8 +1,7 @@
 Plugin.define do
 name "SpamTitan"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SpamTitan Anti Spam is a complete software solution to email security offering protection from Spam, Viruses, Trojans, Phishing and unwanted content."

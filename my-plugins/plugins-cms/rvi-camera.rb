@@ -2,7 +2,6 @@ Plugin.define do
 name "rvi-camera"
 authors [
 "Andrew Horton",
-
 ]
 version "0.1"
 description "RVI Camera Monitoring System. H.264 IP Web Camera"

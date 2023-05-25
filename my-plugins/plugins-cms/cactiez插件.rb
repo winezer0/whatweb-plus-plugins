@@ -1,8 +1,7 @@
 Plugin.define do
-name "cactiez插件" 
+name "cactiez插件"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

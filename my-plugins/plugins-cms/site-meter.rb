@@ -1,8 +1,7 @@
 Plugin.define do
 name "site-meter"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A fast, free Web counter that features custom counters styles. Site Meter creates dynamic 3D charts showing visitors, page views, country maps, visit durations and much more."

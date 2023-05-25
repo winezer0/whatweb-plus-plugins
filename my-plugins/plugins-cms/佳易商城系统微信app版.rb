@@ -1,8 +1,7 @@
 Plugin.define do
-name "佳易商城系统微信app版" 
+name "佳易商城系统微信app版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

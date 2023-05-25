@@ -1,8 +1,7 @@
 Plugin.define do
-name "wdscms" 
+name "wdscms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

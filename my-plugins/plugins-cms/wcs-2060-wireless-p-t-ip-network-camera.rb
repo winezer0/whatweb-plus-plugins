@@ -2,7 +2,6 @@ Plugin.define do
 name "wcs-2060-wireless-p-t-ip-network-camera"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

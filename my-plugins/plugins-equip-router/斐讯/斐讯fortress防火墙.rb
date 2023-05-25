@@ -1,8 +1,7 @@
 Plugin.define do
-name "斐讯fortress防火墙" 
+name "斐讯fortress防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

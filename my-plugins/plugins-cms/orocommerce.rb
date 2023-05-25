@@ -1,8 +1,7 @@
 Plugin.define do
-name "orocommerce" 
+name "orocommerce"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

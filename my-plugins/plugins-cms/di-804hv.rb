@@ -1,8 +1,7 @@
 Plugin.define do
-name "di-804hv" 
+name "di-804hv"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

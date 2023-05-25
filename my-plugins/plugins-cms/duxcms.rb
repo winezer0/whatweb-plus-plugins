@@ -1,8 +1,7 @@
 Plugin.define do
-name "duxcms" 
+name "duxcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

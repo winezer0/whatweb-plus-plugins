@@ -1,8 +1,7 @@
 Plugin.define do
 name "beef"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "BeEF - Browser Exploitation Framework"

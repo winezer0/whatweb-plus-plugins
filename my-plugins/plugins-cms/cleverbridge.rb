@@ -1,8 +1,7 @@
 Plugin.define do
-name "cleverbridge" 
+name "cleverbridge"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

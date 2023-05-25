@@ -1,8 +1,7 @@
 Plugin.define do
-name "反爬虫策略" 
+name "反爬虫策略"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

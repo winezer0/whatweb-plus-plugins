@@ -2,7 +2,6 @@ Plugin.define do
 name "羊驼cms-企业版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

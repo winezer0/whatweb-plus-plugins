@@ -1,8 +1,7 @@
 Plugin.define do
 name "solarwinds-network-performance-monitor"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Our flagship network monitoring software manages dynamic networks of all sizes, simply and affordably. Discover how easy it is to detect, diagnose, and resolve network problems with Orion Network Performance Monitor (NPM)."

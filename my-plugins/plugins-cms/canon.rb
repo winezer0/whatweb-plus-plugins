@@ -1,8 +1,7 @@
 Plugin.define do
-name "canon" 
+name "canon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

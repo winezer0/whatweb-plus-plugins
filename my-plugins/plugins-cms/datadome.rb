@@ -1,8 +1,7 @@
 Plugin.define do
-name "datadome" 
+name "datadome"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

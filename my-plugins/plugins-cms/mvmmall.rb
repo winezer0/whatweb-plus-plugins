@@ -1,8 +1,7 @@
 Plugin.define do
-name "mvmmall" 
+name "mvmmall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "socket.io" 
+name "socket.io"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

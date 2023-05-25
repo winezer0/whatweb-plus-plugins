@@ -1,10 +1,8 @@
 Plugin.define do
 name "WWW-Authenticate"
 authors [
-"Aung Khant, http://yehg.net", 
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Aung Khant, http://yehg.net",
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "This plugin identifies the WWW-Authenticate HTTP header and extracts the authentication method and realm."
@@ -20,4 +18,7 @@ end
 end
 m
 end
+matches [
+{:search=>"headers[Strict-Transport-Security]", :string=>/^(.*)$/},
+]
 end

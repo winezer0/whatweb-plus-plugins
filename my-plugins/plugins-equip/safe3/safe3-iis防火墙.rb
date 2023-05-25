@@ -2,7 +2,6 @@ Plugin.define do
 name "safe3-iis防火墙"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

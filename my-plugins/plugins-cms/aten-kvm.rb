@@ -2,7 +2,6 @@ Plugin.define do
 name "aten-kvm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

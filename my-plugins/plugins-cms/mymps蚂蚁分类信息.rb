@@ -1,8 +1,7 @@
 Plugin.define do
-name "mymps蚂蚁分类信息" 
+name "mymps蚂蚁分类信息"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

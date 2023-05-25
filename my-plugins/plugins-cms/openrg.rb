@@ -1,8 +1,7 @@
 Plugin.define do
-name "openrg" 
+name "openrg"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

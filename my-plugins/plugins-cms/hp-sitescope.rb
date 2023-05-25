@@ -1,8 +1,7 @@
 Plugin.define do
 name "HP-SiteScope"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "HP SiteScope is an agentless monitoring software focused on monitoring the availability and performance of distributed IT infrastructures, including servers, operating systems, network and Internet services, applications and application components. Originally written by Freshwater Software in 1996, a company acquired by Mercury Interactive in 2001. Mercury Interactive was subsequently acquired by Hewlett Packard (HP) in 2006."
@@ -21,7 +20,6 @@ m=[]
 if @headers["server"] =~ /^SiteScope\//
 if @headers["server"] =~ /^SiteScope\/(.+) [\d]{1,2}:[\d]{2} [ap]m [\d]{1,2}\/[\d]{2}\/[\d]{2} [Bb]uild:? ([\d]+)$/
 m << { :version=>"#{$1} build #{$2}" }
-
 elsif @headers["server"] =~ /^SiteScope\/([^\s]+( [A-Z]\d)?)/
 m << { :version=>"#{$1}" }
 end

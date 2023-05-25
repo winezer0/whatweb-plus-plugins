@@ -2,7 +2,6 @@ Plugin.define do
 name "srun-gateway"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

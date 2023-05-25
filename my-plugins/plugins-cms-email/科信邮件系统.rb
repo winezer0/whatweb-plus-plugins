@@ -1,8 +1,7 @@
 Plugin.define do
-name "科信邮件系统" 
+name "科信邮件系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

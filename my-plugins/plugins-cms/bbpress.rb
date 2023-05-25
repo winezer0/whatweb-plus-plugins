@@ -1,10 +1,8 @@
 Plugin.define do
 name "bbpress"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"@lins05", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"@lins05",
 ]
 version "0.2"
 description "bbPress is forum software with a twist from the creators of WordPress."

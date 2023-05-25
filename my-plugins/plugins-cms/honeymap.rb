@@ -1,8 +1,7 @@
 Plugin.define do
-name "honeymap" 
+name "honeymap"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

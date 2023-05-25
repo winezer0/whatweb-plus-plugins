@@ -1,8 +1,7 @@
 Plugin.define do
-name "kount" 
+name "kount"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

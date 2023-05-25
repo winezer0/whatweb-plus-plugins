@@ -1,8 +1,7 @@
 Plugin.define do
-name "adroll" 
+name "adroll"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

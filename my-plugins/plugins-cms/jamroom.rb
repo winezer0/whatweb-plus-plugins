@@ -1,8 +1,7 @@
 Plugin.define do
 name "Jamroom"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Jamroom specializes in building web communities centered around media producers such as musicians, photographers, video enthusiasts and more - Jamroom gives you the capability to provide dozens of different services to your users."

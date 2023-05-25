@@ -1,8 +1,7 @@
 Plugin.define do
 name "AddThis"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "AddThis is a free way to boost traffic back to your site by making it easier for visitors to share your content."

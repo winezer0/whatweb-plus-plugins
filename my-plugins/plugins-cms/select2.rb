@@ -1,8 +1,7 @@
 Plugin.define do
-name "select2" 
+name "select2"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

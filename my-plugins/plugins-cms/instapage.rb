@@ -1,8 +1,7 @@
 Plugin.define do
-name "instapage" 
+name "instapage"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

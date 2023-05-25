@@ -1,8 +1,7 @@
 Plugin.define do
-name "天耀v3.cloud工业版" 
+name "天耀v3.cloud工业版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

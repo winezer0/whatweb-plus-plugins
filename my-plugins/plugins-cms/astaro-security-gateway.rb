@@ -1,8 +1,7 @@
 Plugin.define do
 name "Astaro-Security-Gateway"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Astaro Security Gateway - Unified Threat Management (UTF) Firewall device"

@@ -2,7 +2,6 @@ Plugin.define do
 name "project-wonderful"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

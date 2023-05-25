@@ -1,11 +1,13 @@
 Plugin.define do
-name "zoomla" 
+name "zoomla"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
+{:text=>"ICMS/ZL_Common.js"},
+{:text=>"Zoomla!CMS. All Rights Reserved"},
+{:url=>"/JS/ICMS/ZL_Common.js"},
 {:url=>'/AD/ADTemplate/Template_Banner.js', :md5=>'0112159a23e0b0adae59f40d3ecf8564'},
 {:url=>'/App_Themes/AdminDefaultTheme/DateTheme/bgteuw.jpg', :md5=>'079046bd3baf9ea25eb87a342477f2d2'},
 {:url=>'/App_Themes/AdminDefaultTheme/Images/ico_2.gif', :md5=>'18147b5be4c83e2d7e4c25e4e06d82df'},

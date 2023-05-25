@@ -2,7 +2,6 @@ Plugin.define do
 name "bing-searchengine"
 authors [
 "Andrew Horton",
-
 ]
 version "0.2"
 description "Bing.com is Microsoft's search engine"

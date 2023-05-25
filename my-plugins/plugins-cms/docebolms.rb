@@ -1,8 +1,7 @@
 Plugin.define do
 name "DoceboLMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DoceboLMS is a SCORM compliant Open Source e-Learning platform used in corporate, government and education markets."
@@ -24,7 +23,7 @@ passive do
 m=[]
 if @body =~ /<title>Docebo installer<\/title>/ and @body =~ /<h1>Docebo ([\d\.]+) - Installation<\/h1>/
 m << { :string=>"Install Page", :version=>@body.scan(/<h1>Docebo ([\d\.]+) - Installation<\/h1>/) }
-end 
+end
 m
 end
 end

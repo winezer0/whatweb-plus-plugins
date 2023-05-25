@@ -1,8 +1,7 @@
 Plugin.define do
-name "x-crm" 
+name "x-crm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

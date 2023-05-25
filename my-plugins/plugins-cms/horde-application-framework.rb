@@ -1,8 +1,7 @@
 Plugin.define do
 name "Horde-Application-Framework"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "A web application framework. Projects using the framework include webmail, a wiki and groupware. (Mostly PHP)"
@@ -18,6 +17,7 @@ matches [
 {:search=>"headers", :text=>'horde_secret_key'},
 {:text=>"if (typeof(_setHordeTitle) == 'undefined' && document.title && parent.frames.horde_main) parent.document.title = document.title;"},
 {:text=>'/themes/graphics/horde-power1.png" alt="Powered by Horde" title="" />'},
+{:text=>'<!--   Horde Project: http://horde.org/ | IMP: http://horde.org/imp/    -->'},
 {:text=>'<!-- IMP: Copyright 2001-2006, The Horde Project. IMP is under the GPL. -->'},
 {:text=>'<!-- This file contains any "Message Of The Day" Type information -->'},
 {:text=>'<a href="icon_browser.php?app=chora">Version Control</a><br />'},

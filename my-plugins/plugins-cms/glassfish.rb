@@ -1,8 +1,7 @@
 Plugin.define do
-name "glassfish" 
+name "glassfish"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

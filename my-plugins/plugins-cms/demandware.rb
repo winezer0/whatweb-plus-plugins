@@ -2,7 +2,6 @@ Plugin.define do
 name "demandware"
 authors [
 "Claudio Salazar <csalazar at spect dot cl>",
-
 ]
 version "0.2"
 description "Digital commerce for the changing face of retail."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "远征者3g建站系统" 
+name "远征者3g建站系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

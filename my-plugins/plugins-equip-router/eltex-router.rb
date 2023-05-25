@@ -2,7 +2,6 @@ Plugin.define do
 name "eltex-router"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

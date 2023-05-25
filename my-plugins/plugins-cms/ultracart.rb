@@ -1,8 +1,7 @@
 Plugin.define do
-name "ultracart" 
+name "ultracart"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

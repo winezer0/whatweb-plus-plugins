@@ -2,7 +2,6 @@ Plugin.define do
 name "frog-cms"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Opensource CMS written in PHP. Frog CMS is a PHP version of Radiant CMS, a well known Ruby on Rails application. This CMS is not easily identified, expect some false-negatives"

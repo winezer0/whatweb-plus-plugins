@@ -1,8 +1,7 @@
 Plugin.define do
-name "ms-author-via" 
+name "ms-author-via"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

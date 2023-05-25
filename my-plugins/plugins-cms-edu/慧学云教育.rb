@@ -1,8 +1,7 @@
 Plugin.define do
-name "慧学云教育" 
+name "慧学云教育"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

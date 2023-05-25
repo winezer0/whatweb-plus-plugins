@@ -1,8 +1,7 @@
 Plugin.define do
 name "ZIPBOX-Media"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "With ZIPBOX start selling digital music, images, videos, books and more with your own secure online customizable website with credit card processing, file storage and much more."

@@ -1,8 +1,7 @@
 Plugin.define do
 name "dotdefender"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "dotDefender is the market-leading software Web Application Firewall (WAF). dotDefender boasts enterprise-class security, advanced integration capabilities, easy maintenance and low total cost of ownership (TCO)."

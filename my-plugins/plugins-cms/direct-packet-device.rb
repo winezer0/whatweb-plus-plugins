@@ -1,10 +1,8 @@
 Plugin.define do
 name "Direct-Packet-Device"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "directPacket Research, Inc. develops and markets secure and interoperable solutions for IP voice and video communication - Secure IPC Controller / IPC Router / Secure Endpoint Manager (SEM)"

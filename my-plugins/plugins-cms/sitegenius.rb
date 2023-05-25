@@ -1,8 +1,7 @@
 Plugin.define do
 name "siteGENIUS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "siteGENIUS, a custom website builder that lets you create your own website."

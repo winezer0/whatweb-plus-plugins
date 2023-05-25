@@ -1,8 +1,7 @@
 Plugin.define do
 name "ashnews"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "ashnews is a simple program using PHP/MySQL that allows you to easily add a news/blog system to your site."

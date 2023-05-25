@@ -1,8 +1,7 @@
 Plugin.define do
-name "powergap" 
+name "powergap"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

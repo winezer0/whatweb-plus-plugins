@@ -1,8 +1,7 @@
 Plugin.define do
-name "catberry.js" 
+name "catberry.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

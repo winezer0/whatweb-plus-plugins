@@ -1,8 +1,7 @@
 Plugin.define do
-name "xcharts" 
+name "xcharts"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

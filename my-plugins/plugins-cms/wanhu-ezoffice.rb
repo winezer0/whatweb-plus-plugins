@@ -2,7 +2,6 @@ Plugin.define do
 name "wanhu-ezoffice"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

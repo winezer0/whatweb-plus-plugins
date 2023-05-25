@@ -1,8 +1,7 @@
 Plugin.define do
-name "webrick" 
+name "webrick"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

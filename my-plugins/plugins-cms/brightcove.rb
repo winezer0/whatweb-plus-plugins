@@ -1,8 +1,7 @@
 Plugin.define do
 name "brightcove"
 authors [
-"Peter van der Laan", 
-
+"Peter van der Laan",
 ]
 version "0.1"
 description "Brightcove Inc., a leading global provider of cloud services for video, offers a family of products that revolutionize the way organizations deliver video experiences."

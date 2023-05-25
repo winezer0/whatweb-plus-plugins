@@ -1,8 +1,7 @@
 Plugin.define do
-name "lucid-httpd" 
+name "lucid-httpd"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

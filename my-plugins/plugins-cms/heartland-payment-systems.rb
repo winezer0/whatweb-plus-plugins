@@ -2,7 +2,6 @@ Plugin.define do
 name "heartland-payment-systems"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

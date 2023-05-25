@@ -1,8 +1,7 @@
 Plugin.define do
-name "fangfacms" 
+name "fangfacms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

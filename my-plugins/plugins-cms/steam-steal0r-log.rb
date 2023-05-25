@@ -1,8 +1,7 @@
 Plugin.define do
 name "Steam-Steal0r-Log"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "This plugin extracts passwords from Steam Steal0r logs."
@@ -16,4 +15,9 @@ end
 end
 m
 end
+matches [
+{:search=>"all", :text=>'StatusNet'},
+{:version=>/<p>This site is powered by <a href="http:\/\/status\.net\/">StatusNet<\/a> version ([^\s]+),/},
+{:version=>/It runs the <a href="http:\/\/status\.net\/">StatusNet<\/a> microblogging software, version ([^\s]+), available under the <a /},
+]
 end

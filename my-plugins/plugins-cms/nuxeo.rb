@@ -1,8 +1,7 @@
 Plugin.define do
-name "nuxeo" 
+name "nuxeo"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

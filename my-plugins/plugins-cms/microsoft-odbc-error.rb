@@ -2,9 +2,7 @@ Plugin.define do
 name "microsoft-odbc-error"
 authors [
 "Caleb Anderson",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "This plugin identifies Microsoft ODBC error codes."

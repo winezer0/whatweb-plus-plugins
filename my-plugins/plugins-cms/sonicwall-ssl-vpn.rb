@@ -1,8 +1,7 @@
 Plugin.define do
 name "SonicWALL-SSL-VPN"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SonicWALL SSL-VPN Portal provides secure Internet access for remote users to log in and access private network resources via SSL-VPN technology. "

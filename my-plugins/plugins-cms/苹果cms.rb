@@ -1,8 +1,7 @@
 Plugin.define do
-name "苹果cms" 
+name "苹果cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

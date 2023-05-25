@@ -1,8 +1,7 @@
 Plugin.define do
-name "mdaemon" 
+name "mdaemon"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

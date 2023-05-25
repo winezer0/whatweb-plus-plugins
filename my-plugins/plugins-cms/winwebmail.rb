@@ -1,8 +1,7 @@
 Plugin.define do
-name "winwebmail" 
+name "winwebmail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

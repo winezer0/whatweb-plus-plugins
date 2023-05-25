@@ -2,7 +2,6 @@ Plugin.define do
 name "swagger-ui"
 authors [
 "winezero",
-
 ]
 version "0.2"
 matches [

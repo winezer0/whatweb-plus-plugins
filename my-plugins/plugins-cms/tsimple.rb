@@ -1,8 +1,7 @@
 Plugin.define do
-name "tsimple" 
+name "tsimple"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

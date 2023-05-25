@@ -2,7 +2,6 @@ Plugin.define do
 name "trend-micro-officescan-antivirus"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

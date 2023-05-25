@@ -1,8 +1,7 @@
 Plugin.define do
-name "clipboard.js" 
+name "clipboard.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "prettyphoto" 
+name "prettyphoto"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

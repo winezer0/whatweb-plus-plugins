@@ -1,8 +1,7 @@
 Plugin.define do
 name "burning-board-lite"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Burning Board 3 is the modern, secure and user friendly solution for your discussion board!"

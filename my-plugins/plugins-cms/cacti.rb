@@ -1,8 +1,7 @@
 Plugin.define do
 name "Cacti"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Cacti is a complete network graphing solution designed to harness the power of RRDTool's data storage and graphing functionality."

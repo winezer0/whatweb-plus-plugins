@@ -1,8 +1,7 @@
 Plugin.define do
 name "i-o-data-router"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "I-O DATA router [Japanese] - http://www.iodata.jp/product/"

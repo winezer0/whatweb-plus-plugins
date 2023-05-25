@@ -1,10 +1,8 @@
 Plugin.define do
 name "TeaLeaf"
 authors [
-"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>", 
-
-"Andrew Horton", 
-
+"Bhavin Senjaliya <bhavin.senjaliya@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Tealeaf is a Customer Experience Management system now owned by IBM."

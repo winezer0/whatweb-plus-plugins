@@ -1,8 +1,7 @@
 Plugin.define do
-name "couchbase" 
+name "couchbase"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

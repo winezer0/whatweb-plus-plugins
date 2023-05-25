@@ -1,8 +1,7 @@
 Plugin.define do
 name "MYRE-PHP"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "MYREPHP - MYRE Real Estate Software, MYRE Holiday Rental Manager, MYRE Realty Manager and MYRE Classifieds scripts"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "moban5" 
+name "moban5"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

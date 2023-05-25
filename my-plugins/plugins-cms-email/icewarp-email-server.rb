@@ -1,8 +1,7 @@
 Plugin.define do
 name "icewarp-email-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "IceWarp Email Server is at the core of IceWarp Unified Communications Server. Time-tested and robust, it provides unsurpassed power and unparalleled flexibility. For over a decade, companies that demand stability, security, speed, power and ease-of-use have deployed IceWarp Email Server on over 50,000 servers around the globe, supporting 50 million users."

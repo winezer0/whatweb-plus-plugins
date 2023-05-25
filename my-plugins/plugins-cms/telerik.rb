@@ -1,7 +1,7 @@
 Plugin.define do
 name "telerik"
 authors [
-"Chad Brigance @ChadBrigance" 
+"Chad Brigance @ChadBrigance"
 ]
 version "0.1"
 description "Telerik is a framework for creating user interfaces"

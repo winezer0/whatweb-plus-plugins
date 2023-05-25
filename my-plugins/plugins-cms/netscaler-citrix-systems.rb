@@ -2,7 +2,6 @@ Plugin.define do
 name "netscaler-citrix-systems"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

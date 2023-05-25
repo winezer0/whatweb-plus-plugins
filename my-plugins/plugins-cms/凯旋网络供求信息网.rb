@@ -1,8 +1,7 @@
 Plugin.define do
-name "凯旋网络供求信息网" 
+name "凯旋网络供求信息网"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

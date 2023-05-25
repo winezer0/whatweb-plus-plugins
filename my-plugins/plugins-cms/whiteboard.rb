@@ -1,8 +1,7 @@
 Plugin.define do
 name "WhiteBoard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "WhiteBoard is a fast, powerful, and free open source discussion board solution."

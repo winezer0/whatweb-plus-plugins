@@ -1,8 +1,7 @@
 Plugin.define do
-name "trustpilot" 
+name "trustpilot"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "IQeye-Netcam"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description "IQeye netcam web interface"

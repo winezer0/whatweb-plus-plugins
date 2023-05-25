@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-dm111pusp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

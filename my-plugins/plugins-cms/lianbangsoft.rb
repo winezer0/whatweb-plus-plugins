@@ -1,8 +1,7 @@
 Plugin.define do
-name "lianbangsoft" 
+name "lianbangsoft"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

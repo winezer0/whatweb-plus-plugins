@@ -1,8 +1,7 @@
 Plugin.define do
-name "niushop开源商城系统" 
+name "niushop开源商城系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

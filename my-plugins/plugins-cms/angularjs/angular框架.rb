@@ -1,8 +1,7 @@
 Plugin.define do
-name "angular框架" 
+name "angular框架"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

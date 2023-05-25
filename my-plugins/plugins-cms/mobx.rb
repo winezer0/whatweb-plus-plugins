@@ -1,8 +1,7 @@
 Plugin.define do
-name "mobx" 
+name "mobx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

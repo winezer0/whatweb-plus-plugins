@@ -1,8 +1,7 @@
 Plugin.define do
-name "warp" 
+name "warp"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

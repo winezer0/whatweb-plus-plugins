@@ -1,8 +1,7 @@
 Plugin.define do
 name "HP-StorageWorks-Library"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "HP StorageWorks Library and Tape Tools (L&TT) is a diagnostic tool for all of HP's tape storage and magneto-optical storage products."

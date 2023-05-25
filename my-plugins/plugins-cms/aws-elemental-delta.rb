@@ -2,7 +2,6 @@ Plugin.define do
 name "aws-elemental-delta"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

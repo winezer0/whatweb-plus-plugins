@@ -1,8 +1,7 @@
 Plugin.define do
-name "audioeye" 
+name "audioeye"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

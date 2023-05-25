@@ -1,8 +1,7 @@
 Plugin.define do
-name "adocean" 
+name "adocean"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

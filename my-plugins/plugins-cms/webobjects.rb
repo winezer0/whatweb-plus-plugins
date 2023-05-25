@@ -1,8 +1,7 @@
 Plugin.define do
 name "WebObjects"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "WebObjects is a Java web application server from Apple Inc., and a web application framework that runs on the server."

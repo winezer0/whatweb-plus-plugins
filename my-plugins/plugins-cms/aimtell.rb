@@ -1,8 +1,7 @@
 Plugin.define do
-name "aimtell" 
+name "aimtell"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

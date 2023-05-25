@@ -1,8 +1,7 @@
 Plugin.define do
-name "kxmail" 
+name "kxmail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

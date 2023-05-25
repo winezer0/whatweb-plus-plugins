@@ -1,8 +1,7 @@
 Plugin.define do
-name "airlink101" 
+name "airlink101"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

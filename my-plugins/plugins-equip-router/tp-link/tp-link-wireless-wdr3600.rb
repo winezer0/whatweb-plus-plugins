@@ -2,7 +2,6 @@ Plugin.define do
 name "tp-link-wireless-wdr3600"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Sidearm-athletics-CMS" 
+name "Sidearm-athletics-CMS"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

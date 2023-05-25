@@ -1,8 +1,7 @@
 Plugin.define do
-name "uniconsent" 
+name "uniconsent"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

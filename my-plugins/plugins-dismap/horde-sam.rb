@@ -1,7 +1,7 @@
 Plugin.define do
-name "horde-sam" 
+name "horde-sam"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

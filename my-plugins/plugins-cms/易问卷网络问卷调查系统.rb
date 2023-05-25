@@ -1,8 +1,7 @@
 Plugin.define do
-name "易问卷网络问卷调查系统" 
+name "易问卷网络问卷调查系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

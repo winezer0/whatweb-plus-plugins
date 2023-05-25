@@ -1,8 +1,7 @@
 Plugin.define do
 name "network-tracker"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Network Tracker is a free web-based network management tool. Network tracker allows you to track all changes and updates made to a network device. - Requires PHP and MySQL"

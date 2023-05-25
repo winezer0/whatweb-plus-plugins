@@ -2,7 +2,6 @@ Plugin.define do
 name "binatone-wr3005n3"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

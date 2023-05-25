@@ -1,8 +1,7 @@
 Plugin.define do
 name "kaibb"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "KaiBB Free and Open Bulletin Board Software - Requires: PHP and MySQL"

@@ -1,8 +1,7 @@
 Plugin.define do
-name "flarum" 
+name "flarum"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

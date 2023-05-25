@@ -2,7 +2,6 @@ Plugin.define do
 name "linksys-wag160nv2b"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

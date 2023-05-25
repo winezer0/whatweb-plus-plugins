@@ -1,8 +1,7 @@
 Plugin.define do
-name "hikvision流媒体管理服务器" 
+name "hikvision流媒体管理服务器"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

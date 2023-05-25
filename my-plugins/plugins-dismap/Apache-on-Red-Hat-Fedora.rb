@@ -1,7 +1,7 @@
 Plugin.define do
-name "Apache-on-Red-Hat-Fedora" 
+name "Apache-on-Red-Hat-Fedora"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

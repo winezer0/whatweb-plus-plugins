@@ -1,8 +1,7 @@
 Plugin.define do
-name "piano" 
+name "piano"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

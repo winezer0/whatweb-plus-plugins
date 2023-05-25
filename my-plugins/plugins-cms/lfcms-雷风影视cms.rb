@@ -2,7 +2,6 @@ Plugin.define do
 name "lfcms-雷风影视cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

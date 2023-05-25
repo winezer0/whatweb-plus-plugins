@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-r6050"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

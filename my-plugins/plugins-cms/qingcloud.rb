@@ -1,8 +1,7 @@
 Plugin.define do
-name "qingcloud" 
+name "qingcloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
 name "DataNet"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "DataNET is a complete end-to-end system consisting of IP packet data routing server software called DataGate, which links to one or more client programs such as Datalink's DataHost, or third-party software connected over the Internet or Intranet."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "instana" 
+name "instana"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

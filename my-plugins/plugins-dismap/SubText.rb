@@ -1,7 +1,7 @@
 Plugin.define do
-name "SubText" 
+name "SubText"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

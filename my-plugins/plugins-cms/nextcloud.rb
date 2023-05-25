@@ -1,8 +1,7 @@
 Plugin.define do
-name "nextcloud" 
+name "nextcloud"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

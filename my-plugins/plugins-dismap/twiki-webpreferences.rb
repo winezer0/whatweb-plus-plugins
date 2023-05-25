@@ -1,7 +1,7 @@
 Plugin.define do
-name "twiki-webpreferences" 
+name "twiki-webpreferences"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

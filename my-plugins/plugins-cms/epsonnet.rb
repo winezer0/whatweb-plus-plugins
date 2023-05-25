@@ -1,8 +1,7 @@
 Plugin.define do
-name "epsonnet" 
+name "epsonnet"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

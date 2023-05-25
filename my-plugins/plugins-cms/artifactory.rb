@@ -1,8 +1,7 @@
 Plugin.define do
 name "Artifactory"
 authors [
-"bcoles", 
-
+"bcoles",
 ]
 version "0.1"
 description "JFrog Artifactory enterprise universal repository manager supports all major packages, enterprise ready secure, clustered, HA, Docker registry, multi-site replication and scalable."

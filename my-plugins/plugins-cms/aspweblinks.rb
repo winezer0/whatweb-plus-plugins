@@ -1,8 +1,7 @@
 Plugin.define do
 name "aspWebLinks"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Web app for categorizing links"

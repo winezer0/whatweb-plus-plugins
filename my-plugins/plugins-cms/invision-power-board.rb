@@ -2,7 +2,6 @@ Plugin.define do
 name "invision-power-board"
 authors [
 "Andrew Horton",
-
 ]
 version "0.3"
 description "Invision Power Board - PHP Web Forum"
@@ -12,7 +11,6 @@ dorks [
 ]
 matches [
 {:certainty=>50, :text=>"<a href='#j_content' title='Jump to content' accesskey='m'>Jump to content</a>"}, #'
-
 {:regexp=>/<script [^>]+src='[^']+\/ipb\.js/},
 {:regexp=>/&copy; [0-9]+ &nbsp;<a href='http:\/\/www\.invisionpower\.com'[^>]*>IPS, <abbr title='Incorporated'>Inc<\/abbr></},
 {:regexp=>/&copy; [0-9]+ &nbsp;<a href='http:\/\/www\.invisionpower\.com'[^>]*>IPS, Inc</},

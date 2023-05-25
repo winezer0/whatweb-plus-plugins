@@ -1,10 +1,8 @@
 Plugin.define do
 name "DynaWeb-httpd"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "DynaWeb web server. Ships with Sun Microsystem's AnswerBook"

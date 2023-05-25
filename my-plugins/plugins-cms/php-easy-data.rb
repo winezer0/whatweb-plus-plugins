@@ -1,10 +1,8 @@
 Plugin.define do
 name "php-easy-data"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.3"
 description "PHPEasyData is a French Content Management System"

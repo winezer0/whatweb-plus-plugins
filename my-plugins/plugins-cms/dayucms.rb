@@ -1,8 +1,7 @@
 Plugin.define do
-name "dayucms" 
+name "dayucms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

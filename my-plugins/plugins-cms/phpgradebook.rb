@@ -1,8 +1,7 @@
 Plugin.define do
 name "PHPGradeBook"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "PHP_GradeBook is a program for teachers to input students points for assignments and keep a running online tally for the students to view online."

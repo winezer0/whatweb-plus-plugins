@@ -1,8 +1,7 @@
 Plugin.define do
 name "IMGallery"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "image gallery web app"

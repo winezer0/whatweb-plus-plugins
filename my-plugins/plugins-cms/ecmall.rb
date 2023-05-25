@@ -1,8 +1,7 @@
 Plugin.define do
-name "ecmall" 
+name "ecmall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

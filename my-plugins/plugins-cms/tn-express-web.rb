@@ -2,7 +2,6 @@ Plugin.define do
 name "tn-express-web"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

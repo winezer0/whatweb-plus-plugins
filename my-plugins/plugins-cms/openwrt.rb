@@ -1,8 +1,7 @@
 Plugin.define do
 name "OpenWrt"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "A GNU/Linux based firmware program for embedded devices such as residential gateways and routers."

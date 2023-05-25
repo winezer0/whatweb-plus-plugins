@@ -1,8 +1,7 @@
 Plugin.define do
-name "popojicms" 
+name "popojicms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

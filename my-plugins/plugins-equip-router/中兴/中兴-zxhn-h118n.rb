@@ -2,7 +2,6 @@ Plugin.define do
 name "中兴-zxhn-h118n"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "youdiancms" 
+name "youdiancms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "sqreen" 
+name "sqreen"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

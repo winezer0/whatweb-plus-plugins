@@ -1,8 +1,7 @@
 Plugin.define do
-name "samanportal" 
+name "samanportal"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

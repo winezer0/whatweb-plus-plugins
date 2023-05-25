@@ -1,8 +1,7 @@
 Plugin.define do
-name "newdefend-firewall" 
+name "newdefend-firewall"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "sotel" 
+name "sotel"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "tutucms" 
+name "tutucms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

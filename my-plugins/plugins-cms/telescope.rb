@@ -1,8 +1,7 @@
 Plugin.define do
-name "telescope" 
+name "telescope"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

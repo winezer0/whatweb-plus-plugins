@@ -1,8 +1,7 @@
 Plugin.define do
-name "crypto-loot" 
+name "crypto-loot"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

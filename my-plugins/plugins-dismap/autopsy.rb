@@ -1,7 +1,7 @@
 Plugin.define do
-name "autopsy" 
+name "autopsy"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

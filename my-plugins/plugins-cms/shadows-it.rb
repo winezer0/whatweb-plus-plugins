@@ -1,8 +1,7 @@
 Plugin.define do
-name "shadows-it" 
+name "shadows-it"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

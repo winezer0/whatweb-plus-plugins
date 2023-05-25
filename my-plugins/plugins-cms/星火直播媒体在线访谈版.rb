@@ -1,8 +1,7 @@
 Plugin.define do
-name "星火直播媒体在线访谈版" 
+name "星火直播媒体在线访谈版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

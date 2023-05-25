@@ -1,10 +1,8 @@
 Plugin.define do
 name "easy-file-sharing-web-server"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Easy File Sharing Web Server is a file sharing software that allows visitors to upload/download files easily through a Web Browser"

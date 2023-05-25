@@ -1,8 +1,7 @@
 Plugin.define do
-name "s8000" 
+name "s8000"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

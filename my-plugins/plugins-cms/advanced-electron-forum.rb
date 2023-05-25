@@ -2,7 +2,6 @@ Plugin.define do
 name "advanced-electron-forum"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

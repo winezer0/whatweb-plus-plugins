@@ -1,8 +1,7 @@
 Plugin.define do
-name "pdf.js" 
+name "pdf.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

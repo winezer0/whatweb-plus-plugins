@@ -1,8 +1,7 @@
 Plugin.define do
-name "捷点-jcms" 
+name "捷点-jcms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

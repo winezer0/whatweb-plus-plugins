@@ -2,7 +2,6 @@ Plugin.define do
 name "ubiquiti-aircube"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

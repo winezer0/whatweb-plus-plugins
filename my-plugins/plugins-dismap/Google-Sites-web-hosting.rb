@@ -1,7 +1,7 @@
 Plugin.define do
-name "Google-Sites-web-hosting" 
+name "Google-Sites-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

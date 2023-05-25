@@ -1,8 +1,7 @@
 Plugin.define do
-name "tcn协议" 
+name "tcn协议"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "vtex-integrated-store"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

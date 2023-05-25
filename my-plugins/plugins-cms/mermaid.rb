@@ -1,8 +1,7 @@
 Plugin.define do
-name "mermaid" 
+name "mermaid"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

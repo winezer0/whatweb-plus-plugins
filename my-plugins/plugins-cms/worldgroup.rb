@@ -1,8 +1,7 @@
 Plugin.define do
-name "worldgroup" 
+name "worldgroup"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "http-proxy" 
+name "http-proxy"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

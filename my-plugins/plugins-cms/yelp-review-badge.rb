@@ -2,7 +2,6 @@ Plugin.define do
 name "yelp-review-badge"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

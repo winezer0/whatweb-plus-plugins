@@ -2,7 +2,6 @@ Plugin.define do
 name "滴滴云-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

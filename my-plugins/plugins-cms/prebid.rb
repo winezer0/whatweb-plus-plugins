@@ -1,8 +1,7 @@
 Plugin.define do
-name "prebid" 
+name "prebid"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

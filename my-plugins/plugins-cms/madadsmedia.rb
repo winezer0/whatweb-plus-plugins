@@ -1,8 +1,7 @@
 Plugin.define do
-name "madadsmedia" 
+name "madadsmedia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

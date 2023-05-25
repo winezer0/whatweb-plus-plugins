@@ -1,8 +1,7 @@
 Plugin.define do
-name "phpvod" 
+name "phpvod"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

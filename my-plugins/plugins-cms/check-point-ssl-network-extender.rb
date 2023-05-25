@@ -1,8 +1,7 @@
 Plugin.define do
 name "check-point-ssl-network-extender"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "SSL Network Extender adds SSL VPN functionality to the IPSec VPN capabilities of VPN-1 gateways"

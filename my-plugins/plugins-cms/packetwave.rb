@@ -1,8 +1,7 @@
 Plugin.define do
 name "PacketWave"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Some sort of wireless broadband contraption from Aperto Networks"

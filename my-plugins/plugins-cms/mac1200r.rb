@@ -2,7 +2,6 @@ Plugin.define do
 name "mac1200r"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

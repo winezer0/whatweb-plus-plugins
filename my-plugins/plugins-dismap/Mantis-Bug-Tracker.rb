@@ -1,7 +1,7 @@
 Plugin.define do
-name "Mantis-Bug-Tracker" 
+name "Mantis-Bug-Tracker"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

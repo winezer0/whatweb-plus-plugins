@@ -2,7 +2,6 @@ Plugin.define do
 name "yunsuo-web-application-firewall-yunsuo-waf"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,10 +1,8 @@
 Plugin.define do
 name "PHP-Update"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
-"Andrew Horton", 
-
+"Brendan Coles <bcoles@gmail.com>",
+"Andrew Horton",
 ]
 version "0.2"
 description "Open-source Content Management System. Homepage used to be http://www.php-update.co.uk"

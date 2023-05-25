@@ -1,8 +1,7 @@
 Plugin.define do
 name "htpasswd"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.3"
 description ".htpasswd is a flat-file used to store usernames and password for basic authentication of Apache HTTP Server. This plugin attempts to retrievs credentials from .htpasswd files in user:pass format. - More info: http://en.wikipedia.org/wiki/Htpasswd"
@@ -44,4 +43,11 @@ end
 end
 m
 end
+matches [
+{:string=>/<!--[\s]+\(C\) Copyright (20[\d]{2}) Hewlett-Packard Development Company, L\.P\.[\s]+-->/},
+{:text=>'<!-- HP Virtual Connect Manager                                            -->'},
+{:text=>'<h2><img src="./images/progress_bar_large.gif"></h2><br />Loading, please wait...'},
+{:url=>"/html/index.html", :text=>"<frame id='MX_HIDDEN' name='MX_HIDDEN' src=\"common/hiddenFrame.html\" noresize>"},
+{:url=>"/html/index.html", :text=>'<title>HP Virtual Connect Manager</title>'},
+]
 end

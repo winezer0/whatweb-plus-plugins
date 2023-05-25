@@ -1,8 +1,7 @@
 Plugin.define do
-name "comandia" 
+name "comandia"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

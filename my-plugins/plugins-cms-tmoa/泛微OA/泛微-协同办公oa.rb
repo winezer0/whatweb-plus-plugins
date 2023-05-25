@@ -1,8 +1,7 @@
 Plugin.define do
-name "泛微-协同办公oa" 
+name "泛微-协同办公oa"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

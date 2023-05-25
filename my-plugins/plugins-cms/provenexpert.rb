@@ -1,8 +1,7 @@
 Plugin.define do
-name "provenexpert" 
+name "provenexpert"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -2,7 +2,6 @@ Plugin.define do
 name "ipc-gk7101-httpserver"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,7 +1,7 @@
 Plugin.define do
-name "Reliance-Network-real-estate-web-hosting" 
+name "Reliance-Network-real-estate-web-hosting"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

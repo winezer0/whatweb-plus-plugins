@@ -2,7 +2,6 @@ Plugin.define do
 name "netgear-wnhd3002g"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

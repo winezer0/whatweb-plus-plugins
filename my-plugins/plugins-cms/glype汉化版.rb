@@ -1,8 +1,7 @@
 Plugin.define do
-name "glype汉化版" 
+name "glype汉化版"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

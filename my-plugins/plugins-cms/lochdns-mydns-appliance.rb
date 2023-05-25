@@ -1,8 +1,7 @@
 Plugin.define do
 name "lochDNS-MyDNS-Appliance"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "lochDNS MyDNS Appliance provides a web-based user interface for appliance administration."

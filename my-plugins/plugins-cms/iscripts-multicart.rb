@@ -1,8 +1,7 @@
 Plugin.define do
 name "iScripts-MultiCart"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "iScripts MultiCart is a multi vendor shopping cart with a single backend."

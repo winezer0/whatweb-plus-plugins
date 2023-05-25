@@ -1,8 +1,7 @@
 Plugin.define do
 name "Allinta-CMS"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "Allinta - easy to use ASP CMS (Content Management System) - professional features & superior value."

@@ -1,8 +1,7 @@
 Plugin.define do
-name "dk动科cms" 
+name "dk动科cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

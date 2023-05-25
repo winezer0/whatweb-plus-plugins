@@ -1,8 +1,7 @@
 Plugin.define do
 name "quest-password-manager"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Quest Password Manager enables the end user to reset forgotten passwords securely, allowing administrators to implement stronger password policies while reducing the help desk workload."

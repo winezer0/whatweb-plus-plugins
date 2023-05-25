@@ -1,8 +1,7 @@
 Plugin.define do
-name "haskell" 
+name "haskell"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

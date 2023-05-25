@@ -1,8 +1,7 @@
 Plugin.define do
-name "wow.js" 
+name "wow.js"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

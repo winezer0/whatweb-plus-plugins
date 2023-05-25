@@ -2,9 +2,7 @@ Plugin.define do
 name "goahead-web"
 authors [
 "Andrew Horton",
-
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.4"
 description "Opensource, embedded webserver"

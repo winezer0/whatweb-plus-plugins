@@ -1,8 +1,7 @@
 Plugin.define do
 name "Esvon-Classifieds"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "Intense research, development and testing has brought us to what we call Esvon Classifieds. This package is a good base for building a successful website and is created with high performance and scalable technology using PHP and MySQL."

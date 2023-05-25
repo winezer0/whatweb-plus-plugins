@@ -1,8 +1,7 @@
 Plugin.define do
-name "openssh" 
+name "openssh"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

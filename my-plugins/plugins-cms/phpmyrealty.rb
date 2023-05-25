@@ -1,8 +1,7 @@
 Plugin.define do
 name "phpMyRealty"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "phpMyRealty - customizable real estate web application - Requires: PHP"

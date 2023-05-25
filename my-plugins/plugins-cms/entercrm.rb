@@ -1,8 +1,7 @@
 Plugin.define do
-name "entercrm" 
+name "entercrm"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

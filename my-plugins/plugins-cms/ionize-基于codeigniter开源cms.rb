@@ -2,7 +2,6 @@ Plugin.define do
 name "ionize-基于codeigniter开源cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

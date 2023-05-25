@@ -1,7 +1,7 @@
 Plugin.define do
-name "quantlib-refman-html" 
+name "quantlib-refman-html"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "ischoolsite" 
+name "ischoolsite"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

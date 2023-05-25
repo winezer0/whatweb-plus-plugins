@@ -1,8 +1,7 @@
 Plugin.define do
 name "pc4uploader"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.2"
 description "File upload web app"

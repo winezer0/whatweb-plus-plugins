@@ -2,7 +2,6 @@ Plugin.define do
 name "Kinja"
 authors [
 "Sigit Dewanto",
-
 ]
 version "0.1"
 description "Kinja is Gawker Media's discussion platform."

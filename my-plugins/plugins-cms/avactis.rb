@@ -1,8 +1,7 @@
 Plugin.define do
-name "avactis" 
+name "avactis"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "夏日php图书管理系统" 
+name "夏日php图书管理系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

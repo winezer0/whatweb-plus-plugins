@@ -1,8 +1,7 @@
 Plugin.define do
-name "sharetronix微博客系统" 
+name "sharetronix微博客系统"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "ewomail" 
+name "ewomail"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

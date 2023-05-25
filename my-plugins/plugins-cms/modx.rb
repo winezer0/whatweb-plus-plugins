@@ -1,8 +1,7 @@
 Plugin.define do
-name "modx" 
+name "modx"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

@@ -1,8 +1,7 @@
 Plugin.define do
-name "如意雅阁o2omall集市" 
+name "如意雅阁o2omall集市"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

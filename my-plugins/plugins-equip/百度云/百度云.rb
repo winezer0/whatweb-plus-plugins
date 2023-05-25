@@ -1,8 +1,7 @@
 Plugin.define do
-name "百度云" 
+name "百度云"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

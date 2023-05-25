@@ -2,7 +2,6 @@ Plugin.define do
 name "puppet-node-manager"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [

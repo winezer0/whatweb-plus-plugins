@@ -1,8 +1,7 @@
 Plugin.define do
 name "MobilityGuard"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description "MobilityGuard is a suite of security products from the company by the same name."

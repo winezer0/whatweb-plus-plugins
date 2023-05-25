@@ -1,7 +1,7 @@
 Plugin.define do
-name "Arris-Touchstone-Device" 
+name "Arris-Touchstone-Device"
 authors [
-    "winezero",
+"winezero",
 ]
 version "0.1"
 matches [

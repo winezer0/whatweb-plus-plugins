@@ -1,8 +1,7 @@
 Plugin.define do
 name "lxr"
 authors [
-"Brendan Coles <bcoles@gmail.com>", 
-
+"Brendan Coles <bcoles@gmail.com>",
 ]
 version "0.1"
 description 'LXR (formerly "the Linux Cross Referencer") is a general purpose source code indexer and cross-referencer that provides web-based browsing of source code with links to the definition and usage of any identifier. Supports multiple languages."

@@ -2,7 +2,6 @@ Plugin.define do
 name "ikiwiki-ikiwiki-cms"
 authors [
 "winezero",
-
 ]
 version "0.1"
 matches [
