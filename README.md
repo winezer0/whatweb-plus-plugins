@@ -34,12 +34,13 @@ Linux:
     source ~/.bashrc
 
 Windows:
-    setEnv是一个 Windows 环境变量设置工具:
-    https://github.com/winezer0/setEnv-Windows
-    
+    setEnv是一个 Windows 环境变量设置工具: https://github.com/winezer0/setEnv-Windows
     setEnv -s WHATWEB_ROOT /path/to/whatweb-plus-plugins
-    
     PS: Windows 可以通过 UI 进行环境变量配置
+   
+3.更新插件
+cd /path/to/whatweb-plus-plugins
+git pull
 ```
 
 
