@@ -9,5 +9,6 @@ description "Spring Framework is an open source application framework for the Ja
 website "http://www.springsource.org/"
 matches [
 {:search=>"headers[set-cookie]", :text=>'org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE='},
+{:search=>"all", :text=>'Whitelabel Error Page'},
 ]
 end
