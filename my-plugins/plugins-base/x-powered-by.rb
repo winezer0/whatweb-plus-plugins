@@ -1,5 +1,5 @@
 Plugin.define do
-name "x-powered-by-header"
+name "x-powered-by"
 authors [
 "Andrew Horton",
 
