@@ -1,5 +1,5 @@
 Plugin.define do
-name "ecshop"
+name "ecshop-old"
 authors [
 "Brendan Coles <bcoles@gmail.com>", 
 
