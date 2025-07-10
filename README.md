@@ -12,6 +12,13 @@ https://github.com/winezer0/whatweb-plus-plugins
 https://github.com/urbanadventurer/WhatWeb
 
 
+## 免责声明
+继续阅读文章或使用工具视为您已同意NOVASEC免责声明
+
+[NOVASEC免责声明](https://mp.weixin.qq.com/s/iRWRVxkYu7Fx5unxA34I7g)
+
+
+
 ## 插件部署方案
 
 ### 直接部署
@@ -67,4 +74,5 @@ Whatweb 的 python3 命令行封装脚本
 ## 联系方式
 如需获取更多信息、技术支持或定制服务，请通过以下方式联系我们：
 NOVASEC微信公众号或通过社交信息联系开发者【酒零】
+
 ![NOVASEC0](https://raw.githubusercontent.com/winezer0/mypics/refs/heads/main/NOVASEC0.jpg)
