@@ -62,3 +62,9 @@ Whatweb 的 python3 命令行封装脚本
 
 除使用 -wh 用于调用 whatweb 默认的 -h 外，复用 whatweb 所有原生参数
 ```
+
+
+## 联系方式
+如需获取更多信息、技术支持或定制服务，请通过以下方式联系我们：
+NOVASEC微信公众号或通过社交信息联系开发者【酒零】
+![NOVASEC0](https://raw.githubusercontent.com/winezer0/mypics/refs/heads/main/NOVASEC0.jpg)
