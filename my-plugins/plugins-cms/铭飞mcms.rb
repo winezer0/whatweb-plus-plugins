@@ -6,6 +6,6 @@ authors [
 ]
 version "0.1"
 matches [
-{:search=>"all", :text=>'铭飞MCMS'},
+{:search=>"all", :text=>'铭飞科技'},
 ]
 end
